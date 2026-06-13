@@ -12,12 +12,17 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+
 export const metadata: Metadata = {
   title: {
     default: "KanjiGami - Learn Japanese Kanji with Memory Tricks",
     template: "%s | KanjiGami",
   },
 
+  icons: {
+    icon: "/icon.png",
+  },
+  
   description:
     "Master Japanese Kanji through memory tricks, interesting facts, example words, and step by step guide for kanji learning.",
 
