@@ -1,3 +1,0 @@
-module.exports=[75821,a=>{"use strict";a.s(["default",0,function({children:a}){return a},"metadata",0,{title:"JLPT N5 Kanji List – Interesting Facts, Memory Tricks, Meanings, Readings & Study Guide",description:"Study all JLPT N5 Kanji with interesting facts, memory tricks, meanings, Onyomi, Kunyomi, example words, and example sentences.",alternates:{canonical:"/jlpt/n5"}}])},10332,a=>{a.n(a.i(75821))}];
-
-//# sourceMappingURL=app_jlpt_n5_layout_tsx_0p95s.6._.js.map

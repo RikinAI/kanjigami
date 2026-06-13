@@ -11,6 +11,12 @@ const kanjiList = [
   ...n4,
 ];
 
+export function generateStaticParams() {
+  return kanjiList.map((kanji) => ({
+    slug: kanji.slug,
+  }));
+}
+
 export async function generateMetadata({
   params,
 }: {

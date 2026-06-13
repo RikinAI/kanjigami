@@ -1,3 +1,0 @@
-module.exports=[49778,a=>{"use strict";a.s(["default",0,function({children:a}){return a},"metadata",0,{title:"JLPT N4 Kanji List – Interesting Facts, Memory Tricks, Meanings, Readings & Study Guide",description:"Study JLPT N4 Kanji with interesting facts, memory tricks, meanings, Onyomi, Kunyomi, interesting facts,  example words, and example sentences. Perfect for learners progressing beyond N5.",alternates:{canonical:"/jlpt/n4"}}])},72758,a=>{a.n(a.i(49778))}];
-
-//# sourceMappingURL=app_jlpt_n4_layout_tsx_0kpxsm5._.js.map
