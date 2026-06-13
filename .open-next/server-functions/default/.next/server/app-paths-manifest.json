@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/guides/[slug]/page": "app/guides/[slug]/page.js",
+  "/jlpt/n4/page": "app/jlpt/n4/page.js",
+  "/jlpt/n5/page": "app/jlpt/n5/page.js",
+  "/kanji/[slug]/page": "app/kanji/[slug]/page.js",
+  "/page": "app/page.js",
+  "/privacy-policy/page": "app/privacy-policy/page.js",
+  "/search/page": "app/search/page.js",
+  "/terms-and-conditions/page": "app/terms-and-conditions/page.js"
+}

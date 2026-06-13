@@ -4,7 +4,7 @@ import Footer from "../../../components/Footer";
 import Link from "next/link";
 import n5 from "../../../data/jlpt-n5.json";
 import n4 from "../../../data/jlpt-n4.json";
-export const runtime = "edge";
+//export const runtime = "edge";
 
 const kanjiList = [
   ...n5,
