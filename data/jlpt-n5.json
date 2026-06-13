@@ -1,0 +1,7752 @@
+[
+  {
+    "slug": "kanji-day-sun",
+    "kanji": "日",
+    "meaning": "Day, Sun",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "ニチ (nichi), ジツ (jitsu)",
+    "kunyomi": "ひ (hi), び (bi), か (ka)",
+
+    "fact": "Did you know Japan's name, 日本 (Nihon), literally means \"Origin of Sun\"? That's why Japan is often called the \"Land of the Rising Sun.\" The very first kanji in Japan's name is 日.",
+
+    "memory": "Imagine a square window with the bright sun shining through it. The window shape is 日, reminding you of the sun and daytime.",
+
+    "words": [
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "romaji": "nihon",
+        "meaning": "Japan"
+      },
+      {
+        "word": "日曜日",
+        "reading": "にちようび",
+        "romaji": "nichiyoubi",
+        "meaning": "Sunday"
+      },
+      {
+        "word": "毎日",
+        "reading": "まいにち",
+        "romaji": "mainichi",
+        "meaning": "Every day"
+      },
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "romaji": "kyou",
+        "meaning": "Today"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は 毎日 日本語 を 勉強します。",
+      "reading": "わたしは まいにち にほんご を べんきょうします。",
+      "romaji": "watashi wa mainichi nihongo o benkyou shimasu",
+      "english": "I study Japanese every day."
+    },
+
+    "seo": [
+      "day kanji meaning",
+      "sun kanji japanese",
+      "how to read 日",
+      "JLPT N5 day kanji",
+      "Japanese kanji for sun"
+    ],
+
+    "tags": [
+      "time",
+      "calendar",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "月",
+      "年",
+      "時"
+    ]
+  },
+
+  {
+    "slug": "kanji-moon-month",
+    "kanji": "月",
+    "meaning": "Moon, Month",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "ゲツ (getsu), ガツ (gatsu)",
+    "kunyomi": "つき (tsuki)",
+
+    "fact": "The kanji 月 means both \"moon\" and \"month.\" That's not a coincidence. Long before modern calendars existed, people tracked time by watching the moon change shape. One full cycle of the moon became one month.",
+
+    "memory": "Think of 月 as a crescent moon viewed from the side, with the two inner lines showing the moon's illuminated surface.",
+
+    "words": [
+      {
+        "word": "月",
+        "reading": "つき",
+        "romaji": "tsuki",
+        "meaning": "Moon"
+      },
+      {
+        "word": "月曜日",
+        "reading": "げつようび",
+        "romaji": "getsuyoubi",
+        "meaning": "Monday"
+      },
+      {
+        "word": "今月",
+        "reading": "こんげつ",
+        "romaji": "kongetsu",
+        "meaning": "This month"
+      },
+      {
+        "word": "来月",
+        "reading": "らいげつ",
+        "romaji": "raigetsu",
+        "meaning": "Next month"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "今月は忙しいです。",
+      "reading": "こんげつ は いそがしい です。",
+      "romaji": "kongetsu wa isogashii desu",
+      "english": "This month is busy."
+    },
+
+    "seo": [
+      "moon kanji meaning",
+      "month kanji japanese",
+      "how to read 月",
+      "JLPT N5 moon kanji",
+      "Japanese kanji for month"
+    ],
+
+    "tags": [
+      "time",
+      "calendar",
+      "nature"
+    ],
+
+    "relatedKanji": [
+      "日",
+      "年",
+      "時"
+    ]
+  },
+
+  {
+    "slug": "kanji-fire",
+    "kanji": "火",
+    "meaning": "Fire",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "カ (ka)",
+    "kunyomi": "ひ (hi)",
+
+    "fact": "The Japanese word for Tuesday is 火曜日 (Kayōbi), which means \"Fire Day.\" The name comes from an old tradition that linked the day with the planet Mars, which was associated with fire.",
+
+    "memory": "Picture a campfire at night.",
+
+    "words": [
+      {
+        "word": "火",
+        "reading": "ひ",
+        "romaji": "hi",
+        "meaning": "Fire"
+      },
+      {
+        "word": "火曜日",
+        "reading": "かようび",
+        "romaji": "kayoubi",
+        "meaning": "Tuesday"
+      },
+      {
+        "word": "火山",
+        "reading": "かざん",
+        "romaji": "kazan",
+        "meaning": "Volcano"
+      },
+      {
+        "word": "火事",
+        "reading": "かじ",
+        "romaji": "kaji",
+        "meaning": "Fire accident"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "火を使う時は気をつけてください。",
+      "reading": "ひ を つかう とき は きをつけて ください。",
+      "romaji": "hi o tsukau toki wa ki o tsukete kudasai",
+      "english": "Please be careful when using fire."
+    },
+
+    "seo": [
+      "fire kanji meaning",
+      "Japanese fire symbol",
+      "how to read 火",
+      "JLPT N5 fire kanji",
+      "kanji for flame"
+    ],
+
+    "tags": [
+      "nature",
+      "elements",
+      "energy"
+    ],
+
+    "relatedKanji": [
+      "水",
+      "木",
+      "山"
+    ]
+  },
+
+  {
+    "slug": "kanji-water",
+    "kanji": "水",
+    "meaning": "Water",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "スイ (sui)",
+    "kunyomi": "みず (mizu)",
+
+    "fact": "In Japan, water has long been associated with purification. Even today, many people rinse their hands and mouth at a shrine before praying. The idea is that water cleanses both the body and the mind.",
+
+    "memory": "Imagine a stream flowing down a mountain. The water rushes through the center while droplets splash out on both sides. That's 水.",
+
+    "words": [
+      {
+        "word": "水",
+        "reading": "みず",
+        "romaji": "mizu",
+        "meaning": "Water"
+      },
+      {
+        "word": "水曜日",
+        "reading": "すいようび",
+        "romaji": "suiyoubi",
+        "meaning": "Wednesday"
+      },
+      {
+        "word": "海水",
+        "reading": "かいすい",
+        "romaji": "kaisui",
+        "meaning": "Sea water"
+      },
+      {
+        "word": "水色",
+        "reading": "みずいろ",
+        "romaji": "mizuiro",
+        "meaning": "Light blue"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "水を一杯ください。",
+      "reading": "みず を いっぱい ください。",
+      "romaji": "mizu o ippai kudasai",
+      "english": "Please give me a glass of water."
+    },
+
+    "seo": [
+      "water kanji meaning",
+      "Japanese water symbol",
+      "how to read 水",
+      "JLPT N5 water kanji",
+      "kanji for water"
+    ],
+
+    "tags": [
+      "nature",
+      "elements",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "火",
+      "川",
+      "魚"
+    ]
+  },
+
+  {
+    "slug": "kanji-tree-wood",
+    "kanji": "木",
+    "meaning": "Tree, Wood",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "モク (moku), ボク (boku)",
+    "kunyomi": "き (ki), こ (ko)",
+
+    "fact": "the coolest kanji progressions: \n\n木 = one tree\n\n林 = two trees (a grove)\n\n森 = three trees (a forest)",
+
+    "memory": "This is how I would draw a tree.",
+
+    "words": [
+      {
+        "word": "木",
+        "reading": "き",
+        "romaji": "ki",
+        "meaning": "Tree"
+      },
+      {
+        "word": "木曜日",
+        "reading": "もくようび",
+        "romaji": "mokuyoubi",
+        "meaning": "Thursday"
+      },
+      {
+        "word": "木刀",
+        "reading": "ぼくとう",
+        "romaji": "bokutou",
+        "meaning": "Wooden sword"
+      },
+      {
+        "word": "木の葉",
+        "reading": "このは",
+        "romaji": "konoha",
+        "meaning": "Leaf"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "公園に大きな木があります。",
+      "reading": "こうえん に おおきな き が あります。",
+      "romaji": "kouen ni ookina ki ga arimasu",
+      "english": "There is a big tree in the park."
+    },
+
+    "seo": [
+      "tree kanji meaning",
+      "wood kanji japanese",
+      "how to read 木",
+      "JLPT N5 tree kanji",
+      "Japanese symbol for tree"
+    ],
+
+    "tags": [
+      "nature",
+      "plants",
+      "environment"
+    ],
+
+    "relatedKanji": [
+      "山",
+      "川",
+      "花"
+    ]
+  },
+
+  {
+    "slug": "kanji-gold-money",
+    "kanji": "金",
+    "meaning": "Gold, Money, Metal",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "キン (kin), コン (kon)",
+    "kunyomi": "かね (kane), かな (kana)",
+
+    "fact": "Today, money is mostly numbers on a screen. But when the kanji 金 was created, wealth was often measured in actual gold. That's why the same kanji means both \"gold\" and \"money.\"",
+
+    "memory": "This kanji looks like a bank emoji and bank is symbol of Money.",
+
+    "words": [
+      {
+        "word": "お金",
+        "reading": "おかね",
+        "romaji": "okane",
+        "meaning": "Money"
+      },
+      {
+        "word": "金曜日",
+        "reading": "きんようび",
+        "romaji": "kinyoubi",
+        "meaning": "Friday"
+      },
+      {
+        "word": "金色",
+        "reading": "きんいろ",
+        "romaji": "kiniro",
+        "meaning": "Golden color"
+      },
+      {
+        "word": "料金",
+        "reading": "りょうきん",
+        "romaji": "ryoukin",
+        "meaning": "Fee, charge"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "お金を貯めています。",
+      "reading": "おかね を ためています。",
+      "romaji": "okane o tameteimasu",
+      "english": "I am saving money."
+    },
+
+    "seo": [
+      "money kanji meaning",
+      "gold kanji japanese",
+      "how to read 金",
+      "JLPT N5 money kanji",
+      "Japanese symbol for gold"
+    ],
+
+    "tags": [
+      "money",
+      "economy",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "円",
+      "百",
+      "万"
+    ]
+  },
+
+  {
+    "slug": "kanji-earth-soil",
+    "kanji": "土",
+    "meaning": "Earth, Soil, Ground",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "ド (do), ト (to)",
+    "kunyomi": "つち (tsuchi)",
+
+    "fact": "The original form of 土 wasn't an abstract symbol. It was a drawing of a mound of earth or a pile of soil. Farmers saw piles of dirt every day, so it became the natural symbol for land and earth.",
+
+    "memory": "A Flat Earther was asked to draw the Earth.\n\nHe drew 土.",
+
+    "words": [
+      {
+        "word": "土",
+        "reading": "つち",
+        "romaji": "tsuchi",
+        "meaning": "Soil"
+      },
+      {
+        "word": "土曜日",
+        "reading": "どようび",
+        "romaji": "doyoubi",
+        "meaning": "Saturday"
+      },
+      {
+        "word": "土地",
+        "reading": "とち",
+        "romaji": "tochi",
+        "meaning": "Land"
+      },
+      {
+        "word": "土足",
+        "reading": "どそく",
+        "romaji": "dosoku",
+        "meaning": "With shoes on"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "庭の土は柔らかいです。",
+      "reading": "にわ の つち は やわらかい です。",
+      "romaji": "niwa no tsuchi wa yawarakai desu",
+      "english": "The soil in the garden is soft."
+    },
+
+    "seo": [
+      "soil kanji meaning",
+      "earth kanji japanese",
+      "how to read 土",
+      "JLPT N5 earth kanji",
+      "Japanese symbol for soil"
+    ],
+
+    "tags": [
+      "nature",
+      "earth",
+      "environment"
+    ],
+
+    "relatedKanji": [
+      "山",
+      "川",
+      "木"
+    ]
+  },
+
+  {
+    "slug": "kanji-person-human",
+    "kanji": "人",
+    "meaning": "Person, Human",
+    "jlpt": "N5",
+    "strokes": 2,
+
+    "onyomi": "ジン (jin), ニン (nin)",
+    "kunyomi": "ひと (hito)",
+
+    "fact": "A famous Japanese saying claims that 人 is made of two people supporting each other. It's not historically accurate, but the idea became so popular that many Japanese people still learn the character that way.",
+
+    "memory": "Ancient people wanted to draw a person, but apparently they were in a hurry. Two legs, no arms, no head—done. That's 人.",
+
+    "words": [
+      {
+        "word": "人",
+        "reading": "ひと",
+        "romaji": "hito",
+        "meaning": "Person"
+      },
+      {
+        "word": "日本人",
+        "reading": "にほんじん",
+        "romaji": "nihonjin",
+        "meaning": "Japanese person"
+      },
+      {
+        "word": "人気",
+        "reading": "にんき",
+        "romaji": "ninki",
+        "meaning": "Popularity"
+      },
+      {
+        "word": "人間",
+        "reading": "にんげん",
+        "romaji": "ningen",
+        "meaning": "Human being"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "あの人は先生です。",
+      "reading": "あの ひと は せんせい です。",
+      "romaji": "ano hito wa sensei desu",
+      "english": "That person is a teacher."
+    },
+
+    "seo": [
+      "person kanji meaning",
+      "human kanji japanese",
+      "how to read 人",
+      "JLPT N5 person kanji",
+      "Japanese symbol for person"
+    ],
+
+    "tags": [
+      "people",
+      "daily-life",
+      "society"
+    ],
+
+    "relatedKanji": [
+      "男",
+      "女",
+      "子"
+    ]
+  },
+
+  {
+    "slug": "kanji-big-large",
+    "kanji": "大",
+    "meaning": "Big, Large",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "ダイ (dai), タイ (tai)",
+    "kunyomi": "おおきい (ookii)",
+
+    "fact": "One of Kyoto's most famous summer traditions features a giant bonfire shaped like the kanji 大. Lit on a mountainside during the Gozan Okuribi festival, the character stands about 80 meters tall—roughly the height of a 25-story building.",
+
+    "memory": "The kanji 大 comes from a picture of a person stretching out both arms and legs.\n\nImagine an ancient hunter trying to describe a giant fish he caught:\"It was THIS BIG!\"",
+
+    "words": [
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "romaji": "ookii",
+        "meaning": "Big"
+      },
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "romaji": "daigaku",
+        "meaning": "University"
+      },
+      {
+        "word": "大声",
+        "reading": "おおごえ",
+        "romaji": "oogoe",
+        "meaning": "Loud voice"
+      },
+      {
+        "word": "大切",
+        "reading": "たいせつ",
+        "romaji": "taisetsu",
+        "meaning": "Important"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "その犬はとても大きいです。",
+      "reading": "その いぬ は とても おおきい です。",
+      "romaji": "sono inu wa totemo ookii desu",
+      "english": "That dog is very big."
+    },
+
+    "seo": [
+      "big kanji meaning",
+      "large kanji japanese",
+      "how to read 大",
+      "JLPT N5 big kanji",
+      "Japanese symbol for large"
+    ],
+
+    "tags": [
+      "size",
+      "description",
+      "common"
+    ],
+
+    "relatedKanji": [
+      "小",
+      "高",
+      "長"
+    ]
+  },
+
+  {
+    "slug": "kanji-small-little",
+    "kanji": "小",
+    "meaning": "Small, Little",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "ショウ (shou)",
+    "kunyomi": "ちいさい (chiisai), こ (ko)",
+
+    "fact": "In Japanese folklore, there is a hero named 𝐈𝐬𝐬𝐮𝐧-𝐛ō𝐬𝐡𝐢 who is only about an inch tall. He uses a sewing needle as a sword and a rice bowl as a boat. Search for Issun-bōshi on Google.",
+
+    "memory": "A firework was supposed to explode into the sky, but it only produced three tiny sparks. Those three little sparks form 小.",
+
+    "words": [
+      {
+        "word": "小さい",
+        "reading": "ちいさい",
+        "romaji": "chiisai",
+        "meaning": "Small"
+      },
+      {
+        "word": "小学校",
+        "reading": "しょうがっこう",
+        "romaji": "shougakkou",
+        "meaning": "Elementary school"
+      },
+      {
+        "word": "小川",
+        "reading": "おがわ",
+        "romaji": "ogawa",
+        "meaning": "Small river"
+      },
+      {
+        "word": "小指",
+        "reading": "こゆび",
+        "romaji": "koyubi",
+        "meaning": "Little finger"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "小さい猫がいます。",
+      "reading": "ちいさい ねこ が います。",
+      "romaji": "chiisai neko ga imasu",
+      "english": "There is a small cat."
+    },
+
+    "seo": [
+      "small kanji meaning",
+      "little kanji japanese",
+      "how to read 小",
+      "JLPT N5 small kanji",
+      "Japanese symbol for little"
+    ],
+
+    "tags": [
+      "size",
+      "description",
+      "common"
+    ],
+
+    "relatedKanji": [
+      "大",
+      "子",
+      "山"
+    ]
+  },
+
+  {
+    "slug": "kanji-middle-center",
+    "kanji": "中",
+    "meaning": "Middle, Center, Inside",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "チュウ (chuu)",
+    "kunyomi": "なか (naka)",
+
+    "fact": "The kanji 中 appears in 中国(Chūgoku), the name for China. It translates to \"Middle Kingdom\", a name that dates back thousands of years to when China viewed itself as the center of the known world.",
+
+    "memory": "A rectangular box pierced by a rod through the center.",
+
+    "words": [
+      {
+        "word": "中",
+        "reading": "なか",
+        "romaji": "naka",
+        "meaning": "Inside"
+      },
+      {
+        "word": "中国",
+        "reading": "ちゅうごく",
+        "romaji": "chuugoku",
+        "meaning": "China"
+      },
+      {
+        "word": "中学校",
+        "reading": "ちゅうがっこう",
+        "romaji": "chuugakkou",
+        "meaning": "Middle school"
+      },
+      {
+        "word": "一年中",
+        "reading": "いちねんじゅう",
+        "romaji": "ichinenjuu",
+        "meaning": "All year round"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "箱の中に本があります。",
+      "reading": "はこ の なか に ほん が あります。",
+      "romaji": "hako no naka ni hon ga arimasu",
+      "english": "There is a book inside the box."
+    },
+
+    "seo": [
+      "middle kanji meaning",
+      "center kanji japanese",
+      "how to read 中",
+      "JLPT N5 center kanji",
+      "Japanese symbol for middle"
+    ],
+
+    "tags": [
+      "position",
+      "location",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "上",
+      "下",
+      "内"
+    ]
+  },
+
+  {
+    "slug": "kanji-up-above",
+    "kanji": "上",
+    "meaning": "Up, Above, On",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "ジョウ (jou)",
+    "kunyomi": "うえ (ue), あがる (agaru), のぼる (noboru)",
+
+    "fact": "Many Japanese people wake up early on New Year's Day to watch the year's first sunrise, known as \"Hatsuhinode\". Thousands gather on mountains, beaches, and rooftops to see the sun rise above the horizon and welcome the new year.",
+
+    "memory": "The short line sits above the longer line, showing something positioned higher than the ground.",
+
+    "words": [
+      {
+        "word": "上",
+        "reading": "うえ",
+        "romaji": "ue",
+        "meaning": "Above"
+      },
+      {
+        "word": "上手",
+        "reading": "じょうず",
+        "romaji": "jouzu",
+        "meaning": "Skillful"
+      },
+      {
+        "word": "上着",
+        "reading": "うわぎ",
+        "romaji": "uwagi",
+        "meaning": "Jacket"
+      },
+      {
+        "word": "上がる",
+        "reading": "あがる",
+        "romaji": "agaru",
+        "meaning": "To go up"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "机の上にペンがあります。",
+      "reading": "つくえ の うえ に ペン が あります。",
+      "romaji": "tsukue no ue ni pen ga arimasu",
+      "english": "There is a pen on the desk."
+    },
+
+    "seo": [
+      "up kanji meaning",
+      "above kanji japanese",
+      "how to read 上",
+      "JLPT N5 up kanji",
+      "Japanese symbol for above"
+    ],
+
+    "tags": [
+      "direction",
+      "location",
+      "movement"
+    ],
+
+    "relatedKanji": [
+      "下",
+      "中",
+      "右"
+    ]
+  },
+
+  {
+    "slug": "kanji-down-below",
+    "kanji": "下",
+    "meaning": "Down, Below, Under",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "カ (ka), ゲ (ge)",
+    "kunyomi": "した (shita), くだる (kudaru), さがる (sagaru)",
+
+    "fact": "At Doai Station in Gunma Prefecture, the platform sits so far below ground that passengers must climb nearly 500 steps to reach the surface. It is famous for having Japan's deepest railway platform and has become a tourist attraction.",
+
+    "memory": "The small mark hangs beneath the line, showing something below the surface.",
+
+    "words": [
+      {
+        "word": "下",
+        "reading": "した",
+        "romaji": "shita",
+        "meaning": "Below"
+      },
+      {
+        "word": "地下",
+        "reading": "ちか",
+        "romaji": "chika",
+        "meaning": "Underground"
+      },
+      {
+        "word": "下手",
+        "reading": "へた",
+        "romaji": "heta",
+        "meaning": "Unskillful"
+      },
+      {
+        "word": "下がる",
+        "reading": "さがる",
+        "romaji": "sagaru",
+        "meaning": "To go down"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "猫はテーブルの下にいます。",
+      "reading": "ねこ は テーブル の した に います。",
+      "romaji": "neko wa teeburu no shita ni imasu",
+      "english": "The cat is under the table."
+    },
+
+    "seo": [
+      "down kanji meaning",
+      "below kanji japanese",
+      "how to read 下",
+      "JLPT N5 down kanji",
+      "Japanese symbol for below"
+    ],
+
+    "tags": [
+      "direction",
+      "location",
+      "movement"
+    ],
+
+    "relatedKanji": [
+      "上",
+      "中",
+      "左"
+    ]
+  },
+
+  {
+    "slug": "kanji-left",
+    "kanji": "左",
+    "meaning": "Left",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "サ (sa)",
+    "kunyomi": "ひだり (hidari)",
+
+    "fact": "Why Cars in Japan drive on the left side of the road, even though Japan was never colonized by British? One theory traces this custom back to the samurai era, when keeping left reduced the chance of sword scabbards colliding as warriors passed each other. In samurai culture, bumping swords was a massive insult and could instantly trigger a bloody, fatal duel!",
+
+    "memory": "\"Work first, talk later.\"\n\nKanji for Left (左) contains 工 (work).\nKanji for Right (右) contains 口 (mouth).\nSince work comes before talk, the kanji with 工 is left and kanji with 口 is Right.",
+
+    "words": [
+      {
+        "word": "左",
+        "reading": "ひだり",
+        "romaji": "hidari",
+        "meaning": "Left"
+      },
+      {
+        "word": "左手",
+        "reading": "ひだりて",
+        "romaji": "hidarite",
+        "meaning": "Left hand"
+      },
+      {
+        "word": "左側",
+        "reading": "ひだりがわ",
+        "romaji": "hidarigawa",
+        "meaning": "Left side"
+      },
+      {
+        "word": "左右",
+        "reading": "さゆう",
+        "romaji": "sayuu",
+        "meaning": "Left and right"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "駅は左にあります。",
+      "reading": "えき は ひだり に あります。",
+      "romaji": "eki wa hidari ni arimasu",
+      "english": "The station is on the left."
+    },
+
+    "seo": [
+      "left kanji meaning",
+      "Japanese left symbol",
+      "how to read 左",
+      "JLPT N5 left kanji",
+      "kanji for left direction"
+    ],
+
+    "tags": [
+      "direction",
+      "navigation",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "右",
+      "上",
+      "下"
+    ]
+  },
+
+  {
+    "slug": "kanji-right",
+    "kanji": "右",
+    "meaning": "Right",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "ウ (u), ユウ (yuu)",
+    "kunyomi": "みぎ (migi)",
+
+    "fact": "For much of the 20th century, many left-handed children in Japan were forced to write with their right hand. Parents and teachers often believed it would make life easier, especially when learning calligraphy or following social customs. As a result, some people grew up writing with their right hand while doing everything else with their left.",
+
+    "memory": "\"Work first, talk later.\"\n\nKanji for Left (左) contains 工 (work).\nKanji for Right (右) contains 口 (mouth).\nSince work comes before talk, the kanji with 工 is left and kanji with 口 is Right.",
+
+    "words": [
+      {
+        "word": "右",
+        "reading": "みぎ",
+        "romaji": "migi",
+        "meaning": "Right"
+      },
+      {
+        "word": "右手",
+        "reading": "みぎて",
+        "romaji": "migite",
+        "meaning": "Right hand"
+      },
+      {
+        "word": "右側",
+        "reading": "みぎがわ",
+        "romaji": "migigawa",
+        "meaning": "Right side"
+      },
+      {
+        "word": "左右",
+        "reading": "さゆう",
+        "romaji": "sayuu",
+        "meaning": "Left and right"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "右へ曲がってください。",
+      "reading": "みぎ へ まがって ください。",
+      "romaji": "migi e magatte kudasai",
+      "english": "Please turn right."
+    },
+
+    "seo": [
+      "right kanji meaning",
+      "Japanese right symbol",
+      "how to read 右",
+      "JLPT N5 right kanji",
+      "kanji for right direction"
+    ],
+
+    "tags": [
+      "direction",
+      "navigation",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "左",
+      "上",
+      "下"
+    ]
+  },
+  
+  {
+    "slug": "kanji-one",
+    "kanji": "一",
+    "meaning": "One",
+    "jlpt": "N5",
+    "strokes": 1,
+
+    "onyomi": "イチ (ichi), イツ (itsu)",
+    "kunyomi": "ひと(つ) (hitotsu)",
+
+    "fact": "In Japan, mastery is often viewed as a lifelong journey rather than a destination. Craftsmen may spend decades refining a single skill, making improvements so small that most people would never notice them. This philosophy can be seen in sushi chefs perfecting a technique for years, or ramen masters dedicating their careers to a single bowl.",
+
+    "memory": "The easiest kanji in Japanese requires just one stroke.",
+
+    "words": [
+      {
+        "word": "一",
+        "reading": "いち",
+        "romaji": "ichi",
+        "meaning": "One"
+      },
+      {
+        "word": "一人",
+        "reading": "ひとり",
+        "romaji": "hitori",
+        "meaning": "One person"
+      },
+      {
+        "word": "一日",
+        "reading": "いちにち",
+        "romaji": "ichinichi",
+        "meaning": "One day"
+      },
+      {
+        "word": "一つ",
+        "reading": "ひとつ",
+        "romaji": "hitotsu",
+        "meaning": "One thing"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "りんごを一つください。",
+      "reading": "りんご を ひとつ ください。",
+      "romaji": "ringo o hitotsu kudasai",
+      "english": "Please give me one apple."
+    },
+
+    "seo": [
+      "one kanji meaning",
+      "Japanese number one",
+      "how to read 一",
+      "JLPT N5 one kanji",
+      "kanji for one"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "二",
+      "三",
+      "十"
+    ]
+  },
+
+  {
+    "slug": "kanji-two",
+    "kanji": "二",
+    "meaning": "Two",
+    "jlpt": "N5",
+    "strokes": 2,
+
+    "onyomi": "ニ (ni)",
+    "kunyomi": "ふた(つ) (futatsu)",
+
+    "fact": "Visit almost any Shinto shrine in Japan and you'll find a pair of stone guardian lions known as \"Komainu\" standing at the entrance. One keeps its mouth open, while the other keeps its mouth closed. Together they represent the beginning and the end, the first and the last, creating a balance that has protected shrines for centuries.",
+
+    "memory": "Second easiest Kanji in Japanese.",
+
+    "words": [
+      {
+        "word": "二",
+        "reading": "に",
+        "romaji": "ni",
+        "meaning": "Two"
+      },
+      {
+        "word": "二人",
+        "reading": "ふたり",
+        "romaji": "futari",
+        "meaning": "Two people"
+      },
+      {
+        "word": "二月",
+        "reading": "にがつ",
+        "romaji": "nigatsu",
+        "meaning": "February"
+      },
+      {
+        "word": "二つ",
+        "reading": "ふたつ",
+        "romaji": "futatsu",
+        "meaning": "Two things"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "二人で映画を見ました。",
+      "reading": "ふたり で えいが を みました。",
+      "romaji": "futari de eiga o mimashita",
+      "english": "Two of us watched a movie."
+    },
+
+    "seo": [
+      "two kanji meaning",
+      "Japanese number two",
+      "how to read 二",
+      "JLPT N5 two kanji",
+      "kanji for two"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "一",
+      "三",
+      "四"
+    ]
+  },
+
+  {
+    "slug": "kanji-three",
+    "kanji": "三",
+    "meaning": "Three",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "サン (san)",
+    "kunyomi": "みっ(つ) (mittsu)",
+
+    "fact": "Japanese students often joke about the \"three-day monk.\" A person becomes obsessed with a new hobby, studies intensely for three days, then completely gives up. The phrase mikka bōzu (三日坊主) is still used today to describe someone whose motivation disappears almost as quickly as it arrived.",
+
+    "memory": "Third Easiest Kanji in Japanese.",
+
+    "words": [
+      {
+        "word": "三",
+        "reading": "さん",
+        "romaji": "san",
+        "meaning": "Three"
+      },
+      {
+        "word": "三月",
+        "reading": "さんがつ",
+        "romaji": "sangatsu",
+        "meaning": "March"
+      },
+      {
+        "word": "三人",
+        "reading": "さんにん",
+        "romaji": "sannin",
+        "meaning": "Three people"
+      },
+      {
+        "word": "三つ",
+        "reading": "みっつ",
+        "romaji": "mittsu",
+        "meaning": "Three things"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "三人の学生がいます。",
+      "reading": "さんにん の がくせい が います。",
+      "romaji": "sannin no gakusei ga imasu",
+      "english": "There are three students."
+    },
+
+    "seo": [
+      "three kanji meaning",
+      "Japanese number three",
+      "how to read 三",
+      "JLPT N5 three kanji",
+      "kanji for three"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "一",
+      "二",
+      "四"
+    ]
+  },
+
+  {
+    "slug": "kanji-four",
+    "kanji": "四",
+    "meaning": "Four",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "シ (shi)",
+    "kunyomi": "よん (yon), よっ(つ) (yottsu)",
+
+    "fact": "In some Japanese hospitals, hotels, and apartment buildings, you'll notice something strange: there is no fourth floor. The reason is simple. One reading of four, shi, sounds exactly like the word for death (死).",
+
+    "memory": "The number is trapped inside a box with four sides around it. That's 四.",
+
+    "words": [
+      {
+        "word": "四",
+        "reading": "よん",
+        "romaji": "yon",
+        "meaning": "Four"
+      },
+      {
+        "word": "四月",
+        "reading": "しがつ",
+        "romaji": "shigatsu",
+        "meaning": "April"
+      },
+      {
+        "word": "四人",
+        "reading": "よにん",
+        "romaji": "yonin",
+        "meaning": "Four people"
+      },
+      {
+        "word": "四つ",
+        "reading": "よっつ",
+        "romaji": "yottsu",
+        "meaning": "Four things"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "四つ買いました。",
+      "reading": "よっつ かいました。",
+      "romaji": "yottsu kaimashita",
+      "english": "I bought four of them."
+    },
+
+    "seo": [
+      "four kanji meaning",
+      "Japanese number four",
+      "how to read 四",
+      "JLPT N5 four kanji",
+      "kanji for four"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "三",
+      "五",
+      "十"
+    ]
+  },
+
+  {
+    "slug": "kanji-five",
+    "kanji": "五",
+    "meaning": "Five",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "ゴ (go)",
+    "kunyomi": "いつ(つ) (itsutsu)",
+
+    "fact": "Near the end of his life, the legendary swordsman Miyamoto Musashi wrote The Book of Five Rings. Rather than focusing only on combat, the book explored strategy, discipline, and mastery. More than 350 years later, it is still studied by martial artists, athletes, and business leaders around the world.",
+
+    "memory": "A ninja raises one hand with all five fingers spread before performing a secret technique. That's 五.",
+
+    "words": [
+      {
+        "word": "五",
+        "reading": "ご",
+        "romaji": "go",
+        "meaning": "Five"
+      },
+      {
+        "word": "五月",
+        "reading": "ごがつ",
+        "romaji": "gogatsu",
+        "meaning": "May"
+      },
+      {
+        "word": "五人",
+        "reading": "ごにん",
+        "romaji": "gonin",
+        "meaning": "Five people"
+      },
+      {
+        "word": "五つ",
+        "reading": "いつつ",
+        "romaji": "itsutsu",
+        "meaning": "Five things"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "五人で昼ご飯を食べました。",
+      "reading": "ごにん で ひるごはん を たべました。",
+      "romaji": "gonin de hirugohan o tabemashita",
+      "english": "Five of us ate lunch together."
+    },
+
+    "seo": [
+      "five kanji meaning",
+      "Japanese number five",
+      "how to read 五",
+      "JLPT N5 five kanji",
+      "kanji for five"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "四",
+      "六",
+      "十"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-six",
+    "kanji": "六",
+    "meaning": "Six",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "ロク (roku)",
+    "kunyomi": "むっ(つ) (muttsu), むい (mui)",
+
+    "fact": "In Buddhist tradition, life is part of an endless cycle of rebirth. Depending on one's actions, a soul may be reborn into one of six realms: the Realm of Gods (Deva), the Realm of Demigods (Asura), the Human Realm (Manushya), the Animal Realm (Tiryagyoni), the Realm of Hungry Ghosts (Preta), or the Hell Realm (Naraka). These Six Paths (六道) remind us that every choice can shape the journey that follows.",
+
+    "memory": "A mountain peak sits above six roads spreading out below. Travelers must choose one of the six paths. That's 六.",
+
+    "words": [
+      {
+        "word": "六",
+        "reading": "ろく",
+        "romaji": "roku",
+        "meaning": "Six"
+      },
+      {
+        "word": "六月",
+        "reading": "ろくがつ",
+        "romaji": "rokugatsu",
+        "meaning": "June"
+      },
+      {
+        "word": "六人",
+        "reading": "ろくにん",
+        "romaji": "rokunin",
+        "meaning": "Six people"
+      },
+      {
+        "word": "六つ",
+        "reading": "むっつ",
+        "romaji": "muttsu",
+        "meaning": "Six things"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "六月に日本へ行きます。",
+      "reading": "ろくがつ に にほん へ いきます。",
+      "romaji": "rokugatsu ni nihon e ikimasu",
+      "english": "I will go to Japan in June."
+    },
+
+    "seo": [
+      "six kanji meaning",
+      "Japanese number six",
+      "how to read 六",
+      "JLPT N5 six kanji",
+      "kanji for six"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "五",
+      "七",
+      "十"
+    ]
+  },
+
+  {
+    "slug": "kanji-seven",
+    "kanji": "七",
+    "meaning": "Seven",
+    "jlpt": "N5",
+    "strokes": 2,
+
+    "onyomi": "シチ (shichi)",
+    "kunyomi": "なな (nana), なな(つ) (nanatsu)",
+
+    "fact": "One of Japan's most influential films is Seven Samurai. The story follows seven warriors hired to protect a village from bandits. Decades later, the film continues to inspire movies, books, and video games around the world.",
+
+    "memory": "The kanji 七 looks like the English number 7 flipped upside down.",
+
+    "words": [
+      {
+        "word": "七",
+        "reading": "なな",
+        "romaji": "nana",
+        "meaning": "Seven"
+      },
+      {
+        "word": "七月",
+        "reading": "しちがつ",
+        "romaji": "shichigatsu",
+        "meaning": "July"
+      },
+      {
+        "word": "七人",
+        "reading": "しちにん",
+        "romaji": "shichinin",
+        "meaning": "Seven people"
+      },
+      {
+        "word": "七つ",
+        "reading": "ななつ",
+        "romaji": "nanatsu",
+        "meaning": "Seven things"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は七時に起きます。",
+      "reading": "わたし は しちじ に おきます。",
+      "romaji": "watashi wa shichiji ni okimasu",
+      "english": "I wake up at seven o'clock."
+    },
+
+    "seo": [
+      "seven kanji meaning",
+      "Japanese number seven",
+      "how to read 七",
+      "JLPT N5 seven kanji",
+      "kanji for seven"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "六",
+      "八",
+      "四"
+    ]
+  },
+
+  {
+    "slug": "kanji-eight",
+    "kanji": "八",
+    "meaning": "Eight",
+    "jlpt": "N5",
+    "strokes": 2,
+
+    "onyomi": "ハチ (hachi)",
+    "kunyomi": "やっ(つ) (yattsu), や (ya)",
+
+    "fact": "The kanji 八 starts narrow at the top and widens toward the bottom. Traditionally, this expanding shape was seen as a symbol of growing prosperity and opportunities. Because the future \"opens up\" instead of closing in, eight became one of Japan's luckiest numbers.",
+
+    "memory": "An octopus has eight tentacles. Imagine two of them spreading outward like 八, reminding you of the number eight.",
+
+    "words": [
+      {
+        "word": "八",
+        "reading": "はち",
+        "romaji": "hachi",
+        "meaning": "Eight"
+      },
+      {
+        "word": "八月",
+        "reading": "はちがつ",
+        "romaji": "hachigatsu",
+        "meaning": "August"
+      },
+      {
+        "word": "八人",
+        "reading": "はちにん",
+        "romaji": "hachinin",
+        "meaning": "Eight people"
+      },
+      {
+        "word": "八つ",
+        "reading": "やっつ",
+        "romaji": "yattsu",
+        "meaning": "Eight things"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "八人の学生が教室にいます。",
+      "reading": "はちにん の がくせい が きょうしつ に います。",
+      "romaji": "hachinin no gakusei ga kyoushitsu ni imasu",
+      "english": "Eight students are in the classroom."
+    },
+
+    "seo": [
+      "eight kanji meaning",
+      "Japanese number eight",
+      "how to read 八",
+      "JLPT N5 eight kanji",
+      "kanji for eight"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "七",
+      "九",
+      "十"
+    ]
+  },
+
+  {
+    "slug": "kanji-nine",
+    "kanji": "九",
+    "meaning": "Nine",
+    "jlpt": "N5",
+    "strokes": 2,
+
+    "onyomi": "キュウ (kyuu), ク (ku)",
+    "kunyomi": "ここの(つ) (kokonotsu)",
+
+    "fact": "\"The Nine-Tailed Fox.\" In East Asian folklore, fox spirits gain power as they age. A young fox might know a few tricks, but after centuries of wisdom and magical practice, it can grow additional tails. The ultimate fox possesses nine tails—a sign that it has reached the peak of its power. These legendary creatures were said to be intelligent, beautiful, and powerful enough to shape the fate of kingdoms.",
+
+    "memory": "A nine-tailed fox curls its final tail into the shape 九",
+
+    "words": [
+      {
+        "word": "九",
+        "reading": "きゅう",
+        "romaji": "kyuu",
+        "meaning": "Nine"
+      },
+      {
+        "word": "九月",
+        "reading": "くがつ",
+        "romaji": "kugatsu",
+        "meaning": "September"
+      },
+      {
+        "word": "九人",
+        "reading": "きゅうにん",
+        "romaji": "kyuunin",
+        "meaning": "Nine people"
+      },
+      {
+        "word": "九つ",
+        "reading": "ここのつ",
+        "romaji": "kokonotsu",
+        "meaning": "Nine things"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "九時に学校へ行きます。",
+      "reading": "くじ に がっこう へ いきます。",
+      "romaji": "kuji ni gakkou e ikimasu",
+      "english": "I go to school at nine o'clock."
+    },
+
+    "seo": [
+      "nine kanji meaning",
+      "Japanese number nine",
+      "how to read 九",
+      "JLPT N5 nine kanji",
+      "kanji for nine"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "八",
+      "十",
+      "七"
+    ]
+  },
+
+  {
+    "slug": "kanji-ten",
+    "kanji": "十",
+    "meaning": "Ten",
+    "jlpt": "N5",
+    "strokes": 2,
+
+    "onyomi": "ジュウ (juu)",
+    "kunyomi": "とお (too)",
+
+    "fact": "For centuries, temples in Japan held a Buddhist observance known as Jūya-e (十夜会), or the \"Ten Nights\" ceremony. It was believed that spending ten nights in reflection and prayer brought spiritual merit greater than years of ordinary practice. Rather than a single holy day, enlightenment was pursued one night at a time, for ten consecutive nights.",
+
+    "memory": "A cross created with two hands and 10 Fingers.",
+
+    "words": [
+      {
+        "word": "十",
+        "reading": "じゅう",
+        "romaji": "juu",
+        "meaning": "Ten"
+      },
+      {
+        "word": "十月",
+        "reading": "じゅうがつ",
+        "romaji": "juugatsu",
+        "meaning": "October"
+      },
+      {
+        "word": "十人",
+        "reading": "じゅうにん",
+        "romaji": "juunin",
+        "meaning": "Ten people"
+      },
+      {
+        "word": "十日",
+        "reading": "とおか",
+        "romaji": "tooka",
+        "meaning": "Tenth day of the month"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "十人で旅行に行きました。",
+      "reading": "じゅうにん で りょこう に いきました。",
+      "romaji": "juunin de ryokou ni ikimashita",
+      "english": "Ten people went on the trip."
+    },
+
+    "seo": [
+      "ten kanji meaning",
+      "Japanese number ten",
+      "how to read 十",
+      "JLPT N5 ten kanji",
+      "kanji for ten"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "九",
+      "百",
+      "千"
+    ]
+  },
+
+    {
+    "slug": "kanji-hundred",
+    "kanji": "百",
+    "meaning": "Hundred",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "ヒャク (hyaku)",
+    "kunyomi": "",
+
+    "fact": "One of Japan's most famous proverbs is Hyakubun wa Ikken ni Shikazu (百聞は一見に如かず): \"Hearing something one hundred times is not as good as seeing it once.\" The saying reminds us that experience is often a better teacher than words. You can listen to one hundred stories about a place, but seeing it with your own eyes is something entirely different.",
+
+    "memory": "Imagine stacking one hundred gold coins into a towering pile. That's 百, meaning hundred.",
+
+    "words": [
+      {
+        "word": "百",
+        "reading": "ひゃく",
+        "romaji": "hyaku",
+        "meaning": "One hundred"
+      },
+      {
+        "word": "百円",
+        "reading": "ひゃくえん",
+        "romaji": "hyakuen",
+        "meaning": "100 yen"
+      },
+      {
+        "word": "三百",
+        "reading": "さんびゃく",
+        "romaji": "sanbyaku",
+        "meaning": "300"
+      },
+      {
+        "word": "百人",
+        "reading": "ひゃくにん",
+        "romaji": "hyakunin",
+        "meaning": "100 people"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "この本は百ページあります。",
+      "reading": "この ほん は ひゃくページ あります。",
+      "romaji": "kono hon wa hyaku peeji arimasu",
+      "english": "This book has 100 pages."
+    },
+
+    "seo": [
+      "hundred kanji meaning",
+      "Japanese number kanji",
+      "how to read 百",
+      "JLPT N5 hundred kanji",
+      "kanji for 100"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "money"
+    ],
+
+    "relatedKanji": [
+      "千",
+      "万",
+      "円"
+    ]
+  },
+
+  {
+    "slug": "kanji-thousand",
+    "kanji": "千",
+    "meaning": "Thousand",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "セン (sen)",
+    "kunyomi": "ち (chi)",
+
+    "fact": "According to Japanese tradition, anyone who folds one thousand paper cranes (senbazuru) may be granted a wish. The belief became known worldwide through the story of Sadako Sasaki, a young girl who folded cranes while recovering from radiation sickness after the atomic bombing of Hiroshima. Today, paper cranes remain a symbol of hope, peace, and perseverance.",
+
+    "memory": "Take 十 (ten) and add one extra stroke. Suddenly you've gone from ten to a thousand. That's 千.",
+
+    "words": [
+      {
+        "word": "千",
+        "reading": "せん",
+        "romaji": "sen",
+        "meaning": "One thousand"
+      },
+      {
+        "word": "千円",
+        "reading": "せんえん",
+        "romaji": "senen",
+        "meaning": "1,000 yen"
+      },
+      {
+        "word": "二千",
+        "reading": "にせん",
+        "romaji": "nisen",
+        "meaning": "2,000"
+      },
+      {
+        "word": "千人",
+        "reading": "せんにん",
+        "romaji": "sennin",
+        "meaning": "1,000 people"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "そのかばんは三千円でした。",
+      "reading": "その かばん は さんぜんえん でした。",
+      "romaji": "sono kaban wa sanzenen deshita",
+      "english": "That bag cost 3,000 yen."
+    },
+
+    "seo": [
+      "thousand kanji meaning",
+      "Japanese thousand symbol",
+      "how to read 千",
+      "JLPT N5 thousand kanji",
+      "kanji for 1000"
+    ],
+
+    "tags": [
+      "numbers",
+      "counting",
+      "money"
+    ],
+
+    "relatedKanji": [
+      "百",
+      "万",
+      "円"
+    ]
+  },
+
+  {
+    "slug": "kanji-ten-thousand",
+    "kanji": "万",
+    "meaning": "Ten Thousand",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "マン (man), バン (ban)",
+    "kunyomi": "",
+
+    "fact": "The famous Japanese cheer \"Banzai!\" (万歳) literally means \"ten thousand years.\" Originally used to wish the emperor a reign lasting ten thousand years, the phrase eventually evolved into a general cry of celebration.",
+
+    "memory": "A mighty dragon disappears into the clouds, leaving only its long tail behind. A creature powerful enough to live ten thousand years deserves the kanji 万.",
+
+    "words": [
+      {
+        "word": "万",
+        "reading": "まん",
+        "romaji": "man",
+        "meaning": "Ten thousand"
+      },
+      {
+        "word": "一万円",
+        "reading": "いちまんえん",
+        "romaji": "ichimanen",
+        "meaning": "10,000 yen"
+      },
+      {
+        "word": "万人",
+        "reading": "ばんにん",
+        "romaji": "bannin",
+        "meaning": "Many people"
+      },
+      {
+        "word": "万年筆",
+        "reading": "まんねんひつ",
+        "romaji": "mannenhitsu",
+        "meaning": "Fountain pen"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は一万円を持っています。",
+      "reading": "わたし は いちまんえん を もっています。",
+      "romaji": "watashi wa ichimanen o motteimasu",
+      "english": "I have 10,000 yen."
+    },
+
+    "seo": [
+      "ten thousand kanji meaning",
+      "Japanese number system kanji",
+      "how to read 万",
+      "JLPT N5 ten thousand kanji",
+      "kanji for 10000"
+    ],
+
+    "tags": [
+      "numbers",
+      "money",
+      "counting"
+    ],
+
+    "relatedKanji": [
+      "千",
+      "百",
+      "円"
+    ]
+  },
+
+  {
+    "slug": "kanji-mountain",
+    "kanji": "山",
+    "meaning": "Mountain",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "サン (san)",
+    "kunyomi": "やま (yama)",
+
+    "fact": "Japanese folklore tells of \"Tengu\", supernatural beings said to live deep in the mountains. While some stories portray them as mischievous tricksters, others describe them as protectors of mountain forests and sacred places. Disturbing nature or showing arrogance in the mountains was said to attract their attention.",
+
+    "memory": "The three vertical peaks look exactly like a mountain range. Imagine climbing over three mountain peaks.",
+
+    "words": [
+      {
+        "word": "山",
+        "reading": "やま",
+        "romaji": "yama",
+        "meaning": "Mountain"
+      },
+      {
+        "word": "火山",
+        "reading": "かざん",
+        "romaji": "kazan",
+        "meaning": "Volcano"
+      },
+      {
+        "word": "富士山",
+        "reading": "ふじさん",
+        "romaji": "fujisan",
+        "meaning": "Mount Fuji"
+      },
+      {
+        "word": "山道",
+        "reading": "やまみち",
+        "romaji": "yamamichi",
+        "meaning": "Mountain path"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "山へ登りたいです。",
+      "reading": "やま へ のぼりたい です。",
+      "romaji": "yama e noboritai desu",
+      "english": "I want to climb a mountain."
+    },
+
+    "seo": [
+      "mountain kanji meaning",
+      "Japanese mountain symbol",
+      "how to read 山",
+      "JLPT N5 mountain kanji",
+      "kanji for mountain"
+    ],
+
+    "tags": [
+      "nature",
+      "geography",
+      "outdoors"
+    ],
+
+    "relatedKanji": [
+      "川",
+      "木",
+      "土"
+    ]
+  },
+
+  {
+    "slug": "kanji-river",
+    "kanji": "川",
+    "meaning": "River",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "セン (sen)",
+    "kunyomi": "かわ (kawa)",
+
+    "fact": "On the final evening of the \"Obon festival\", paper lanterns are floated down rivers during the \"Toro Nagashi\" ceremony to guide the spirits of ancestors on their journey home. Hundreds of glowing lanterns drifting along a river at night create one of Japan's most beautiful summer sights.",
+
+    "memory": "This is one of the easiest kanji to visualize. The shape itself tells a story: flowing water moving through a channel.",
+
+    "words": [
+      {
+        "word": "川",
+        "reading": "かわ",
+        "romaji": "kawa",
+        "meaning": "River"
+      },
+      {
+        "word": "川辺",
+        "reading": "かわべ",
+        "romaji": "kawabe",
+        "meaning": "Riverside"
+      },
+      {
+        "word": "河川",
+        "reading": "かせん",
+        "romaji": "kasen",
+        "meaning": "River system"
+      },
+      {
+        "word": "小川",
+        "reading": "おがわ",
+        "romaji": "ogawa",
+        "meaning": "Small stream"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "川で魚を見ました。",
+      "reading": "かわ で さかな を みました。",
+      "romaji": "kawa de sakana o mimashita",
+      "english": "I saw fish in the river."
+    },
+
+    "seo": [
+      "river kanji meaning",
+      "Japanese river symbol",
+      "how to read 川",
+      "JLPT N5 river kanji",
+      "kanji for river"
+    ],
+
+    "tags": [
+      "nature",
+      "water",
+      "geography"
+    ],
+
+    "relatedKanji": [
+      "山",
+      "水",
+      "魚"
+    ]
+  },
+
+  {
+    "slug": "kanji-rice-field",
+    "kanji": "田",
+    "meaning": "Rice Field",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "デン (den)",
+    "kunyomi": "た (ta)",
+
+    "fact": "Rice Was Once Japan's Currency. For centuries, wealth in Japan wasn't measured only in coins. A lord's power was often measured by how much rice his land could produce. Samurai were frequently paid in rice, and entire domains were ranked according to their harvest.",
+
+    "memory": "The kanji of Rice Field (田)  was inspired by how Rice field looks from a Bird's eye view.",
+
+    "words": [
+      {
+        "word": "田",
+        "reading": "た",
+        "romaji": "ta",
+        "meaning": "Rice field"
+      },
+      {
+        "word": "田舎",
+        "reading": "いなか",
+        "romaji": "inaka",
+        "meaning": "Countryside"
+      },
+      {
+        "word": "水田",
+        "reading": "すいでん",
+        "romaji": "suiden",
+        "meaning": "Rice paddy"
+      },
+      {
+        "word": "田中",
+        "reading": "たなか",
+        "romaji": "tanaka",
+        "meaning": "Tanaka (surname)"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "田で米を育てます。",
+      "reading": "た で こめ を そだてます。",
+      "romaji": "ta de kome o sodatemasu",
+      "english": "Rice is grown in the rice field."
+    },
+
+    "seo": [
+      "rice field kanji meaning",
+      "Japanese agriculture kanji",
+      "how to read 田",
+      "JLPT N5 rice field kanji",
+      "kanji for rice field"
+    ],
+
+    "tags": [
+      "agriculture",
+      "nature",
+      "food"
+    ],
+
+    "relatedKanji": [
+      "米",
+      "土",
+      "山"
+    ]
+  },
+
+  {
+    "slug": "kanji-mouth",
+    "kanji": "口",
+    "meaning": "Mouth",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "コウ (kou), ク (ku)",
+    "kunyomi": "くち (kuchi)",
+
+    "fact": "A Giant fish. According to folklore, a giant catfish called \"Namazu\" lives beneath Japan. When it moves, earthquakes occur. In many old illustrations, Namazu is shown with an enormous mouth capable of swallowing almost anything.",
+
+    "memory": "The square shape looks exactly like an open mouth ready to speak or eat.",
+
+    "words": [
+      {
+        "word": "口",
+        "reading": "くち",
+        "romaji": "kuchi",
+        "meaning": "Mouth"
+      },
+      {
+        "word": "入口",
+        "reading": "いりぐち",
+        "romaji": "iriguchi",
+        "meaning": "Entrance"
+      },
+      {
+        "word": "出口",
+        "reading": "でぐち",
+        "romaji": "deguchi",
+        "meaning": "Exit"
+      },
+      {
+        "word": "人口",
+        "reading": "じんこう",
+        "romaji": "jinkou",
+        "meaning": "Population"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "口を開けてください。",
+      "reading": "くち を あけて ください。",
+      "romaji": "kuchi o akete kudasai",
+      "english": "Please open your mouth."
+    },
+
+    "seo": [
+      "mouth kanji meaning",
+      "Japanese mouth symbol",
+      "how to read 口",
+      "JLPT N5 mouth kanji",
+      "kanji for mouth"
+    ],
+
+    "tags": [
+      "body",
+      "speaking",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "目",
+      "耳",
+      "手"
+    ]
+  },
+
+  {
+    "slug": "kanji-eye",
+    "kanji": "目",
+    "meaning": "Eye",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "モク (moku), ボク (boku)",
+    "kunyomi": "め (me)",
+
+    "fact": "Daruma and the missing eye. A Daruma doll is sold with both eyes blank. After setting a goal, the owner paints in one eye and places the doll somewhere visible. The second eye remains empty until the goal is achieved, quietly serving as a daily reminder that there is still work to be done. The tradition comes from Bodhidharma, the founder of Zen Buddhism, whose image inspired the iconic doll.",
+
+    "memory": "The outer box is the shape of the eye.The lines inside are the eyelids and pupil.",
+
+    "words": [
+      {
+        "word": "目",
+        "reading": "め",
+        "romaji": "me",
+        "meaning": "Eye"
+      },
+      {
+        "word": "目薬",
+        "reading": "めぐすり",
+        "romaji": "megusuri",
+        "meaning": "Eye drops"
+      },
+      {
+        "word": "一目",
+        "reading": "ひとめ",
+        "romaji": "hitome",
+        "meaning": "One glance"
+      },
+      {
+        "word": "目的",
+        "reading": "もくてき",
+        "romaji": "mokuteki",
+        "meaning": "Purpose"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "目が少し痛いです。",
+      "reading": "め が すこし いたい です。",
+      "romaji": "me ga sukoshi itai desu",
+      "english": "My eye hurts a little."
+    },
+
+    "seo": [
+      "eye kanji meaning",
+      "Japanese eye symbol",
+      "how to read 目",
+      "JLPT N5 eye kanji",
+      "kanji for eye"
+    ],
+
+    "tags": [
+      "body",
+      "vision",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "耳",
+      "口",
+      "手"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-ear",
+    "kanji": "耳",
+    "meaning": "Ear",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "ジ (ji)",
+    "kunyomi": "みみ (mimi)",
+
+    "fact": "\"Hoichi the Earless\". One of Japan's most famous ghost stories is about \"Hoichi the Earless\", a blind musician who unknowingly performed for the ghosts of fallen samurai. Monks covered his body with sacred writing to protect him, but forgot his ears. According to the legend, the ghosts could only see the ears—and took them.",
+
+    "memory": "Much like Eye Kanji(目), Outer box with stretch of line on right represents outer ear while inner line suggests ear hole.",
+
+    "words": [
+      {
+        "word": "耳",
+        "reading": "みみ",
+        "romaji": "mimi",
+        "meaning": "Ear"
+      },
+      {
+        "word": "耳鼻科",
+        "reading": "じびか",
+        "romaji": "jibika",
+        "meaning": "Ear, nose and throat clinic"
+      },
+      {
+        "word": "耳元",
+        "reading": "みみもと",
+        "romaji": "mimimoto",
+        "meaning": "Near the ear"
+      },
+      {
+        "word": "両耳",
+        "reading": "りょうみみ",
+        "romaji": "ryoumimi",
+        "meaning": "Both ears"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "音楽を聞くのが好きです。",
+      "reading": "おんがく を きく の が すき です。",
+      "romaji": "ongaku o kiku no ga suki desu",
+      "english": "I like listening to music."
+    },
+
+    "seo": [
+      "ear kanji meaning",
+      "Japanese ear symbol",
+      "how to read 耳",
+      "JLPT N5 ear kanji",
+      "kanji for ear"
+    ],
+
+    "tags": [
+      "body",
+      "hearing",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "目",
+      "口",
+      "手"
+    ]
+  },
+
+  {
+    "slug": "kanji-hand",
+    "kanji": "手",
+    "meaning": "Hand",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "シュ (shu)",
+    "kunyomi": "て (te)",
+
+    "fact": "You've probably seen a \"Maneki-neko\", the famous cat with one paw raised. According to tradition, the raised paw invites customers, good fortune, and wealth. That's why these cats are commonly found in restaurants, shops, and businesses throughout Japan. One waving hand turned a cat into a national icon.",
+
+    "memory": "Picture a hand raised for a high-five. The fingers spread out at the top create the strokes of 手.",
+
+    "words": [
+      {
+        "word": "手",
+        "reading": "て",
+        "romaji": "te",
+        "meaning": "Hand"
+      },
+      {
+        "word": "上手",
+        "reading": "じょうず",
+        "romaji": "jouzu",
+        "meaning": "Skillful"
+      },
+      {
+        "word": "手紙",
+        "reading": "てがみ",
+        "romaji": "tegami",
+        "meaning": "Letter"
+      },
+      {
+        "word": "運転手",
+        "reading": "うんてんしゅ",
+        "romaji": "untenshu",
+        "meaning": "Driver"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "手を洗ってください。",
+      "reading": "て を あらって ください。",
+      "romaji": "te o aratte kudasai",
+      "english": "Please wash your hands."
+    },
+
+    "seo": [
+      "hand kanji meaning",
+      "Japanese hand symbol",
+      "how to read 手",
+      "JLPT N5 hand kanji",
+      "kanji for hand"
+    ],
+
+    "tags": [
+      "body",
+      "actions",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "足",
+      "目",
+      "口"
+    ]
+  },
+
+  {
+    "slug": "kanji-foot-leg",
+    "kanji": "足",
+    "meaning": "Foot, Leg",
+    "jlpt": "N5",
+    "strokes": 7,
+
+    "onyomi": "ソク (soku)",
+    "kunyomi": "あし (ashi), たりる (tariru)",
+
+    "fact": "Fushimi Inari Taisha, Kyoto. Thousands of people visit \"Fushimi Inari Taisha\" every day, yet many never see most of it. Beyond the famous entrance lies a network of mountain trails lined with thousands of red torii gates. Those who keep climbing discover a side of the shrine that many visitors never reach.",
+
+    "memory": "Imagine a chubby person viewed from the side, wearing oversized shoes and taking a pee. That's a shape of Leg Kanji.",
+
+    "words": [
+      {
+        "word": "足",
+        "reading": "あし",
+        "romaji": "ashi",
+        "meaning": "Foot, leg"
+      },
+      {
+        "word": "足りる",
+        "reading": "たりる",
+        "romaji": "tariru",
+        "meaning": "To be enough"
+      },
+      {
+        "word": "足音",
+        "reading": "あしおと",
+        "romaji": "ashioto",
+        "meaning": "Footsteps"
+      },
+      {
+        "word": "不足",
+        "reading": "ふそく",
+        "romaji": "fusoku",
+        "meaning": "Shortage"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "足が疲れました。",
+      "reading": "あし が つかれました。",
+      "romaji": "ashi ga tsukaremashita",
+      "english": "My legs are tired."
+    },
+
+    "seo": [
+      "foot kanji meaning",
+      "leg kanji japanese",
+      "how to read 足",
+      "JLPT N5 foot kanji",
+      "kanji for leg"
+    ],
+
+    "tags": [
+      "body",
+      "movement",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "手",
+      "力",
+      "男"
+    ]
+  },
+
+  {
+    "slug": "kanji-power-strength",
+    "kanji": "力",
+    "meaning": "Power, Strength",
+    "jlpt": "N5",
+    "strokes": 2,
+
+    "onyomi": "リョク (ryoku), リキ (riki)",
+    "kunyomi": "ちから (chikara)",
+
+    "fact": "Among Japan's many legendary monsters, \"Shuten-dōji\" stands out for his extraordinary strength. Feared by both villagers and warriors, the demon became one of the country's most famous villains. According to legend, even after being decapitated in his final battle, Shuten-dōji's severed head continued fighting.",
+
+    "memory": "Determined to carry every grocery bag in one trip, you load them all onto a single arm. As it curves under the weight, it starts to look like 力, a symbol of the strength needed to carry it all.",
+
+    "words": [
+      {
+        "word": "力",
+        "reading": "ちから",
+        "romaji": "chikara",
+        "meaning": "Strength"
+      },
+      {
+        "word": "電力",
+        "reading": "でんりょく",
+        "romaji": "denryoku",
+        "meaning": "Electric power"
+      },
+      {
+        "word": "努力",
+        "reading": "どりょく",
+        "romaji": "doryoku",
+        "meaning": "Effort"
+      },
+      {
+        "word": "能力",
+        "reading": "のうりょく",
+        "romaji": "nouryoku",
+        "meaning": "Ability"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "もっと力を入れてください。",
+      "reading": "もっと ちから を いれて ください。",
+      "romaji": "motto chikara o irete kudasai",
+      "english": "Please use more strength."
+    },
+
+    "seo": [
+      "strength kanji meaning",
+      "power kanji japanese",
+      "how to read 力",
+      "JLPT N5 power kanji",
+      "kanji for strength"
+    ],
+
+    "tags": [
+      "ability",
+      "strength",
+      "energy"
+    ],
+
+    "relatedKanji": [
+      "男",
+      "足",
+      "大"
+    ]
+  },
+
+  {
+    "slug": "kanji-man-male",
+    "kanji": "男",
+    "meaning": "Man, Male",
+    "jlpt": "N5",
+    "strokes": 7,
+
+    "onyomi": "ダン (dan), ナン (nan)",
+    "kunyomi": "おとこ (otoko)",
+
+    "fact": "Every winter, thousands of men take part in \"Hadaka Matsuri\", Japan's famous \"Naked Festival.\" Wearing little more than a traditional loincloth, they brave the cold and push through packed crowds to receive sacred objects believed to bring good fortune. The tradition grew from ancient purification rituals, where enduring hardship was seen as a way to drive away bad luck and begin the year renewed.",
+
+    "memory": "A rice field (田) doesn't plow itself. It takes a man with strength (力) to work it. That's why 田 + 力 = 男.",
+
+    "words": [
+      {
+        "word": "男",
+        "reading": "おとこ",
+        "romaji": "otoko",
+        "meaning": "Man"
+      },
+      {
+        "word": "男の子",
+        "reading": "おとこのこ",
+        "romaji": "otokonoko",
+        "meaning": "Boy"
+      },
+      {
+        "word": "男性",
+        "reading": "だんせい",
+        "romaji": "dansei",
+        "meaning": "Male"
+      },
+      {
+        "word": "長男",
+        "reading": "ちょうなん",
+        "romaji": "chounan",
+        "meaning": "Eldest son"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "あの男の人は先生です。",
+      "reading": "あの おとこ の ひと は せんせい です。",
+      "romaji": "ano otoko no hito wa sensei desu",
+      "english": "That man is a teacher."
+    },
+
+    "seo": [
+      "man kanji meaning",
+      "male kanji japanese",
+      "how to read 男",
+      "JLPT N5 man kanji",
+      "kanji for male"
+    ],
+
+    "tags": [
+      "people",
+      "family",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "女",
+      "子",
+      "人"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-woman-female",
+    "kanji": "女",
+    "meaning": "Woman, Female",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "ジョ (jo), ニョ (nyo)",
+    "kunyomi": "おんな (onna), め (me)",
+
+    "fact": "According to Japanese mythology, the world once lost the sun. \"Amaterasu, the Sun Goddess\", hid herself inside a cave, plunging the world into darkness. The other gods gathered outside and held such a lively celebration that she couldn't resist peeking out to see what was happening.",
+
+    "memory": "女 resembles a ballet dancer bowing gracefully with her arms wide open and legs crossed.",
+
+    "words": [
+      {
+        "word": "女",
+        "reading": "おんな",
+        "romaji": "onna",
+        "meaning": "Woman"
+      },
+      {
+        "word": "女の子",
+        "reading": "おんなのこ",
+        "romaji": "onnanoko",
+        "meaning": "Girl"
+      },
+      {
+        "word": "女性",
+        "reading": "じょせい",
+        "romaji": "josei",
+        "meaning": "Female, woman"
+      },
+      {
+        "word": "長女",
+        "reading": "ちょうじょ",
+        "romaji": "choujo",
+        "meaning": "Eldest daughter"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "あの女の人は医者です。",
+      "reading": "あの おんな の ひと は いしゃ です。",
+      "romaji": "ano onna no hito wa isha desu",
+      "english": "That woman is a doctor."
+    },
+
+    "seo": [
+      "woman kanji meaning",
+      "female kanji japanese",
+      "how to read 女",
+      "JLPT N5 woman kanji",
+      "kanji for female"
+    ],
+
+    "tags": [
+      "people",
+      "family",
+      "society"
+    ],
+
+    "relatedKanji": [
+      "男",
+      "子",
+      "人"
+    ]
+  },
+
+  {
+    "slug": "kanji-child",
+    "kanji": "子",
+    "meaning": "Child",
+    "jlpt": "N5",
+    "strokes": 3,
+
+    "onyomi": "シ (shi), ス (su)",
+    "kunyomi": "こ (ko)",
+
+    "fact": "For much of the 20th century, names like \"Keiko\", \"Yoko\", \"Sachiko\", and \"Akiko\" were extremely common in Japan. They all share the kanji 子. Once considered elegant and refined, the character became one of the most popular name endings for girls and can still be found in many famous Japanese names today.",
+
+    "memory": "A mother lifts her baby into her arms. The baby's round head, tiny body, and outstretched arms create the shape of 子.",
+
+    "words": [
+      {
+        "word": "子",
+        "reading": "こ",
+        "romaji": "ko",
+        "meaning": "Child"
+      },
+      {
+        "word": "子ども",
+        "reading": "こども",
+        "romaji": "kodomo",
+        "meaning": "Child"
+      },
+      {
+        "word": "男の子",
+        "reading": "おとこのこ",
+        "romaji": "otokonoko",
+        "meaning": "Boy"
+      },
+      {
+        "word": "女の子",
+        "reading": "おんなのこ",
+        "romaji": "onnanoko",
+        "meaning": "Girl"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "子どもたちは公園で遊んでいます。",
+      "reading": "こどもたち は こうえん で あそんでいます。",
+      "romaji": "kodomotachi wa kouen de asondeimasu",
+      "english": "The children are playing in the park."
+    },
+
+    "seo": [
+      "child kanji meaning",
+      "Japanese child symbol",
+      "how to read 子",
+      "JLPT N5 child kanji",
+      "kanji for child"
+    ],
+
+    "tags": [
+      "family",
+      "children",
+      "people"
+    ],
+
+    "relatedKanji": [
+      "男",
+      "女",
+      "学"
+    ]
+  },
+
+  {
+    "slug": "kanji-study-learn",
+    "kanji": "学",
+    "meaning": "Study, Learn",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "ガク (gaku)",
+    "kunyomi": "まなぶ (manabu)",
+
+    "fact": "Before important exams, many students eat foods with lucky names. One famous example is \"KitKat\", because its Japanese pronunciation sounds similar to kitto katsu (\"you will surely win\").",
+
+    "memory": "Education illuminates a child's (子) mind. That's 学, the kanji for study.",
+
+    "words": [
+      {
+        "word": "学ぶ",
+        "reading": "まなぶ",
+        "romaji": "manabu",
+        "meaning": "To learn"
+      },
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "romaji": "gakkou",
+        "meaning": "School"
+      },
+      {
+        "word": "学生",
+        "reading": "がくせい",
+        "romaji": "gakusei",
+        "meaning": "Student"
+      },
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "romaji": "daigaku",
+        "meaning": "University"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は日本語を学んでいます。",
+      "reading": "わたし は にほんご を まなんでいます。",
+      "romaji": "watashi wa nihongo o manandeimasu",
+      "english": "I am learning Japanese."
+    },
+
+    "seo": [
+      "study kanji meaning",
+      "learn kanji japanese",
+      "how to read 学",
+      "JLPT N5 study kanji",
+      "kanji for learning"
+    ],
+
+    "tags": [
+      "education",
+      "school",
+      "learning"
+    ],
+
+    "relatedKanji": [
+      "生",
+      "先",
+      "子"
+    ]
+  },
+
+  {
+    "slug": "kanji-before-ahead",
+    "kanji": "先",
+    "meaning": "Before, Ahead, Previous",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "セン (sen)",
+    "kunyomi": "さき (saki)",
+
+    "fact": "The word 先生 (sensei) is often translated as \"teacher,\" but its original meaning is closer to \"someone who was born before.\" The idea isn't that a teacher knows everything—it's that they've walked the path before you. That's why doctors, lawyers, artists, and teachers can all be called sensei in Japan.",
+
+    "memory": "Give a look at this Kanji: 先, The lower part looks like running legs, while the upper part resembles a gear lever. Imagine someone shifting gears and sprinting ahead in a race.",
+
+    "words": [
+      {
+        "word": "先",
+        "reading": "さき",
+        "romaji": "saki",
+        "meaning": "Ahead, before"
+      },
+      {
+        "word": "先生",
+        "reading": "せんせい",
+        "romaji": "sensei",
+        "meaning": "Teacher"
+      },
+      {
+        "word": "先週",
+        "reading": "せんしゅう",
+        "romaji": "senshuu",
+        "meaning": "Last week"
+      },
+      {
+        "word": "先月",
+        "reading": "せんげつ",
+        "romaji": "sengetsu",
+        "meaning": "Last month"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "先に行ってください。",
+      "reading": "さき に いって ください。",
+      "romaji": "saki ni itte kudasai",
+      "english": "Please go ahead."
+    },
+
+    "seo": [
+      "ahead kanji meaning",
+      "before kanji japanese",
+      "how to read 先",
+      "JLPT N5 ahead kanji",
+      "kanji for previous"
+    ],
+
+    "tags": [
+      "time",
+      "position",
+      "education"
+    ],
+
+    "relatedKanji": [
+      "生",
+      "学",
+      "年"
+    ]
+  },
+
+  {
+    "slug": "kanji-life-birth",
+    "kanji": "生",
+    "meaning": "Life, Birth, Live",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "セイ (sei), ショウ (shou)",
+    "kunyomi": "いきる (ikiru), うまれる (umareru), なま (nama)",
+
+    "fact": "In Japanese mythology, \"Sakuya-hime\" became suspiciously pregnant in one night after marrying. To prove the child was truly her husband's, she locked herself inside a hut and set it on fire while giving birth. She declared that if the child belonged to her husband, both mother and baby would survive. She successfully gave birth to three boys in the midst of the fire.  That's why \"Sakuya-hime\" became a goddess associated with childbirth and new life.",
+
+    "memory": "The lower part is 土 (earth), while the top stroke resembles a lever. Pull the lever and life springs out of the earth—forming 生. Meaning Earth is source of Life.",
+
+    "words": [
+      {
+        "word": "先生",
+        "reading": "せんせい",
+        "romaji": "sensei",
+        "meaning": "Teacher"
+      },
+      {
+        "word": "学生",
+        "reading": "がくせい",
+        "romaji": "gakusei",
+        "meaning": "Student"
+      },
+      {
+        "word": "人生",
+        "reading": "じんせい",
+        "romaji": "jinsei",
+        "meaning": "Life"
+      },
+      {
+        "word": "生まれる",
+        "reading": "うまれる",
+        "romaji": "umareru",
+        "meaning": "To be born"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は東京で生まれました。",
+      "reading": "わたし は とうきょう で うまれました。",
+      "romaji": "watashi wa toukyou de umaremashita",
+      "english": "I was born in Tokyo."
+    },
+
+    "seo": [
+      "life kanji meaning",
+      "birth kanji japanese",
+      "how to read 生",
+      "JLPT N5 life kanji",
+      "kanji for life"
+    ],
+
+    "tags": [
+      "life",
+      "education",
+      "people"
+    ],
+
+    "relatedKanji": [
+      "学",
+      "先",
+      "人"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-year",
+    "kanji": "年",
+    "meaning": "Year",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "ネン (nen)",
+    "kunyomi": "とし (toshi)",
+
+    "fact": "Since 1995, every 12th December, Japan has selected a Kanji of the Year (今年の漢字) to reflect the events, mood, and defining themes of the previous twelve months. The winning character is dramatically written with a giant brush at Kiyomizu-dera in Kyoto. In 2024, the chosen kanji was 金 (gold), reflecting Olympic gold medals, new banknotes, and major financial stories. In 2025, the chosen kanji was 熊 (bear), after a year marked by a surge in bear sightings and attacks across Japan, with bears increasingly appearing near towns and residential areas and also return of Four Pandas in China.",
+
+    "memory": "Imagine a man carrying a giant flat-screen TV on his shoulders. Every New Year, he shows up with a brand-new TV.",
+
+    "words": [
+      {
+        "word": "年",
+        "reading": "とし",
+        "romaji": "toshi",
+        "meaning": "Year"
+      },
+      {
+        "word": "今年",
+        "reading": "ことし",
+        "romaji": "kotoshi",
+        "meaning": "This year"
+      },
+      {
+        "word": "来年",
+        "reading": "らいねん",
+        "romaji": "rainen",
+        "meaning": "Next year"
+      },
+      {
+        "word": "去年",
+        "reading": "きょねん",
+        "romaji": "kyonen",
+        "meaning": "Last year"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "今年は日本へ行きます。",
+      "reading": "ことし は にほん へ いきます。",
+      "romaji": "kotoshi wa nihon e ikimasu",
+      "english": "I will go to Japan this year."
+    },
+
+    "seo": [
+      "year kanji meaning",
+      "Japanese year symbol",
+      "how to read 年",
+      "JLPT N5 year kanji",
+      "kanji for year"
+    ],
+
+    "tags": [
+      "time",
+      "calendar",
+      "dates"
+    ],
+
+    "relatedKanji": [
+      "月",
+      "日",
+      "時"
+    ]
+  },
+
+  {
+    "slug": "kanji-time-hour",
+    "kanji": "時",
+    "meaning": "Time, Hour",
+    "jlpt": "N5",
+    "strokes": 10,
+
+    "onyomi": "ジ (ji)",
+    "kunyomi": "とき (toki)",
+
+    "fact": "The kanji 時 contains 寺 (temple) because temples played an important role in marking time for local communities. Long before smartphones and wristwatches, the sound of a bell could tell an entire village that part of the day had begun—or ended.",
+
+    "memory": "Left = Sun (日), Right = Temple (寺). Before modern clocks, Japanese people watched the sun and listened to temple bells to keep track of time.",
+
+    "words": [
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "romaji": "jikan",
+        "meaning": "Time"
+      },
+      {
+        "word": "時計",
+        "reading": "とけい",
+        "romaji": "tokei",
+        "meaning": "Clock"
+      },
+      {
+        "word": "一時",
+        "reading": "いちじ",
+        "romaji": "ichiji",
+        "meaning": "One o'clock"
+      },
+      {
+        "word": "時々",
+        "reading": "ときどき",
+        "romaji": "tokidoki",
+        "meaning": "Sometimes"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "今何時ですか。",
+      "reading": "いま なんじ ですか。",
+      "romaji": "ima nanji desu ka",
+      "english": "What time is it now?"
+    },
+
+    "seo": [
+      "time kanji meaning",
+      "hour kanji japanese",
+      "how to read 時",
+      "JLPT N5 time kanji",
+      "kanji for hour"
+    ],
+
+    "tags": [
+      "time",
+      "clock",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "年",
+      "分",
+      "半"
+    ]
+  },
+
+  {
+    "slug": "kanji-minute-part",
+    "kanji": "分",
+    "meaning": "Minute, Part, Divide",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "フン (fun), ブン (bun), プン (pun)",
+    "kunyomi": "わかる (wakaru)",
+
+    "fact": "Every February, Japanese families celebrate Setsubun (節分) by throwing roasted beans while shouting 'Oni wa soto! Fuku wa uchi!' ('Demons out! Good fortune in!'). The word 節分 means 'seasonal division' and marks the transition from winter to spring according to the traditional Japanese calendar. The bean-throwing ritual symbolically separates bad luck from good fortune.",
+
+    "memory": "Imagine a giant knife cutting an wood bar into two pieces. This Kanji means \"Part\" and \"Minute\" because when you divide hour into smaller parts it becomes Minute.",
+
+    "words": [
+      {
+        "word": "分",
+        "reading": "ふん",
+        "romaji": "fun",
+        "meaning": "Minute"
+      },
+      {
+        "word": "十分",
+        "reading": "じゅっぷん",
+        "romaji": "juppun",
+        "meaning": "Ten minutes"
+      },
+      {
+        "word": "半分",
+        "reading": "はんぶん",
+        "romaji": "hanbun",
+        "meaning": "Half"
+      },
+      {
+        "word": "自分",
+        "reading": "じぶん",
+        "romaji": "jibun",
+        "meaning": "Oneself"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "あと十分待ってください。",
+      "reading": "あと じゅっぷん まって ください。",
+      "romaji": "ato juppun matte kudasai",
+      "english": "Please wait ten more minutes."
+    },
+
+    "seo": [
+      "minute kanji meaning",
+      "Japanese minute symbol",
+      "how to read 分",
+      "JLPT N5 minute kanji",
+      "kanji for minute"
+    ],
+
+    "tags": [
+      "time",
+      "numbers",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "時",
+      "半",
+      "年"
+    ]
+  },
+
+  {
+    "slug": "kanji-half",
+    "kanji": "半",
+    "meaning": "Half",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "ハン (han)",
+    "kunyomi": "なかば (nakaba)",
+
+    "fact": "In many Japanese supermarkets, food items is discounted shortly before closing time. Bento boxes often receive half-price stickers, and regular shoppers, nicknamed \"discount vultures,\" often time their visits perfectly to score these deals.",
+
+    "memory": "A samurai swings his sword once and cleanly cuts a wooden board into two equal pieces. Half remains on each side.",
+
+    "words": [
+      {
+        "word": "半",
+        "reading": "はん",
+        "romaji": "han",
+        "meaning": "Half"
+      },
+      {
+        "word": "半分",
+        "reading": "はんぶん",
+        "romaji": "hanbun",
+        "meaning": "Half"
+      },
+      {
+        "word": "一年半",
+        "reading": "いちねんはん",
+        "romaji": "ichinenhan",
+        "meaning": "One and a half years"
+      },
+      {
+        "word": "二時半",
+        "reading": "にじはん",
+        "romaji": "nijihan",
+        "meaning": "Half past two"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "今は二時半です。",
+      "reading": "いま は にじはん です。",
+      "romaji": "ima wa nijihan desu",
+      "english": "It is now half past two."
+    },
+
+    "seo": [
+      "half kanji meaning",
+      "Japanese half symbol",
+      "how to read 半",
+      "JLPT N5 half kanji",
+      "kanji for half"
+    ],
+
+    "tags": [
+      "time",
+      "quantity",
+      "numbers"
+    ],
+
+    "relatedKanji": [
+      "分",
+      "時",
+      "年"
+    ]
+  },
+
+  {
+    "slug": "kanji-book-origin",
+    "kanji": "本",
+    "meaning": "Book, Origin, Main",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "ホン (hon)",
+    "kunyomi": "もと (moto)",
+
+    "fact": "\"The Tale of Genji\" was written in the early 11th century by Murasaki Shikibu, is often considered the world's first novel. The story follows the life of Prince Genji through romance, rivalry, heartbreak, and court politics. More than 1,000 years later, it remains one of Japan's most celebrated books and is still studied in schools and universities today.",
+
+    "memory": "Kanji 本 is a tree (木) with a line marking its roots. The roots are the origin of the tree. Hence, Kanji 本, meaning origin or root.",
+
+    "words": [
+      {
+        "word": "本",
+        "reading": "ほん",
+        "romaji": "hon",
+        "meaning": "Book"
+      },
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "romaji": "nihon",
+        "meaning": "Japan"
+      },
+      {
+        "word": "本当",
+        "reading": "ほんとう",
+        "romaji": "hontou",
+        "meaning": "Truth, really"
+      },
+      {
+        "word": "一本",
+        "reading": "いっぽん",
+        "romaji": "ippon",
+        "meaning": "One long object"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "本を読んでいます。",
+      "reading": "ほん を よんでいます。",
+      "romaji": "hon o yondeimasu",
+      "english": "I am reading a book."
+    },
+
+    "seo": [
+      "book kanji meaning",
+      "Japanese book symbol",
+      "how to read 本",
+      "JLPT N5 book kanji",
+      "kanji for book"
+    ],
+
+    "tags": [
+      "education",
+      "reading",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "学",
+      "日",
+      "年"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-now-present",
+    "kanji": "今",
+    "meaning": "Now, Present",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "コン (kon), キン (kin)",
+    "kunyomi": "いま (ima)",
+
+    "fact": "One of Japan's most famous expressions is 一期一会 (ichigo ichie), often translated as \n\n'One time, One meeting.' \n\nThe idea is that every encounter happens only once in exactly that form, so it should be appreciated while it's happening. The phrase originated from the Japanese tea ceremony and serves as a reminder to cherish the present moment, because the same meeting can never be perfectly recreated.",
+
+    "memory": "Imagine a person sitting on a bench beneath a temple roof, quietly practicing \"The Art of being present.\" That's 今, the kanji for now.",
+
+    "words": [
+      {
+        "word": "今",
+        "reading": "いま",
+        "romaji": "ima",
+        "meaning": "Now"
+      },
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "romaji": "kyou",
+        "meaning": "Today"
+      },
+      {
+        "word": "今月",
+        "reading": "こんげつ",
+        "romaji": "kongetsu",
+        "meaning": "This month"
+      },
+      {
+        "word": "今年",
+        "reading": "ことし",
+        "romaji": "kotoshi",
+        "meaning": "This year"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "今、勉強しています。",
+      "reading": "いま、べんきょう しています。",
+      "romaji": "ima, benkyou shiteimasu",
+      "english": "I am studying now."
+    },
+
+    "seo": [
+      "now kanji meaning",
+      "present kanji japanese",
+      "how to read 今",
+      "JLPT N5 now kanji",
+      "kanji for now"
+    ],
+
+    "tags": [
+      "time",
+      "daily-life",
+      "common"
+    ],
+
+    "relatedKanji": [
+      "年",
+      "時",
+      "前"
+    ]
+  },
+
+  {
+    "slug": "kanji-what",
+    "kanji": "何",
+    "meaning": "What",
+    "jlpt": "N5",
+    "strokes": 7,
+
+    "onyomi": "カ (ka)",
+    "kunyomi": "なに (nani), なん (nan)",
+
+    "fact": "Japan's Ōkunoshima, famously known as \"Rabbit Island,\" is home to hundreds of free-roaming rabbits. Yet one question remains: where did they all come from? Many visitors assume they are descendants of animals used at the island's wartime poison gas facility, but historians largely reject that theory. The most likely explanation is much simpler: a handful of rabbits released decades ago multiplied into the rabbit-filled island seen today.",
+
+    "memory": "A Person slightly opens the Box, and find another box inside and shouts in dramatic anime sound, Naniii !! \n\nBonus: 亻 is another common radical of person kanji.",
+
+    "words": [
+      {
+        "word": "何",
+        "reading": "なに",
+        "romaji": "nani",
+        "meaning": "What"
+      },
+      {
+        "word": "何人",
+        "reading": "なんにん",
+        "romaji": "nannin",
+        "meaning": "How many people"
+      },
+      {
+        "word": "何時",
+        "reading": "なんじ",
+        "romaji": "nanji",
+        "meaning": "What time"
+      },
+      {
+        "word": "何曜日",
+        "reading": "なんようび",
+        "romaji": "nanyoubi",
+        "meaning": "What day of the week"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "何を食べますか。",
+      "reading": "なに を たべますか。",
+      "romaji": "nani o tabemasu ka",
+      "english": "What will you eat?"
+    },
+
+    "seo": [
+      "what kanji meaning",
+      "Japanese question kanji",
+      "how to read 何",
+      "JLPT N5 what kanji",
+      "kanji for what"
+    ],
+
+    "tags": [
+      "questions",
+      "conversation",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "今",
+      "時",
+      "人"
+    ]
+  },
+
+  {
+    "slug": "kanji-noon",
+    "kanji": "午",
+    "meaning": "Noon",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "ゴ (go)",
+    "kunyomi": "",
+
+    "fact": "Kanji 午 originally referred to the Horse zodiac sign. In the traditional East Asian zodiac system, every two-hour period of the day was assigned an animal. The period from roughly 11 a.m. to 1 p.m. belonged to the Horse, which is why noon is still written using this kanji today.",
+
+    "memory": "The shape looks like a bell mounted on a pole. When it rings, everyone knows it's noon and time for lunch. That's 午.",
+
+    "words": [
+      {
+        "word": "午前",
+        "reading": "ごぜん",
+        "romaji": "gozen",
+        "meaning": "AM, before noon"
+      },
+      {
+        "word": "午後",
+        "reading": "ごご",
+        "romaji": "gogo",
+        "meaning": "PM, afternoon"
+      },
+      {
+        "word": "正午",
+        "reading": "しょうご",
+        "romaji": "shougo",
+        "meaning": "Noon"
+      },
+      {
+        "word": "午睡",
+        "reading": "ごすい",
+        "romaji": "gosui",
+        "meaning": "Nap"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "会議は午後一時です。",
+      "reading": "かいぎ は ごご いちじ です。",
+      "romaji": "kaigi wa gogo ichiji desu",
+      "english": "The meeting is at 1 PM."
+    },
+
+    "seo": [
+      "noon kanji meaning",
+      "Japanese noon symbol",
+      "how to read 午",
+      "JLPT N5 noon kanji",
+      "kanji for noon"
+    ],
+
+    "tags": [
+      "time",
+      "clock",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "前",
+      "後",
+      "時"
+    ]
+  },
+
+  {
+    "slug": "kanji-before-front",
+    "kanji": "前",
+    "meaning": "Before, Front",
+    "jlpt": "N5",
+    "strokes": 9,
+
+    "onyomi": "ゼン (zen)",
+    "kunyomi": "まえ (mae)",
+
+    "fact": "Before entering an onsen(Japanese hot spring) or a bathtub in house or  a public baths, bathers are expected to thoroughly wash themselves. For many first-time visitors, this can be surprising because the cleaning happens before entering the bath rather than after.",
+
+    "memory": "The bottom part looks like legs. The person has pushed all the way to the front of the queue and is now standing ahead of everyone else. That's 前.",
+
+    "words": [
+      {
+        "word": "前",
+        "reading": "まえ",
+        "romaji": "mae",
+        "meaning": "Front"
+      },
+      {
+        "word": "午前",
+        "reading": "ごぜん",
+        "romaji": "gozen",
+        "meaning": "AM"
+      },
+      {
+        "word": "名前",
+        "reading": "なまえ",
+        "romaji": "namae",
+        "meaning": "Name"
+      },
+      {
+        "word": "駅前",
+        "reading": "えきまえ",
+        "romaji": "ekimae",
+        "meaning": "In front of the station"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "学校の前に店があります。",
+      "reading": "がっこう の まえ に みせ が あります。",
+      "romaji": "gakkou no mae ni mise ga arimasu",
+      "english": "There is a shop in front of the school."
+    },
+
+    "seo": [
+      "before kanji meaning",
+      "front kanji japanese",
+      "how to read 前",
+      "JLPT N5 front kanji",
+      "kanji for before"
+    ],
+
+    "tags": [
+      "position",
+      "time",
+      "location"
+    ],
+
+    "relatedKanji": [
+      "後",
+      "今",
+      "午"
+    ]
+  },
+
+  {
+    "slug": "kanji-after-behind",
+    "kanji": "後",
+    "meaning": "After, Behind",
+    "jlpt": "N5",
+    "strokes": 9,
+
+    "onyomi": "ゴ (go), コウ (kou)",
+    "kunyomi": "あと (ato), うしろ (ushiro)",
+
+    "fact": "When the atomic bomb was dropped on Hiroshima, thousands of buildings were destroyed. Only One structure that remained standing near the hypocenter was the skeletal dome of the former Industrial Promotion Hall.\n\nToday, the building's skeletal remains have been preserved as the \"Hiroshima Peace Memorial\", serving as a powerful reminder of what endured after the devastation and becoming one of Japan's most significant historical landmarks.",
+
+    "memory": "The left side looks like an ancient walking stick. On the right is a striped saint with tiny legs moving slowly. Everyone follows behind him, creating 後, the kanji for behind or after.",
+
+    "words": [
+      {
+        "word": "後",
+        "reading": "あと",
+        "romaji": "ato",
+        "meaning": "After"
+      },
+      {
+        "word": "午後",
+        "reading": "ごご",
+        "romaji": "gogo",
+        "meaning": "PM"
+      },
+      {
+        "word": "後ろ",
+        "reading": "うしろ",
+        "romaji": "ushiro",
+        "meaning": "Behind"
+      },
+      {
+        "word": "最後",
+        "reading": "さいご",
+        "romaji": "saigo",
+        "meaning": "Last"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "授業の後で会いましょう。",
+      "reading": "じゅぎょう の あと で あいましょう。",
+      "romaji": "jugyou no ato de aimashou",
+      "english": "Let's meet after class."
+    },
+
+    "seo": [
+      "after kanji meaning",
+      "behind kanji japanese",
+      "how to read 後",
+      "JLPT N5 after kanji",
+      "kanji for behind"
+    ],
+
+    "tags": [
+      "time",
+      "position",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "前",
+      "午",
+      "時"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-every",
+    "kanji": "毎",
+    "meaning": "Every",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "マイ (mai)",
+    "kunyomi": "",
+
+    "fact": "\"NHK Radio Calisthenics.\" Every summer morning, parks across Japan fill with children, parents, and elderly residents performing Radio Calisthenics (ラジオ体操) together. The exercises have been broadcast for nearly a century, and many Japanese people can perform them from memory. For some, it's one of the first routines they repeat every day.",
+
+    "memory": "The middle part resembles a rice field. A farmer walks past it every single day, leaving a well-worn path behind him. That's 毎, meaning every.",
+
+    "words": [
+      {
+        "word": "毎日",
+        "reading": "まいにち",
+        "romaji": "mainichi",
+        "meaning": "Every day"
+      },
+      {
+        "word": "毎週",
+        "reading": "まいしゅう",
+        "romaji": "maishuu",
+        "meaning": "Every week"
+      },
+      {
+        "word": "毎月",
+        "reading": "まいつき",
+        "romaji": "maitsuki",
+        "meaning": "Every month"
+      },
+      {
+        "word": "毎年",
+        "reading": "まいとし",
+        "romaji": "maitoshi",
+        "meaning": "Every year"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は毎日日本語を勉強します。",
+      "reading": "わたし は まいにち にほんご を べんきょうします。",
+      "romaji": "watashi wa mainichi nihongo o benkyou shimasu",
+      "english": "I study Japanese every day."
+    },
+
+    "seo": [
+      "every kanji meaning",
+      "Japanese every symbol",
+      "how to read 毎",
+      "JLPT N5 every kanji",
+      "kanji for every"
+    ],
+
+    "tags": [
+      "time",
+      "daily-life",
+      "schedule"
+    ],
+
+    "relatedKanji": [
+      "日",
+      "週",
+      "年"
+    ]
+  },
+
+  {
+    "slug": "kanji-week",
+    "kanji": "週",
+    "meaning": "Week",
+    "jlpt": "N5",
+    "strokes": 11,
+
+    "onyomi": "シュウ (shuu)",
+    "kunyomi": "",
+
+    "fact": "In Japanese folklore, the \"Seven Lucky Gods (七福神)\" sail into the New Year aboard a treasure ship called the \"Takarabune\". Each god brings a different blessing, such as wealth, happiness, wisdom, or long life. For centuries, people have welcomed their arrival as a symbol of good fortune for the year ahead, helping make the number seven one of Japan's most auspicious numbers.",
+
+    "memory": "Imagine a snail carrying a giant shell loaded with a box and weight on its back. It takes \"Weeks\" to deliver the Box.",
+
+    "words": [
+      {
+        "word": "週",
+        "reading": "しゅう",
+        "romaji": "shuu",
+        "meaning": "Week"
+      },
+      {
+        "word": "毎週",
+        "reading": "まいしゅう",
+        "romaji": "maishuu",
+        "meaning": "Every week"
+      },
+      {
+        "word": "今週",
+        "reading": "こんしゅう",
+        "romaji": "konshuu",
+        "meaning": "This week"
+      },
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "romaji": "raishuu",
+        "meaning": "Next week"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "来週東京へ行きます。",
+      "reading": "らいしゅう とうきょう へ いきます。",
+      "romaji": "raishuu toukyou e ikimasu",
+      "english": "I will go to Tokyo next week."
+    },
+
+    "seo": [
+      "week kanji meaning",
+      "Japanese week symbol",
+      "how to read 週",
+      "JLPT N5 week kanji",
+      "kanji for week"
+    ],
+
+    "tags": [
+      "time",
+      "calendar",
+      "schedule"
+    ],
+
+    "relatedKanji": [
+      "毎",
+      "日",
+      "年"
+    ]
+  },
+
+  {
+    "slug": "kanji-between-interval",
+    "kanji": "間",
+    "meaning": "Between, Interval, Space",
+    "jlpt": "N5",
+    "strokes": 12,
+
+    "onyomi": "カン (kan), ケン (ken)",
+    "kunyomi": "あいだ (aida), ま (ma)",
+
+    "fact": "\"The Art of Empty Space.\" One of Japan's most influential artistic concepts is 間 (ma), often translated as \"space\" or \"pause.\" It appears in architecture, gardens, music, theater, and even conversation. The idea is that empty space isn't wasted space—it gives meaning to everything around it.",
+
+    "memory": "The outer character is 門 (gate), while the inner character is 日 (sun). Imagine the sun shining through the gap between Torii Gate. The space between them forms 間(ma), meaning between or space.",
+
+    "words": [
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "romaji": "jikan",
+        "meaning": "Time"
+      },
+      {
+        "word": "人間",
+        "reading": "にんげん",
+        "romaji": "ningen",
+        "meaning": "Human being"
+      },
+      {
+        "word": "間",
+        "reading": "あいだ",
+        "romaji": "aida",
+        "meaning": "Between"
+      },
+      {
+        "word": "一週間",
+        "reading": "いっしゅうかん",
+        "romaji": "isshuukan",
+        "meaning": "One week"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "授業の間は静かにしてください。",
+      "reading": "じゅぎょう の あいだ は しずか に してください。",
+      "romaji": "jugyou no aida wa shizuka ni shite kudasai",
+      "english": "Please be quiet during class."
+    },
+
+    "seo": [
+      "between kanji meaning",
+      "space kanji japanese",
+      "how to read 間",
+      "JLPT N5 interval kanji",
+      "kanji for between"
+    ],
+
+    "tags": [
+      "time",
+      "space",
+      "location"
+    ],
+
+    "relatedKanji": [
+      "時",
+      "週",
+      "人"
+    ]
+  },
+
+  {
+    "slug": "kanji-east",
+    "kanji": "東",
+    "meaning": "East",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "トウ (tou)",
+    "kunyomi": "ひがし (higashi)",
+
+    "fact": "The name Tokyo (東京) tells a story in just two kanji. 東 means \"east\" and 京 means \"capital.\" When Japan's capital moved from Kyoto to Tokyo in the 19th century, the city's new name reflected its new role: the Eastern Capital.",
+
+    "memory": "The Morning Sun(日) rising behind a tree in the \"East.\"",
+
+    "words": [
+      {
+        "word": "東",
+        "reading": "ひがし",
+        "romaji": "higashi",
+        "meaning": "East"
+      },
+      {
+        "word": "東京",
+        "reading": "とうきょう",
+        "romaji": "toukyou",
+        "meaning": "Tokyo"
+      },
+      {
+        "word": "東口",
+        "reading": "ひがしぐち",
+        "romaji": "higashiguchi",
+        "meaning": "East exit"
+      },
+      {
+        "word": "東日本",
+        "reading": "ひがしにほん",
+        "romaji": "higashi nihon",
+        "meaning": "Eastern Japan"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "東京は日本の東にあります。",
+      "reading": "とうきょう は にほん の ひがし に あります。",
+      "romaji": "toukyou wa nihon no higashi ni arimasu",
+      "english": "Tokyo is in eastern Japan."
+    },
+
+    "seo": [
+      "east kanji meaning",
+      "Japanese east symbol",
+      "how to read 東",
+      "JLPT N5 east kanji",
+      "kanji for east"
+    ],
+
+    "tags": [
+      "direction",
+      "geography",
+      "travel"
+    ],
+
+    "relatedKanji": [
+      "西",
+      "南",
+      "北"
+    ]
+  },
+
+  {
+    "slug": "kanji-west",
+    "kanji": "西",
+    "meaning": "West",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "セイ (sei), サイ (sai)",
+    "kunyomi": "にし (nishi)",
+
+    "fact": "As evening approaches, visitors begin gathering along the shore of Itsukushima Shrine. Slowly, the sky shifts from blue to orange as the sun sinks behind the shrine's famous floating torii gate. For a few minutes, the gate appears silhouetted against the glowing horizon, creating one of Japan's most iconic sunset views.",
+
+    "memory": "Imagine looking through a square window as the Sun(日) slowly disappears beyond the horizon in West.",
+
+    "words": [
+      {
+        "word": "西",
+        "reading": "にし",
+        "romaji": "nishi",
+        "meaning": "West"
+      },
+      {
+        "word": "関西",
+        "reading": "かんさい",
+        "romaji": "kansai",
+        "meaning": "Kansai region"
+      },
+      {
+        "word": "西口",
+        "reading": "にしぐち",
+        "romaji": "nishiguchi",
+        "meaning": "West exit"
+      },
+      {
+        "word": "西日本",
+        "reading": "にしにほん",
+        "romaji": "nishi nihon",
+        "meaning": "Western Japan"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "太陽は西に沈みます。",
+      "reading": "たいよう は にし に しずみます。",
+      "romaji": "taiyou wa nishi ni shizumimasu",
+      "english": "The sun sets in the west."
+    },
+
+    "seo": [
+      "west kanji meaning",
+      "Japanese west symbol",
+      "how to read 西",
+      "JLPT N5 west kanji",
+      "kanji for west"
+    ],
+
+    "tags": [
+      "direction",
+      "geography",
+      "travel"
+    ],
+
+    "relatedKanji": [
+      "東",
+      "南",
+      "北"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-exit-leave",
+    "kanji": "出",
+    "meaning": "Exit, Leave, Go Out",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "シュツ (shutsu), スイ (sui)",
+    "kunyomi": "でる (deru), だす (dasu)",
+
+    "fact": "The world's busiest railway station, \"Shinjuku Station\", has 200+ exits that first-time visitors can easily end up in a completely different part of the city than intended. Choosing the right exit here just as important as choosing the right train.",
+
+    "memory": "Imagine something pushing upward out of a box. The object is coming out.",
+
+    "words": [
+      {
+        "word": "出る",
+        "reading": "でる",
+        "romaji": "deru",
+        "meaning": "To leave, come out"
+      },
+      {
+        "word": "出口",
+        "reading": "でぐち",
+        "romaji": "deguchi",
+        "meaning": "Exit"
+      },
+      {
+        "word": "出発",
+        "reading": "しゅっぱつ",
+        "romaji": "shuppatsu",
+        "meaning": "Departure"
+      },
+      {
+        "word": "外出",
+        "reading": "がいしゅつ",
+        "romaji": "gaishutsu",
+        "meaning": "Going out"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は七時に家を出ます。",
+      "reading": "わたし は しちじ に いえ を でます。",
+      "romaji": "watashi wa shichiji ni ie o demasu",
+      "english": "I leave home at seven o'clock."
+    },
+
+    "seo": [
+      "exit kanji meaning",
+      "leave kanji japanese",
+      "how to read 出",
+      "JLPT N5 exit kanji",
+      "kanji for leave"
+    ],
+
+    "tags": [
+      "movement",
+      "travel",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "入",
+      "行",
+      "帰"
+    ]
+  },
+
+  {
+    "slug": "kanji-see-look",
+    "kanji": "見",
+    "meaning": "See, Look",
+    "jlpt": "N5",
+    "strokes": 7,
+
+    "onyomi": "ケン (ken)",
+    "kunyomi": "みる (miru), みえる (mieru)",
+
+    "fact": "Every autumn, some Japanese families celebrate \"Tsukimi (月見)\", or \"moon viewing.\" People gather to admire the harvest moon, decorate with pampas grass, and eat special rice dumplings called tsukimi dango. Unlike many festivals, there isn't much to do—the entire event revolves around simply looking at the moon.",
+
+    "memory": "The upper part resembles an eye(目) and the lower part resembles legs. Someone stood up to \"See\" or \"Look\" something clearly.",
+
+    "words": [
+      {
+        "word": "見る",
+        "reading": "みる",
+        "romaji": "miru",
+        "meaning": "To see"
+      },
+      {
+        "word": "見学",
+        "reading": "けんがく",
+        "romaji": "kengaku",
+        "meaning": "Study tour"
+      },
+      {
+        "word": "意見",
+        "reading": "いけん",
+        "romaji": "iken",
+        "meaning": "Opinion"
+      },
+      {
+        "word": "見せる",
+        "reading": "みせる",
+        "romaji": "miseru",
+        "meaning": "To show"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "昨日映画を見ました。",
+      "reading": "きのう えいが を みました。",
+      "romaji": "kinou eiga o mimashita",
+      "english": "I watched a movie yesterday."
+    },
+
+    "seo": [
+      "see kanji meaning",
+      "look kanji japanese",
+      "how to read 見",
+      "JLPT N5 see kanji",
+      "kanji for look"
+    ],
+
+    "tags": [
+      "actions",
+      "vision",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "目",
+      "行",
+      "来"
+    ]
+  },
+
+  {
+    "slug": "kanji-go",
+    "kanji": "行",
+    "meaning": "Go",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "コウ (kou), ギョウ (gyou)",
+    "kunyomi": "いく (iku), ゆく (yuku), おこなう (okonau)",
+
+    "fact": "Most train stations are built to take people somewhere. \"Seiryu Miharashi Station\" was built for the opposite reason. Opened in 2019, the station sits beside a scenic river with no roads, no nearby town, and no ticket gate. Trains stop there simply so passengers can step off, enjoy the view, and then continue their journey. The only way to arrive is by train—and the only thing waiting for you is the scenery. It's almost as if the kanji 行 is quietly telling you: \"go,\" enjoy the view, and keep moving forward.",
+
+    "memory": "The kanji looks like two roads crossing each other. Roads are made for going places, giving us 行, meaning go.",
+
+    "words": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "romaji": "iku",
+        "meaning": "To go"
+      },
+      {
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "romaji": "ginkou",
+        "meaning": "Bank"
+      },
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "romaji": "ryokou",
+        "meaning": "Travel"
+      },
+      {
+        "word": "行事",
+        "reading": "ぎょうじ",
+        "romaji": "gyouji",
+        "meaning": "Event"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "明日学校へ行きます。",
+      "reading": "あした がっこう へ いきます。",
+      "romaji": "ashita gakkou e ikimasu",
+      "english": "I will go to school tomorrow."
+    },
+
+    "seo": [
+      "go kanji meaning",
+      "travel kanji japanese",
+      "how to read 行",
+      "JLPT N5 go kanji",
+      "kanji for go"
+    ],
+
+    "tags": [
+      "movement",
+      "travel",
+      "actions"
+    ],
+
+    "relatedKanji": [
+      "来",
+      "帰",
+      "出"
+    ]
+  },
+
+  {
+    "slug": "kanji-come-arrive",
+    "kanji": "来",
+    "meaning": "Come, Arrive",
+    "jlpt": "N5",
+    "strokes": 7,
+
+    "onyomi": "ライ (rai)",
+    "kunyomi": "くる (kuru), きたる (kitaru)",
+
+    "fact": "When \"Godzilla\" first appeared in 1954, audiences weren't just watching a giant monster movie. Godzilla's arrival in Tokyo reflected fears surrounding nuclear weapons and postwar anxieties. The film became an instant cultural phenomenon, and more than seventy years later, Godzilla is still making dramatic appearances",
+
+    "memory": "A tree(木) below the earth(土) and brings out two hands to come out. The tree is coming. That's 来.",
+
+    "words": [
+      {
+        "word": "来る",
+        "reading": "くる",
+        "romaji": "kuru",
+        "meaning": "To come"
+      },
+      {
+        "word": "来年",
+        "reading": "らいねん",
+        "romaji": "rainen",
+        "meaning": "Next year"
+      },
+      {
+        "word": "来月",
+        "reading": "らいげつ",
+        "romaji": "raigetsu",
+        "meaning": "Next month"
+      },
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "romaji": "raishuu",
+        "meaning": "Next week"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "友達が家に来ます。",
+      "reading": "ともだち が いえ に きます。",
+      "romaji": "tomodachi ga ie ni kimasu",
+      "english": "My friend is coming to my house."
+    },
+
+    "seo": [
+      "come kanji meaning",
+      "arrive kanji japanese",
+      "how to read 来",
+      "JLPT N5 come kanji",
+      "kanji for arrive"
+    ],
+
+    "tags": [
+      "movement",
+      "travel",
+      "time"
+    ],
+
+    "relatedKanji": [
+      "行",
+      "帰",
+      "年"
+    ]
+  },
+
+  {
+    "slug": "kanji-return-home",
+    "kanji": "帰",
+    "meaning": "Return, Go Home",
+    "jlpt": "N5",
+    "strokes": 10,
+
+    "onyomi": "キ (ki)",
+    "kunyomi": "かえる (kaeru), かえす (kaesu)",
+
+    "fact": "During \"Obon Festival\", many Japanese families believe the spirits of their ancestors return home for a brief visit. Lanterns are lit to guide them back, and families gather to honor those who came before them. At the end of the festival, floating lanterns help guide the spirits on their journey back.",
+
+    "memory": "The left side looks like a sword. The right side looks like a house. After seeing a sword, you decide it's best to return home. That's 帰, meaning return.",
+
+    "words": [
+      {
+        "word": "帰る",
+        "reading": "かえる",
+        "romaji": "kaeru",
+        "meaning": "To return home"
+      },
+      {
+        "word": "帰国",
+        "reading": "きこく",
+        "romaji": "kikoku",
+        "meaning": "Return to one's country"
+      },
+      {
+        "word": "帰宅",
+        "reading": "きたく",
+        "romaji": "kitaku",
+        "meaning": "Return home"
+      },
+      {
+        "word": "帰り道",
+        "reading": "かえりみち",
+        "romaji": "kaerimichi",
+        "meaning": "Way home"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は午後六時に帰ります。",
+      "reading": "わたし は ごご ろくじ に かえります。",
+      "romaji": "watashi wa gogo rokuji ni kaerimasu",
+      "english": "I return home at 6 PM."
+    },
+
+    "seo": [
+      "return kanji meaning",
+      "go home kanji japanese",
+      "how to read 帰",
+      "JLPT N5 return kanji",
+      "kanji for go home"
+    ],
+
+    "tags": [
+      "movement",
+      "travel",
+      "home"
+    ],
+
+    "relatedKanji": [
+      "行",
+      "来",
+      "出"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-eat-food",
+    "kanji": "食",
+    "meaning": "Eat, Food",
+    "jlpt": "N5",
+    "strokes": 9,
+
+    "onyomi": "ショク (shoku), ジキ (jiki)",
+    "kunyomi": "たべる (taberu), くう (kuu)",
+
+    "fact": "In Japan, prisoners on death row can request a final meal before their execution. Historical records show requests ranging from simple bowls of rice to surprisingly ordinary comfort foods. Faced with one last chance to eat, many people choose familiar meals rather than luxury dishes.",
+
+    "memory": "The top is a buffet lid. The bottom is a mountain of food. The moment the lid opens, everyone charges forward. That's 食.",
+
+    "words": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "romaji": "taberu",
+        "meaning": "To eat"
+      },
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "romaji": "shokuji",
+        "meaning": "Meal"
+      },
+      {
+        "word": "朝食",
+        "reading": "ちょうしょく",
+        "romaji": "choushoku",
+        "meaning": "Breakfast"
+      },
+      {
+        "word": "食堂",
+        "reading": "しょくどう",
+        "romaji": "shokudou",
+        "meaning": "Cafeteria"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は毎朝パンを食べます。",
+      "reading": "わたし は まいあさ パン を たべます。",
+      "romaji": "watashi wa maiasa pan o tabemasu",
+      "english": "I eat bread every morning."
+    },
+
+    "seo": [
+      "eat kanji meaning",
+      "food kanji japanese",
+      "how to read 食",
+      "JLPT N5 food kanji",
+      "kanji for eat"
+    ],
+
+    "tags": [
+      "food",
+      "daily-life",
+      "verbs"
+    ],
+
+    "relatedKanji": [
+      "飲",
+      "買",
+      "米"
+    ]
+  },
+
+  {
+    "slug": "kanji-drink",
+    "kanji": "飲",
+    "meaning": "Drink",
+    "jlpt": "N5",
+    "strokes": 12,
+
+    "onyomi": "イン (in)",
+    "kunyomi": "のむ (nomu)",
+
+    "fact": "In the 1500s, the tea master \"Sen no Rikyū\" transformed the Japanese tea ceremony into an art form. His influence became so great that even powerful warlords sought his advice. According to tradition, before taking his own life, Rikyū performed one final tea ceremony—making a simple cup of tea part of one of Japan's most famous historical stories.",
+
+    "memory": "With Great food(食), every one need a good drink on their Right.",
+
+    "words": [
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "romaji": "nomu",
+        "meaning": "To drink"
+      },
+      {
+        "word": "飲み物",
+        "reading": "のみもの",
+        "romaji": "nomimono",
+        "meaning": "Drink, beverage"
+      },
+      {
+        "word": "飲食店",
+        "reading": "いんしょくてん",
+        "romaji": "inshokuten",
+        "meaning": "Restaurant"
+      },
+      {
+        "word": "飲料水",
+        "reading": "いんりょうすい",
+        "romaji": "inryousui",
+        "meaning": "Drinking water"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は水をたくさん飲みます。",
+      "reading": "わたし は みず を たくさん のみます。",
+      "romaji": "watashi wa mizu o takusan nomimasu",
+      "english": "I drink a lot of water."
+    },
+
+    "seo": [
+      "drink kanji meaning",
+      "Japanese drink symbol",
+      "how to read 飲",
+      "JLPT N5 drink kanji",
+      "kanji for drink"
+    ],
+
+    "tags": [
+      "food",
+      "daily-life",
+      "verbs"
+    ],
+
+    "relatedKanji": [
+      "食",
+      "水",
+      "茶"
+    ]
+  },
+
+  {
+    "slug": "kanji-buy",
+    "kanji": "買",
+    "meaning": "Buy",
+    "jlpt": "N5",
+    "strokes": 12,
+
+    "onyomi": "バイ (bai)",
+    "kunyomi": "かう (kau)",
+
+    "fact": "You can buy a house in Japan for just \"1 yen (less than 1 U.S. cent)\". While it sounds unbelievable, some abandoned homes in rural areas have been listed at this symbolic price as part of Japan's growing akiya (empty house) problem. As younger generations move to larger cities, thousands of homes are left vacant. The purchase price may be almost nothing.",
+
+    "memory": "Your eyes(目) likes something and you add it in your cart box one by one.",
+
+    "words": [
+      {
+        "word": "買う",
+        "reading": "かう",
+        "romaji": "kau",
+        "meaning": "To buy"
+      },
+      {
+        "word": "買い物",
+        "reading": "かいもの",
+        "romaji": "kaimono",
+        "meaning": "Shopping"
+      },
+      {
+        "word": "売買",
+        "reading": "ばいばい",
+        "romaji": "baibai",
+        "meaning": "Buying and selling"
+      },
+      {
+        "word": "購入",
+        "reading": "こうにゅう",
+        "romaji": "kounyuu",
+        "meaning": "Purchase"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は本を買いました。",
+      "reading": "わたし は ほん を かいました。",
+      "romaji": "watashi wa hon o kaimashita",
+      "english": "I bought a book."
+    },
+
+    "seo": [
+      "buy kanji meaning",
+      "shopping kanji japanese",
+      "how to read 買",
+      "JLPT N5 buy kanji",
+      "kanji for purchase"
+    ],
+
+    "tags": [
+      "shopping",
+      "money",
+      "verbs"
+    ],
+
+    "relatedKanji": [
+      "金",
+      "円",
+      "食"
+    ]
+  },
+
+  {
+    "slug": "kanji-read",
+    "kanji": "読",
+    "meaning": "Read",
+    "jlpt": "N5",
+    "strokes": 14,
+
+    "onyomi": "ドク (doku)",
+    "kunyomi": "よむ (yomu)",
+
+    "fact": "Japan is famous for its vending machines, but drinks aren't the only thing they've sold. In the past, some train stations had vending machines stocked with books and manga, allowing travelers to pick up something to read before their journey. In few places could you buy both a drink and a new story from neighboring machines.",
+
+    "memory": "The left side is 言 (words), and the right side is 売 (sell). Someone is selling words in the form of a book. To enjoy those words, you have to read. That's 読.",
+
+    "words": [
+      {
+        "word": "読む",
+        "reading": "よむ",
+        "romaji": "yomu",
+        "meaning": "To read"
+      },
+      {
+        "word": "読書",
+        "reading": "どくしょ",
+        "romaji": "dokusho",
+        "meaning": "Reading books"
+      },
+      {
+        "word": "音読",
+        "reading": "おんどく",
+        "romaji": "ondoku",
+        "meaning": "Reading aloud"
+      },
+      {
+        "word": "愛読",
+        "reading": "あいどく",
+        "romaji": "aidoku",
+        "meaning": "Favorite reading"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "毎日本を読みます。",
+      "reading": "まいにち ほん を よみます。",
+      "romaji": "mainichi hon o yomimasu",
+      "english": "I read a book every day."
+    },
+
+    "seo": [
+      "read kanji meaning",
+      "Japanese reading symbol",
+      "how to read 読",
+      "JLPT N5 read kanji",
+      "kanji for read"
+    ],
+
+    "tags": [
+      "education",
+      "books",
+      "verbs"
+    ],
+
+    "relatedKanji": [
+      "書",
+      "本",
+      "学"
+    ]
+  },
+
+  {
+    "slug": "kanji-write-book",
+    "kanji": "書",
+    "meaning": "Write, Writing",
+    "jlpt": "N5",
+    "strokes": 10,
+
+    "onyomi": "ショ (sho)",
+    "kunyomi": "かく (kaku)",
+
+    "fact": "At shrines across Japan, visitors write wishes and prayers on small wooden plaques called \"ema (絵馬).\" Thousands of handwritten messages hang side by side, ranging from exam hopes and career goals to surprisingly specific requests. Together they form a unique collection of dreams written by ordinary people.",
+
+    "memory": "You write many lines in a day(日) that you fill page top to bottom.",
+
+    "words": [
+      {
+        "word": "書く",
+        "reading": "かく",
+        "romaji": "kaku",
+        "meaning": "To write"
+      },
+      {
+        "word": "読書",
+        "reading": "どくしょ",
+        "romaji": "dokusho",
+        "meaning": "Reading books"
+      },
+      {
+        "word": "辞書",
+        "reading": "じしょ",
+        "romaji": "jisho",
+        "meaning": "Dictionary"
+      },
+      {
+        "word": "書店",
+        "reading": "しょてん",
+        "romaji": "shoten",
+        "meaning": "Bookstore"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "名前を書いてください。",
+      "reading": "なまえ を かいて ください。",
+      "romaji": "namae o kaite kudasai",
+      "english": "Please write your name."
+    },
+
+    "seo": [
+      "write kanji meaning",
+      "Japanese writing symbol",
+      "how to read 書",
+      "JLPT N5 write kanji",
+      "kanji for write"
+    ],
+
+    "tags": [
+      "education",
+      "writing",
+      "verbs"
+    ],
+
+    "relatedKanji": [
+      "読",
+      "本",
+      "学"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-hear-listen",
+    "kanji": "聞",
+    "meaning": "Hear, Listen, Ask",
+    "jlpt": "N5",
+    "strokes": 14,
+
+    "onyomi": "ブン (bun), モン (mon)",
+    "kunyomi": "きく (kiku)",
+
+    "fact": "Some old Japanese castles and temples were built with \"nightingale floors (鶯張り)\" that chirp when stepped on. It was a security feature designed to make it difficult for intruders to move unnoticed.",
+
+    "memory": "Place your ear (耳) near a gate (門) to listen to gossip.",
+
+    "words": [
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "romaji": "kiku",
+        "meaning": "To listen, hear"
+      },
+      {
+        "word": "新聞",
+        "reading": "しんぶん",
+        "romaji": "shinbun",
+        "meaning": "Newspaper"
+      },
+      {
+        "word": "聞こえる",
+        "reading": "きこえる",
+        "romaji": "kikoeru",
+        "meaning": "To be heard"
+      },
+      {
+        "word": "聞き取り",
+        "reading": "ききとり",
+        "romaji": "kikitori",
+        "meaning": "Listening comprehension"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "先生の話を聞いてください。",
+      "reading": "せんせい の はなし を きいて ください。",
+      "romaji": "sensei no hanashi o kiite kudasai",
+      "english": "Please listen to the teacher's story."
+    },
+
+    "seo": [
+      "listen kanji meaning",
+      "hear kanji japanese",
+      "how to read 聞",
+      "JLPT N5 listen kanji",
+      "kanji for hear"
+    ],
+
+    "tags": [
+      "communication",
+      "education",
+      "verbs"
+    ],
+
+    "relatedKanji": [
+      "話",
+      "耳",
+      "語"
+    ]
+  },
+
+  {
+    "slug": "kanji-talk-speak",
+    "kanji": "話",
+    "meaning": "Talk, Speak, Story",
+    "jlpt": "N5",
+    "strokes": 13,
+
+    "onyomi": "",
+    "kunyomi": "はなす (hanasu), はなし (hanashi)",
+
+    "fact": "Japan has a traditional performing art called Rakugo (落語). A single storyteller sits on stage with only a fan and a small cloth as props. Through changes in voice, expression, and timing, they perform entire conversations between multiple characters. The audience sees one person, but hears an entire cast.",
+
+    "memory": "The left side is 言 (words) and the right side is 舌 (tongue).",
+
+    "words": [
+      {
+        "word": "話す",
+        "reading": "はなす",
+        "romaji": "hanasu",
+        "meaning": "To speak"
+      },
+      {
+        "word": "話",
+        "reading": "はなし",
+        "romaji": "hanashi",
+        "meaning": "Story, conversation"
+      },
+      {
+        "word": "電話",
+        "reading": "でんわ",
+        "romaji": "denwa",
+        "meaning": "Telephone"
+      },
+      {
+        "word": "会話",
+        "reading": "かいわ",
+        "romaji": "kaiwa",
+        "meaning": "Conversation"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "日本語で話しましょう。",
+      "reading": "にほんご で はなしましょう。",
+      "romaji": "nihongo de hanashimashou",
+      "english": "Let's speak in Japanese."
+    },
+
+    "seo": [
+      "speak kanji meaning",
+      "talk kanji japanese",
+      "how to read 話",
+      "JLPT N5 speak kanji",
+      "kanji for talk"
+    ],
+
+    "tags": [
+      "communication",
+      "conversation",
+      "verbs"
+    ],
+
+    "relatedKanji": [
+      "聞",
+      "語",
+      "言"
+    ]
+  },
+
+{
+    "slug": "kanji-say-word",
+    "kanji": "言",
+    "meaning": "Say, Word, Speech",
+    "jlpt": "N5",
+    "strokes": 7,
+
+    "onyomi": "ゲン (gen), ゴン (gon)",
+    "kunyomi": "いう (iu), こと (koto)",
+
+    "fact": "Japan has a long tradition of \"yojijukugo (四字熟語)\", four-character idioms that express surprisingly deep ideas in just a handful of words. Expressions like 一期一会 (\"one time, one meeting\") and 七転八起 (\"fall seven times, rise eight\") remain popular today.",
+
+    "memory": "Blabbering word out of your Mouth(口).",
+
+    "words": [
+      {
+        "word": "言う",
+        "reading": "いう",
+        "romaji": "iu",
+        "meaning": "To say"
+      },
+      {
+        "word": "発言",
+        "reading": "はつげん",
+        "romaji": "hatsugen",
+        "meaning": "Statement"
+      },
+      {
+        "word": "言葉",
+        "reading": "ことば",
+        "romaji": "kotoba",
+        "meaning": "Word, language"
+      },
+      {
+        "word": "方言",
+        "reading": "ほうげん",
+        "romaji": "hougen",
+        "meaning": "Dialect"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "もう一度言ってください。",
+      "reading": "もう いちど いって ください。",
+      "romaji": "mou ichido itte kudasai",
+      "english": "Please say it one more time."
+    },
+
+    "seo": [
+      "say kanji meaning",
+      "speech kanji japanese",
+      "how to read 言",
+      "JLPT N5 speech kanji",
+      "kanji for say"
+    ],
+
+    "tags": [
+      "communication",
+      "language",
+      "verbs"
+    ],
+
+    "relatedKanji": [
+      "話",
+      "語",
+      "読"
+    ]
+  },
+
+  {
+    "slug": "kanji-language-word",
+    "kanji": "語",
+    "meaning": "Language, Word",
+    "jlpt": "N5",
+    "strokes": 14,
+
+    "onyomi": "ゴ (go)",
+    "kunyomi": "かたる (kataru)",
+
+    "fact": "The word \"emoji\" comes from Japanese: e (picture) + moji (character). The first emoji were created in Japan in the late 1990s to help people communicate more efficiently on mobile phones.",
+
+    "memory": "Five (五) words(言) coming out the mouth and you can call it Language.",
+
+    "words": [
+      {
+        "word": "日本語",
+        "reading": "にほんご",
+        "romaji": "nihongo",
+        "meaning": "Japanese language"
+      },
+      {
+        "word": "英語",
+        "reading": "えいご",
+        "romaji": "eigo",
+        "meaning": "English language"
+      },
+      {
+        "word": "中国語",
+        "reading": "ちゅうごくご",
+        "romaji": "chuugokugo",
+        "meaning": "Chinese language"
+      },
+      {
+        "word": "語学",
+        "reading": "ごがく",
+        "romaji": "gogaku",
+        "meaning": "Language study"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は日本語を勉強しています。",
+      "reading": "わたし は にほんご を べんきょう しています。",
+      "romaji": "watashi wa nihongo o benkyou shiteimasu",
+      "english": "I am studying Japanese."
+    },
+
+    "seo": [
+      "language kanji meaning",
+      "Japanese language kanji",
+      "how to read 語",
+      "JLPT N5 language kanji",
+      "kanji for language"
+    ],
+
+    "tags": [
+      "language",
+      "education",
+      "communication"
+    ],
+
+    "relatedKanji": [
+      "話",
+      "聞",
+      "言"
+    ]
+  },
+
+  {
+    "slug": "kanji-name",
+    "kanji": "名",
+    "meaning": "Name",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "メイ (mei), ミョウ (myou)",
+    "kunyomi": "な (na)",
+
+    "fact": "Japanese names can be surprisingly difficult to read, even for native speakers. The same kanji may have multiple readings, and some names use rare pronunciations that aren't obvious from the characters alone. It's so common that one of the first questions people ask when meeting someone new is how their name is read.",
+
+    "memory": "Evening (夕) has arrived and it's getting dark. You use your mouth (口) to call out your \"name\" so your friends can find you.",
+
+    "words": [
+      {
+        "word": "名前",
+        "reading": "なまえ",
+        "romaji": "namae",
+        "meaning": "Name"
+      },
+      {
+        "word": "有名",
+        "reading": "ゆうめい",
+        "romaji": "yuumei",
+        "meaning": "Famous"
+      },
+      {
+        "word": "氏名",
+        "reading": "しめい",
+        "romaji": "shimei",
+        "meaning": "Full name"
+      },
+      {
+        "word": "名所",
+        "reading": "めいしょ",
+        "romaji": "meisho",
+        "meaning": "Famous place"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "あなたの名前は何ですか。",
+      "reading": "あなた の なまえ は なん ですか。",
+      "romaji": "anata no namae wa nan desu ka",
+      "english": "What is your name?"
+    },
+
+    "seo": [
+      "name kanji meaning",
+      "Japanese name symbol",
+      "how to read 名",
+      "JLPT N5 name kanji",
+      "kanji for name"
+    ],
+
+    "tags": [
+      "identity",
+      "communication",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "言",
+      "話",
+      "人"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-friend",
+    "kanji": "友",
+    "meaning": "Friend",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "ユウ (yuu)",
+    "kunyomi": "とも (tomo)",
+
+    "fact": "In 1927, thousands of dolls were sent from the United States to Japan as symbols of friendship between children in both countries. Japan later responded with its own dolls. Many of these \"Friendship Dolls\" still survive today, reminding visitors of a unique cultural exchange nearly a century later.",
+
+    "memory": "Imagine two hands reaching toward each other in friendship. Friends support one another.",
+
+    "words": [
+      {
+        "word": "友",
+        "reading": "とも",
+        "romaji": "tomo",
+        "meaning": "Friend"
+      },
+      {
+        "word": "友達",
+        "reading": "ともだち",
+        "romaji": "tomodachi",
+        "meaning": "Friend"
+      },
+      {
+        "word": "親友",
+        "reading": "しんゆう",
+        "romaji": "shinyuu",
+        "meaning": "Close friend"
+      },
+      {
+        "word": "友人",
+        "reading": "ゆうじん",
+        "romaji": "yuujin",
+        "meaning": "Friend"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "友達と映画を見ました。",
+      "reading": "ともだち と えいが を みました。",
+      "romaji": "tomodachi to eiga o mimashita",
+      "english": "I watched a movie with my friend."
+    },
+
+    "seo": [
+      "friend kanji meaning",
+      "Japanese friend symbol",
+      "how to read 友",
+      "JLPT N5 friend kanji",
+      "kanji for friendship"
+    ],
+
+    "tags": [
+      "people",
+      "relationships",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "人",
+      "名",
+      "話"
+    ]
+  },
+
+  {
+    "slug": "kanji-father",
+    "kanji": "父",
+    "meaning": "Father",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "フ (fu)",
+    "kunyomi": "ちち (chichi), とう (tou)",
+
+    "fact": "\"Jirō Horikoshi,\" the engineer who designed the Mitsubishi A6M Zero, is often called one of the fathers of Japanese aviation. His life later inspired the Studio Ghibli film \"The Wind Rises.\" Sometimes \"father\" refers not to a parent, but to the person who helped create something important.",
+
+    "memory": "Imagine your father striking a Black Panther pose with Blades in Hand.",
+
+    "words": [
+      {
+        "word": "父",
+        "reading": "ちち",
+        "romaji": "chichi",
+        "meaning": "My father"
+      },
+      {
+        "word": "お父さん",
+        "reading": "おとうさん",
+        "romaji": "otousan",
+        "meaning": "Father"
+      },
+      {
+        "word": "父親",
+        "reading": "ちちおや",
+        "romaji": "chichioya",
+        "meaning": "Father, parent"
+      },
+      {
+        "word": "祖父",
+        "reading": "そふ",
+        "romaji": "sofu",
+        "meaning": "Grandfather"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "父は会社で働いています。",
+      "reading": "ちち は かいしゃ で はたらいています。",
+      "romaji": "chichi wa kaisha de hataraiteimasu",
+      "english": "My father works at a company."
+    },
+
+    "seo": [
+      "father kanji meaning",
+      "Japanese father symbol",
+      "how to read 父",
+      "JLPT N5 father kanji",
+      "kanji for father"
+    ],
+
+    "tags": [
+      "family",
+      "people",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "母",
+      "兄",
+      "姉"
+    ]
+  },
+
+  {
+    "slug": "kanji-mother",
+    "kanji": "母",
+    "meaning": "Mother",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "ボ (bo)",
+    "kunyomi": "はは (haha), かあ (kaa)",
+
+    "fact": "At temples across Japan, visitors often encounter statues of Kannon, the Buddhist goddess of compassion. One popular form depicts her with a thousand arms, each reaching out to help those in need. Because of her boundless compassion and protective nature, Kannon is often compared to a mother watching over countless children at once.",
+
+    "memory": "Imagine a mother holding her baby in her arms. The two dots represent the child she cares for. That's 母, meaning mother.",
+
+    "words": [
+      {
+        "word": "母",
+        "reading": "はは",
+        "romaji": "haha",
+        "meaning": "My mother"
+      },
+      {
+        "word": "お母さん",
+        "reading": "おかあさん",
+        "romaji": "okaasan",
+        "meaning": "Mother"
+      },
+      {
+        "word": "母親",
+        "reading": "ははおや",
+        "romaji": "hahaoya",
+        "meaning": "Mother, parent"
+      },
+      {
+        "word": "祖母",
+        "reading": "そぼ",
+        "romaji": "sobo",
+        "meaning": "Grandmother"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "母は料理が上手です。",
+      "reading": "はは は りょうり が じょうず です。",
+      "romaji": "haha wa ryouri ga jouzu desu",
+      "english": "My mother is good at cooking."
+    },
+
+    "seo": [
+      "mother kanji meaning",
+      "Japanese mother symbol",
+      "how to read 母",
+      "JLPT N5 mother kanji",
+      "kanji for mother"
+    ],
+
+    "tags": [
+      "family",
+      "people",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "父",
+      "兄",
+      "姉"
+    ]
+  },
+
+  {
+    "slug": "kanji-older-brother",
+    "kanji": "兄",
+    "meaning": "Older Brother",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "ケイ (kei), キョウ (kyou)",
+    "kunyomi": "あに (ani)",
+
+    "fact": "In Japanese mythology, the storm god \"Susanoo\" was the younger brother of the sun goddess \"Amaterasu.\" His reckless behavior caused so much trouble that he was eventually banished from heaven. Even divine siblings, it seems, sometimes have complicated relationships.",
+
+    "memory": "A person with a giant mouth (口) is standing over you explaining how everything should be done. That's your big brother. That's 兄.",
+
+    "words": [
+      {
+        "word": "兄",
+        "reading": "あに",
+        "romaji": "ani",
+        "meaning": "Older brother"
+      },
+      {
+        "word": "お兄さん",
+        "reading": "おにいさん",
+        "romaji": "oniisan",
+        "meaning": "Older brother"
+      },
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "romaji": "kyoudai",
+        "meaning": "Brothers, siblings"
+      },
+      {
+        "word": "長兄",
+        "reading": "ちょうけい",
+        "romaji": "choukei",
+        "meaning": "Eldest brother"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "兄は大学生です。",
+      "reading": "あに は だいがくせい です。",
+      "romaji": "ani wa daigakusei desu",
+      "english": "My older brother is a university student."
+    },
+
+    "seo": [
+      "older brother kanji meaning",
+      "Japanese brother symbol",
+      "how to read 兄",
+      "JLPT N5 brother kanji",
+      "kanji for older brother"
+    ],
+
+    "tags": [
+      "family",
+      "siblings",
+      "people"
+    ],
+
+    "relatedKanji": [
+      "姉",
+      "父",
+      "母"
+    ]
+  },
+
+ 
+
+  {
+    "slug": "kanji-younger-brother",
+    "kanji": "弟",
+    "meaning": "Younger Brother",
+    "jlpt": "N5",
+    "strokes": 7,
+
+    "onyomi": "テイ (tei), ダイ (dai)",
+    "kunyomi": "おとうと (otouto)",
+
+    "fact": "In several regional folktales, two brothers receive magical gifts. The older brother often acts greedy and loses everything, while the younger brother succeeds through kindness or common sense. The lesson appears so often that \"kind younger brother, foolish older brother\" became a recurring character type in Japanese storytelling.",
+
+    "memory": "Your younger brother puts on a helmet and grabs a toy sword, pretending to be a great warrior. The shape becomes 弟.",
+
+    "words": [
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "romaji": "otouto",
+        "meaning": "Younger brother"
+      },
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "romaji": "kyoudai",
+        "meaning": "Brothers, siblings"
+      },
+      {
+        "word": "弟子",
+        "reading": "でし",
+        "romaji": "deshi",
+        "meaning": "Disciple, apprentice"
+      },
+      {
+        "word": "義弟",
+        "reading": "ぎてい",
+        "romaji": "gitei",
+        "meaning": "Younger brother-in-law"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "弟は高校生です。",
+      "reading": "おとうと は こうこうせい です。",
+      "romaji": "otouto wa koukousei desu",
+      "english": "My younger brother is a high school student."
+    },
+
+    "seo": [
+      "younger brother kanji meaning",
+      "Japanese younger brother symbol",
+      "how to read 弟",
+      "JLPT N5 younger brother kanji",
+      "kanji for younger brother"
+    ],
+
+    "tags": [
+      "family",
+      "siblings",
+      "people"
+    ],
+
+    "relatedKanji": [
+      "兄",
+      "妹",
+      "家"
+    ]
+  },
+
+   {
+    "slug": "kanji-older-sister",
+    "kanji": "姉",
+    "meaning": "Older Sister",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "シ (shi)",
+    "kunyomi": "あね (ane)",
+
+    "fact": "In Japan, onee-san (お姉さん) doesn't always mean your actual older sister. It's often used as a friendly way to address a young woman, much like saying \"miss\" in English. As a result, many visitors are surprised when complete strangers suddenly become someone's \"older sister.\"",
+
+    "memory": "The left side is 女 (woman), the right side is 市 (market). Your older sister somehow knows every shop, every shortcut, and every sale. That's 姉.",
+
+    "words": [
+      {
+        "word": "姉",
+        "reading": "あね",
+        "romaji": "ane",
+        "meaning": "Older sister"
+      },
+      {
+        "word": "お姉さん",
+        "reading": "おねえさん",
+        "romaji": "oneesan",
+        "meaning": "Older sister"
+      },
+      {
+        "word": "姉妹",
+        "reading": "しまい",
+        "romaji": "shimai",
+        "meaning": "Sisters"
+      },
+      {
+        "word": "長姉",
+        "reading": "ちょうし",
+        "romaji": "choushi",
+        "meaning": "Eldest sister"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "姉は東京に住んでいます。",
+      "reading": "あね は とうきょう に すんでいます。",
+      "romaji": "ane wa toukyou ni sundeimasu",
+      "english": "My older sister lives in Tokyo."
+    },
+
+    "seo": [
+      "older sister kanji meaning",
+      "Japanese sister symbol",
+      "how to read 姉",
+      "JLPT N5 sister kanji",
+      "kanji for older sister"
+    ],
+
+    "tags": [
+      "family",
+      "siblings",
+      "people"
+    ],
+
+    "relatedKanji": [
+      "兄",
+      "母",
+      "女"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-younger-sister",
+    "kanji": "妹",
+    "meaning": "Younger Sister",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "マイ (mai)",
+    "kunyomi": "いもうと (imouto)",
+
+    "fact": "Thanks to anime and manga, \"imouto (妹)\" may be one of the most widely recognized Japanese family words in the world. Many fans learn what it means long before they learn their first kanji. It's a reminder that language doesn't always spread through classrooms—sometimes it spreads through stories.",
+
+    "memory": "The left side is 女 (woman). The right side is 未, which looks like a tree that hasn't fully grown yet. a young woman who still has some growing to do.",
+
+    "words": [
+      {
+        "word": "妹",
+        "reading": "いもうと",
+        "romaji": "imouto",
+        "meaning": "Younger sister"
+      },
+      {
+        "word": "姉妹",
+        "reading": "しまい",
+        "romaji": "shimai",
+        "meaning": "Sisters"
+      },
+      {
+        "word": "義妹",
+        "reading": "ぎまい",
+        "romaji": "gimai",
+        "meaning": "Younger sister-in-law"
+      },
+      {
+        "word": "妹さん",
+        "reading": "いもうとさん",
+        "romaji": "imoutosan",
+        "meaning": "Someone else's younger sister"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "妹は音楽が好きです。",
+      "reading": "いもうと は おんがく が すき です。",
+      "romaji": "imouto wa ongaku ga suki desu",
+      "english": "My younger sister likes music."
+    },
+
+    "seo": [
+      "younger sister kanji meaning",
+      "Japanese younger sister symbol",
+      "how to read 妹",
+      "JLPT N5 younger sister kanji",
+      "kanji for younger sister"
+    ],
+
+    "tags": [
+      "family",
+      "siblings",
+      "people"
+    ],
+
+    "relatedKanji": [
+      "姉",
+      "弟",
+      "女"
+    ]
+  },
+
+  {
+    "slug": "kanji-husband",
+    "kanji": "夫",
+    "meaning": "Husband",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "フ (fu), フウ (fuu)",
+    "kunyomi": "おっと (otto)",
+
+    "fact": "One of Japan's most famous folktales, \"Tsuru no Ongaeshi (The Grateful Crane)\", tells the story of a man who rescues an injured crane. Later, a mysterious woman appears and becomes his wife. She weaves beautiful cloth but asks him never to watch her work. When curiosity gets the better of him, he discovers she is actually the crane he once saved. The story remains one of Japan's most beloved tales about marriage, trust, and keeping promises.",
+
+    "memory": "Start with 大 (big person). Add a headband across the top and you get a hardworking husband ready for the day. That's 夫.",
+
+    "words": [
+      {
+        "word": "夫",
+        "reading": "おっと",
+        "romaji": "otto",
+        "meaning": "Husband"
+      },
+      {
+        "word": "夫婦",
+        "reading": "ふうふ",
+        "romaji": "fuufu",
+        "meaning": "Married couple"
+      },
+      {
+        "word": "主夫",
+        "reading": "しゅふ",
+        "romaji": "shufu",
+        "meaning": "Househusband"
+      },
+      {
+        "word": "丈夫",
+        "reading": "じょうぶ",
+        "romaji": "joubu",
+        "meaning": "Strong, sturdy"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "夫は銀行で働いています。",
+      "reading": "おっと は ぎんこう で はたらいています。",
+      "romaji": "otto wa ginkou de hataraiteimasu",
+      "english": "My husband works at a bank."
+    },
+
+    "seo": [
+      "husband kanji meaning",
+      "Japanese husband symbol",
+      "how to read 夫",
+      "JLPT N5 husband kanji",
+      "kanji for husband"
+    ],
+
+    "tags": [
+      "family",
+      "marriage",
+      "people"
+    ],
+
+    "relatedKanji": [
+      "妻",
+      "家",
+      "父"
+    ]
+  },
+
+  {
+    "slug": "kanji-wife",
+    "kanji": "妻",
+    "meaning": "Wife",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "サイ (sai)",
+    "kunyomi": "つま (tsuma)",
+
+    "fact": "A common joke in Japan is that many husbands earn the salary, but their wives manage the household finances. The husband receives a monthly allowance, while the wife decides where the rest goes. Depending on who you ask, this is either efficient financial planning or the world's longest-running economic system.",
+
+    "memory": "The top looks like a decorative hairpin, while the bottom is a woman. Picture a bride preparing for her wedding. That's 妻, meaning wife.",
+
+    "words": [
+      {
+        "word": "妻",
+        "reading": "つま",
+        "romaji": "tsuma",
+        "meaning": "Wife"
+      },
+      {
+        "word": "夫妻",
+        "reading": "ふさい",
+        "romaji": "fusai",
+        "meaning": "Husband and wife"
+      },
+      {
+        "word": "人妻",
+        "reading": "ひとづま",
+        "romaji": "hitozuma",
+        "meaning": "Married woman"
+      },
+      {
+        "word": "良妻",
+        "reading": "りょうさい",
+        "romaji": "ryousai",
+        "meaning": "Good wife"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "妻は先生です。",
+      "reading": "つま は せんせい です。",
+      "romaji": "tsuma wa sensei desu",
+      "english": "My wife is a teacher."
+    },
+
+    "seo": [
+      "wife kanji meaning",
+      "Japanese wife symbol",
+      "how to read 妻",
+      "JLPT N5 wife kanji",
+      "kanji for wife"
+    ],
+
+    "tags": [
+      "family",
+      "marriage",
+      "people"
+    ],
+
+    "relatedKanji": [
+      "夫",
+      "母",
+      "家"
+    ]
+  },
+
+  {
+    "slug": "kanji-house-home-family",
+    "kanji": "家",
+    "meaning": "House, Home, Family",
+    "jlpt": "N5",
+    "strokes": 10,
+
+    "onyomi": "カ (ka), ケ (ke)",
+    "kunyomi": "いえ (ie), や (ya)",
+
+    "fact": "Japan is home to some of the world's oldest family-run businesses. One famous construction company, \"Kongō Gumi\", operated for more than 1,400 years. While dynasties rose and fell around the world, one family continued building temples generation after generation.",
+
+    "memory": "A roof (宀) brings people together beneath it. Though each person grows in a different direction, they're connected to the same branch. That's 家, meaning house, home, or family.",
+
+    "words": [
+      {
+        "word": "家",
+        "reading": "いえ",
+        "romaji": "ie",
+        "meaning": "House, home"
+      },
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "romaji": "kazoku",
+        "meaning": "Family"
+      },
+      {
+        "word": "大家",
+        "reading": "おおや",
+        "romaji": "ooya",
+        "meaning": "Landlord"
+      },
+      {
+        "word": "作家",
+        "reading": "さっか",
+        "romaji": "sakka",
+        "meaning": "Author, writer"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は家に帰ります。",
+      "reading": "わたし は いえ に かえります。",
+      "romaji": "watashi wa ie ni kaerimasu",
+      "english": "I am going home."
+    },
+
+    "seo": [
+      "house kanji meaning",
+      "home kanji japanese",
+      "how to read 家",
+      "JLPT N5 house kanji",
+      "kanji for family"
+    ],
+
+    "tags": [
+      "family",
+      "home",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "帰",
+      "父",
+      "母"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-school",
+    "kanji": "校",
+    "meaning": "School",
+    "jlpt": "N5",
+    "strokes": 10,
+
+    "onyomi": "コウ (kou)",
+    "kunyomi": "",
+
+    "fact": "Across Japan, school entrance ceremonies often coincide with cherry blossom season. For generations of students, their first school memories include standing beneath blooming sakura trees while beginning a new chapter of life.",
+
+    "memory": "The left side is 木 (tree). The right side is 交 (crossing paths). School is a place where students cross their paths of life under a shade of sakura tree.",
+
+    "words": [
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "romaji": "gakkou",
+        "meaning": "School"
+      },
+      {
+        "word": "高校",
+        "reading": "こうこう",
+        "romaji": "koukou",
+        "meaning": "High school"
+      },
+      {
+        "word": "校長",
+        "reading": "こうちょう",
+        "romaji": "kouchou",
+        "meaning": "Principal"
+      },
+      {
+        "word": "校門",
+        "reading": "こうもん",
+        "romaji": "koumon",
+        "meaning": "School gate"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "学校は八時に始まります。",
+      "reading": "がっこう は はちじ に はじまります。",
+      "romaji": "gakkou wa hachiji ni hajimarimasu",
+      "english": "School starts at eight o'clock."
+    },
+
+    "seo": [
+      "school kanji meaning",
+      "how to read 校",
+      "JLPT N5 school kanji",
+      "Japanese school symbol",
+      "kanji for school"
+    ],
+
+    "tags": [
+      "education",
+      "school",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "学",
+      "生",
+      "先"
+    ]
+  },
+
+  {
+    "slug": "kanji-meeting",
+    "kanji": "会",
+    "meaning": "Meet, Meeting",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "カイ (kai), エ (e)",
+    "kunyomi": "あう (au)",
+
+    "fact": "Japanese tradition speaks of \"en-musubi (縁結び)\", the invisible threads that connect people. Visitors to matchmaking shrines pray not only for romance, but also for meaningful friendships and fortunate encounters. After all, a single meeting can sometimes change the course of a life.",
+
+    "memory": "The top is a roof. Under it, two people laying down on the floor. It is called meeting,isn't it?",
+
+    "words": [
+      {
+        "word": "会う",
+        "reading": "あう",
+        "romaji": "au",
+        "meaning": "To meet"
+      },
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "romaji": "kaisha",
+        "meaning": "Company"
+      },
+      {
+        "word": "会話",
+        "reading": "かいわ",
+        "romaji": "kaiwa",
+        "meaning": "Conversation"
+      },
+      {
+        "word": "会議",
+        "reading": "かいぎ",
+        "romaji": "kaigi",
+        "meaning": "Meeting"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "明日友達に会います。",
+      "reading": "あした ともだち に あいます。",
+      "romaji": "ashita tomodachi ni aimasu",
+      "english": "I will meet my friend tomorrow."
+    },
+
+    "seo": [
+      "meet kanji meaning",
+      "meeting kanji japanese",
+      "how to read 会",
+      "JLPT N5 meeting kanji",
+      "kanji for meet"
+    ],
+
+    "tags": [
+      "communication",
+      "people",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "友",
+      "社",
+      "話"
+    ]
+  },
+
+  {
+    "slug": "kanji-company-society",
+    "kanji": "社",
+    "meaning": "Company, Society",
+    "jlpt": "N5",
+    "strokes": 7,
+
+    "onyomi": "シャ (sha)",
+    "kunyomi": "",
+
+    "fact": "Many Japanese family run companies faced a difficult question: what happens if there is no suitable son to inherit the company? One traditional solution was mukoyōshi—adopting a son-in-law into the family. He would take the family name, become the legal heir, and eventually lead the business. It's a practice that helped some companies survive for centuries. Popular companies like Toyota, Suzuki, Canon, Kikkoman, and Nintendo have been led by adopted heirs",
+
+    "memory": "Before there were office buildings, there was a shrine. The altar (礻) on the land (土) became a gathering place for the community. That's 社.",
+
+    "words": [
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "romaji": "kaisha",
+        "meaning": "Company"
+      },
+      {
+        "word": "社員",
+        "reading": "しゃいん",
+        "romaji": "shain",
+        "meaning": "Employee"
+      },
+      {
+        "word": "社会",
+        "reading": "しゃかい",
+        "romaji": "shakai",
+        "meaning": "Society"
+      },
+      {
+        "word": "神社",
+        "reading": "じんじゃ",
+        "romaji": "Jinja",
+        "meaning": "Shinto shrine"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "父は大きな会社で働いています。",
+      "reading": "ちち は おおきな かいしゃ で はたらいています。",
+      "romaji": "chichi wa ookina kaisha de hataraiteimasu",
+      "english": "My father works at a large company."
+    },
+
+    "seo": [
+      "company kanji meaning",
+      "society kanji japanese",
+      "how to read 社",
+      "JLPT N5 company kanji",
+      "kanji for company"
+    ],
+
+    "tags": [
+      "business",
+      "work",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "会",
+      "人",
+      "家"
+    ]
+  },
+
+  {
+    "slug": "kanji-shop-store",
+    "kanji": "店",
+    "meaning": "Shop, Store",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "テン (ten)",
+    "kunyomi": "みせ (mise)",
+
+    "fact": "Japan's famous 100-yen shops are treasure hunts disguised as stores. For roughly the price of a dollar, shoppers can find everything from chopsticks and notebooks to phone stands and camping gear. The real challenge isn't finding something worth buying—it's resisting the urge to buy twenty things.",
+
+    "memory": "The top looks like a building. The bottom part is 占, meaning to occupy. When someone occupies a building to sell things, you get 店, meaning shop.",
+
+    "words": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "romaji": "mise",
+        "meaning": "Shop"
+      },
+      {
+        "word": "書店",
+        "reading": "しょてん",
+        "romaji": "shoten",
+        "meaning": "Bookstore"
+      },
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "romaji": "tenin",
+        "meaning": "Store clerk"
+      },
+      {
+        "word": "売店",
+        "reading": "ばいてん",
+        "romaji": "baiten",
+        "meaning": "Stand, kiosk"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "あの店はとても人気です。",
+      "reading": "あの みせ は とても にんき です。",
+      "romaji": "ano mise wa totemo ninki desu",
+      "english": "That shop is very popular."
+    },
+
+    "seo": [
+      "shop kanji meaning",
+      "store kanji japanese",
+      "how to read 店",
+      "JLPT N5 shop kanji",
+      "kanji for store"
+    ],
+
+    "tags": [
+      "shopping",
+      "business",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "買",
+      "社",
+      "駅"
+    ]
+  },
+
+  {
+    "slug": "kanji-station",
+    "kanji": "駅",
+    "meaning": "Station",
+    "jlpt": "N5",
+    "strokes": 14,
+
+    "onyomi": "エキ (eki)",
+    "kunyomi": "",
+
+    "fact": "In 2007, a calico cat named Tama was appointed honorary stationmaster at Kishi Station in rural Japan. What began as a local publicity stunt quickly became a national sensation. Visitors traveled from across the country just to meet the feline stationmaster, posing for photos beneath her tiny stationmaster's hat. Tama's popularity brought hundreds of thousands of passengers to the struggling railway line and generated millions of dollars in economic impact for the region. When she passed away in 2015, she was honored with a Shinto-style funeral and remembered as one of Japan's most successful stationmasters.",
+
+    "memory": "The left side is 馬 (horse). In ancient times, travelers stopped at stations to rest and change horses before continuing their journey. That's 駅, meaning station.",
+
+    "words": [
+      {
+        "word": "駅",
+        "reading": "えき",
+        "romaji": "eki",
+        "meaning": "Station"
+      },
+      {
+        "word": "東京駅",
+        "reading": "とうきょうえき",
+        "romaji": "toukyoueki",
+        "meaning": "Tokyo Station"
+      },
+      {
+        "word": "駅前",
+        "reading": "えきまえ",
+        "romaji": "ekimae",
+        "meaning": "In front of the station"
+      },
+      {
+        "word": "駅員",
+        "reading": "えきいん",
+        "romaji": "ekiin",
+        "meaning": "Station staff"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "駅まで歩いて行きます。",
+      "reading": "えき まで あるいて いきます。",
+      "romaji": "eki made aruite ikimasu",
+      "english": "I walk to the station."
+    },
+
+    "seo": [
+      "station kanji meaning",
+      "Japanese station symbol",
+      "how to read 駅",
+      "JLPT N5 station kanji",
+      "kanji for station"
+    ],
+
+    "tags": [
+      "travel",
+      "transportation",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "行",
+      "来",
+      "店"
+    ]
+  },
+
+  {
+    "slug": "kanji-rain",
+    "kanji": "雨",
+    "meaning": "Rain",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "ウ (u)",
+    "kunyomi": "あめ (ame), あま (ama)",
+
+    "fact": "Japan is famous for its transparent convenience-store umbrellas. They're inexpensive, practical, and everywhere. Unfortunately, they're also easy to forget. Every year, train stations, shops, and public buildings collect mountains of lost umbrellas, making them one of the country's most commonly misplaced items.",
+
+    "memory": "Imagine looking through a window during a storm. The frame surrounds the scene while raindrops streak down the glass. That's 雨.",
+
+    "words": [
+      {
+        "word": "雨",
+        "reading": "あめ",
+        "romaji": "ame",
+        "meaning": "Rain"
+      },
+      {
+        "word": "大雨",
+        "reading": "おおあめ",
+        "romaji": "ooame",
+        "meaning": "Heavy rain"
+      },
+      {
+        "word": "雨の日",
+        "reading": "あめのひ",
+        "romaji": "ame no hi",
+        "meaning": "Rainy day"
+      },
+      {
+        "word": "雨水",
+        "reading": "あまみず",
+        "romaji": "amamizu",
+        "meaning": "Rainwater"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "今日は雨が降っています。",
+      "reading": "きょう は あめ が ふっています。",
+      "romaji": "kyou wa ame ga futteimasu",
+      "english": "It is raining today."
+    },
+
+    "seo": [
+      "rain kanji meaning",
+      "Japanese rain symbol",
+      "how to read 雨",
+      "JLPT N5 rain kanji",
+      "kanji for rain"
+    ],
+
+    "tags": [
+      "weather",
+      "nature",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "天",
+      "水",
+      "電"
+    ]
+  },
+
+  {
+    "slug": "kanji-electricity",
+    "kanji": "電",
+    "meaning": "Electricity",
+    "jlpt": "N5",
+    "strokes": 13,
+
+    "onyomi": "デン (den)",
+    "kunyomi": "",
+
+    "fact": "According to Japanese folklore, thunder wasn't caused by colliding air masses. It was caused by a \"Raijin, God of Thunder,\" enthusiastically playing drums in the sky. Artists frequently depicted him beating giant drums across the sky, creating thunder and lightning with every strike.",
+
+    "memory": "The top is rain (雨), and the bottom is a rice field (田). When a storm cloud forms above the field, lightning appears. That's 電.",
+
+    "words": [
+      {
+        "word": "電気",
+        "reading": "でんき",
+        "romaji": "denki",
+        "meaning": "Electricity"
+      },
+      {
+        "word": "電話",
+        "reading": "でんわ",
+        "romaji": "denwa",
+        "meaning": "Telephone"
+      },
+      {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "romaji": "densha",
+        "meaning": "Train"
+      },
+      {
+        "word": "電池",
+        "reading": "でんち",
+        "romaji": "denchi",
+        "meaning": "Battery"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "電気を消してください。",
+      "reading": "でんき を けして ください。",
+      "romaji": "denki o keshite kudasai",
+      "english": "Please turn off the lights."
+    },
+
+    "seo": [
+      "electricity kanji meaning",
+      "Japanese electricity symbol",
+      "how to read 電",
+      "JLPT N5 electricity kanji",
+      "kanji for electricity"
+    ],
+
+    "tags": [
+      "technology",
+      "daily-life",
+      "energy"
+    ],
+
+    "relatedKanji": [
+      "車",
+      "話",
+      "雨"
+    ]
+  },
+
+  {
+    "slug": "kanji-car-vehicle",
+    "kanji": "車",
+    "meaning": "Car, Vehicle",
+    "jlpt": "N5",
+    "strokes": 7,
+
+    "onyomi": "シャ (sha)",
+    "kunyomi": "くるま (kuruma)",
+
+    "fact": "Walk through a Japanese neighborhood and you'll notice surprisingly small cars everywhere. Known as kei cars, they're specially designed to fit Japan's narrow streets and limited parking spaces. Despite their size, they became so popular that millions of Japanese families rely on them every day. In some rural areas, the little car is king.",
+
+    "memory": "車 character looks like a simple cart viewed from above with wheels attached.",
+
+    "words": [
+      {
+        "word": "車",
+        "reading": "くるま",
+        "romaji": "kuruma",
+        "meaning": "Car"
+      },
+      {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "romaji": "densha",
+        "meaning": "Train"
+      },
+      {
+        "word": "自転車",
+        "reading": "じてんしゃ",
+        "romaji": "jitensha",
+        "meaning": "Bicycle"
+      },
+      {
+        "word": "駐車場",
+        "reading": "ちゅうしゃじょう",
+        "romaji": "chuushajou",
+        "meaning": "Parking lot"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "父は新しい車を買いました。",
+      "reading": "ちち は あたらしい くるま を かいました。",
+      "romaji": "chichi wa atarashii kuruma o kaimashita",
+      "english": "My father bought a new car."
+    },
+
+    "seo": [
+      "car kanji meaning",
+      "vehicle kanji japanese",
+      "how to read 車",
+      "JLPT N5 car kanji",
+      "kanji for vehicle"
+    ],
+
+    "tags": [
+      "transportation",
+      "travel",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "電",
+      "駅",
+      "道"
+    ]
+  },
+
+  {
+    "slug": "kanji-road-way",
+    "kanji": "道",
+    "meaning": "Road, Way, Path",
+    "jlpt": "N5",
+    "strokes": 12,
+
+    "onyomi": "ドウ (dou), トウ (tou)",
+    "kunyomi": "みち (michi)",
+
+    "fact": "In Japan, the kanji 道 means more than a road. It's also used for lifelong disciplines such as Judo (\"the gentle way\"), Kendo (\"the way of the sword\"), and Bushidō (\"the way of warrior\"). The idea is simple: mastery isn't a destination—it's a path you continue walking.",
+
+    "memory": "A giant head is moving down the street on back of snail.",
+
+    "words": [
+      {
+        "word": "道",
+        "reading": "みち",
+        "romaji": "michi",
+        "meaning": "Road"
+      },
+      {
+        "word": "歩道",
+        "reading": "ほどう",
+        "romaji": "hodou",
+        "meaning": "Sidewalk"
+      },
+      {
+        "word": "道具",
+        "reading": "どうぐ",
+        "romaji": "dougu",
+        "meaning": "Tool"
+      },
+      {
+        "word": "北海道",
+        "reading": "ほっかいどう",
+        "romaji": "hokkaidou",
+        "meaning": "Hokkaido"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "この道をまっすぐ行ってください。",
+      "reading": "この みち を まっすぐ いって ください。",
+      "romaji": "kono michi o massugu itte kudasai",
+      "english": "Please go straight along this road."
+    },
+
+    "seo": [
+      "road kanji meaning",
+      "path kanji japanese",
+      "how to read 道",
+      "JLPT N5 road kanji",
+      "kanji for road"
+    ],
+
+    "tags": [
+      "travel",
+      "direction",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "行",
+      "車",
+      "駅"
+    ]
+  },
+
+  
+
+  {
+    "slug": "kanji-heaven-sky",
+    "kanji": "天",
+    "meaning": "Heaven, Sky",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "テン (ten)",
+    "kunyomi": "あま (ama), あめ (ame)",
+
+    "fact": "Every summer, Japan celebrates \"Tanabata,\" a festival based on the legend of two celestial lovers, Orihime and Hikoboshi. Separated by the Milky Way, they are allowed to meet only once a year on the seventh day of the seventh month. If rain falls that night, people say the lovers must wait another year before crossing the heavens to see each other again.",
+
+    "memory": "A big person (大) grows so tall that their head reaches the sky. That's 天, meaning heaven.",
+
+    "words": [
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "romaji": "tenki",
+        "meaning": "Weather"
+      },
+      {
+        "word": "天国",
+        "reading": "てんごく",
+        "romaji": "tengoku",
+        "meaning": "Heaven"
+      },
+      {
+        "word": "天才",
+        "reading": "てんさい",
+        "romaji": "tensai",
+        "meaning": "Genius"
+      },
+      {
+        "word": "楽天",
+        "reading": "らくてん",
+        "romaji": "rakuten",
+        "meaning": "Optimism"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "今日はいい天気ですね。",
+      "reading": "きょう は いい てんき です ね。",
+      "romaji": "kyou wa ii tenki desu ne",
+      "english": "The weather is nice today, isn't it?"
+    },
+
+    "seo": [
+      "sky kanji meaning",
+      "heaven kanji japanese",
+      "how to read 天",
+      "JLPT N5 sky kanji",
+      "kanji for heaven"
+    ],
+
+    "tags": [
+      "weather",
+      "nature",
+      "sky"
+    ],
+
+    "relatedKanji": [
+      "雨",
+      "日",
+      "月"
+    ]
+  },
+
+    {
+    "slug": "kanji-sky-empty",
+    "kanji": "空",
+    "meaning": "Sky, Empty",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "クウ (kuu)",
+    "kunyomi": "そら (sora), あ(く) (aku), から (kara)",
+
+    "fact": "In 1274 and again in 1281, Mongol fleets attempted to invade Japan. Both times, powerful typhoons scattered and destroyed much of the invading force. The storms became known as kamikaze (神風), or \"divine winds.\" For many people, it seemed as though the heavens themselves had intervened to protect Japan.",
+
+    "memory": "A hole opens in the roof above you. Looking through it, all you can see is the vast sky.",
+
+    "words": [
+      {
+        "word": "空",
+        "reading": "そら",
+        "romaji": "sora",
+        "meaning": "Sky"
+      },
+      {
+        "word": "空港",
+        "reading": "くうこう",
+        "romaji": "kuukou",
+        "meaning": "Airport"
+      },
+      {
+        "word": "空気",
+        "reading": "くうき",
+        "romaji": "kuuki",
+        "meaning": "Air"
+      },
+      {
+        "word": "空いている",
+        "reading": "あいている",
+        "romaji": "aiteiru",
+        "meaning": "Vacant, available"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "今日は空がとても青いです。",
+      "reading": "きょう は そら が とても あおい です。",
+      "romaji": "kyou wa sora ga totemo aoi desu",
+      "english": "The sky is very blue today."
+    },
+
+    "seo": [
+      "sky kanji meaning",
+      "empty kanji japanese",
+      "how to read 空",
+      "JLPT N5 sky kanji",
+      "kanji for sky"
+    ],
+
+    "tags": [
+      "nature",
+      "weather",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "天",
+      "気",
+      "雨"
+    ]
+  },
+
+  {
+    "slug": "kanji-spirit-energy",
+    "kanji": "気",
+    "meaning": "Spirit, Energy, Feeling",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "キ (ki), ケ (ke)",
+    "kunyomi": "",
+
+    "fact": "Every summer, Kyoto celebrates the Hyakki Yagyō, the legendary \"Night Parade of One Hundred Demons.\" According to folklore, spirits, monsters, and supernatural creatures would march through the streets after dark. Anyone unlucky enough to cross their path might never return home.",
+
+    "memory": "The top looks like steam floating upward. Imagine energy rising into the air like steam from hot tea. That's 気.",
+
+    "words": [
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "romaji": "genki",
+        "meaning": "Healthy, energetic"
+      },
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "romaji": "tenki",
+        "meaning": "Weather"
+      },
+      {
+        "word": "病気",
+        "reading": "びょうき",
+        "romaji": "byouki",
+        "meaning": "Illness"
+      },
+      {
+        "word": "人気",
+        "reading": "にんき",
+        "romaji": "ninki",
+        "meaning": "Popularity"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "今日はとても元気です。",
+      "reading": "きょう は とても げんき です。",
+      "romaji": "kyou wa totemo genki desu",
+      "english": "I feel very energetic today."
+    },
+
+    "seo": [
+      "energy kanji meaning",
+      "spirit kanji japanese",
+      "how to read 気",
+      "JLPT N5 energy kanji",
+      "kanji for feeling"
+    ],
+
+    "tags": [
+      "feelings",
+      "health",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "天",
+      "人",
+      "水"
+    ]
+  },
+
+  {
+    "slug": "kanji-flower",
+    "kanji": "花",
+    "meaning": "Flower",
+    "jlpt": "N5",
+    "strokes": 7,
+
+    "onyomi": "カ (ka)",
+    "kunyomi": "はな (hana)",
+
+    "fact": "Every spring, millions of people gather beneath blooming cherry trees for \"Hanami (花見),\" or flower viewing. Parks fill with families, friends, and coworkers sharing food and drinks under a canopy of pink blossoms. The flowers last only a short time, which is exactly what makes them so special. For many Japanese people, hanami isn't just about seeing flowers—it's about celebrating a moment that won't last.",
+
+    "memory": "The top is a plant (艹). The bottom means change (化). When a simple plant transforms into something beautiful, it becomes a flower: 花.",
+
+    "words": [
+      {
+        "word": "花",
+        "reading": "はな",
+        "romaji": "hana",
+        "meaning": "Flower"
+      },
+      {
+        "word": "花火",
+        "reading": "はなび",
+        "romaji": "hanabi",
+        "meaning": "Fireworks"
+      },
+      {
+        "word": "花見",
+        "reading": "はなみ",
+        "romaji": "hanami",
+        "meaning": "Flower viewing"
+      },
+      {
+        "word": "生花",
+        "reading": "せいか",
+        "romaji": "seika",
+        "meaning": "Fresh flowers"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "公園にきれいな花があります。",
+      "reading": "こうえん に きれいな はな が あります。",
+      "romaji": "kouen ni kireina hana ga arimasu",
+      "english": "There are beautiful flowers in the park."
+    },
+
+    "seo": [
+      "flower kanji meaning",
+      "Japanese flower symbol",
+      "how to read 花",
+      "JLPT N5 flower kanji",
+      "kanji for flower"
+    ],
+
+    "tags": [
+      "nature",
+      "plants",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "草",
+      "木",
+      "山"
+    ]
+  },
+
+  {
+    "slug": "kanji-grass",
+    "kanji": "草",
+    "meaning": "Grass",
+    "jlpt": "N5",
+    "strokes": 9,
+
+    "onyomi": "ソウ (sou)",
+    "kunyomi": "くさ (kusa)",
+
+    "fact": "In Japanese mythology, the legendary sword \"Kusanagi-no-Tsurugi (Grass-Cutting Sword)\" earned its name when the hero Yamato Takeru used it to cut through tall grass while escaping a deadly fire. The sword later became one of Japan's Imperial Regalia.",
+
+    "memory": "The top is plant (艹), and the bottom is early (早). Before flowers bloom and trees fill with leaves, grass is already covering the ground. That's 草, meaning grass.",
+
+    "words": [
+      {
+        "word": "草",
+        "reading": "くさ",
+        "romaji": "kusa",
+        "meaning": "Grass"
+      },
+      {
+        "word": "草原",
+        "reading": "そうげん",
+        "romaji": "sougen",
+        "meaning": "Grassland"
+      },
+      {
+        "word": "水草",
+        "reading": "みずくさ",
+        "romaji": "mizukusa",
+        "meaning": "Water plant"
+      },
+      {
+        "word": "雑草",
+        "reading": "ざっそう",
+        "romaji": "zassou",
+        "meaning": "Weeds"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "草がたくさん生えています。",
+      "reading": "くさ が たくさん はえています。",
+      "romaji": "kusa ga takusan haeteimasu",
+      "english": "A lot of grass is growing."
+    },
+
+    "seo": [
+      "grass kanji meaning",
+      "Japanese grass symbol",
+      "how to read 草",
+      "JLPT N5 grass kanji",
+      "kanji for grass"
+    ],
+
+    "tags": [
+      "nature",
+      "plants",
+      "outdoors"
+    ],
+
+    "relatedKanji": [
+      "花",
+      "木",
+      "山"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-country-nation",
+    "kanji": "国",
+    "meaning": "Country, Nation",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "コク (koku)",
+    "kunyomi": "くに (kuni)",
+
+    "fact": "Before the name 日本(Nihon or Nippon) became common, Japan was known by names such as Wa (倭) and Yamato (大和). Wa is the oldest recorded name for Japan. Originally written with the Chinese character 倭 (meaning \"dwarf\" or \"submissive\"), it was later changed by the Japanese in the 8th century to the character 和 (meaning \"harmony\" or \"peace\").",
+
+    "memory": "A Wall surrounding to protect Land and People. A Walled Country. That is symobl 国.",
+
+    "words": [
+      {
+        "word": "国",
+        "reading": "くに",
+        "romaji": "kuni",
+        "meaning": "Country"
+      },
+      {
+        "word": "外国",
+        "reading": "がいこく",
+        "romaji": "gaikoku",
+        "meaning": "Foreign country"
+      },
+      {
+        "word": "中国",
+        "reading": "ちゅうごく",
+        "romaji": "chuugoku",
+        "meaning": "China"
+      },
+      {
+        "word": "国語",
+        "reading": "こくご",
+        "romaji": "kokugo",
+        "meaning": "National language"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "日本は美しい国です。",
+      "reading": "にほん は うつくしい くに です。",
+      "romaji": "nihon wa utsukushii kuni desu",
+      "english": "Japan is a beautiful country."
+    },
+
+    "seo": [
+      "country kanji meaning",
+      "nation kanji japanese",
+      "how to read 国",
+      "JLPT N5 country kanji",
+      "kanji for country"
+    ],
+
+    "tags": [
+      "geography",
+      "travel",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "外",
+      "東",
+      "西"
+    ]
+  },
+
+  {
+    "slug": "kanji-yen-circle",
+    "kanji": "円",
+    "meaning": "Yen, Circle",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "エン (en)",
+    "kunyomi": "まるい (marui)",
+
+    "fact": "Japan's 5-yen coin is considered lucky because its pronunciation, go-en (五円), sounds like the word for a good relationship or fortunate connection (ご縁). When visiting a shrine, many people toss a 5-yen coin into the offering box and hope to attract a little extra luck from the gods. It's one of the few coins in the world valued not just for its money, but for the meaning hidden in its name.",
+
+    "memory": "Japanese yen coins are round. That's why Ancient Japanese choose Kanji 円 for Japanese Currency and Circle.",
+
+    "words": [
+      {
+        "word": "円",
+        "reading": "えん",
+        "romaji": "en",
+        "meaning": "Yen"
+      },
+      {
+        "word": "百円",
+        "reading": "ひゃくえん",
+        "romaji": "hyakuen",
+        "meaning": "100 yen"
+      },
+      {
+        "word": "千円",
+        "reading": "せんえん",
+        "romaji": "senen",
+        "meaning": "1,000 yen"
+      },
+      {
+        "word": "円安",
+        "reading": "えんやす",
+        "romaji": "enyasu",
+        "meaning": "Weak yen"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "これは五百円です。",
+      "reading": "これ は ごひゃくえん です。",
+      "romaji": "kore wa gohyakuen desu",
+      "english": "This costs 500 yen."
+    },
+
+    "seo": [
+      "yen kanji meaning",
+      "Japanese currency kanji",
+      "how to read 円",
+      "JLPT N5 yen kanji",
+      "kanji for money"
+    ],
+
+    "tags": [
+      "money",
+      "shopping",
+      "travel"
+    ],
+
+    "relatedKanji": [
+      "百",
+      "千",
+      "万"
+    ]
+  },
+
+  
+
+
+  {
+    "slug": "kanji-fish",
+    "kanji": "魚",
+    "meaning": "Fish",
+    "jlpt": "N5",
+    "strokes": 11,
+
+    "onyomi": "ギョ (gyo)",
+    "kunyomi": "さかな (sakana), うお (uo)",
+
+    "fact": "Every Children's Day, giant carp streamers called \"Koinobori\" fly above homes across Japan. The colorful fish appear to swim through the sky, symbolizing strength, determination, and the hope that children will overcome life's challenges just as a carp swims against a strong current.",
+
+    "memory": "The kanji 魚 looks like a fish skeleton: the head at the top, the spine running through the middle, and the bones spreading out below.",
+
+    "words": [
+      {
+        "word": "魚",
+        "reading": "さかな",
+        "romaji": "sakana",
+        "meaning": "Fish"
+      },
+      {
+        "word": "金魚",
+        "reading": "きんぎょ",
+        "romaji": "kingyo",
+        "meaning": "Goldfish"
+      },
+      {
+        "word": "魚市場",
+        "reading": "さかないちば",
+        "romaji": "sakana ichiba",
+        "meaning": "Fish market"
+      },
+      {
+        "word": "魚料理",
+        "reading": "さかなりょうり",
+        "romaji": "sakana ryouri",
+        "meaning": "Fish dish"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は魚をよく食べます。",
+      "reading": "わたし は さかな を よく たべます。",
+      "romaji": "watashi wa sakana o yoku tabemasu",
+      "english": "I often eat fish."
+    },
+
+    "seo": [
+      "fish kanji meaning",
+      "Japanese fish symbol",
+      "how to read 魚",
+      "JLPT N5 fish kanji",
+      "kanji for fish"
+    ],
+
+    "tags": [
+      "food",
+      "animals",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "肉",
+      "水",
+      "猫"
+    ]
+  },
+
+  {
+    "slug": "kanji-cow",
+    "kanji": "牛",
+    "meaning": "Cow",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "ギュウ (gyuu)",
+    "kunyomi": "うし (ushi)",
+
+    "fact": "For much of Japan's history, eating beef was uncommon due to Buddhist influences and cultural traditions. When beef became popular during the Meiji Era, it was seen as a symbol of modernization and Western influence. Today, Japan is famous for some of the world's most prized beef, including Kobe and Matsusaka.",
+
+    "memory": "Start with 午, the lunchtime bell mounted on a pole. Add a horn to the top, and the bell suddenly becomes the face of a cow. That's 牛, meaning cow.",
+
+    "words": [
+      {
+        "word": "牛",
+        "reading": "うし",
+        "romaji": "ushi",
+        "meaning": "Cow"
+      },
+      {
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "romaji": "gyuuniku",
+        "meaning": "Beef"
+      },
+      {
+        "word": "牛乳",
+        "reading": "ぎゅうにゅう",
+        "romaji": "gyuunyuu",
+        "meaning": "Milk"
+      },
+      {
+        "word": "子牛",
+        "reading": "こうし",
+        "romaji": "koushi",
+        "meaning": "Calf"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "牛乳を毎朝飲みます。",
+      "reading": "ぎゅうにゅう を まいあさ のみます。",
+      "romaji": "gyuunyuu o maiasa nomimasu",
+      "english": "I drink milk every morning."
+    },
+
+    "seo": [
+      "cow kanji meaning",
+      "beef kanji japanese",
+      "how to read 牛",
+      "JLPT N5 cow kanji",
+      "kanji for cow"
+    ],
+
+    "tags": [
+      "animals",
+      "food",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "肉",
+      "馬",
+      "食"
+    ]
+  },
+
+  {
+    "slug": "kanji-horse",
+    "kanji": "馬",
+    "meaning": "Horse",
+    "jlpt": "N5",
+    "strokes": 10,
+
+    "onyomi": "バ (ba)",
+    "kunyomi": "うま (uma)",
+
+    "fact": "Japanese folklore tells of a terrifying yōkai called the Uma-no-Ashi and other horse-related spirits, but one of the strangest legends involves horses transforming into supernatural beings after death. In old stories, even loyal animals could become powerful spirits if strong emotions lingered.",
+
+    "memory": "An old stable owner draws a simple picture of a horse: mane, body, and four legs. Over time, the drawing becomes 馬.",
+
+    "words": [
+      {
+        "word": "馬",
+        "reading": "うま",
+        "romaji": "uma",
+        "meaning": "Horse"
+      },
+      {
+        "word": "馬車",
+        "reading": "ばしゃ",
+        "romaji": "basha",
+        "meaning": "Horse carriage"
+      },
+      {
+        "word": "白馬",
+        "reading": "はくば",
+        "romaji": "hakuba",
+        "meaning": "White horse"
+      },
+      {
+        "word": "馬力",
+        "reading": "ばりき",
+        "romaji": "bariki",
+        "meaning": "Horsepower"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "その馬はとても速いです。",
+      "reading": "その うま は とても はやい です。",
+      "romaji": "sono uma wa totemo hayai desu",
+      "english": "That horse is very fast."
+    },
+
+    "seo": [
+      "horse kanji meaning",
+      "Japanese horse symbol",
+      "how to read 馬",
+      "JLPT N5 horse kanji",
+      "kanji for horse"
+    ],
+
+    "tags": [
+      "animals",
+      "nature",
+      "basic-kanji"
+    ],
+
+    "relatedKanji": [
+      "牛",
+      "力",
+      "車"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-high-expensive",
+    "kanji": "高",
+    "meaning": "High, Tall, Expensive",
+    "jlpt": "N5",
+    "strokes": 10,
+
+    "onyomi": "コウ (kou)",
+    "kunyomi": "たか(い) (takai)",
+
+    "fact": "\"The Yamabushi,\" Japan's mountain ascetics, believed spiritual growth could be found in harsh environments. They climbed remote peaks, slept outdoors, and trained in difficult conditions. To them, greater height wasn't about a better view—it was about getting closer to enlightenment.",
+
+    "memory": "Imagine a multi-story pagoda stretching upward toward the clouds. That's 高, meaning tall.",
+
+    "words": [
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "romaji": "takai",
+        "meaning": "High, expensive"
+      },
+      {
+        "word": "高校",
+        "reading": "こうこう",
+        "romaji": "koukou",
+        "meaning": "High school"
+      },
+      {
+        "word": "身長が高い",
+        "reading": "しんちょう が たかい",
+        "romaji": "shinchou ga takai",
+        "meaning": "Tall height"
+      },
+      {
+        "word": "最高",
+        "reading": "さいこう",
+        "romaji": "saikou",
+        "meaning": "The best"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "この店の果物は高いです。",
+      "reading": "この みせ の くだもの は たかい です。",
+      "romaji": "kono mise no kudamono wa takai desu",
+      "english": "The fruit in this store is expensive."
+    },
+
+    "seo": [
+      "high kanji meaning",
+      "expensive kanji japanese",
+      "how to read 高",
+      "JLPT N5 high kanji",
+      "kanji for expensive"
+    ],
+
+    "tags": [
+      "adjectives",
+      "shopping",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "安",
+      "校",
+      "空"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-cheap-safe",
+    "kanji": "安",
+    "meaning": "Cheap, Safe, Peaceful",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "アン (an)",
+    "kunyomi": "やす(い) (yasui)",
+
+    "fact": "The kanji 安 originally represented a woman resting safely beneath a roof, symbolizing peace, security, and a worry-free life. Over time, the meaning expanded to include \"cheap\" because an affordable price creates the same feeling—it causes less stress and is easier on the wallet.",
+
+    "memory": "A woman (女) sitting peacefully under a roof (宀) and thinking about buying cheaper clothes next time.",
+
+    "words": [
+      {
+        "word": "安い",
+        "reading": "やすい",
+        "romaji": "yasui",
+        "meaning": "Cheap"
+      },
+      {
+        "word": "安全",
+        "reading": "あんぜん",
+        "romaji": "anzen",
+        "meaning": "Safety"
+      },
+      {
+        "word": "安心",
+        "reading": "あんしん",
+        "romaji": "anshin",
+        "meaning": "Peace of mind"
+      },
+      {
+        "word": "安売り",
+        "reading": "やすうり",
+        "romaji": "yasuuri",
+        "meaning": "Sale, discount"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "この店はとても安いです。",
+      "reading": "この みせ は とても やすい です。",
+      "romaji": "kono mise wa totemo yasui desu",
+      "english": "This store is very cheap."
+    },
+
+    "seo": [
+      "cheap kanji meaning",
+      "safe kanji japanese",
+      "how to read 安",
+      "JLPT N5 cheap kanji",
+      "kanji for cheap"
+    ],
+
+    "tags": [
+      "adjectives",
+      "shopping",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "高",
+      "店",
+      "買"
+    ]
+  },
+
+  {
+    "slug": "kanji-many-much",
+    "kanji": "多",
+    "meaning": "Many, Much",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "タ (ta)",
+    "kunyomi": "おお(い) (ooi)",
+    "fact": "Japan has more than four million vending machines, meaning you can find one almost everywhere. Drinks, ice cream, batteries, umbrellas, and sometimes surprisingly strange items are only a few steps away. When it comes to vending machines, Japan definitely qualifies as 多い (many).",
+
+    "memory": "The kanji 多 is made from two evenings (夕). One evening is ordinary. Two evenings become many.",
+
+
+    "words": [
+      {
+        "word": "多い",
+        "reading": "おおい",
+        "romaji": "ooi",
+        "meaning": "Many"
+      },
+      {
+        "word": "多分",
+        "reading": "たぶん",
+        "romaji": "tabun",
+        "meaning": "Probably"
+      },
+      {
+        "word": "多数",
+        "reading": "たすう",
+        "romaji": "tasuu",
+        "meaning": "Large number"
+      },
+      {
+        "word": "人が多い",
+        "reading": "ひと が おおい",
+        "romaji": "hito ga ooi",
+        "meaning": "Many people"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "今日は人が多いです。",
+      "reading": "きょう は ひと が おおい です。",
+      "romaji": "kyou wa hito ga ooi desu",
+      "english": "There are many people today."
+    },
+
+    "seo": [
+      "many kanji meaning",
+      "much kanji japanese",
+      "how to read 多",
+      "JLPT N5 many kanji",
+      "kanji for many"
+    ],
+
+    "tags": [
+      "adjectives",
+      "quantity",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "少",
+      "人",
+      "大"
+    ]
+  },
+
+  {
+    "slug": "kanji-few-little",
+    "kanji": "少",
+    "meaning": "Few, Little",
+    "jlpt": "N5",
+    "strokes": 4,
+
+    "onyomi": "ショウ (shou)",
+    "kunyomi": "すく(ない) (sukunai), すこ(し) (sukoshi)",
+
+    "fact": "Traditional Japanese aesthetics often embrace the idea that less can be more. A single flower in a tea room, a few carefully placed stones in a garden, or an almost empty space can be considered more beautiful than abundance. Sometimes having a little is exactly the point.",
+
+    "memory": "Imagine grains of sand slipping through your fingers. Only a few remain. That's 少, meaning few or little.",
+
+    "words": [
+      {
+        "word": "少ない",
+        "reading": "すくない",
+        "romaji": "sukunai",
+        "meaning": "Few"
+      },
+      {
+        "word": "少し",
+        "reading": "すこし",
+        "romaji": "sukoshi",
+        "meaning": "A little"
+      },
+      {
+        "word": "少年",
+        "reading": "しょうねん",
+        "romaji": "shounen",
+        "meaning": "Boy"
+      },
+      {
+        "word": "人数が少ない",
+        "reading": "にんずう が すくない",
+        "romaji": "ninzuu ga sukunai",
+        "meaning": "Few people"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "時間が少しあります。",
+      "reading": "じかん が すこし あります。",
+      "romaji": "jikan ga sukoshi arimasu",
+      "english": "I have a little time."
+    },
+
+    "seo": [
+      "few kanji meaning",
+      "little kanji japanese",
+      "how to read 少",
+      "JLPT N5 few kanji",
+      "kanji for little"
+    ],
+
+    "tags": [
+      "adjectives",
+      "quantity",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "多",
+      "人",
+      "時"
+    ]
+  },
+
+  {
+    "slug": "kanji-long-chief",
+    "kanji": "長",
+    "meaning": "Long, Leader",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "チョウ (chou)",
+    "kunyomi": "なが(い) (nagai)",
+
+    "fact": "In ancient East Asia, age was closely associated with wisdom and authority. The person who had lived the longest had witnessed the most events and accumulated the most experience. Over time, the kanji 長 came to mean not only \"long\" but also \"leader\" or \"chief.\" In a sense, the leader was often simply the one who had been around the longest.",
+
+    "memory": "A wise elder's hair has grown long over many years. That's 長.",
+
+    "words": [
+      {
+        "word": "長い",
+        "reading": "ながい",
+        "romaji": "nagai",
+        "meaning": "Long"
+      },
+      {
+        "word": "校長",
+        "reading": "こうちょう",
+        "romaji": "kouchou",
+        "meaning": "School principal"
+      },
+      {
+        "word": "社長",
+        "reading": "しゃちょう",
+        "romaji": "shachou",
+        "meaning": "Company president"
+      },
+      {
+        "word": "長時間",
+        "reading": "ちょうじかん",
+        "romaji": "choujikan",
+        "meaning": "Long time"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "この橋はとても長いです。",
+      "reading": "この はし は とても ながい です。",
+      "romaji": "kono hashi wa totemo nagai desu",
+      "english": "This bridge is very long."
+    },
+
+    "seo": [
+      "long kanji meaning",
+      "leader kanji japanese",
+      "how to read 長",
+      "JLPT N5 long kanji",
+      "kanji for long"
+    ],
+
+    "tags": [
+      "adjectives",
+      "business",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "校",
+      "社",
+      "時"
+    ]
+  },
+
+  {
+    "slug": "kanji-old",
+    "kanji": "古",
+    "meaning": "Old",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "コ (ko)",
+    "kunyomi": "ふる(い) (furui)",
+
+    "fact": "Japan is home to Nishiyama Onsen Keiunkan, a hot spring inn founded in 705 AD. The hotel has operated continuously for more than 1,300 years and has been run by the same family for over 50 generations. When something in Japan is described as 古い (old), it can sometimes be older than entire countries.",
+
+    "memory": "When a story changes Ten(十) Mouths(口) it becomes Old.",
+
+    "words": [
+      {
+        "word": "古い",
+        "reading": "ふるい",
+        "romaji": "furui",
+        "meaning": "Old"
+      },
+      {
+        "word": "中古",
+        "reading": "ちゅうこ",
+        "romaji": "chuuko",
+        "meaning": "Used, second-hand"
+      },
+      {
+        "word": "古本",
+        "reading": "ふるほん",
+        "romaji": "furuhon",
+        "meaning": "Used book"
+      },
+      {
+        "word": "古い家",
+        "reading": "ふるい いえ",
+        "romaji": "furui ie",
+        "meaning": "Old house"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は古い本が好きです。",
+      "reading": "わたし は ふるい ほん が すき です。",
+      "romaji": "watashi wa furui hon ga suki desu",
+      "english": "I like old books."
+    },
+
+    "seo": [
+      "old kanji meaning",
+      "Japanese old symbol",
+      "how to read 古",
+      "JLPT N5 old kanji",
+      "kanji for old"
+    ],
+
+    "tags": [
+      "adjectives",
+      "daily-life",
+      "history"
+    ],
+
+    "relatedKanji": [
+      "新",
+      "本",
+      "家"
+    ]
+  },
+
+
+  {
+    "slug": "kanji-new",
+    "kanji": "新",
+    "meaning": "New",
+    "jlpt": "N5",
+    "strokes": 13,
+
+    "onyomi": "シン (shin)",
+    "kunyomi": "あたら(しい) (atarashii)",
+
+    "fact": "Every twenty years, Japan's \"Ise Grand Shrine\" is completely rebuilt using traditional techniques. The old shrine is dismantled, and a new one is constructed beside it. This tradition has continued for more than 1,300 years.",
+
+    "memory": "A lumberjack cuts down a tree with an axe. The freshly exposed wood looks brand new. That's 新.",
+
+    "words": [
+      {
+        "word": "新しい",
+        "reading": "あたらしい",
+        "romaji": "atarashii",
+        "meaning": "New"
+      },
+      {
+        "word": "新聞",
+        "reading": "しんぶん",
+        "romaji": "shinbun",
+        "meaning": "Newspaper"
+      },
+      {
+        "word": "新年",
+        "reading": "しんねん",
+        "romaji": "shinnen",
+        "meaning": "New Year"
+      },
+      {
+        "word": "新しい車",
+        "reading": "あたらしい くるま",
+        "romaji": "atarashii kuruma",
+        "meaning": "New car"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "新しい本を買いました。",
+      "reading": "あたらしい ほん を かいました。",
+      "romaji": "atarashii hon o kaimashita",
+      "english": "I bought a new book."
+    },
+
+    "seo": [
+      "new kanji meaning",
+      "Japanese new symbol",
+      "how to read 新",
+      "JLPT N5 new kanji",
+      "kanji for new"
+    ],
+
+    "tags": [
+      "adjectives",
+      "shopping",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "古",
+      "本",
+      "車"
+    ]
+  },
+
+  {
+    "slug": "kanji-early-fast",
+    "kanji": "早",
+    "meaning": "Early, Fast",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "ソウ (sou)",
+    "kunyomi": "はや(い) (hayai)",
+
+    "fact": "Every spring, Japan follows the \"cherry blossom front\" as sakura blooms move north across the country. News reports track which city sees the first blossoms, and people eagerly wait for the announcement.",
+
+    "memory": "It's Saturday morning. You open your eyes, see the sun(日) shining outside, check the clock, and realize it's only 10(十) AM. And you feel Happy : WOW, I woke up \"early!\"",
+
+    "words": [
+      {
+        "word": "早い",
+        "reading": "はやい",
+        "romaji": "hayai",
+        "meaning": "Early, fast"
+      },
+      {
+        "word": "早朝",
+        "reading": "そうちょう",
+        "romaji": "souchou",
+        "meaning": "Early morning"
+      },
+      {
+        "word": "早起き",
+        "reading": "はやおき",
+        "romaji": "hayaoki",
+        "meaning": "Getting up early"
+      },
+      {
+        "word": "手早い",
+        "reading": "てばやい",
+        "romaji": "tebayai",
+        "meaning": "Quick"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "私は毎日早く起きます。",
+      "reading": "わたし は まいにち はやく おきます。",
+      "romaji": "watashi wa mainichi hayaku okimasu",
+      "english": "I wake up early every day."
+    },
+
+    "seo": [
+      "early kanji meaning",
+      "fast kanji japanese",
+      "how to read 早",
+      "JLPT N5 early kanji",
+      "kanji for early"
+    ],
+
+    "tags": [
+      "time",
+      "daily-life",
+      "adjectives"
+    ],
+
+    "relatedKanji": [
+      "時",
+      "今",
+      "年"
+    ]
+  },
+
+  {
+    "slug": "kanji-rest",
+    "kanji": "休",
+    "meaning": "Rest, Holiday",
+    "jlpt": "N5",
+    "strokes": 6,
+
+    "onyomi": "キュウ (kyuu)",
+    "kunyomi": "やす(む) (yasumu), やす(み) (yasumi)",
+
+    "fact": "Japan popularized the idea of \"Shinrin-yoku (forest bathing),\". People take slow walks through forests, enjoying the sights, sounds, and smells of nature. The goal isn't exercise—it's rest for the mind.",
+
+    "memory": "A person(亻) leaning against a tree(木) to Rest.",
+
+    "words": [
+      {
+        "word": "休む",
+        "reading": "やすむ",
+        "romaji": "yasumu",
+        "meaning": "To rest"
+      },
+      {
+        "word": "休み",
+        "reading": "やすみ",
+        "romaji": "yasumi",
+        "meaning": "Holiday, day off"
+      },
+      {
+        "word": "休日",
+        "reading": "きゅうじつ",
+        "romaji": "kyuujitsu",
+        "meaning": "Holiday"
+      },
+      {
+        "word": "夏休み",
+        "reading": "なつやすみ",
+        "romaji": "natsuyasumi",
+        "meaning": "Summer vacation"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "日曜日は休みです。",
+      "reading": "にちようび は やすみ です。",
+      "romaji": "nichiyoubi wa yasumi desu",
+      "english": "Sunday is a holiday."
+    },
+
+    "seo": [
+      "rest kanji meaning",
+      "holiday kanji japanese",
+      "how to read 休",
+      "JLPT N5 rest kanji",
+      "kanji for holiday"
+    ],
+
+    "tags": [
+      "time",
+      "daily-life",
+      "work"
+    ],
+
+    "relatedKanji": [
+      "日",
+      "人",
+      "木"
+    ]
+  },
+
+  {
+    "slug": "kanji-stand-rise",
+    "kanji": "立",
+    "meaning": "Stand, Rise",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "リツ (ritsu)",
+    "kunyomi": "た(つ) (tatsu), た(てる) (tateru)",
+
+    "fact": "\"The Monk Who Died Standing.\" The warrior monk \"Benkei\" is one of Japan's greatest folk heroes. According to legend, he defended a bridge against hundreds of enemies to protect his lord, Minamoto no Yoshitsune. After the battle, the attackers finally approached and discovered something astonishing: Benkei had died from his wounds while still standing. The image became so famous that \"Benkei's Standing Death\" remains one of Japan's most legendary tales of loyalty and courage.",
+
+    "memory": "Imagine a champion standing proudly on a podium. That's 立, meaning stand.",
+
+    "words": [
+      {
+        "word": "立つ",
+        "reading": "たつ",
+        "romaji": "tatsu",
+        "meaning": "To stand"
+      },
+      {
+        "word": "立場",
+        "reading": "たちば",
+        "romaji": "tachiba",
+        "meaning": "Position, standpoint"
+      },
+      {
+        "word": "国立",
+        "reading": "こくりつ",
+        "romaji": "kokuritsu",
+        "meaning": "National"
+      },
+      {
+        "word": "立入口",
+        "reading": "たちいりぐち",
+        "romaji": "tachiiriguchi",
+        "meaning": "Entrance"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "ここに立ってください。",
+      "reading": "ここ に たって ください。",
+      "romaji": "koko ni tatte kudasai",
+      "english": "Please stand here."
+    },
+
+    "seo": [
+      "stand kanji meaning",
+      "rise kanji japanese",
+      "how to read 立",
+      "JLPT N5 stand kanji",
+      "kanji for stand"
+    ],
+
+    "tags": [
+      "verbs",
+      "movement",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "行",
+      "入",
+      "出"
+    ]
+  }
+]
