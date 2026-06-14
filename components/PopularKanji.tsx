@@ -6,25 +6,25 @@ export default function PopularKanji() {
       symbol: "愛",
       meaning: "Love",
       reading: "あい (ai)",
-      slug: "love",
+      slug: "kanji-love",
     },
     {
       symbol: "神",
       meaning: "God",
       reading: "かみ (kami)",
-      slug: "god",
+      slug: "kanji-god",
     },
     {
       symbol: "金",
       meaning: "Money, Gold",
       reading: "かね (kane)",
-      slug: "money",
+      slug: "kanji-gold-money",
     },
     {
       symbol: "心",
       meaning: "Heart",
       reading: "こころ (kokoro)",
-      slug: "heart",
+      slug: "kanji-heart",
     },
   ];
 
