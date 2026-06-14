@@ -41,35 +41,35 @@ export default function Header() {
 
             <a
               href="/"
-              className="hover:text-green-700"
+              className="hover:text-orange-700"
             >
               🏠 Home
             </a>
 
             <a
               href="/jlpt/n5"
-              className="hover:text-green-700"
+              className="hover:text-orange-700"
             >
               📘 N5 Kanji
             </a>
 
             <a
               href="/jlpt/n4"
-              className="hover:text-green-700"
+              className="hover:text-orange-700"
             >
               📗 N4 Kanji
             </a>
 
             <a
               href="/jlpt/n3"
-              className="hover:text-green-700"
+              className="hover:text-orange-700"
             >
               📙 N3 Kanji
             </a>
 
             <Link
               href="/guides"
-              className="hover:text-green-700"
+              className="hover:text-orange-700"
             >
               📚 Guides
             </Link>
@@ -94,7 +94,7 @@ export default function Header() {
             🏠 Home
           </Link>
 
-          <Link href="/guides/introduction-to-japanese-writing">
+          <Link href="/guides">
             📚 Guides
           </Link>
 
