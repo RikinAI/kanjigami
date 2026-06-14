@@ -1,9 +1,140 @@
 [
+    {
+    "slug": "kanji-love",
+    "kanji": "愛",
+    "meaning": "Love, Affection",
+    "jlpt": "N3",
+    "strokes": 13,
+
+    "onyomi": "アイ (ai)",
+    "kunyomi": "いとしい (itoshii)",
+
+    "fact": "The kanji 愛 is one of the most famous Japanese characters worldwide. Unlike the casual 'love' often used in English, 愛 usually represents deep affection, devotion, and lasting emotional bonds.",
+
+    "memory": "Imagine a heart hidden inside a person who carefully protects it because it contains their deepest love. The complex shape of 愛 reminds us that true love is powerful and layered.",
+
+    "words": [
+      {
+        "word": "愛",
+        "reading": "あい",
+        "romaji": "ai",
+        "meaning": "Love"
+      },
+      {
+        "word": "恋愛",
+        "reading": "れんあい",
+        "romaji": "renai",
+        "meaning": "Romantic love"
+      },
+      {
+        "word": "愛情",
+        "reading": "あいじょう",
+        "romaji": "aijou",
+        "meaning": "Affection"
+      },
+      {
+        "word": "母性愛",
+        "reading": "ぼせいあい",
+        "romaji": "boseiai",
+        "meaning": "Motherly love"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "家族への 愛 は とても 大切です。",
+      "reading": "かぞくへの あい は とても たいせつです。",
+      "romaji": "kazoku e no ai wa totemo taisetsu desu",
+      "english": "Love for family is very important."
+    },
+
+    "seo": [
+      "love kanji meaning",
+      "Japanese kanji for love",
+      "愛 meaning",
+      "ai kanji",
+      "love symbol in Japanese"
+    ],
+
+    "tags": [
+      "love",
+      "emotion",
+      "relationships"
+    ],
+
+    "relatedKanji": [
+      "心",
+      "恋",
+      "情"
+    ]
+  },
+
   {
-    "slug": "feeling",
-    "kanji": "感",
-    "meaning": "Feeling, Emotion",
-    "onyomi": "カン (kan)",
-    "kunyomi": ""
+    "slug": "kanji-god",
+    "kanji": "神",
+    "meaning": "God, Deity, Spirit",
+    "jlpt": "N3",
+    "strokes": 9,
+
+    "onyomi": "シン (shin), ジン (jin)",
+    "kunyomi": "かみ (kami)",
+
+    "fact": "In Shinto, Japan's native religion, 神 (kami) can refer to gods, spirits, sacred natural forces, or revered ancestors. There are said to be millions of kami throughout Japan.",
+
+    "memory": "Imagine a sacred altar where a divine spirit suddenly appears. The left side shows a ritual altar and the right side represents something being revealed, creating the idea of a god.",
+
+    "words": [
+      {
+        "word": "神",
+        "reading": "かみ",
+        "romaji": "kami",
+        "meaning": "God, deity"
+      },
+      {
+        "word": "神社",
+        "reading": "じんじゃ",
+        "romaji": "jinja",
+        "meaning": "Shinto shrine"
+      },
+      {
+        "word": "神様",
+        "reading": "かみさま",
+        "romaji": "kamisama",
+        "meaning": "God"
+      },
+      {
+        "word": "精神",
+        "reading": "せいしん",
+        "romaji": "seishin",
+        "meaning": "Spirit, mentality"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "神社で 神様 に お祈りしました。",
+      "reading": "じんじゃで かみさま に おいのりしました。",
+      "romaji": "jinja de kamisama ni oinori shimashita",
+      "english": "I prayed to the gods at a shrine."
+    },
+
+    "seo": [
+      "god kanji meaning",
+      "Japanese kanji for god",
+      "kami kanji",
+      "神 meaning in Japanese",
+      "Shinto god kanji"
+    ],
+
+    "tags": [
+      "religion",
+      "spirituality",
+      "shinto"
+    ],
+
+    "relatedKanji": [
+      "仏",
+      "心",
+      "祭"
+    ]
   }
+
 ]

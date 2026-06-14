@@ -18,7 +18,7 @@ export default function Footer() {
                 Kanji
               </span>
 
-              <span className="text-green-800">
+              <span className="text-orange-700">
                 Gami
               </span>
 
@@ -62,8 +62,13 @@ export default function Footer() {
                 </Link>
               </li>
 
-              <li className="text-gray-400">
-                N3 Kanji
+              <li>
+                <Link
+                  href="/jlpt/n3"
+                  className="hover:text-green-700"
+                >
+                  N3 Kanji
+                </Link>
               </li>
 
             </ul>
@@ -116,35 +121,27 @@ export default function Footer() {
         <div>
 
           <h4 className="font-bold mb-3 text-sm md:text-base">
-            Guides & Blogs
+            Guides
           </h4>
 
           <ul className="space-y-2 text-sm">
 
             <li>
               <Link
-                href="/guides/introduction-to-japanese-writing"
+                href="/guides/why-learning-kanji-is-important"
                 className="hover:text-green-700"
               >
-                Beginner Guides
+                Why Learning Kanji is Important
               </Link>
             </li>
 
             <li>
               <Link
-                href="/blogs"
+                href="/guides/how-to-remember-kanji-easily"
                 className="hover:text-green-700"
               >
-                Blog
+                How to Remember Kanjis easily
               </Link>
-            </li>
-
-            <li className="text-gray-400">
-              Kanji Learning Tips
-            </li>
-
-            <li className="text-gray-400">
-              JLPT Study Tips
             </li>
 
           </ul>

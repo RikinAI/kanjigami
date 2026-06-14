@@ -3,7 +3,6 @@ import Header from "../components/Header";
 import Hero from "../components/Hero";
 import JLPTPreview from "../components/JLPTPreview";
 import PopularKanji from "../components/PopularKanji";
-import BeginnerGuides from "../components/BeginnerGuides";
 import Footer from "../components/Footer";
 
 export const metadata: Metadata = {
@@ -31,7 +30,6 @@ export default function Home() {
       <Hero />
       <JLPTPreview />
       <PopularKanji />
-      <BeginnerGuides />
       <Footer />
     </>
   );

@@ -4,11 +4,12 @@ import Footer from "../../../components/Footer";
 import Link from "next/link";
 import n5 from "../../../data/jlpt-n5.json";
 import n4 from "../../../data/jlpt-n4.json";
-//export const runtime = "edge";
+import n3 from "../../../data/jlpt-n3.json";
 
 const kanjiList = [
   ...n5,
   ...n4,
+  ...n3
 ];
 
 export function generateStaticParams() {
@@ -16,6 +17,8 @@ export function generateStaticParams() {
     slug: kanji.slug,
   }));
 }
+
+
 
 export async function generateMetadata({
   params,
@@ -55,6 +58,8 @@ export default async function KanjiPage({
     (item: any) => item.slug === slug
   );
 
+  const backLink = `/jlpt/${kanji?.jlpt.toLowerCase()}`;
+  const backText = `← Back to JLPT ${kanji?.jlpt} List`;
   
  const recommendations =
   kanji?.relatedKanji?.length
@@ -74,11 +79,13 @@ export default async function KanjiPage({
 
 // Determine which JLPT list this kanji belongs to
 
-const isN5 = n5.some(
-  (item: any) => item.slug === slug
-);
+const jlptLists: Record<string, any[]> = {
+  N5: n5,
+  N4: n4,
+  N3: n3,
+};
 
-const currentList = isN5 ? n5 : n4;
+const currentList = jlptLists[kanji.jlpt] || n5;
 
 // Navigation only within that JLPT level
 
@@ -129,10 +136,10 @@ const nextKanji =
           <div className="mb-6">
 
             <Link
-              href={isN5 ? "/jlpt/n5" : "/jlpt/n4"}
+              href={backLink}
               className="text-green-700 text-sm hover:underline"
             >
-              ← Back to {isN5 ? "JLPT N5" : "JLPT N4"} List
+              {backText}
             </Link>
 
           </div>
@@ -158,7 +165,7 @@ const nextKanji =
               <div className="mt-3">
 
                 <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-xs font-medium">
-                  JLPT N5
+                  JLPT {kanji.jlpt}
                 </span>
 
               </div>

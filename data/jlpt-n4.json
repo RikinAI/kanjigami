@@ -1,4 +1,76 @@
 [
+  
+    {
+    "slug": "kanji-heart",
+    "kanji": "心",
+    "meaning": "Heart, Mind, Spirit",
+    "jlpt": "N4",
+    "strokes": 4,
+
+    "onyomi": "シン (shin)",
+    "kunyomi": "こころ (kokoro)",
+
+    "fact": "In Japanese culture, 心 (kokoro) represents much more than the physical heart. It includes the mind, emotions, intentions, and spirit. Many Japanese expressions use 心 to describe someone's true feelings and character.",
+
+    "memory": "Imagine a heart beating so fast that little drops of emotion fly out in every direction. The shape of 心 looks like a heart overflowing with feelings.",
+
+    "words": [
+      {
+        "word": "心",
+        "reading": "こころ",
+        "romaji": "kokoro",
+        "meaning": "Heart, mind"
+      },
+      {
+        "word": "安心",
+        "reading": "あんしん",
+        "romaji": "anshin",
+        "meaning": "Relief, peace of mind"
+      },
+      {
+        "word": "中心",
+        "reading": "ちゅうしん",
+        "romaji": "chuushin",
+        "meaning": "Center"
+      },
+      {
+        "word": "熱心",
+        "reading": "ねっしん",
+        "romaji": "nesshin",
+        "meaning": "Enthusiastic"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "彼は 優しい 心 を 持っています。",
+      "reading": "かれは やさしい こころ を もっています。",
+      "romaji": "kare wa yasashii kokoro o motteimasu",
+      "english": "He has a kind heart."
+    },
+
+    "seo": [
+      "heart kanji meaning",
+      "kokoro kanji",
+      "Japanese kanji for heart",
+      "心 meaning in Japanese",
+      "JLPT N4 heart kanji"
+    ],
+
+    "tags": [
+      "emotion",
+      "mind",
+      "spirit"
+    ],
+
+    "relatedKanji": [
+      "愛",
+      "情",
+      "思"
+    ]
+  },
+  
+  
+  
   {
     "slug": "kanji-open",
     "kanji": "開",
@@ -308,7 +380,7 @@
     "slug": "kanji-dog",
     "kanji": "犬",
     "meaning": "Dog",
-    "jlpt": "N5",
+    "jlpt": "N4",
     "strokes": 4,
 
     "onyomi": "ケン (ken)",
@@ -356,7 +428,7 @@
       "dog kanji meaning",
       "Japanese dog symbol",
       "how to read 犬",
-      "JLPT N5 dog kanji",
+      "JLPT N4 dog kanji",
       "kanji for dog"
     ],
 
@@ -378,7 +450,7 @@
     "slug": "kanji-cat",
     "kanji": "猫",
     "meaning": "Cat",
-    "jlpt": "N5",
+    "jlpt": "N4",
     "strokes": 11,
 
     "onyomi": "ビョウ (byou)",
@@ -426,7 +498,7 @@
       "cat kanji meaning",
       "Japanese cat symbol",
       "how to read 猫",
-      "JLPT N5 cat kanji",
+      "JLPT N4 cat kanji",
       "kanji for cat"
     ],
 
@@ -448,7 +520,7 @@
     "slug": "kanji-meat",
     "kanji": "肉",
     "meaning": "Meat",
-    "jlpt": "N5",
+    "jlpt": "N4",
     "strokes": 6,
 
     "onyomi": "ニク (niku)",
@@ -496,7 +568,7 @@
       "meat kanji meaning",
       "Japanese meat symbol",
       "how to read 肉",
-      "JLPT N5 meat kanji",
+      "JLPT N4 meat kanji",
       "kanji for meat"
     ],
 
@@ -517,7 +589,7 @@
     "slug": "kanji-rice",
     "kanji": "米",
     "meaning": "Rice",
-    "jlpt": "N5",
+    "jlpt": "N4",
     "strokes": 6,
 
     "onyomi": "ベイ (bei), マイ (mai)",
@@ -565,7 +637,7 @@
       "rice kanji meaning",
       "Japanese rice symbol",
       "how to read 米",
-      "JLPT N5 rice kanji",
+      "JLPT N4 rice kanji",
       "kanji for rice"
     ],
 
@@ -586,7 +658,7 @@
     "slug": "kanji-tea",
     "kanji": "茶",
     "meaning": "Tea",
-    "jlpt": "N5",
+    "jlpt": "N4",
     "strokes": 9,
 
     "onyomi": "チャ (cha), サ (sa)",
@@ -634,7 +706,7 @@
       "tea kanji meaning",
       "Japanese tea symbol",
       "how to read 茶",
-      "JLPT N5 tea kanji",
+      "JLPT N4 tea kanji",
       "kanji for tea"
     ],
 
@@ -656,7 +728,7 @@
     "slug": "kanji-shell-money",
     "kanji": "貝",
     "meaning": "Shell, Shellfish",
-    "jlpt": "N5",
+    "jlpt": "N4",
     "strokes": 7,
 
     "onyomi": "バイ (bai)",
@@ -704,7 +776,7 @@
       "shell kanji meaning",
       "Japanese shell symbol",
       "how to read 貝",
-      "JLPT N5 shell kanji",
+      "JLPT N4 shell kanji",
       "kanji for shell"
     ],
 

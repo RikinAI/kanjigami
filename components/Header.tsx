@@ -1,4 +1,11 @@
+"use client";
+
+import Link from "next/link";
+import { useState } from "react";
+
 export default function Header() {
+  const [menuOpen, setMenuOpen] = useState(false);
+
   return (
     <header className="sticky top-0 z-50 bg-white border-b">
 
@@ -16,7 +23,7 @@ export default function Header() {
                 Kanji
               </span>
 
-              <span className="text-green-800">
+              <span className="text-orange-700">
                 Gami
               </span>
 
@@ -53,9 +60,23 @@ export default function Header() {
               📗 N4 Kanji
             </a>
 
+            <a
+              href="/jlpt/n3"
+              className="hover:text-green-700"
+            >
+              📙 N3 Kanji
+            </a>
+
+            <Link
+              href="/guides"
+              className="hover:text-green-700"
+            >
+              📚 Guides
+            </Link>
+
             <a href="/search">
-  🔍 Search
-</a>
+              🔍 Search
+            </a>
 
           </nav>
 
@@ -67,25 +88,57 @@ export default function Header() {
 
       <div className="md:hidden border-t bg-slate-50">
 
-        <div className="flex justify-around py-2 text-xs font-medium">
+        <div className="flex justify-around items-center py-2 text-sm font-medium">
 
-          <a href="/">
+          <Link href="/">
             🏠 Home
-          </a>
+          </Link>
 
-          <a href="/jlpt/n5">
-            📘 N5 Kanji
-          </a>
+          <Link href="/guides/introduction-to-japanese-writing">
+            📚 Guides
+          </Link>
 
-          <a href="/jlpt/n4">
-            📗 N4 Kanji
-          </a>
+          <Link href="/search">
+            🔍 Search
+          </Link>
 
-          <a href="/search">
-  🔍 Search
-</a>
+          <button
+            onClick={() => setMenuOpen(!menuOpen)}
+            className="font-medium"
+          >
+            ☰ JLPT
+          </button>
 
         </div>
+
+        {menuOpen && (
+          <div className="flex flex-col border-t bg-white">
+
+            <Link
+              href="/jlpt/n5"
+              className="px-4 py-3 border-b hover:bg-slate-100"
+            >
+              📘 JLPT N5
+            </Link>
+
+            <Link
+              href="/jlpt/n4"
+              className="px-4 py-3 border-b hover:bg-slate-100"
+            >
+              📗 JLPT N4
+            </Link>
+
+            <Link
+              href="/jlpt/n3"
+              className="px-4 py-3 hover:bg-slate-100"
+            >
+              📙 JLPT N3
+            </Link>
+
+          </div>
+        )}
+
+
 
       </div>
 
