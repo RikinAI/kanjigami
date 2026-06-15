@@ -20,8 +20,11 @@ export const metadata: Metadata = {
   },
 
   icons: {
-    icon: "/icon.png",
-  },
+  icon: [
+    { url: "/favicon.ico" },
+    { url: "/icon.png", type: "image/png" },
+  ],
+},
   
   description:
     "Master Japanese Kanji through memory tricks, interesting facts, example words, and step by step guide for kanji learning.",
