@@ -21,12 +21,13 @@ export const metadata: Metadata = {
   },
 
   icons: {
-  icon: [
-    { url: "/favicon.ico" },
-    { url: "/icon.png", type: "image/png" },
-  ],
-},
-  
+    icon: "/icon.png",
+  },
+
+  other: {
+    "google-adsense-account": "ca-pub-9415589739716169",
+  },
+
   description:
     "Master Japanese Kanji through memory tricks, interesting facts, example words, and step by step guide for kanji learning.",
 
