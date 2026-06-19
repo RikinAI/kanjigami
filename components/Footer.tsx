@@ -96,7 +96,7 @@ export default function Footer() {
 
               <li>
                 <Link
-                  href="/kanji/kanji-God"
+                  href="/kanji/kanji-god"
                   className="hover:text-green-700"
                 >
                   Kanji for God
