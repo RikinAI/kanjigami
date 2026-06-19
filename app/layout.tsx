@@ -54,6 +54,12 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <head>
+
+        <meta
+          name="google-adsense-account"
+          content="ca-pub-9415589739716169"
+        />
+
         {/* Google Analytics */}
         <Script
           async
@@ -74,9 +80,10 @@ export default function RootLayout({
         <Script
           async
           strategy="afterInteractive"
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9415589739716169"
           crossOrigin="anonymous"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9415589739716169"
         />
+
       </head>
       <body className="min-h-full flex flex-col">
 
