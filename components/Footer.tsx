@@ -49,7 +49,7 @@ export default function Footer() {
                   href="/jlpt/n5"
                   className="hover:text-green-700"
                 >
-                  N5 Kanji
+                  N5 Kanji list
                 </Link>
               </li>
 
@@ -58,7 +58,7 @@ export default function Footer() {
                   href="/jlpt/n4"
                   className="hover:text-green-700"
                 >
-                  N4 Kanji
+                  N4 Kanji list
                 </Link>
               </li>
 
@@ -67,7 +67,7 @@ export default function Footer() {
                   href="/jlpt/n3"
                   className="hover:text-green-700"
                 >
-                  N3 Kanji
+                  N3 Kanji list
                 </Link>
               </li>
 

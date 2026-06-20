@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title:
-    "JLPT N5 Kanji List – Interesting Facts, Memory Tricks, Meanings, Readings & Study Guide",
+    "JLPT N5 Kanji List (112 Kanji) | Meanings, Onyomi, Kunyomi, Interesting Facts, Memory Trick and Examples",
 
   description:
-    "Study all JLPT N5 Kanji with interesting facts, memory tricks, meanings, Onyomi, Kunyomi, example words, and example sentences.",
+    "Master all 112 JLPT N5 Kanji with meanings, Onyomi, Kunyomi, example words, example sentences, memory tricks, and study tips. Perfect for JLPT N5 preparation.",
 
   alternates: {
     canonical: "/jlpt/n5",

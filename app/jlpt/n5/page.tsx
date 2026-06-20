@@ -5,10 +5,77 @@ import Header from "../../../components/Header";
 import Footer from "../../../components/Footer";
 import kanjiList from "../../../data/jlpt-n5.json";
 import Link from "next/link";
+import Script from "next/script";
+
 
 
 export default function JLPTN5Page() {
   const [query, setQuery] = useState("");
+
+  const faqSchema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: [
+          {
+            "@type": "Question",
+            name: "How many kanji are in JLPT N5?",
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: "Most JLPT N5 study resources cover approximately 100–120 essential kanji."
+            }
+          },
+          {
+            "@type": "Question",
+            name: "Is JLPT N5 difficult?",
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: "JLPT N5 is the easiest level of the Japanese Language Proficiency Test and is designed for beginners."
+            }
+          },
+          {
+            "@type": "Question",
+            name: "How long does it take to learn JLPT N5 kanji?",
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: "Many learners can complete the JLPT N5 Kanji List in 3–6 weeks with consistent study."
+            }
+          },
+          {
+            "@type": "Question",
+            name: "Should I learn Onyomi and Kunyomi readings?",
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: "Understanding common Onyomi and Kunyomi readings helps learners recognize vocabulary and improve reading comprehension."
+            }
+          },
+          {
+            "@type": "Question",
+            name: "What is the best way to remember JLPT N5 kanji?",
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: "Memory tricks, example vocabulary, example sentences, and daily reading practice are effective ways to remember kanji."
+            }
+          }
+        ]
+      };
+  const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: "Home",
+      item: "https://kanjigami.com",
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: "JLPT N5",
+      item: "https://kanjigami.com/jlpt/n5",
+    },
+  ],
+};
 
   const filteredKanji = kanjiList.filter((item) => {
     const q = query.toLowerCase().trim();
@@ -31,26 +98,63 @@ export default function JLPTN5Page() {
 
         {/* Header */}
 
-        <div className="mb-5">
+<div className="mb-5">
 
-          <h1 className="text-2xl md:text-4xl font-bold mb-2">
-            JLPT N5 Kanji List
-          </h1>
+  <nav
+    aria-label="Breadcrumb"
+    className="text-xs md:text-sm text-gray-500 mb-3"
+  >
+    <Link href="/" className="hover:text-green-700">
+      Home
+    </Link>
+
+    <span className="mx-2">›</span>
+
+    <span className="text-gray-400">
+      JLPT N5
+    </span>
+  </nav>
+
+  <h1 className="text-2xl md:text-4xl font-bold mb-2">
+    JLPT N5 Kanji List
+  </h1>
 
           <p className="text-sm md:text-base text-gray-600 mb-4">
-            Learn the essential beginner Kanji required for JLPT N5.
+            Master all 112 essential JLPT N5 Kanji with meanings,
+            Onyomi and Kunyomi readings, example vocabulary,
+            example sentences, memory tricks, and interesting facts.
+            Perfect for beginner Japanese learners preparing for the JLPT N5 exam.
           </p>
 
           <div className="flex gap-2 flex-wrap">
 
             <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
-              {kanjiList.length} Kanji
+              {kanjiList.length} Essential N5 Kanji
             </span>
 
             <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
-              Absolute Beginner Level
+              Beginner Japanese
             </span>
 
+            <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
+              Memory Tricks
+            </span>
+
+            <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
+              JLPT N5 Preparation
+            </span>
+
+            <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
+              Free JLPT Study Resource
+            </span>
+
+            <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
+              Example Vocabulary & Sentences
+            </span>
+
+            <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
+              Onyomi, Kunyomi
+            </span>
           </div>
 
         </div>
@@ -192,9 +296,165 @@ export default function JLPTN5Page() {
 
         </div>
 
-      </main>
+        {/* About JLPT N5 Kanji */}
+        <section className="mt-12">
+          <div className="bg-gray-50 border rounded-2xl p-5 md:p-8">
 
-      <Footer />
+            <h2 className="text-2xl md:text-3xl font-bold mb-4">
+              About JLPT N5 Kanji
+            </h2>
+
+            <div className="space-y-4 text-gray-700 leading-7 text-sm md:text-base">
+
+              <p>
+                The JLPT N5 Kanji List is designed for beginners learning
+                Japanese and preparing for the Japanese Language Proficiency
+                Test (JLPT). At this level, students are expected to recognize
+                and understand approximately 100–120 essential Japanese kanji
+                commonly used in everyday life.
+              </p>
+
+              <p>
+                These beginner kanji appear in vocabulary related to school, 
+                universtity, shopping, train station, directions and other day to day life events.
+                Learning
+                these characters helps students read simple Japanese
+                sentences, understand common vocabulary, and build a strong
+                foundation for higher JLPT levels.
+              </p>
+
+              <p>
+                Many Japanese learners find kanji intimidating at first
+                because each character can have multiple readings and
+                meanings. However, mastering JLPT N5 kanji becomes much
+                easier when you study them in context. Instead of memorizing
+                isolated symbols, focus on learning example vocabulary,
+                example sentences, and common usage patterns.
+              </p>
+
+              <p>
+                Unlike many traditional JLPT study resources, KanjiGami
+                includes memory tricks, and interesting facts with 
+                Onyomi readings, Kunyomi readings, example words,
+                example sentences for
+                every kanji. These learning tools help beginners remember
+                characters more effectively and improve long-term retention.
+              </p>
+
+              <p>
+                If you study just a few kanji each day and regularly review
+                vocabulary, you can complete the entire JLPT N5 Kanji List
+                within a few weeks. Consistent practice, daily reading, and
+                repeated exposure are far more effective than trying to
+                memorize dozens of kanji in a single study session.
+              </p>
+
+              <p>
+                Once you are comfortable with the JLPT N5 Kanji List, the
+                next step is moving on to the{" "}
+                <Link
+                  href="/jlpt/n4"
+                  className="text-green-700 font-medium hover:text-green-800 underline"
+                >
+                  JLPT N4 Kanji List
+                </Link>
+                , where you will encounter more intermediate beginner kanjis.
+              </p>
+
+            </div>
+          </div>
+        </section>
+
+        {/* FAQ Section */}
+        <section className="mt-12">
+          <div className="bg-white border rounded-2xl p-5 md:p-8">
+            <h2 className="text-2xl md:text-3xl font-bold mb-6">
+              Frequently Asked Questions
+            </h2>
+
+            <div className="space-y-6">
+
+              <div>
+                <h3 className="font-semibold text-lg mb-2">
+                  How many kanji are in JLPT N5?
+                </h3>
+                <p className="text-gray-700">
+                  Most JLPT N5 study resources cover approximately 100–120
+                  essential kanji. The exact number may vary slightly between
+                  resources, but mastering these beginner-level kanji provides
+                  a solid foundation for reading basic Japanese.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-lg mb-2">
+                  Is JLPT N5 difficult?
+                </h3>
+                <p className="text-gray-700">
+                  JLPT N5 is the easiest level of the Japanese Language
+                  Proficiency Test and is designed for beginners. Students are
+                  expected to understand basic grammar, vocabulary, hiragana,
+                  katakana, and common kanji used in everyday situations.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-lg mb-2">
+                  How long does it take to learn JLPT N5 kanji?
+                </h3>
+                <p className="text-gray-700">
+                  With consistent study, many learners can complete the JLPT
+                  N5 Kanji List in 3–6 weeks. Studying just 5 kanji per day is
+                  enough to learn all N5 kanji while also building vocabulary
+                  and reading skills.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-lg mb-2">
+                  Should I learn Onyomi and Kunyomi readings?
+                </h3>
+                <p className="text-gray-700">
+                  Yes. Understanding common Onyomi and Kunyomi readings helps
+                  learners recognize vocabulary more easily and improves
+                  overall Japanese reading comprehension.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-lg mb-2">
+                  What is the best way to remember JLPT N5 kanji?
+                </h3>
+                <p className="text-gray-700">
+                  Many learners find memory tricks, example vocabulary,
+                  example sentences, and daily reading practice more effective
+                  than repeatedly writing the same kanji. Learning kanji in
+                  context improves long-term retention.
+                </p>
+              </div>
+
+            </div>
+          </div>
+        </section>
+<Script
+  id="faq-schema"
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(faqSchema),
+  }}
+/>
+
+<Script
+  id="breadcrumb-schema"
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(breadcrumbSchema),
+  }}
+/>
+
+</main>
+
+<Footer />
     </>
   );
 }

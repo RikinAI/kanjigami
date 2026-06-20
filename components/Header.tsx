@@ -50,21 +50,21 @@ export default function Header() {
               href="/jlpt/n5"
               className="hover:text-orange-700"
             >
-              📘 N5 Kanji
+              📘 JLPT N5 Kanji
             </a>
 
             <a
               href="/jlpt/n4"
               className="hover:text-orange-700"
             >
-              📗 N4 Kanji
+              📗 JLPT N4 Kanji
             </a>
 
             <a
               href="/jlpt/n3"
               className="hover:text-orange-700"
             >
-              📙 N3 Kanji
+              📙 JLPT N3 Kanji
             </a>
 
             <Link
@@ -118,21 +118,21 @@ export default function Header() {
               href="/jlpt/n5"
               className="px-4 py-3 border-b hover:bg-slate-100"
             >
-              📘 JLPT N5 (Absolute Beginner)
+              📘 JLPT N5 Kanji
             </Link>
 
             <Link
               href="/jlpt/n4"
               className="px-4 py-3 border-b hover:bg-slate-100"
             >
-              📗 JLPT N4 (Beginner)
+              📗 JLPT N4 Kanji
             </Link>
 
             <Link
               href="/jlpt/n3"
               className="px-4 py-3 hover:bg-slate-100"
             >
-              📙 JLPT N3 (Intermediate)
+              📙 JLPT N3 Kanji
             </Link>
 
           </div>

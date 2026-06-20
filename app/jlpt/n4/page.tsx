@@ -5,11 +5,78 @@ import Header from "../../../components/Header";
 import Footer from "../../../components/Footer";
 import Link from "next/link";
 import kanjiListData from "../../../data/jlpt-n4.json";
+import Script from "next/script";
 
 const kanjiList = kanjiListData as any[];
 
 export default function JLPTN4Page() {
   const [query, setQuery] = useState("");
+
+  const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "How many kanji are in JLPT N4?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "JLPT N4 typically requires knowledge of around 300 kanji in total including N5 kanji."
+      }
+    },
+    {
+      "@type": "Question",
+      name: "Is JLPT N4 harder than JLPT N5?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "No. Many users find JLPT N4 easier than JLPT N5."
+      }
+    },
+    {
+      "@type": "Question",
+      name: "How long does it take to learn JLPT N4 kanji?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Most learners require several months of consistent study to master JLPT N4 kanji."
+      }
+    },
+    {
+      "@type": "Question",
+      name: "Should I finish JLPT N5 before studying N4?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Yes. A solid understanding of JLPT N5 kanji and vocabulary makes learning N4 much easier."
+      }
+    },
+    {
+      "@type": "Question",
+      name: "What is the best way to remember JLPT N4 kanji?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Learning through vocabulary, example sentences, memory tricks, and reading practice is highly effective."
+      }
+    }
+  ]
+};
+
+  const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: "Home",
+      item: "https://kanjigami.com",
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: "JLPT N4",
+      item: "https://kanjigami.com/jlpt/n4",
+    },
+  ],
+};
 
   const filteredKanji = kanjiList.filter((item) => {
     const q = query.toLowerCase().trim();
@@ -34,22 +101,60 @@ export default function JLPTN4Page() {
 
         <div className="mb-5">
 
+           <nav
+    aria-label="Breadcrumb"
+    className="text-xs md:text-sm text-gray-500 mb-3"
+  >
+    <Link href="/" className="hover:text-green-700">
+      Home
+    </Link>
+
+    <span className="mx-2">›</span>
+
+    <span className="text-gray-400">
+      JLPT N4
+    </span>
+  </nav>
+
           <h1 className="text-2xl md:text-4xl font-bold mb-2">
             JLPT N4 Kanji List
           </h1>
 
           <p className="text-sm md:text-base text-gray-600 mb-4">
-            Learn the essential intermediate beginner Kanji required for JLPT N4.
+            Master all 180 essential JLPT N4 Kanji with meanings,
+            Onyomi and Kunyomi readings, example vocabulary,
+            example sentences, memory tricks, and interesting facts.
+            Perfect for beginner Japanese learners preparing for the JLPT N4 exam.
           </p>
 
           <div className="flex gap-2 flex-wrap">
 
             <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
-              {kanjiList.length} Kanji
+              {kanjiList.length} Essential N4 Kanji
             </span>
 
             <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
-              Beginner Level
+              Beginner Japanese
+            </span>
+
+            <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
+              Memory Tricks
+            </span>
+
+            <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
+              JLPT N4 Preparation
+            </span>
+
+            <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
+              Free JLPT Study Resource
+            </span>
+
+            <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
+              Example Vocabulary & Sentences
+            </span>
+
+            <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
+              Onyomi, Kunyomi
             </span>
 
           </div>
@@ -215,6 +320,164 @@ export default function JLPTN4Page() {
 
         </div>
 
+      {/* About JLPT N4 Kanji */}
+      <section className="mt-12">
+        <div className="bg-gray-50 border rounded-2xl p-5 md:p-8">
+
+          <h2 className="text-2xl md:text-3xl font-bold mb-4">
+            About JLPT N4 Kanji
+          </h2>
+
+          <div className="space-y-4 text-gray-700 leading-7 text-sm md:text-base">
+
+            <p>
+              The JLPT N4 Kanji List builds upon the foundation learned at
+              the JLPT N5 level and introduces several hundred additional
+              Japanese kanji commonly used in everyday reading. At this
+              stage, learners begin encountering more complex vocabulary,
+              longer sentences, and a wider range of real-world Japanese.
+            </p>
+
+            <p>
+              JLPT N4 kanji frequently appear in topics related to work,
+              transportation, shopping, travel, weather, emotions,
+              directions, hobbies, and daily conversations. Mastering these
+              characters allows learners to read short articles, simple
+              stories, signs, menus, and practical Japanese materials with
+              greater confidence.
+            </p>
+
+            <p>
+              Unlike JLPT N5, where learners focus on basic recognition,
+              JLPT N4 requires stronger reading ability and a larger
+              vocabulary. Understanding how kanji combine into common words
+              becomes increasingly important for improving Japanese
+              comprehension.
+            </p>
+
+            <p>
+              KanjiGami helps learners study JLPT N4 kanji through Onyomi
+              readings, Kunyomi readings, example vocabulary, example
+              sentences, memory tricks, and interesting cultural facts.
+              Learning kanji in context makes them easier to remember and
+              more useful in real Japanese situations.
+            </p>
+
+            <p>
+              Consistent daily study is the key to success. Learning a few
+              new kanji every day while reviewing previous characters can
+              help learners steadily progress through the entire JLPT N4
+              Kanji List without feeling overwhelmed.
+            </p>
+
+            <p>
+              If you are still building your foundation, you may wish to
+              review the{" "}
+              <Link
+                href="/jlpt/n5"
+                className="text-green-700 font-medium hover:text-green-800 underline"
+              >
+                JLPT N5 Kanji List
+              </Link>
+              . After completing N4, continue your journey with the{" "}
+              <Link
+                href="/jlpt/n3"
+                className="text-green-700 font-medium hover:text-green-800 underline"
+              >
+                JLPT N3 Kanji List
+              </Link>
+              .
+            </p>
+
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ Section */}
+        <section className="mt-12">
+          <div className="bg-white border rounded-2xl p-5 md:p-8">
+            <h2 className="text-2xl md:text-3xl font-bold mb-6">
+              Frequently Asked Questions
+            </h2>
+
+            <div className="space-y-6">
+
+              <div>
+                <h3 className="font-semibold text-lg mb-2">
+                  How many kanji are in JLPT N4?
+                </h3>
+                <p className="text-gray-700">
+                  JLPT N4 typically requires knowledge of around 300 kanji in total,
+                  including the kanji learned at the JLPT N5 level.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-lg mb-2">
+                  Should I finish JLPT N5 before studying N4?
+                </h3>
+                <p className="text-gray-700">
+                  Yes. A solid understanding of JLPT N5 kanji and vocabulary makes
+                  learning N4 significantly easier.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-lg mb-2">
+                  JLPT N4 harder than JLPT N5?
+                </h3>
+                <p className="text-gray-700">
+                  Not dramatically. If you already have a solid understanding of
+                  JLPT N5 grammar and kanji, moving to JLPT N4 is a natural next
+                  step. The biggest challenge is learning additional kanji and
+                  vocabulary rather than completely new grammar concepts. With
+                  consistent reading practice and daily vocabulary study, most
+                  learners find JLPT N4 easier to complete than completing JLPT N5.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-lg mb-2">
+                  How long does it take to learn JLPT N4 kanji?
+                </h3>
+                <p className="text-gray-700">
+                  With consistent study, many learners can complete the JLPT
+                  N4 Kanji List in 1-2 month. Studying just 5 kanji per day is
+                  enough to learn all N5 kanji while also building vocabulary
+                  and reading skills.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-lg mb-2">
+                  What is the best way to remember JLPT N4 kanji?
+                </h3>
+                <p className="text-gray-700">
+                  Learning kanji through vocabulary, example sentences, memory
+                  tricks, and regular reading practice is one of the most effective
+                  ways to retain JLPT N4 kanji long term.
+                </p>
+              </div>
+
+            </div>
+          </div>
+        </section>
+
+<Script
+  id="faq-schema"
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(faqSchema),
+  }}
+/>
+
+<Script
+  id="breadcrumb-schema"
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(breadcrumbSchema),
+  }}
+/>
       </main>
 
       <Footer />

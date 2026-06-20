@@ -1,32 +1,17 @@
 import Link from "next/link";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
-
+import { getAllGuides } from "../../lib/guides";
+import Image from "next/image";
 export const metadata = {
   title: "Japanese Kanji Learning Guides | KanjiGami",
   description:
     "Learn Japanese Kanji faster with practical guides, study tips, memory tricks, and JLPT advice.",
 };
-const guides = [
-  {
-    slug: "why-learning-kanji-is-important",
-    title:
-      "Why Learning Kanji Is Important: 7 Reasons Every Japanese Learner Should Know",
-    description:
-      "Discover why learning Kanji improves reading, listening, vocabulary, and overall Japanese fluency.",
-    readingTime: "6 min read",
-  },
-  {
-    slug: "how-to-remember-kanji-easily",
-    title:
-      "How to Remember Kanji Easily: Practical Tips for Beginners",
-    description:
-      "Learn simple memory tricks and study techniques to remember Japanese Kanji faster.",
-    readingTime: "8 min read",
-  },
-];
 
 export default function GuidesPage() {
+  const guides = getAllGuides();
+
   return (
     <>
       <Header />
@@ -37,8 +22,8 @@ export default function GuidesPage() {
         </h1>
 
         <p className="text-gray-600 mb-8">
-          Helpful guides for learning Japanese Kanji, vocabulary,
-          reading, and JLPT preparation.
+          Helpful guides for learning Japanese Kanji,
+          vocabulary, reading, and JLPT preparation.
         </p>
 
         <div className="space-y-6">
@@ -46,19 +31,34 @@ export default function GuidesPage() {
             <Link
               key={guide.slug}
               href={`/guides/${guide.slug}`}
-              className="block border rounded-2xl p-6 hover:border-green-600 hover:shadow-md transition"
+              className="group block overflow-hidden rounded-xl border bg-white hover:shadow-lg transition"
             >
-              <h2 className="text-2xl font-semibold mb-2">
-                {guide.title}
-              </h2>
+              <div className="flex flex-col md:grid md:grid-cols-[320px_1fr]">
 
-              <p className="text-gray-600 mb-2">
-                {guide.description}
-              </p>
+                <div className="relative h-36 md:h-full">
+                  <Image
+                    src={guide.image}
+                    alt={guide.title}
+                    fill
+                    className="object-cover"
+                  />
+                </div>
 
-              <p className="text-sm text-gray-500">
-                {guide.readingTime}
-              </p>
+                <div className="p-3 md:p-6">
+                  <h2 className="text-lg md:text-2xl font-semibold mb-1">
+                    {guide.title}
+                  </h2>
+
+                  <p className="text-sm md:text-base text-gray-600 mb-2 line-clamp-2">
+                    {guide.description}
+                  </p>
+
+                  <p className="text-xs md:text-sm text-gray-500">
+                    {guide.readingTime}
+                  </p>
+                </div>
+
+              </div>
             </Link>
           ))}
         </div>
