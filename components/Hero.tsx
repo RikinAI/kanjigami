@@ -54,14 +54,14 @@ export default function Hero() {
               <div className="text-sm md:text-lg text-gray-500 mt-1 text-center">
                 {kanjiOfDay.kunyomi}
               </div>
-
+              
             </div>
 
             {/* Meaning */}
 
-            <div className="flex-1 flex items-center">
+            <div className="flex-1 flex items-center justify-center md:justify-start">
 
-              <div className="text-xl md:text-3xl font-semibold break-words">
+              <div className="text-xl md:text-3xl font-semibold break-words text-center md:text-left">
                 {kanjiOfDay.meaning}
               </div>
 
