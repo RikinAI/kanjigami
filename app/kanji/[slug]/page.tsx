@@ -5,6 +5,7 @@ import Link from "next/link";
 import n5 from "../../../data/jlpt-n5.json";
 import n4 from "../../../data/jlpt-n4.json";
 import n3 from "../../../data/jlpt-n3.json";
+import StrokeOrder from "../../../components/StrokeOrder";
 
 const kanjiList = [
   ...n5,
@@ -105,6 +106,11 @@ const nextKanji =
       currentList.length
   ];
 
+const strokeCode = kanji.kanji
+  .codePointAt(0)
+  ?.toString(16)
+  .padStart(5, "0");
+
   return (
     <>
       {/* Floating Previous */}
@@ -170,6 +176,9 @@ const nextKanji =
 
               </div>
 
+                <div className="mt-2">
+                  <StrokeOrder code={strokeCode ?? ""} />
+                </div>
             </div>
 
           </div>

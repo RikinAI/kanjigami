@@ -48,7 +48,7 @@ export default function JLPTN5Page() {
             </span>
 
             <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
-              Beginner Level
+              Absolute Beginner Level
             </span>
 
           </div>

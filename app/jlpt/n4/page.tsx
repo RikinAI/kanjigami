@@ -49,7 +49,7 @@ export default function JLPTN4Page() {
             </span>
 
             <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs md:text-sm font-medium">
-              JLPT N4
+              Beginner Level
             </span>
 
           </div>

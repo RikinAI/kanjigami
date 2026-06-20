@@ -118,21 +118,21 @@ export default function Header() {
               href="/jlpt/n5"
               className="px-4 py-3 border-b hover:bg-slate-100"
             >
-              📘 JLPT N5
+              📘 JLPT N5 (Absolute Beginner)
             </Link>
 
             <Link
               href="/jlpt/n4"
               className="px-4 py-3 border-b hover:bg-slate-100"
             >
-              📗 JLPT N4
+              📗 JLPT N4 (Beginner)
             </Link>
 
             <Link
               href="/jlpt/n3"
               className="px-4 py-3 hover:bg-slate-100"
             >
-              📙 JLPT N3
+              📙 JLPT N3 (Intermediate)
             </Link>
 
           </div>
