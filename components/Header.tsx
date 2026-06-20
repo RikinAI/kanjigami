@@ -106,7 +106,7 @@ export default function Header() {
             onClick={() => setMenuOpen(!menuOpen)}
             className="font-medium"
           >
-            ☰ JLPT
+            ☰ Kanji List
           </button>
 
         </div>
