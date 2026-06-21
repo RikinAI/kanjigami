@@ -208,6 +208,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/kanji/kanji-west</loc>
 </url>
 <url>
+  <loc>https://kanjigami.com/kanji/kanji-north</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-south</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-enter</loc>
+</url>
+<url>
   <loc>https://kanjigami.com/kanji/kanji-exit-leave</loc>
 </url>
 <url>
@@ -218,9 +227,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-come-arrive</loc>
-</url>
-<url>
-  <loc>https://kanjigami.com/kanji/kanji-return-home</loc>
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-eat-food</loc>
@@ -262,27 +268,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/kanji/kanji-mother</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-older-brother</loc>
-</url>
-<url>
-  <loc>https://kanjigami.com/kanji/kanji-younger-brother</loc>
-</url>
-<url>
-  <loc>https://kanjigami.com/kanji/kanji-older-sister</loc>
-</url>
-<url>
-  <loc>https://kanjigami.com/kanji/kanji-younger-sister</loc>
-</url>
-<url>
-  <loc>https://kanjigami.com/kanji/kanji-husband</loc>
-</url>
-<url>
-  <loc>https://kanjigami.com/kanji/kanji-wife</loc>
-</url>
-<url>
-  <loc>https://kanjigami.com/kanji/kanji-house-home-family</loc>
-</url>
-<url>
   <loc>https://kanjigami.com/kanji/kanji-school</loc>
 </url>
 <url>
@@ -322,7 +307,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/kanji/kanji-flower</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-grass</loc>
+  <loc>https://kanjigami.com/kanji/kanji-outside</loc>
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-country-nation</loc>
@@ -370,40 +355,547 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/kanji/kanji-stand-rise</loc>
 </url>
 <url>
+  <loc>https://kanjigami.com/kanji/kanji-gate</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-spring-haru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-summer-natsu</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-autumn-fall</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-winter-fuyu</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-leave-past</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-weekday</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-morning-asa</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-noon-daytime</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-evening-yuu</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-night-yoru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-color-iro</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-tea-brown</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-red-aka</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-silver-gin</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-blue-ao</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-black-kuro</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-meat-niku</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-vegetable</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-rice-meal</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-taste-flavor</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-i-me-watashi</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-self-oneself</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-parent</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-older-brother</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-younger-brother</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-older-sister</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-younger-sister</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-husband</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-wife</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-family-tribe</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-person-sha</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-dog-inu</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-bird-tori</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-shellfish-kai</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-body-karada</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-voice-koe</loc>
+</url>
+<url>
   <loc>https://kanjigami.com/kanji/kanji-heart</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-open</loc>
+  <loc>https://kanjigami.com/kanji/kanji-death-shi</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-head-atama</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-face-kao</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-neck-kubi</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-origin-source</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-copy-photograph</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-truth-real</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-reflect-project</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-picture-drawing</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-song-uta</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-sound-oto</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-fun-comfort</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-correct-right</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-low-hikui</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-same-onaji</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-fat-thick</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-like</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-cold-samui</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-hot-atsui</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-wide-spacious</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-weak-yowai</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-strong-tsuyoi</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-bad-evil</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-bright-akarui</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-dark-kurai</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-exist-aru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-short-mijikai</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-heavy-omoi</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-light-karui</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-near-chikai</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-far-tooi</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-room-shitsu</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-house-home-family</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-shop-roof</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-building-hall</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-disease-illness</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-institution-in</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-medicine-kusuri</loc>
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-world-generation</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-true-real</loc>
+  <loc>https://kanjigami.com/kanji/kanji-world-boundary</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-study-diligence</loc>
+  <loc>https://kanjigami.com/kanji/kanji-light-hikari</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-nothing-without</loc>
+  <loc>https://kanjigami.com/kanji/kanji-ground-earth</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-dog</loc>
+  <loc>https://kanjigami.com/kanji/kanji-grove-woods</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-cat</loc>
+  <loc>https://kanjigami.com/kanji/kanji-forest-mori</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-meat</loc>
+  <loc>https://kanjigami.com/kanji/kanji-pond-ike</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-rice</loc>
+  <loc>https://kanjigami.com/kanji/kanji-ocean-western</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-tea</loc>
+  <loc>https://kanjigami.com/kanji/kanji-sea-ocean</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-shell-money</loc>
+  <loc>https://kanjigami.com/kanji/kanji-field-wild</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-grass</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-wind-kaze</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-capital-kyou</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-district-ward</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-place-tokoro</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-village-mura</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-town-machi</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-prefecture-ken</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-metropolis-capital</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-hall-dou</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-place-location</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-city-shi</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-study-ben</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-question-ask</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-topic-title</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-quality-nature</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-chinese-kan</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-character-letter</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-sentence-writing</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-reason-logic</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-research-polish</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-investigate-kyuu</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-answer-kotae</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-english-ei</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-test-try</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-examination-verification</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-work-construction</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-product-goods</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-thing-object</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-employee-member</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-sell-uru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-clothes-fuku</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-map-diagram</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-direction-way</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-travel-journey</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-departure-emit</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-ride-board</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-live-reside</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-make-create</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-use-tsukau</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-borrow-kariru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-cut-kiru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-different-separate</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-move-dou</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-fit-match</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-begin-start</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-return-home</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-build-tateru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-pull-hiku</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-wait-matsu</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-think-feel</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-hurry-urgent</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-hold-carry</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-teach-oshieru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-stop-tomeru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-walk-aruku</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-wash-arau</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-arrive-wear</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-know-shiru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-end-finish</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-learn-practice</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-think-consider</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-lend-kasu</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-run-hashiru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-rise-wakeup</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-turn-roll</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-send-okuru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-commute-pass</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-advance-proceed</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-luck-transport</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-open-hiraku</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-gather-atsumaru</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-explain-theory</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-work-serve</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-work-labor</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-doctor</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-stand-dai</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-degree-do</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-measure-calculate</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-beyond-since</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-fee-ingredient</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-business-occupation</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-convenient</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-public-official</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-pour-note-attention</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-not-non</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-master-lord</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-matter-thing</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-generation-dai</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-intention-idea</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-people-citizens</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-special-toku</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-produce-san</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-use-purpose</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-paper-kami</loc>
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-love</loc>

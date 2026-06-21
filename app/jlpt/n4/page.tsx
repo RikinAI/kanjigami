@@ -166,11 +166,11 @@ export default function JLPTN4Page() {
         <div className="mb-5 bg-yellow-50 border border-yellow-200 rounded-xl p-4">
 
           <p className="text-yellow-800 font-medium">
-            🚧 More Kanji Coming Soon!
+            🚧 More easier memory tricks Coming Soon!
           </p>
 
           <p className="text-sm text-yellow-700 mt-1">
-            We are actively adding more JLPT N4 kanji. Check back regularly for updates.
+            We are actively adding better interesing facts and memory tricks JLPT N4 kanji. Check back regularly for updates.
           </p>
 
         </div>

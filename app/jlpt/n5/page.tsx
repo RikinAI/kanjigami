@@ -120,7 +120,7 @@ export default function JLPTN5Page() {
   </h1>
 
           <p className="text-sm md:text-base text-gray-600 mb-4">
-            Master all 112 essential JLPT N5 Kanji with meanings,
+            Master all 108 essential JLPT N5 Kanji with meanings,
             Onyomi and Kunyomi readings, example vocabulary,
             example sentences, memory tricks, and interesting facts.
             Perfect for beginner Japanese learners preparing for the JLPT N5 exam.

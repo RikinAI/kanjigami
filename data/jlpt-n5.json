@@ -4007,6 +4007,212 @@
     ]
   },
 
+    {
+    "slug": "kanji-north",
+    "kanji": "北",
+    "meaning": "North",
+    "jlpt": "N5",
+    "strokes": 5,
+
+    "onyomi": "ホク (hoku)",
+    "kunyomi": "きた (kita)",
+
+    "fact": "Did you know? Before 北 meant \"north,\" it meant \"turning your back on someone.\" The kanji originally showed two people standing facing opposite direction. And ancient East Asian houses were usually built facing south to get more sunlight, so the back of the house pointed north. Over time, this \"turning your back\" kanji gradually became the kanji for north.",
+
+    "memory": "Imagine two friends having a huge argument. They turn their backs on each other. Things didn't go south—Things went \"North.\"",
+
+    "words": [
+      {
+        "word": "北",
+        "reading": "きた",
+        "romaji": "kita",
+        "meaning": "North"
+      },
+      {
+        "word": "北口",
+        "reading": "きたぐち",
+        "romaji": "kitaguchi",
+        "meaning": "North exit"
+      },
+      {
+        "word": "北海道",
+        "reading": "ほっかいどう",
+        "romaji": "hokkaidou",
+        "meaning": "Hokkaido"
+      },
+      {
+        "word": "北米",
+        "reading": "ほくべい",
+        "romaji": "hokubei",
+        "meaning": "North America"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "北の空に雲があります。",
+      "reading": "きた の そら に くも が あります。",
+      "romaji": "kita no sora ni kumo ga arimasu",
+      "english": "There are clouds in the northern sky."
+    },
+
+    "seo": [
+      "north kanji meaning",
+      "how to read 北",
+      "JLPT N5 north kanji",
+      "Japanese kanji for north",
+      "kita kanji meaning"
+    ],
+
+    "tags": [
+      "direction",
+      "navigation",
+      "geography"
+    ],
+
+    "relatedKanji": [
+      "南",
+      "東",
+      "西"
+    ]
+  },
+
+  {
+    "slug": "kanji-south",
+    "kanji": "南",
+    "meaning": "South",
+    "jlpt": "N5",
+    "strokes": 9,
+
+    "onyomi": "ナン (nan)",
+    "kunyomi": "みなみ (minami)",
+
+    "fact": "Ancient people loved the south because it was warm and sunny. North meant cold winds and harsh winters. If directions had a popularity contest, south would have won by a landslide.",
+
+    "memory": "Think of 南 as a bird cage hanging from a tree branch. A tropical bird lives inside because it's warm in the south. Hanging cage = 南 = South.",
+
+    "words": [
+      {
+        "word": "南",
+        "reading": "みなみ",
+        "romaji": "minami",
+        "meaning": "South"
+      },
+      {
+        "word": "南口",
+        "reading": "みなみぐち",
+        "romaji": "minamiguchi",
+        "meaning": "South exit"
+      },
+      {
+        "word": "南国",
+        "reading": "なんごく",
+        "romaji": "nangoku",
+        "meaning": "Southern country, tropics"
+      },
+      {
+        "word": "南米",
+        "reading": "なんべい",
+        "romaji": "nanbei",
+        "meaning": "South America"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "駅の南口で会いましょう。",
+      "reading": "えき の みなみぐち で あいましょう。",
+      "romaji": "eki no minamiguchi de aimashou",
+      "english": "Let's meet at the station's south exit."
+    },
+
+    "seo": [
+      "south kanji meaning",
+      "how to read 南",
+      "JLPT N5 south kanji",
+      "Japanese kanji for south",
+      "minami kanji meaning"
+    ],
+
+    "tags": [
+      "direction",
+      "navigation",
+      "geography"
+    ],
+
+    "relatedKanji": [
+      "北",
+      "東",
+      "西"
+    ]
+  },
+
+  {
+    "slug": "kanji-enter",
+    "kanji": "入",
+    "meaning": "Enter, Insert",
+    "jlpt": "N5",
+    "strokes": 2,
+
+    "onyomi": "ニュウ (nyuu)",
+    "kunyomi": "い(る) (iru), はい(る) (hairu)",
+
+    "fact": "Did you know? Ancient versions of 入 were drawn as a simple picture of something moving into an opening. More than 3,000 years later, the kanji still looks remarkably similar. It's one of the easiest examples of an ancient pictograph surviving into modern Japanese.",
+
+    "memory": "The shape 入 looks a narrow cave entrance.\n\n ⚠️ Beware of mixing this kanji with 人- Person Kanji.",
+
+    "words": [
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "romaji": "hairu",
+        "meaning": "To enter"
+      },
+      {
+        "word": "入口",
+        "reading": "いりぐち",
+        "romaji": "iriguchi",
+        "meaning": "Entrance"
+      },
+      {
+        "word": "入学",
+        "reading": "にゅうがく",
+        "romaji": "nyuugaku",
+        "meaning": "School admission"
+      },
+      {
+        "word": "入れる",
+        "reading": "いれる",
+        "romaji": "ireru",
+        "meaning": "To put in"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "部屋に入ってください。",
+      "reading": "へや に はいって ください。",
+      "romaji": "heya ni haitte kudasai",
+      "english": "Please enter the room."
+    },
+
+    "seo": [
+      "enter kanji meaning",
+      "how to read 入",
+      "JLPT N5 enter kanji",
+      "Japanese kanji for entrance",
+      "iriguchi kanji meaning"
+    ],
+
+    "tags": [
+      "movement",
+      "verbs",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "出",
+      "門",
+      "口"
+    ]
+  },
 
   {
     "slug": "kanji-exit-leave",
@@ -4283,76 +4489,6 @@
       "年"
     ]
   },
-
-  {
-    "slug": "kanji-return-home",
-    "kanji": "帰",
-    "meaning": "Return, Go Home",
-    "jlpt": "N5",
-    "strokes": 10,
-
-    "onyomi": "キ (ki)",
-    "kunyomi": "かえる (kaeru), かえす (kaesu)",
-
-    "fact": "During \"Obon Festival\", many Japanese families believe the spirits of their ancestors return home for a brief visit. Lanterns are lit to guide them back, and families gather to honor those who came before them. At the end of the festival, floating lanterns help guide the spirits on their journey back.",
-
-    "memory": "The left side looks like a sword. The right side looks like a house. After seeing a sword, you decide it's best to return home. That's 帰, meaning return.",
-
-    "words": [
-      {
-        "word": "帰る",
-        "reading": "かえる",
-        "romaji": "kaeru",
-        "meaning": "To return home"
-      },
-      {
-        "word": "帰国",
-        "reading": "きこく",
-        "romaji": "kikoku",
-        "meaning": "Return to one's country"
-      },
-      {
-        "word": "帰宅",
-        "reading": "きたく",
-        "romaji": "kitaku",
-        "meaning": "Return home"
-      },
-      {
-        "word": "帰り道",
-        "reading": "かえりみち",
-        "romaji": "kaerimichi",
-        "meaning": "Way home"
-      }
-    ],
-
-    "sentence": {
-      "japanese": "私は午後六時に帰ります。",
-      "reading": "わたし は ごご ろくじ に かえります。",
-      "romaji": "watashi wa gogo rokuji ni kaerimasu",
-      "english": "I return home at 6 PM."
-    },
-
-    "seo": [
-      "return kanji meaning",
-      "go home kanji japanese",
-      "how to read 帰",
-      "JLPT N5 return kanji",
-      "kanji for go home"
-    ],
-
-    "tags": [
-      "movement",
-      "travel",
-      "home"
-    ],
-
-    "relatedKanji": [
-      "行",
-      "来",
-      "出"
-    ]
-  },
-
 
   {
     "slug": "kanji-eat-food",
@@ -5254,493 +5390,6 @@
   },
 
   {
-    "slug": "kanji-older-brother",
-    "kanji": "兄",
-    "meaning": "Older Brother",
-    "jlpt": "N5",
-    "strokes": 5,
-
-    "onyomi": "ケイ (kei), キョウ (kyou)",
-    "kunyomi": "あに (ani)",
-
-    "fact": "In Japanese mythology, the storm god \"Susanoo\" was the younger brother of the sun goddess \"Amaterasu.\" His reckless behavior caused so much trouble that he was eventually banished from heaven. Even divine siblings, it seems, sometimes have complicated relationships.",
-
-    "memory": "A person with a giant mouth (口) is standing over you explaining how everything should be done. That's your big brother. That's 兄.",
-
-    "words": [
-      {
-        "word": "兄",
-        "reading": "あに",
-        "romaji": "ani",
-        "meaning": "Older brother"
-      },
-      {
-        "word": "お兄さん",
-        "reading": "おにいさん",
-        "romaji": "oniisan",
-        "meaning": "Older brother"
-      },
-      {
-        "word": "兄弟",
-        "reading": "きょうだい",
-        "romaji": "kyoudai",
-        "meaning": "Brothers, siblings"
-      },
-      {
-        "word": "長兄",
-        "reading": "ちょうけい",
-        "romaji": "choukei",
-        "meaning": "Eldest brother"
-      }
-    ],
-
-    "sentence": {
-      "japanese": "兄は大学生です。",
-      "reading": "あに は だいがくせい です。",
-      "romaji": "ani wa daigakusei desu",
-      "english": "My older brother is a university student."
-    },
-
-    "seo": [
-      "older brother kanji meaning",
-      "Japanese brother symbol",
-      "how to read 兄",
-      "JLPT N5 brother kanji",
-      "kanji for older brother"
-    ],
-
-    "tags": [
-      "family",
-      "siblings",
-      "people"
-    ],
-
-    "relatedKanji": [
-      "姉",
-      "父",
-      "母"
-    ]
-  },
-
- 
-
-  {
-    "slug": "kanji-younger-brother",
-    "kanji": "弟",
-    "meaning": "Younger Brother",
-    "jlpt": "N5",
-    "strokes": 7,
-
-    "onyomi": "テイ (tei), ダイ (dai)",
-    "kunyomi": "おとうと (otouto)",
-
-    "fact": "In several regional folktales, two brothers receive magical gifts. The older brother often acts greedy and loses everything, while the younger brother succeeds through kindness or common sense. The lesson appears so often that \"kind younger brother, foolish older brother\" became a recurring character type in Japanese storytelling.",
-
-    "memory": "Your younger brother puts on a helmet and grabs a toy sword, pretending to be a great warrior. The shape becomes 弟.",
-
-    "words": [
-      {
-        "word": "弟",
-        "reading": "おとうと",
-        "romaji": "otouto",
-        "meaning": "Younger brother"
-      },
-      {
-        "word": "兄弟",
-        "reading": "きょうだい",
-        "romaji": "kyoudai",
-        "meaning": "Brothers, siblings"
-      },
-      {
-        "word": "弟子",
-        "reading": "でし",
-        "romaji": "deshi",
-        "meaning": "Disciple, apprentice"
-      },
-      {
-        "word": "義弟",
-        "reading": "ぎてい",
-        "romaji": "gitei",
-        "meaning": "Younger brother-in-law"
-      }
-    ],
-
-    "sentence": {
-      "japanese": "弟は高校生です。",
-      "reading": "おとうと は こうこうせい です。",
-      "romaji": "otouto wa koukousei desu",
-      "english": "My younger brother is a high school student."
-    },
-
-    "seo": [
-      "younger brother kanji meaning",
-      "Japanese younger brother symbol",
-      "how to read 弟",
-      "JLPT N5 younger brother kanji",
-      "kanji for younger brother"
-    ],
-
-    "tags": [
-      "family",
-      "siblings",
-      "people"
-    ],
-
-    "relatedKanji": [
-      "兄",
-      "妹",
-      "家"
-    ]
-  },
-
-   {
-    "slug": "kanji-older-sister",
-    "kanji": "姉",
-    "meaning": "Older Sister",
-    "jlpt": "N5",
-    "strokes": 8,
-
-    "onyomi": "シ (shi)",
-    "kunyomi": "あね (ane)",
-
-    "fact": "In Japan, onee-san (お姉さん) doesn't always mean your actual older sister. It's often used as a friendly way to address a young woman, much like saying \"miss\" in English. As a result, many visitors are surprised when complete strangers suddenly become someone's \"older sister.\"",
-
-    "memory": "The left side is 女 (woman), the right side is 市 (market). Your older sister somehow knows every shop, every shortcut, and every sale. That's 姉.",
-
-    "words": [
-      {
-        "word": "姉",
-        "reading": "あね",
-        "romaji": "ane",
-        "meaning": "Older sister"
-      },
-      {
-        "word": "お姉さん",
-        "reading": "おねえさん",
-        "romaji": "oneesan",
-        "meaning": "Older sister"
-      },
-      {
-        "word": "姉妹",
-        "reading": "しまい",
-        "romaji": "shimai",
-        "meaning": "Sisters"
-      },
-      {
-        "word": "長姉",
-        "reading": "ちょうし",
-        "romaji": "choushi",
-        "meaning": "Eldest sister"
-      }
-    ],
-
-    "sentence": {
-      "japanese": "姉は東京に住んでいます。",
-      "reading": "あね は とうきょう に すんでいます。",
-      "romaji": "ane wa toukyou ni sundeimasu",
-      "english": "My older sister lives in Tokyo."
-    },
-
-    "seo": [
-      "older sister kanji meaning",
-      "Japanese sister symbol",
-      "how to read 姉",
-      "JLPT N5 sister kanji",
-      "kanji for older sister"
-    ],
-
-    "tags": [
-      "family",
-      "siblings",
-      "people"
-    ],
-
-    "relatedKanji": [
-      "兄",
-      "母",
-      "女"
-    ]
-  },
-
-
-  {
-    "slug": "kanji-younger-sister",
-    "kanji": "妹",
-    "meaning": "Younger Sister",
-    "jlpt": "N5",
-    "strokes": 8,
-
-    "onyomi": "マイ (mai)",
-    "kunyomi": "いもうと (imouto)",
-
-    "fact": "Thanks to anime and manga, \"imouto (妹)\" may be one of the most widely recognized Japanese family words in the world. Many fans learn what it means long before they learn their first kanji. It's a reminder that language doesn't always spread through classrooms—sometimes it spreads through stories.",
-
-    "memory": "The left side is 女 (woman). The right side is 未, which looks like a tree that hasn't fully grown yet. a young woman who still has some growing to do.",
-
-    "words": [
-      {
-        "word": "妹",
-        "reading": "いもうと",
-        "romaji": "imouto",
-        "meaning": "Younger sister"
-      },
-      {
-        "word": "姉妹",
-        "reading": "しまい",
-        "romaji": "shimai",
-        "meaning": "Sisters"
-      },
-      {
-        "word": "義妹",
-        "reading": "ぎまい",
-        "romaji": "gimai",
-        "meaning": "Younger sister-in-law"
-      },
-      {
-        "word": "妹さん",
-        "reading": "いもうとさん",
-        "romaji": "imoutosan",
-        "meaning": "Someone else's younger sister"
-      }
-    ],
-
-    "sentence": {
-      "japanese": "妹は音楽が好きです。",
-      "reading": "いもうと は おんがく が すき です。",
-      "romaji": "imouto wa ongaku ga suki desu",
-      "english": "My younger sister likes music."
-    },
-
-    "seo": [
-      "younger sister kanji meaning",
-      "Japanese younger sister symbol",
-      "how to read 妹",
-      "JLPT N5 younger sister kanji",
-      "kanji for younger sister"
-    ],
-
-    "tags": [
-      "family",
-      "siblings",
-      "people"
-    ],
-
-    "relatedKanji": [
-      "姉",
-      "弟",
-      "女"
-    ]
-  },
-
-  {
-    "slug": "kanji-husband",
-    "kanji": "夫",
-    "meaning": "Husband",
-    "jlpt": "N5",
-    "strokes": 4,
-
-    "onyomi": "フ (fu), フウ (fuu)",
-    "kunyomi": "おっと (otto)",
-
-    "fact": "One of Japan's most famous folktales, \"Tsuru no Ongaeshi (The Grateful Crane)\", tells the story of a man who rescues an injured crane. Later, a mysterious woman appears and becomes his wife. She weaves beautiful cloth but asks him never to watch her work. When curiosity gets the better of him, he discovers she is actually the crane he once saved. The story remains one of Japan's most beloved tales about marriage, trust, and keeping promises.",
-
-    "memory": "Start with 大 (big person). Add a headband across the top and you get a hardworking husband ready for the day. That's 夫.",
-
-    "words": [
-      {
-        "word": "夫",
-        "reading": "おっと",
-        "romaji": "otto",
-        "meaning": "Husband"
-      },
-      {
-        "word": "夫婦",
-        "reading": "ふうふ",
-        "romaji": "fuufu",
-        "meaning": "Married couple"
-      },
-      {
-        "word": "主夫",
-        "reading": "しゅふ",
-        "romaji": "shufu",
-        "meaning": "Househusband"
-      },
-      {
-        "word": "丈夫",
-        "reading": "じょうぶ",
-        "romaji": "joubu",
-        "meaning": "Strong, sturdy"
-      }
-    ],
-
-    "sentence": {
-      "japanese": "夫は銀行で働いています。",
-      "reading": "おっと は ぎんこう で はたらいています。",
-      "romaji": "otto wa ginkou de hataraiteimasu",
-      "english": "My husband works at a bank."
-    },
-
-    "seo": [
-      "husband kanji meaning",
-      "Japanese husband symbol",
-      "how to read 夫",
-      "JLPT N5 husband kanji",
-      "kanji for husband"
-    ],
-
-    "tags": [
-      "family",
-      "marriage",
-      "people"
-    ],
-
-    "relatedKanji": [
-      "妻",
-      "家",
-      "父"
-    ]
-  },
-
-  {
-    "slug": "kanji-wife",
-    "kanji": "妻",
-    "meaning": "Wife",
-    "jlpt": "N5",
-    "strokes": 8,
-
-    "onyomi": "サイ (sai)",
-    "kunyomi": "つま (tsuma)",
-
-    "fact": "A common joke in Japan is that many husbands earn the salary, but their wives manage the household finances. The husband receives a monthly allowance, while the wife decides where the rest goes. Depending on who you ask, this is either efficient financial planning or the world's longest-running economic system.",
-
-    "memory": "The top looks like a decorative hairpin, while the bottom is a woman. Picture a bride preparing for her wedding. That's 妻, meaning wife.",
-
-    "words": [
-      {
-        "word": "妻",
-        "reading": "つま",
-        "romaji": "tsuma",
-        "meaning": "Wife"
-      },
-      {
-        "word": "夫妻",
-        "reading": "ふさい",
-        "romaji": "fusai",
-        "meaning": "Husband and wife"
-      },
-      {
-        "word": "人妻",
-        "reading": "ひとづま",
-        "romaji": "hitozuma",
-        "meaning": "Married woman"
-      },
-      {
-        "word": "良妻",
-        "reading": "りょうさい",
-        "romaji": "ryousai",
-        "meaning": "Good wife"
-      }
-    ],
-
-    "sentence": {
-      "japanese": "妻は先生です。",
-      "reading": "つま は せんせい です。",
-      "romaji": "tsuma wa sensei desu",
-      "english": "My wife is a teacher."
-    },
-
-    "seo": [
-      "wife kanji meaning",
-      "Japanese wife symbol",
-      "how to read 妻",
-      "JLPT N5 wife kanji",
-      "kanji for wife"
-    ],
-
-    "tags": [
-      "family",
-      "marriage",
-      "people"
-    ],
-
-    "relatedKanji": [
-      "夫",
-      "母",
-      "家"
-    ]
-  },
-
-  {
-    "slug": "kanji-house-home-family",
-    "kanji": "家",
-    "meaning": "House, Home, Family",
-    "jlpt": "N5",
-    "strokes": 10,
-
-    "onyomi": "カ (ka), ケ (ke)",
-    "kunyomi": "いえ (ie), や (ya)",
-
-    "fact": "Japan is home to some of the world's oldest family-run businesses. One famous construction company, \"Kongō Gumi\", operated for more than 1,400 years. While dynasties rose and fell around the world, one family continued building temples generation after generation.",
-
-    "memory": "A roof (宀) brings people together beneath it. Though each person grows in a different direction, they're connected to the same branch. That's 家, meaning house, home, or family.",
-
-    "words": [
-      {
-        "word": "家",
-        "reading": "いえ",
-        "romaji": "ie",
-        "meaning": "House, home"
-      },
-      {
-        "word": "家族",
-        "reading": "かぞく",
-        "romaji": "kazoku",
-        "meaning": "Family"
-      },
-      {
-        "word": "大家",
-        "reading": "おおや",
-        "romaji": "ooya",
-        "meaning": "Landlord"
-      },
-      {
-        "word": "作家",
-        "reading": "さっか",
-        "romaji": "sakka",
-        "meaning": "Author, writer"
-      }
-    ],
-
-    "sentence": {
-      "japanese": "私は家に帰ります。",
-      "reading": "わたし は いえ に かえります。",
-      "romaji": "watashi wa ie ni kaerimasu",
-      "english": "I am going home."
-    },
-
-    "seo": [
-      "house kanji meaning",
-      "home kanji japanese",
-      "how to read 家",
-      "JLPT N5 house kanji",
-      "kanji for family"
-    ],
-
-    "tags": [
-      "family",
-      "home",
-      "daily-life"
-    ],
-
-    "relatedKanji": [
-      "帰",
-      "父",
-      "母"
-    ]
-  },
-
-
-  {
     "slug": "kanji-school",
     "kanji": "校",
     "meaning": "School",
@@ -6639,75 +6288,74 @@
     ]
   },
 
-  {
-    "slug": "kanji-grass",
-    "kanji": "草",
-    "meaning": "Grass",
+    {
+    "slug": "kanji-outside",
+    "kanji": "外",
+    "meaning": "Outside, Foreign",
     "jlpt": "N5",
-    "strokes": 9,
+    "strokes": 5,
 
-    "onyomi": "ソウ (sou)",
-    "kunyomi": "くさ (kusa)",
+    "onyomi": "ガイ (gai), ゲ (ge)",
+    "kunyomi": "そと (soto), はず(れる) (hazureru)",
 
-    "fact": "In Japanese mythology, the legendary sword \"Kusanagi-no-Tsurugi (Grass-Cutting Sword)\" earned its name when the hero Yamato Takeru used it to cut through tall grass while escaping a deadly fire. The sword later became one of Japan's Imperial Regalia.",
+    "fact": "In the early 1600s, Japan's rulers became concerned about growing European influence, Christianity, and the possibility of foreign powers interfering in Japanese politics. As a result, \"the Tokugawa shogunate\" adopted a policy of isolation known as Sakoku (\"closed country\"). For more than 200 years, most foreigners were forbidden from entering Japan, Japanese citizens were banned from traveling abroad, and trade with Europe was largely restricted to a tiny artificial island called \"Dejima\" in Nagasaki. To many people living in Japan at the time, everything beyond the country's shores was simply 外 — the outside world.",
 
-    "memory": "The top is plant (艹), and the bottom is early (早). Before flowers bloom and trees fill with leaves, grass is already covering the ground. That's 草, meaning grass.",
+    "memory": "Picture a medieval castle surrounded by giant walls. One unlucky guy forgot the password and got locked out for the night. Standing outside of the walls, all alone, is 外.",
 
     "words": [
       {
-        "word": "草",
-        "reading": "くさ",
-        "romaji": "kusa",
-        "meaning": "Grass"
+        "word": "外",
+        "reading": "そと",
+        "romaji": "soto",
+        "meaning": "Outside"
       },
       {
-        "word": "草原",
-        "reading": "そうげん",
-        "romaji": "sougen",
-        "meaning": "Grassland"
+        "word": "外国",
+        "reading": "がいこく",
+        "romaji": "gaikoku",
+        "meaning": "Foreign country"
       },
       {
-        "word": "水草",
-        "reading": "みずくさ",
-        "romaji": "mizukusa",
-        "meaning": "Water plant"
+        "word": "外国人",
+        "reading": "がいこくじん",
+        "romaji": "gaikokujin",
+        "meaning": "Foreigner"
       },
       {
-        "word": "雑草",
-        "reading": "ざっそう",
-        "romaji": "zassou",
-        "meaning": "Weeds"
+        "word": "外出",
+        "reading": "がいしゅつ",
+        "romaji": "gaishutsu",
+        "meaning": "Going out"
       }
     ],
 
     "sentence": {
-      "japanese": "草がたくさん生えています。",
-      "reading": "くさ が たくさん はえています。",
-      "romaji": "kusa ga takusan haeteimasu",
-      "english": "A lot of grass is growing."
+      "japanese": "今日は外で昼ご飯を食べます。",
+      "reading": "きょう は そと で ひるごはん を たべます。",
+      "romaji": "kyou wa soto de hirugohan o tabemasu",
+      "english": "Today I will eat lunch outside."
     },
 
     "seo": [
-      "grass kanji meaning",
-      "Japanese grass symbol",
-      "how to read 草",
-      "JLPT N5 grass kanji",
-      "kanji for grass"
+      "outside kanji meaning",
+      "how to read 外",
+      "JLPT N5 outside kanji",
+      "Japanese kanji for foreign",
+      "gaikoku kanji meaning"
     ],
 
     "tags": [
-      "nature",
-      "plants",
-      "outdoors"
+      "location",
+      "travel",
+      "daily-life"
     ],
 
     "relatedKanji": [
-      "花",
-      "木",
-      "山"
+      "国",
+      "出",
+      "入"
     ]
   },
-
 
   {
     "slug": "kanji-country-nation",
@@ -6846,9 +6494,6 @@
       "万"
     ]
   },
-
-  
-
 
   {
     "slug": "kanji-fish",
@@ -7748,5 +7393,75 @@
       "入",
       "出"
     ]
+  },
+
+  {
+    "slug": "kanji-gate",
+    "kanji": "門",
+    "meaning": "Gate",
+    "jlpt": "N5",
+    "strokes": 8,
+
+    "onyomi": "モン (mon)",
+    "kunyomi": "かど (kado)",
+
+    "fact": "One of Tokyo's most famous landmarks is \"Kaminari-mon (Thunder Gate)\" at Sensō-ji Temple. Its giant red lantern weighs hundreds of kilograms and has welcomed visitors for centuries. For many tourists, it's the first traditional gate they ever see in Japan.",
+
+    "memory": "Kanji 門 surprisingly looks like torii gate. Maybe it was intentional.",
+
+    "words": [
+      {
+        "word": "門",
+        "reading": "もん",
+        "romaji": "mon",
+        "meaning": "Gate"
+      },
+      {
+        "word": "専門",
+        "reading": "せんもん",
+        "romaji": "senmon",
+        "meaning": "Specialty"
+      },
+      {
+        "word": "校門",
+        "reading": "こうもん",
+        "romaji": "koumon",
+        "meaning": "School gate"
+      },
+      {
+        "word": "門口",
+        "reading": "かどぐち",
+        "romaji": "kadoguchi",
+        "meaning": "Doorway"
+      }
+    ],
+
+    "sentence": {
+      "japanese": "学校の門の前で待っています。",
+      "reading": "がっこう の もん の まえ で まっています。",
+      "romaji": "gakkou no mon no mae de matteimasu",
+      "english": "I am waiting in front of the school gate."
+    },
+
+    "seo": [
+      "gate kanji meaning",
+      "how to read 門",
+      "JLPT N5 gate kanji",
+      "Japanese kanji for gate",
+      "mon kanji meaning"
+    ],
+
+    "tags": [
+      "buildings",
+      "places",
+      "daily-life"
+    ],
+
+    "relatedKanji": [
+      "入",
+      "出",
+      "校"
+    ]
   }
+
 ]
