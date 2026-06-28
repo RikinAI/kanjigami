@@ -13,6 +13,7 @@ const kanjiList = [
   ...n3
 ];
 
+
 export function generateStaticParams() {
   return kanjiList.map((kanji) => ({
     slug: kanji.slug,
@@ -94,6 +95,9 @@ const currentIndex = currentList.findIndex(
   (item: any) => item.slug === slug
 );
 
+const kanjiNumber = currentIndex + 1;
+const totalKanji = currentList.length;
+
 const prevKanji =
   currentList[
     (currentIndex - 1 + currentList.length) %
@@ -135,7 +139,17 @@ const strokeCode = kanji.kanji
 
       <main className="max-w-5xl mx-auto px-4 py-6">
 
-        <div className="bg-white border rounded-3xl p-5 md:p-8">
+        <div className="relative bg-white border rounded-3xl p-5 md:p-8">
+
+          <div className="absolute top-5 right-5 text-xs md:text-sm bg-slate-100 text-slate-600
+                px-3
+                py-1
+                rounded-full
+                font-medium
+              "
+            >
+              {kanjiNumber}
+            </div>
 
           {/* Back */}
 

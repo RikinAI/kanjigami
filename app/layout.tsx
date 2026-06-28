@@ -36,6 +36,7 @@ export const metadata: Metadata = {
     "Japanese Kanji",
     "JLPT N5 Kanji",
     "JLPT N4 Kanji",
+    "JLPT N3 Kanji",
     "Learn Japanese",
     "Kanji meanings",
     "Kanji memory tricks",

@@ -175,6 +175,58 @@ export default function JLPTN4Page() {
 
         </div>
 
+        <div className="flex justify-center md:justify-end gap-3 mt-5 mb-6">
+
+              <a
+                href="#about-jlpt"
+                className="
+                  inline-flex
+                  items-center
+                  gap-2
+                  px-4
+                  py-2
+                  rounded-xl
+                  border
+                  border-green-600
+                  bg-white
+                  text-green-700
+                  text-sm
+                  font-semibold
+                  shadow-sm
+                  transition
+                  hover:bg-green-50
+                  hover:shadow-md
+                "
+              >
+                📘 About JLPT N4 Kanji
+              </a>
+
+              <a
+                href="#faq"
+                className="
+                  inline-flex
+                  items-center
+                  gap-2
+                  px-4
+                  py-2
+                  rounded-xl
+                  border
+                  border-slate-400
+                  bg-white
+                  text-slate-700
+                  text-sm
+                  font-semibold
+                  shadow-sm
+                  transition
+                  hover:bg-slate-50
+                  hover:shadow-md
+                "
+              >
+                ❓ FAQs
+              </a>
+
+            </div>
+
         {/* Search */}
 
         <div className="mb-4">
@@ -251,27 +303,19 @@ export default function JLPTN4Page() {
                     </td>
                     {/* Kanji */}
 
-                    <td className="px-2 py-2">
-
+                    <td className="px-2 py-2 align-middle">
                       <Link
                         href={`/kanji/${item.slug}`}
-                        className="block group"
+                        className="flex h-full flex-col items-center justify-center group"
                       >
+                        <span className="text-2xl md:text-3xl font-medium transition group-hover:text-green-700">
+                          {item.kanji}
+                        </span>
 
-                        <div className="flex flex-col items-center">
-
-                          <span className="text-2xl md:text-3xl font-medium transition group-hover:text-green-700">
-                            {item.kanji}
-                          </span>
-
-                          <span className="text-[10px] text-gray-400 group-hover:text-green-700">
-                            Explore →
-                          </span>
-
-                        </div>
-
+                        <span className="text-[10px] text-gray-400 group-hover:text-green-700 whitespace-nowrap">
+                          Explore →
+                        </span>
                       </Link>
-
                     </td>
 
                     {/* Meaning */}
@@ -321,7 +365,7 @@ export default function JLPTN4Page() {
         </div>
 
       {/* About JLPT N4 Kanji */}
-      <section className="mt-12">
+      <section id="about-jlpt" className="mt-12 scroll-mt-24">
         <div className="bg-gray-50 border rounded-2xl p-5 md:p-8">
 
           <h2 className="text-2xl md:text-3xl font-bold mb-4">
@@ -394,7 +438,7 @@ export default function JLPTN4Page() {
       </section>
 
       {/* FAQ Section */}
-        <section className="mt-12">
+        <section id="faq" className="mt-12 scroll-mt-24">
           <div className="bg-white border rounded-2xl p-5 md:p-8">
             <h2 className="text-2xl md:text-3xl font-bold mb-6">
               Frequently Asked Questions
