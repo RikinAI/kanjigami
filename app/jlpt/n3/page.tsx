@@ -121,7 +121,7 @@ const breadcrumbSchema = {
           </h1>
 
           <p className="text-sm md:text-base text-gray-600 mb-4">
-            Master all 330 essential JLPT N3 Kanji with meanings,
+            Master all 362 essential JLPT N3 Kanji with meanings,
             Onyomi and Kunyomi readings, example vocabulary,
             example sentences, memory tricks, and interesting facts.
             Perfect for intermediate Japanese learners preparing for the JLPT N3 exam.
@@ -161,19 +161,6 @@ const breadcrumbSchema = {
 
         </div>
 
-        {/* Coming Soon Notice */}
-
-        <div className="mb-5 bg-yellow-50 border border-yellow-200 rounded-xl p-4">
-
-          <p className="text-yellow-800 font-medium">
-            🚧 More Kanji Coming Soon!
-          </p>
-
-          <p className="text-sm text-yellow-700 mt-1">
-            We are actively adding more JLPT N3 kanji. Check back regularly for updates.
-          </p>
-
-        </div>
 
         <div className="flex justify-center md:justify-end gap-3 mt-5 mb-6">
 

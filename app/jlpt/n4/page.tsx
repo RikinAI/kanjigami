@@ -161,19 +161,6 @@ export default function JLPTN4Page() {
 
         </div>
 
-        {/* Coming Soon Notice */}
-
-        <div className="mb-5 bg-yellow-50 border border-yellow-200 rounded-xl p-4">
-
-          <p className="text-yellow-800 font-medium">
-            🚧 More easier memory tricks Coming Soon!
-          </p>
-
-          <p className="text-sm text-yellow-700 mt-1">
-            We are actively adding better interesing facts and memory tricks JLPT N4 kanji. Check back regularly for updates.
-          </p>
-
-        </div>
 
         <div className="flex justify-center md:justify-end gap-3 mt-5 mb-6">
 
