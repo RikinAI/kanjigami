@@ -50,21 +50,28 @@ export default function Header() {
               href="/jlpt/n5"
               className="hover:text-orange-700"
             >
-              📘 JLPT N5 Kanji
+              🌸 JLPT N5 Kanji
             </a>
 
             <a
               href="/jlpt/n4"
               className="hover:text-orange-700"
             >
-              📗 JLPT N4 Kanji
+              🍃 JLPT N4 Kanji
             </a>
 
             <a
               href="/jlpt/n3"
               className="hover:text-orange-700"
             >
-              📙 JLPT N3 Kanji
+              ⛩️ JLPT N3 Kanji
+            </a>
+
+            <a
+              href="/jlpt/n2"
+              className="hover:text-orange-700"
+            >
+              🌄 JLPT N2 Kanji
             </a>
 
             <Link
@@ -118,21 +125,28 @@ export default function Header() {
               href="/jlpt/n5"
               className="px-4 py-3 border-b hover:bg-slate-100"
             >
-              📘 JLPT N5 Kanji
+              🌸 JLPT N5 Kanji
             </Link>
 
             <Link
               href="/jlpt/n4"
               className="px-4 py-3 border-b hover:bg-slate-100"
             >
-              📗 JLPT N4 Kanji
+              🍃 JLPT N4 Kanji
             </Link>
 
             <Link
               href="/jlpt/n3"
-              className="px-4 py-3 hover:bg-slate-100"
+              className="px-4 py-3 border-b hover:bg-slate-100"
             >
-              📙 JLPT N3 Kanji
+              ⛩️ JLPT N3 Kanji
+            </Link>
+
+            <Link
+              href="/jlpt/n3"
+              className="px-4 py-3 border-b hover:bg-slate-100"
+            >
+              🌄 JLPT N2 Kanji
             </Link>
 
           </div>
