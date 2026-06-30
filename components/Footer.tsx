@@ -73,7 +73,7 @@ export default function Footer() {
 
               <li>
                 <Link
-                  href="/jlpt/n3"
+                  href="/jlpt/n2"
                   className="hover:text-green-700"
                 >
                  🌄 N2 Kanji list

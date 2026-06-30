@@ -143,7 +143,7 @@ export default function Header() {
             </Link>
 
             <Link
-              href="/jlpt/n3"
+              href="/jlpt/n2"
               className="px-4 py-3 border-b hover:bg-slate-100"
             >
               🌄 JLPT N2 Kanji
