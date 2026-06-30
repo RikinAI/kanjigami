@@ -5,6 +5,7 @@ import JLPTPreview from "../components/JLPTPreview";
 import PopularKanji from "../components/PopularKanji";
 import Footer from "../components/Footer";
 import FeaturedGuides from "../components/FeaturedGuides";
+import KanaSection from "../components/KanaSection";
 
 export const metadata: Metadata = {
   title: "Learn Japanese Kanji with Memory Tricks | KanjiGami",
@@ -30,6 +31,7 @@ export default function Home() {
       <Header />
       <Hero />
       <JLPTPreview />
+      <KanaSection />
       <PopularKanji />
       <FeaturedGuides />
       <Footer />

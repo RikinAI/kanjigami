@@ -7,8 +7,8 @@
     "jlpt": "N2",
     "strokes": 5,
 
-    "onyomi": "アツ (atsu)",
-    "kunyomi": "お (osu), へ (shesu)",
+    "onyomi": "アツ",
+    "kunyomi": "お.す, へ.す, おさ.える",
 
     "fact": "Japan is famous for high-pressure situations like crowded commuter trains during rush hour. The word 圧力 (atsuryoku), meaning 'pressure,' is commonly used in science, engineering, and everyday conversation.",
 
@@ -76,8 +76,8 @@
     "jlpt": "N2",
     "strokes": 8,
 
-    "onyomi": "イ (i)",
-    "kunyomi": "よ (ru)",
+    "onyomi": "イ",
+    "kunyomi": "よ.る",
 
     "fact": "Japanese workplaces often emphasize teamwork. The verb 依頼する (irai suru), meaning 'to request,' comes from this kanji because making a request means relying on someone else.",
 
@@ -145,8 +145,8 @@
     "jlpt": "N2",
     "strokes": 7,
 
-    "onyomi": "イ (i)",
-    "kunyomi": "かこ (む), かこ (い)",
+    "onyomi": "イ",
+    "kunyomi": "かこ.む, かこ.い",
 
     "fact": "The traditional Japanese board game 囲碁 (Igo) gets its name from this kanji because players surround their opponent's stones to capture territory.",
 
@@ -214,8 +214,8 @@
     "jlpt": "N2",
     "strokes": 8,
 
-    "onyomi": "イ (i)",
-    "kunyomi": "ゆだ (ねる)",
+    "onyomi": "イ",
+    "kunyomi": "ゆだ.ねる",
 
     "fact": "Japanese schools and companies often have many committees called 委員会 (iinkai). Students may serve on the library committee, festival committee, or sports committee.",
 
@@ -283,8 +283,8 @@
     "jlpt": "N2",
     "strokes": 11,
 
-    "onyomi": "イ (i)",
-    "kunyomi": "うつ (る), うつ (す)",
+    "onyomi": "イ",
+    "kunyomi": "うつ.る, うつ.す",
 
     "fact": "Japan's railway stations frequently display the word 乗り換え and 案内 for transfers, while 移動 (idou) is commonly used to mean moving from one place to another.",
 
@@ -352,7 +352,7 @@
     "jlpt": "N2",
     "strokes": 9,
 
-    "onyomi": "イ (i)",
+    "onyomi": "イ",
     "kunyomi": "",
 
     "fact": "Japanese pharmacies and convenience stores commonly sell 胃薬 (igusuri), or stomach medicine, because the kanji 胃 appears in many health-related products and advertisements.",
@@ -421,8 +421,8 @@
     "jlpt": "N2",
     "strokes": 6,
 
-    "onyomi": "イ (i)",
-    "kunyomi": "ころも (koromo)",
+    "onyomi": "イ",
+    "kunyomi": "ころも",
 
     "fact": "Traditional Japanese clothing like the kimono is often described using the kanji 衣, which also appears in words related to clothing and costumes.",
 
@@ -490,7 +490,7 @@
     "jlpt": "N2",
     "strokes": 11,
 
-    "onyomi": "イキ (iki)",
+    "onyomi": "イキ",
     "kunyomi": "",
 
     "fact": "The word 地域 (chiiki), meaning 'region' or 'local area,' is frequently used in Japan for community events, local governments, and disaster preparedness programs.",
@@ -559,8 +559,8 @@
     "jlpt": "N2",
     "strokes": 6,
 
-    "onyomi": "イン (in)",
-    "kunyomi": "しるし (shirushi)",
+    "onyomi": "イン",
+    "kunyomi": "しるし",
 
     "fact": "Instead of signatures, many Japanese people use a personal seal called a hanko or inkan. The kanji 印 means 'seal' and appears in words like 印鑑 (inkan).",
 
@@ -835,8 +835,8 @@
     "jlpt": "N2",
     "strokes": 12,
 
-    "onyomi": "エイ (ei)",
-    "kunyomi": "いとな (む)",
+    "onyomi": "エイ",
+    "kunyomi": "いとな.む",
 
     "fact": "Many family-owned businesses in Japan proudly display 営業中 (eigyouchuu), meaning 'Open for Business,' outside their shops every morning.",
 
@@ -904,8 +904,8 @@
     "jlpt": "N2",
     "strokes": 9,
 
-    "onyomi": "エイ (ei)",
-    "kunyomi": "さか (える), は (え)",
+    "onyomi": "エイ",
+    "kunyomi": "さか.える, は.え",
 
     "fact": "Nagoya's famous shopping and entertainment district is called 栄 (Sakae), a name chosen because the area was expected to prosper and flourish.",
 
@@ -973,8 +973,8 @@
     "jlpt": "N2",
     "strokes": 5,
 
-    "onyomi": "エイ (ei)",
-    "kunyomi": "なが (い)",
+    "onyomi": "エイ",
+    "kunyomi": "なが.い",
 
     "fact": "The famous Japanese phrase 永遠 (eien) means 'eternity' and appears in songs, anime, literature, and even wedding ceremonies to express everlasting love or friendship.",
 
@@ -1042,8 +1042,8 @@
     "jlpt": "N2",
     "strokes": 15,
 
-    "onyomi": "エイ (ei)",
-    "kunyomi": "するど (い)",
+    "onyomi": "エイ",
+    "kunyomi": "するど.い",
 
     "fact": "Traditional Japanese swordsmiths spent months forging a single katana. A truly 鋭い (surudoi) blade was prized not only for its sharpness but also as a symbol of craftsmanship and honor.",
 
@@ -1181,7 +1181,7 @@
     "strokes": 8,
 
     "onyomi": "エン (en)",
-    "kunyomi": "の (びる), の (べる), の (ばす)",
+    "kunyomi": "の.びる, の.べる, の.ばす",
 
     "fact": "Japan's famous Shinkansen occasionally announces delays using the word 延着 (enchaku), meaning 'late arrival,' which comes from the idea of extending travel time.",
 
@@ -1319,7 +1319,7 @@
     "strokes": 6,
 
     "onyomi": "オ (o)",
-    "kunyomi": "よご (す), よご (れる), けが (す), けが (れる)",
+    "kunyomi": "よご.す, よご.れる, けが.す, けが.れる",
 
     "fact": "Japan is known for its remarkably clean streets. School children often clean their own classrooms every day, reflecting the cultural value of avoiding 汚れ (yogore), or dirt and mess.",
 
@@ -1733,7 +1733,7 @@
     "strokes": 12,
 
     "onyomi": "オン (on)",
-    "kunyomi": "あたた (かい), あたた (まる), あたた (める)",
+    "kunyomi": "あたた.かい, あたた.まる, あたた.める",
 
     "fact": "Japan is famous for its 温泉 (onsen), natural hot springs heated by volcanic activity. Visiting an onsen is one of the country's most beloved traditions.",
 
@@ -2216,7 +2216,7 @@
     "strokes": 7,
 
     "onyomi": "カイ (kai)",
-    "kunyomi": "こころよ (い)",
+    "kunyomi": "こころよ.い",
 
     "fact": "The famous Japanese train service 快速 (kaisoku) means 'Rapid Service.' The idea is that a fast and smooth journey is more pleasant for passengers.",
 
@@ -2285,7 +2285,7 @@
     "strokes": 7,
 
     "onyomi": "カイ (kai)",
-    "kunyomi": "あらた (める), あらた (まる)",
+    "kunyomi": "あらた.める, あらた.まる",
 
     "fact": "Japan has undergone several major reforms called 改革 (kaikaku), from the Meiji Restoration to modern government reforms. The kanji 改 often represents positive change or improvement.",
 
@@ -2561,7 +2561,7 @@
     "strokes": 6,
 
     "onyomi": "カク (kaku)",
-    "kunyomi": "おのおの (onoono)",
+    "kunyomi": "おのおの",
 
     "fact": "Japanese train stations often display 各駅停車 (kakueki teisha), meaning 'local train,' because it stops at each station instead of skipping stations.",
 
@@ -2837,7 +2837,7 @@
     "strokes": 11,
 
     "onyomi": "カン (kan)",
-    "kunyomi": "かわ (く), かわ (かす)",
+    "kunyomi": "かわ.く, かわ.かす",
 
     "fact": "Japan's rainy season is followed by many sunny days, and laundry hanging outside to 乾く (kawaku), or dry, is a common sight across the country.",
 
@@ -2975,7 +2975,7 @@
     "strokes": 9,
 
     "onyomi": "カン (kan)",
-    "kunyomi": "ま (く), ま (き)",
+    "kunyomi": "ま.く, ま.き",
 
     "fact": "Japanese manga volumes are numbered using 巻. For example, 第十巻 means 'Volume 10,' making this kanji familiar to manga readers worldwide.",
 
@@ -3044,7 +3044,7 @@
     "strokes": 3,
 
     "onyomi": "カン (kan)",
-    "kunyomi": "ほ (す), ひ (る), ほ (し)",
+    "kunyomi": "ほ.す, ひ.る, ほ.し",
 
     "fact": "Traditional Japanese foods like dried fish (干物, himono) are made by hanging them in the sun. The kanji 干 originally referred to drying things outdoors.",
 
@@ -3113,7 +3113,7 @@
     "strokes": 11,
 
     "onyomi": "カン (kan)",
-    "kunyomi": "わずら (う)",
+    "kunyomi": "わずら.う",
 
     "fact": "Japanese hospitals often use the word 患者 (kanja), meaning 'patient.' You'll frequently see this kanji on hospital signs, medical forms, and healthcare documents.",
 
@@ -3182,7 +3182,7 @@
     "strokes": 12,
 
     "onyomi": "カン (kan)",
-    "kunyomi": "か (える), か (わる)",
+    "kunyomi": "か.える, か.わる",
 
     "fact": "Foreign visitors to Japan often see the word 両替 (ryōgae), but banks also use 交換 (kōkan) and 交換所 when referring to exchanges and exchange counters.",
 
@@ -3320,7 +3320,7 @@
     "strokes": 5,
 
     "onyomi": "カン (kan)",
-    "kunyomi": "あま (い), あま (える), あま (やかす)",
+    "kunyomi": "あま.い, あま.える, あま.やかす",
 
     "fact": "Japanese desserts such as wagashi are known for their gentle sweetness. The word 甘味 (kanmi) refers to sweet flavors and traditional sweet shops are called 甘味処.",
 
@@ -3596,7 +3596,7 @@
     "strokes": 3,
 
     "onyomi": "ガン (gan)",
-    "kunyomi": "まる (maru), まる (い), まる (める)",
+    "kunyomi": "まる, まる.い, まる.める",
 
     "fact": "Many Japanese ships traditionally end their names with 丸 (maru), such as 日本丸. One theory says it symbolizes completeness and good fortune during voyages.",
 
@@ -3665,7 +3665,7 @@
     "strokes": 7,
 
     "onyomi": "ガン (gan)",
-    "kunyomi": "ふく (む), ふく (める)",
+    "kunyomi": "ふく.む, ふく.める",
 
     "fact": "Food labels in Japan often use the word 含む (fukumu) to indicate ingredients contained in a product, especially allergy information.",
 
@@ -4148,7 +4148,7 @@
     "strokes": 13,
 
     "onyomi": "キツ (kitsu), キチ (kichi)",
-    "kunyomi": "つ (める), つ (まる), つ (む)",
+    "kunyomi": "つ.める, つ.まる, つ.む",
 
     "fact": "Japanese lunch boxes, called お弁当 (obentō), are carefully packed with colorful food. The verb 詰める (tsumeru) is commonly used when filling a lunch box before school or work.",
 
@@ -4217,7 +4217,7 @@
     "strokes": 9,
 
     "onyomi": "ギャク (gyaku), ゲキ (geki)",
-    "kunyomi": "さか (らう), さか (らい), さか (さ)",
+    "kunyomi": "さか.らう, さか.らい, さか.さ",
 
     "fact": "Japanese roads drive on the left side, so many visitors feel it's the 'opposite' of what they're used to. The word 逆 (gyaku) is often used whenever something is reversed.",
 
@@ -4286,7 +4286,7 @@
     "strokes": 3,
 
     "onyomi": "キュウ (kyuu), ク (ku)",
-    "kunyomi": "ひさ (しい)",
+    "kunyomi": "ひさ.しい",
 
     "fact": "The phrase お久しぶりです (Ohisashiburi desu), meaning 'Long time no see,' is one of the most common greetings in Japanese and comes from this kanji.",
 
@@ -4493,7 +4493,7 @@
     "strokes": 20,
 
     "onyomi": "キョウ (kyou)",
-    "kunyomi": "きそ (う), せ (る)",
+    "kunyomi": "きそ.う, せ.る",
 
     "fact": "Japan hosts many traditional competitions, from sumo tournaments to high school sports festivals. The word 競技 (kyōgi), meaning 'competition' or 'sporting event,' is commonly seen during the Olympics and national championships.",
 
@@ -4631,7 +4631,7 @@
     "strokes": 5,
 
     "onyomi": "キョウ (kyou)",
-    "kunyomi": "さけ (ぶ)",
+    "kunyomi": "さけ.ぶ",
 
     "fact": "At Japanese baseball games, enthusiastic fans loudly cheer and sometimes 叫ぶ (sakebu), or shout, to encourage their favorite team.",
 
@@ -4769,7 +4769,7 @@
     "strokes": 9,
 
     "onyomi": "キョウ (kyou)",
-    "kunyomi": "はさ (む), はさ (まる)",
+    "kunyomi": "はさ.む, はさ.まる",
 
     "fact": "Japanese convenience stores sell many foods with fillings sandwiched inside, such as sandwiches and dorayaki. The verb 挟む (hasamu) literally means 'to put something in between.'",
 
@@ -4976,7 +4976,7 @@
     "strokes": 12,
 
     "onyomi": "キョク (kyoku), ゴク (goku)",
-    "kunyomi": "きわ (める), きわ (まる), きわ (み)",
+    "kunyomi": "きわ.める, きわ.まる, きわ.み",
 
     "fact": "Japan is home to the Michelin-starred restaurant 寿司さいとう's menu item 極上 (gokujō), meaning 'the finest quality.' The kanji 極 is often used to describe something at the highest level.",
 
@@ -5321,7 +5321,7 @@
     "strokes": 11,
 
     "onyomi": "クツ (kutsu)",
-    "kunyomi": "ほ (る)",
+    "kunyomi": "ほ.る",
 
     "fact": "Japan has discovered many ancient kofun burial mounds through archaeological excavations. Archaeologists use 掘る (horu), meaning 'to dig,' to uncover these historical treasures.",
 
@@ -5459,7 +5459,7 @@
     "strokes": 13,
 
     "onyomi": "グン (gun)",
-    "kunyomi": "む (れる), む (れ), むら (がる)",
+    "kunyomi": "む.れる, む.れ, むら.がる",
 
     "fact": "Japan is famous for schools of sardines and flocks of cranes. The kanji 群 is used for groups of animals as well as crowds of people.",
 
@@ -5597,7 +5597,7 @@
     "strokes": 13,
 
     "onyomi": "ケイ (kei)",
-    "kunyomi": "かたむ (く), かたむ (ける)",
+    "kunyomi": "かたむ.く, かたむ.ける",
 
     "fact": "One of Japan's most photographed landmarks is the leaning pagoda at some historic temples. The verb 傾く (katamuku) is commonly used whenever something tilts or leans.",
 
@@ -5735,7 +5735,7 @@
     "strokes": 12,
 
     "onyomi": "ケイ (kei)",
-    "kunyomi": "うやま (う)",
+    "kunyomi": "うやま.う",
 
     "fact": "The Japanese language has a special system called 敬語 (keigo), respectful speech used when talking to customers, teachers, and elders. It is an important part of Japanese culture and etiquette.",
 
@@ -6080,7 +6080,7 @@
     "strokes": 16,
 
     "onyomi": "ケン (ken)",
-    "kunyomi": "かしこ (い)",
+    "kunyomi": "かしこ.い",
 
     "fact": "The Japanese expression 賢い選択 (kashikoi sentaku), meaning 'a wise choice,' is commonly used in advertisements encouraging customers to make smart decisions.",
 
@@ -6218,7 +6218,7 @@
     "strokes": 12,
 
     "onyomi": "ゲン (gen)",
-    "kunyomi": "へ (る), へ (らす)",
+    "kunyomi": "へ.る, へ.らす",
 
     "fact": "Japan's population has been decreasing for many years. News reports frequently use the word 人口減少 (jinkō genshō), meaning 'population decline,' making 減 a very common kanji in newspapers.",
 
@@ -6356,7 +6356,7 @@
     "strokes": 8,
 
     "onyomi": "コ (ko)",
-    "kunyomi": "かた (い), かた (める), かた (まる)",
+    "kunyomi": "かた.い, かた.める, かた.まる",
 
     "fact": "The Japanese dessert プリン can become 固い (katai) if chilled too long. The kanji 固 is commonly used to describe anything hard, solid, or firmly fixed.",
 
@@ -6563,7 +6563,7 @@
     "strokes": 9,
 
     "onyomi": "コ (ko)",
-    "kunyomi": "か (れる), か (らす)",
+    "kunyomi": "か.れる, か.らす",
 
     "fact": "In Japanese gardens, gardeners carefully remove 枯れ葉 (kareba), or withered leaves, to keep the landscape beautiful. The contrast between fresh green leaves and dried ones is an important part of seasonal appreciation.",
 
@@ -6632,7 +6632,7 @@
     "strokes": 12,
 
     "onyomi": "コ (ko)",
-    "kunyomi": "やと (う)",
+    "kunyomi": "やと.う",
 
     "fact": "Japan's annual 新卒採用 (shinsotsu saiyō), or new graduate hiring season, is one of the largest recruitment periods in the country. Companies hire thousands of university graduates each year.",
 
@@ -6701,7 +6701,7 @@
     "strokes": 8,
 
     "onyomi": "コウ (kou)",
-    "kunyomi": "き (く), き (きめ)",
+    "kunyomi": "き.く, き.きめ",
 
     "fact": "Medicine packages in Japan often describe whether a drug is 効く (kiku), meaning 'it works,' or list 効果 (kōka), meaning 'its effectiveness.'",
 
@@ -6770,7 +6770,7 @@
     "strokes": 9,
 
     "onyomi": "コウ (kou)",
-    "kunyomi": "あつ (い)",
+    "kunyomi": "あつ.い",
 
     "fact": "Japanese winter blankets are often advertised as 厚手 (atsude), meaning 'thick fabric.' The kanji 厚 is also used in words like 厚意, referring to someone's kindness or generosity.",
 
@@ -6839,7 +6839,7 @@
     "strokes": 12,
 
     "onyomi": "コウ (kou)",
-    "kunyomi": "かた (い)",
+    "kunyomi": "かた.い",
 
     "fact": "In Japan, eggs are often described as 半熟 (soft-boiled) or 固ゆで (hard-boiled). The kanji 硬 is also widely used in computing terms such as ハードディスク (hard disk) and 硬貨 (coins).",
 
@@ -6977,7 +6977,7 @@
     "strokes": 10,
 
     "onyomi": "コウ (kou)",
-    "kunyomi": "たがや (す)",
+    "kunyomi": "たがや.す",
 
     "fact": "Rice cultivation has shaped Japanese culture for over 2,000 years. The verb 耕す (tagayasu), meaning 'to cultivate,' is closely connected with traditional rice farming.",
 
@@ -7184,7 +7184,7 @@
     "strokes": 9,
 
     "onyomi": "コウ (kou)",
-    "kunyomi": "あら (い), あ (れる), あ (らす)",
+    "kunyomi": "あら.い, あ.れる, あ.らす",
 
     "fact": "Typhoons sometimes cause 荒れた天気 (areta tenki), meaning 'stormy weather.' Japanese weather forecasts frequently use this expression during the rainy and typhoon seasons.",
 
@@ -7667,7 +7667,7 @@
     "strokes": 11,
 
     "onyomi": "コン (kon)",
-    "kunyomi": "ま (じる), ま (ざる), ま (ぜる), こ (む)",
+    "kunyomi": "ま.じる, ま.ざる, ま.ぜる, こ.む",
 
     "fact": "Japanese train stations often announce 電車が混んでいます (densha ga kondeimasu), meaning 'the train is crowded.' The kanji 混 commonly refers to mixing things together or being crowded.",
 
@@ -7874,7 +7874,7 @@
     "strokes": 6,
 
     "onyomi": "サイ (sai), サ (sa)",
-    "kunyomi": "ふたた (び)",
+    "kunyomi": "ふたた.び",
 
     "fact": "One of the first buttons many Japanese learners recognize on websites is 再生 (saisei), meaning 'play' or 'play again.' The kanji 再 is widely used for repeating, restarting, and trying again.",
 
@@ -7943,7 +7943,7 @@
     "strokes": 11,
 
     "onyomi": "サイ (sai)",
-    "kunyomi": "と (る)",
+    "kunyomi": "と.る",
 
     "fact": "Every spring, many Japanese families enjoy いちご狩り (strawberry picking) and tea leaf harvesting. The verb 採る (toru) is commonly used when gathering fruits, vegetables, tea leaves, or collecting samples.",
 
@@ -8012,7 +8012,7 @@
     "strokes": 11,
 
     "onyomi": "サイ (sai)",
-    "kunyomi": "ほそ (い), こま (かい), ほそ (る), ほそ (める)",
+    "kunyomi": "ほそ.い, こま.かい, ほそ.る, ほそ.める",
 
     "fact": "Japanese craftsmanship is famous for its 細かい (komakai) attention to detail. Whether making sushi, pottery, or electronics, careful precision is highly valued.",
 
@@ -8150,7 +8150,7 @@
     "strokes": 9,
 
     "onyomi": "",
-    "kunyomi": "さ (く)",
+    "kunyomi": "さ.く",
 
     "fact": "Every spring, millions of people gather for 花見 (hanami), enjoying cherry blossoms in full bloom. The verb 咲く (saku) is used whenever flowers bloom.",
 
@@ -8288,7 +8288,7 @@
     "strokes": 8,
 
     "onyomi": "サツ (satsu)",
-    "kunyomi": "す (る), は (く)",
+    "kunyomi": "す.る, は.く",
 
     "fact": "Japan is one of the world's largest publishers of manga and books. Every new volume is 印刷 (insatsu), or printed, before reaching bookstores across the country.",
 
@@ -8564,7 +8564,7 @@
     "strokes": 7,
 
     "onyomi": "",
-    "kunyomi": "うかが (う)",
+    "kunyomi": "うかが.う",
 
     "fact": "In Japanese business etiquette, 伺います (ukagaimasu) is humble language (謙譲語). It can mean 'I will visit,' 'I will ask,' or 'I will hear,' depending on the context.",
 
@@ -8633,7 +8633,7 @@
     "strokes": 8,
 
     "onyomi": "シ (shi)",
-    "kunyomi": "さ (す), さ (さる), さ (し)",
+    "kunyomi": "さ.す, さ.さる, さ.し",
 
     "fact": "The word 刺身 (sashimi), literally meaning 'pierced body,' refers to sliced raw fish. Originally, a fish's fin was pierced into the slices to identify the type of fish being served.",
 
@@ -9185,7 +9185,7 @@
     "strokes": 12,
 
     "onyomi": "シツ (shitsu)",
-    "kunyomi": "しめ (る), しめ (す)",
+    "kunyomi": "しめ.る, しめ.す",
 
     "fact": "Japan's rainy season, 梅雨 (tsuyu), is known for its high humidity. The word 湿度 (shitsudo), meaning 'humidity,' appears frequently in weather forecasts during early summer.",
 
@@ -9254,7 +9254,7 @@
     "strokes": 11,
 
     "onyomi": "シャ (sha)",
-    "kunyomi": "す (てる)",
+    "kunyomi": "す.てる",
 
     "fact": "Japan has strict garbage sorting rules. Residents must separate recyclables, burnable trash, and non-burnable trash before 捨てる (suteru), or throwing them away.",
 
@@ -9323,7 +9323,7 @@
     "strokes": 8,
 
     "onyomi": "シュウ (shuu)",
-    "kunyomi": "まわ (り)",
+    "kunyomi": "まわ.り",
 
     "fact": "The word 一週間 (isshūkan), meaning 'one week,' literally means 'one cycle around.' The kanji 周 is often used to describe something that goes around or completes a full circuit.",
 
@@ -9461,7 +9461,7 @@
     "strokes": 9,
 
     "onyomi": "シュウ (shuu), ジュウ (juu)",
-    "kunyomi": "ひろ (う)",
+    "kunyomi": "ひろ.う",
 
     "fact": "Japan is famous for its low crime rate, and it is common for lost wallets or phones to be 拾われる (hirowareru) and turned in to the nearest police box (交番).",
 
@@ -9599,7 +9599,7 @@
     "strokes": 9,
 
     "onyomi": "ジュウ (juu), ニュウ (nyuu)",
-    "kunyomi": "やわ (らか), やわ (らかい)",
+    "kunyomi": "やわ.らか, やわ.らかい",
 
     "fact": "The martial art 柔道 (jūdō) literally means 'the gentle way.' Instead of relying on strength alone, it emphasizes technique, balance, and using an opponent's force against them.",
 
@@ -9668,7 +9668,7 @@
     "strokes": 8,
 
     "onyomi": "ジュツ (jutsu)",
-    "kunyomi": "の (べる)",
+    "kunyomi": "の.べる",
 
     "fact": "The word 述べる (noberu) appears frequently in Japanese news when politicians or company presidents express their opinions. Headlines often use phrases like 『首相が考えを述べた』 ('The Prime Minister stated his views').",
 
@@ -9944,7 +9944,7 @@
     "strokes": 11,
 
     "onyomi": "チョ (cho)",
-    "kunyomi": "あらわ (す)",
+    "kunyomi": "あらわ.す",
 
     "fact": "Books in Japan often display the author's name followed by 著 (cho), meaning 'written by.' For example: 『村上春樹 著』 means 'Written by Haruki Murakami.'",
 
@@ -10082,7 +10082,7 @@
     "strokes": 5,
 
     "onyomi": "ショウ (shou)",
-    "kunyomi": "め (す)",
+    "kunyomi": "め.す",
 
     "fact": "In very polite Japanese, the honorific expression 召し上がる (meshiagaru) means 'to eat' or 'to drink.' It is commonly used when speaking respectfully to customers or guests.",
 
@@ -10151,7 +10151,7 @@
     "strokes": 10,
 
     "onyomi": "ショウ (shou)",
-    "kunyomi": "まさ (に)",
+    "kunyomi": "まさ.に",
 
     "fact": "The highest piece in Japanese chess (将棋, shōgi) is the 王将 (ōshō), or king general. The kanji 将 is also used in words related to the future, such as 将来 (future).",
 
@@ -10289,7 +10289,7 @@
     "strokes": 8,
 
     "onyomi": "ショウ (shou)",
-    "kunyomi": "うけたまわ (る)",
+    "kunyomi": "うけたまわ.る",
 
     "fact": "When customer service staff in Japan answer the phone, they often say 承知しました (shōchi shimashita), meaning 'Certainly' or 'Understood.' This expression is considered very polite.",
 
@@ -10358,7 +10358,7 @@
     "strokes": 8,
 
     "onyomi": "ショウ (shou)",
-    "kunyomi": "のぼ (る)",
+    "kunyomi": "のぼ.る",
 
     "fact": "Japan's famous Mount Fuji is a popular destination for 登山 (mountain climbing). When climbers reach the summit, they have completed the ascent, making 昇 a common kanji in words related to rising or promotion.",
 
@@ -10427,7 +10427,7 @@
     "strokes": 12,
 
     "onyomi": "ショウ (shou)",
-    "kunyomi": "や (く), や (ける), や (き)",
+    "kunyomi": "や.く, や.ける, や.き",
 
     "fact": "Many famous Japanese dishes include this kanji, such as 焼き鳥 (yakitori), 焼き魚 (grilled fish), and お好み焼き (okonomiyaki). The word is closely connected with Japanese food culture.",
 
@@ -10496,7 +10496,7 @@
     "strokes": 13,
 
     "onyomi": "ショウ (shou)",
-    "kunyomi": "て (る), て (らす), て (れる)",
+    "kunyomi": "て.る, て.らす, て.れる",
 
     "fact": "The sun goddess Amaterasu (天照大神) is one of the most important deities in Japanese mythology. Her name literally means 'Great Deity Who Shines Upon Heaven,' using the kanji 照.",
 
@@ -10565,7 +10565,7 @@
     "strokes": 9,
 
     "onyomi": "ショウ (shou), セイ (sei)",
-    "kunyomi": "かえり (みる), はぶ (く)",
+    "kunyomi": "かえり.みる, はぶ.く",
 
     "fact": "Most Japanese government departments end with the kanji 省, such as 外務省 (Ministry of Foreign Affairs) and 文部科学省 (Ministry of Education, Culture, Sports, Science and Technology).",
 
@@ -10979,7 +10979,7 @@
     "strokes": 13,
 
     "onyomi": "ジョウ (jou)",
-    "kunyomi": "む (す), む (れる), む (らす)",
+    "kunyomi": "む.す, む.れる, む.らす",
 
     "fact": "Steaming is an important cooking method in Japan. Popular dishes such as 茶碗蒸し (chawanmushi), a savory steamed egg custard, use this kanji.",
 
@@ -11048,7 +11048,7 @@
     "strokes": 12,
 
     "onyomi": "ショク (shoku)",
-    "kunyomi": "う (える), う (わる)",
+    "kunyomi": "う.える, う.わる",
 
     "fact": "Every spring, volunteers across Japan participate in tree-planting events to restore forests after natural disasters. The verb 植える (ueru) means 'to plant' and is commonly used for trees, flowers, and crops.",
 
@@ -11117,7 +11117,7 @@
     "strokes": 13,
 
     "onyomi": "ショク (shoku)",
-    "kunyomi": "ふ (れる), さわ (る)",
+    "kunyomi": "ふ.れる, さわ.る",
 
     "fact": "Many Japanese museums have signs reading 『触らないでください』 ('Please do not touch'). The kanji 触 is frequently used in everyday notices and warnings.",
 
@@ -11186,7 +11186,7 @@
     "strokes": 7,
 
     "onyomi": "シン (shin)",
-    "kunyomi": "の (びる), の (ばす), の (べる)",
+    "kunyomi": "の.びる, の.ばす, の.べる",
 
     "fact": "Many Japanese offices begin the day with simple stretching exercises called ラジオ体操 (Radio Taisō). Stretching your body is described with the kanji 伸.",
 
@@ -11324,7 +11324,7 @@
     "strokes": 7,
 
     "onyomi": "シン (shin)",
-    "kunyomi": "から (い), つら (い)",
+    "kunyomi": "から.い, つら.い",
 
     "fact": "Japanese curry restaurants often let customers choose the level of 辛さ (karasa), or spiciness. The same kanji is also used in 辛い (tsurai) to describe emotional hardship or difficult situations.",
 
@@ -11462,7 +11462,7 @@
     "strokes": 15,
 
     "onyomi": "シン (shin)",
-    "kunyomi": "ふる (う), ふる (える)",
+    "kunyomi": "ふる.う, ふる.える",
 
     "fact": "Because Japan experiences frequent earthquakes, the word 地震 (jishin), meaning 'earthquake,' is one of the first disaster-related words many Japanese learners encounter.",
 
@@ -11531,7 +11531,7 @@
     "strokes": 13,
 
     "onyomi": "セイ (sei), ゼイ (zei)",
-    "kunyomi": "いきお (い)",
+    "kunyomi": "いきお.い",
 
     "fact": "Sports commentators often use 勢い (ikioi), meaning 'momentum,' when describing a team that is rapidly gaining confidence and winning games.",
 
@@ -11738,7 +11738,7 @@
     "strokes": 11,
 
     "onyomi": "セイ (sei), ショウ (shou)",
-    "kunyomi": "きよ (い), きよ (める), きよ (まる)",
+    "kunyomi": "きよ.い, きよ.める, きよ.まる",
 
     "fact": "One of Japan's most famous temples, Kiyomizu-dera (清水寺), literally means 'Pure Water Temple.' Visitors drink from its sacred waterfall, believing it brings health, success, or wisdom.",
 
@@ -12152,7 +12152,7 @@
     "strokes": 11,
 
     "onyomi": "セツ (setsu)",
-    "kunyomi": "つ (ぐ), つ (げる)",
+    "kunyomi": "つ.ぐ, つ.げる",
 
     "fact": "In Japanese business emails, people often write 『ご連絡ください』 when asking someone to get in touch. Words like 接客 (customer service) and 接続 (connection) are also very common.",
 
@@ -12221,7 +12221,7 @@
     "strokes": 11,
 
     "onyomi": "セツ (setsu)",
-    "kunyomi": "もう (ける)",
+    "kunyomi": "もう.ける",
 
     "fact": "Many Japanese universities were established more than a century ago. The kanji 設 appears in words like 設立 (establishment) and 建設 (construction).",
 
@@ -12290,7 +12290,7 @@
     "strokes": 5,
 
     "onyomi": "セン (sen)",
-    "kunyomi": "し (める), うらな (う)",
+    "kunyomi": "し.める, うらな.う",
 
     "fact": "Fortune telling (占い) remains popular in Japan. Many shrines and shopping districts have fortune-telling booths where visitors seek advice about love, careers, and health.",
 
@@ -12359,7 +12359,7 @@
     "strokes": 9,
 
     "onyomi": "セン (sen)",
-    "kunyomi": "もっぱ (ら)",
+    "kunyomi": "もっぱ.ら",
 
     "fact": "Many Japanese colleges are called 専門学校 (senmon gakkō), meaning vocational or specialized schools. Students attend them to gain practical skills for specific careers.",
 
@@ -12497,7 +12497,7 @@
     "strokes": 9,
 
     "onyomi": "セン (sen)",
-    "kunyomi": "あさ (い)",
+    "kunyomi": "あさ.い",
 
     "fact": "The famous Asakusa district in Tokyo is written 浅草 ('shallow grass'). Although the place name has a historical origin, learners often recognize the first kanji because of its meaning 'shallow.'",
 
@@ -12635,7 +12635,7 @@
     "strokes": 4,
 
     "onyomi": "ソウ (sou)",
-    "kunyomi": "ふた (つ), たぐい",
+    "kunyomi": "ふた.つ, たぐい",
 
     "fact": "The kanji 双 appears in words like 双子 (futago, twins) and 双方 (both parties). It is often used when referring to two matching or corresponding things.",
 
@@ -12773,7 +12773,7 @@
     "strokes": 10,
 
     "onyomi": "ソウ (sou)",
-    "kunyomi": "さが (す)",
+    "kunyomi": "さが.す",
 
     "fact": "Japanese police investigations frequently use the word 捜査 (sōsa), meaning 'investigation.' News reports often mention police searching for suspects or missing persons using this kanji.",
 
@@ -12842,7 +12842,7 @@
     "strokes": 11,
 
     "onyomi": "ソウ (sou)",
-    "kunyomi": "は (く)",
+    "kunyomi": "は.く",
 
     "fact": "Many Japanese schools have students clean their own classrooms every day. This tradition, called 掃除 (sōji), teaches responsibility and respect for shared spaces.",
 
@@ -12980,7 +12980,7 @@
     "strokes": 14,
 
     "onyomi": "ソウ (sou)",
-    "kunyomi": "す (べて), ふさ",
+    "kunyomi": "す.べて, ふさ",
 
     "fact": "Japanese companies often use words such as 総合 (comprehensive), 総務 (general affairs), and 総理大臣 (Prime Minister). The kanji 総 usually refers to the whole or overall total.",
 
@@ -13049,7 +13049,7 @@
     "strokes": 12,
 
     "onyomi": "ソウ (sou)",
-    "kunyomi": "よそお (う)",
+    "kunyomi": "よそお.う",
 
     "fact": "Cosplay is hugely popular in Japan, and participants often spend months creating elaborate costumes. The kanji 装 appears in words like 衣装 (costume) and 装飾 (decoration).",
 
@@ -13187,7 +13187,7 @@
     "strokes": 14,
 
     "onyomi": "ゾウ (zou)",
-    "kunyomi": "にく (む), にく (い), にく (らしい)",
+    "kunyomi": "にく.む, にく.い, にく.らしい",
 
     "fact": "The expression 『憎めない人』 (nikumenai hito) literally means 'a person you can't hate.' It describes someone who is mischievous but still lovable.",
 
@@ -13394,7 +13394,7 @@
     "strokes": 18,
 
     "onyomi": "ゾウ (zou), ソウ (sou)",
-    "kunyomi": "おく (る)",
+    "kunyomi": "おく.る",
 
     "fact": "Gift-giving is an important part of Japanese culture. Seasonal gifts such as お歳暮 (year-end gifts) and お中元 (summer gifts) are exchanged to express gratitude and strengthen relationships.",
 
@@ -13463,7 +13463,7 @@
     "strokes": 10,
 
     "onyomi": "ゾウ (zou)",
-    "kunyomi": "つく (る)",
+    "kunyomi": "つく.る",
 
     "fact": "Japan is known for world-class manufacturing. The kanji 造 appears in words such as 製造 (manufacturing), 建造 (construction), and 醸造 (brewing), reflecting Japan's craftsmanship tradition.",
 
@@ -13532,7 +13532,7 @@
     "strokes": 9,
 
     "onyomi": "ソク (soku)",
-    "kunyomi": "のっと (る)",
+    "kunyomi": "のっと.る",
 
     "fact": "Japanese schools and companies often emphasize following rules. The word 規則 (kisoku), meaning 'rules' or 'regulations,' is one of the most common words containing this kanji.",
 
@@ -13601,7 +13601,7 @@
     "strokes": 12,
 
     "onyomi": "ソク (soku)",
-    "kunyomi": "はか (る)",
+    "kunyomi": "はか.る",
 
     "fact": "Japan's engineers carefully measure buildings to ensure they can withstand earthquakes. The kanji 測 appears in scientific and engineering vocabulary such as 計測 (measurement).",
 
@@ -13808,7 +13808,7 @@
     "strokes": 12,
 
     "onyomi": "ソン (son)",
-    "kunyomi": "たっと (い), とうと (い), たっと (ぶ), とうと (ぶ)",
+    "kunyomi": "たっと.い, とうと.い, たっと.ぶ, とうと.ぶ",
 
     "fact": "Respect is deeply rooted in Japanese culture. The kanji 尊 appears in 尊敬 (respect) and 尊重 (respecting someone's opinions or rights), both of which are frequently used in schools and workplaces.",
 
@@ -13877,7 +13877,7 @@
     "strokes": 13,
 
     "onyomi": "ソン (son)",
-    "kunyomi": "そこ (なう), そこ (ねる)",
+    "kunyomi": "そこ.なう, そこ.ねる",
 
     "fact": "The expression 損する (son suru), meaning 'to suffer a loss,' is very common in everyday Japanese. You'll also hear 損害 (damage) in insurance and legal contexts.",
 
@@ -13946,7 +13946,7 @@
     "strokes": 10,
 
     "onyomi": "タイ (tai)",
-    "kunyomi": "お (びる), お (び)",
+    "kunyomi": "お.びる, お.び",
 
     "fact": "Traditional Japanese kimono are secured with a wide decorative belt called an 帯 (obi). Some obi are works of art, featuring intricate silk weaving and embroidery.",
 
@@ -14015,7 +14015,7 @@
     "strokes": 12,
 
     "onyomi": "タイ (tai)",
-    "kunyomi": "か (える), か (わる)",
+    "kunyomi": "か.える, か.わる",
 
     "fact": "The kanji 替 appears in everyday situations, from changing trains (乗り換える) to replacing batteries. It is also found in 為替 (kawase), meaning 'exchange' as in foreign exchange.",
 
@@ -14153,7 +14153,7 @@
     "strokes": 17,
 
     "onyomi": "タク (taku)",
-    "kunyomi": "すす (ぐ), ゆす (ぐ)",
+    "kunyomi": "すす.ぐ, ゆす.ぐ",
 
     "fact": "The kanji 濯 is almost always seen in the word 洗濯 (sentaku), meaning 'laundry.' In Japan, many people hang clothes outside to dry, making laundry an everyday part of neighborhood scenery.",
 
@@ -14291,7 +14291,7 @@
     "strokes": 8,
 
     "onyomi": "タン (tan)",
-    "kunyomi": "かつ (ぐ), にな (う)",
+    "kunyomi": "かつ.ぐ, にな.う",
 
     "fact": "In Japanese companies, people are often referred to as 担当者 (tantōsha), meaning 'the person in charge.' The kanji 担 is strongly associated with responsibility and assigned duties.",
 
@@ -14429,7 +14429,7 @@
     "strokes": 16,
 
     "onyomi": "チク (chiku)",
-    "kunyomi": "きず (く)",
+    "kunyomi": "きず.く",
 
     "fact": "The kanji 築 appears in words such as 建築 (architecture) and 築地 (Tsukiji). The famous Tsukiji Market in Tokyo was one of Japan's best-known seafood markets for decades.",
 
@@ -14912,7 +14912,7 @@
     "strokes": 12,
 
     "onyomi": "チョ (cho)",
-    "kunyomi": "た (める), た (まる)",
+    "kunyomi": "た.める, た.まる",
 
     "fact": "Japan has one of the world's highest household savings rates. The kanji 貯 appears in everyday financial words like 貯金 (savings) and 貯蓄 (saving money).",
 
@@ -14981,7 +14981,7 @@
     "strokes": 6,
 
     "onyomi": "チョウ (chou)",
-    "kunyomi": "きざ (し)",
+    "kunyomi": "きざ.し",
 
     "fact": "In Japanese numbering, 1兆 equals one trillion (1,000,000,000,000). The kanji is also used in words referring to signs or indications, such as 前兆 (omen).",
 
@@ -15119,7 +15119,7 @@
     "strokes": 12,
 
     "onyomi": "チョウ (chou)",
-    "kunyomi": "こ (える), こ (す)",
+    "kunyomi": "こ.える, こ.す",
 
     "fact": "Modern Japanese uses 超 as an informal intensifier, much like 'super' in English. Young people often say 『超かわいい！』 ('Super cute!') or 『超おいしい！』 ('Super delicious!').",
 
@@ -15188,7 +15188,7 @@
     "strokes": 7,
 
     "onyomi": "チン (chin)",
-    "kunyomi": "しず (む), しず (める)",
+    "kunyomi": "しず.む, しず.める",
 
     "fact": "The word 沈黙 (chinmoku), meaning 'silence,' is common in Japanese. Just as an object sinks beneath the water, a conversation can 'sink' into complete silence.",
 
@@ -15257,7 +15257,7 @@
     "strokes": 9,
 
     "onyomi": "チン (chin)",
-    "kunyomi": "めずら (しい)",
+    "kunyomi": "めずら.しい",
 
     "fact": "Japan has many specialty foods known as 珍味 (chinmi), literally 'rare tastes.' These unusual delicacies are often regional specialties enjoyed by adventurous diners.",
 
@@ -15533,7 +15533,7 @@
     "strokes": 14,
 
     "onyomi": "テキ (teki)",
-    "kunyomi": "しずく (shizuku), したた (る)",
+    "kunyomi": "しずく, したた.る",
 
     "fact": "The word 水滴 (suiteki), meaning 'water droplet,' is commonly used during Japan's rainy season (梅雨). Morning dew on leaves is also described using this kanji.",
 
@@ -15740,7 +15740,7 @@
     "strokes": 13,
 
     "onyomi": "ト (to)",
-    "kunyomi": "ぬ (る), まみ (れる)",
+    "kunyomi": "ぬ.る, まみ.れる",
 
     "fact": "Japan is famous for 漆塗り (urushi-nuri), the traditional art of coating wood with natural lacquer. Beautiful lacquerware has been produced for centuries.",
 
@@ -15878,7 +15878,7 @@
     "strokes": 10,
 
     "onyomi": "トウ (tou)",
-    "kunyomi": "こお (る), こご (える), こお (らせる)",
+    "kunyomi": "こお.る, こご.える, こお.らせる",
 
     "fact": "Every winter, northern Japan hosts spectacular ice festivals such as the Sapporo Snow Festival, where frozen sculptures and ice buildings attract millions of visitors. The kanji 凍 appears in many winter-related words.",
 
@@ -16085,7 +16085,7 @@
     "strokes": 6,
 
     "onyomi": "トウ (tou)",
-    "kunyomi": "ひ (hi), ともしび (tomoshibi), とも (す)",
+    "kunyomi": "ひ, ともしび, とも.す",
 
     "fact": "Traditional stone lanterns (石灯籠) decorate the paths of many Japanese temples and gardens. Their soft light creates a peaceful atmosphere, especially at night.",
 
@@ -16223,7 +16223,7 @@
     "strokes": 15,
 
     "onyomi": "ドウ (dou)",
-    "kunyomi": "みちび (く)",
+    "kunyomi": "みちび.く",
 
     "fact": "Tour guides in Japan are called ガイド or 案内人, but the kanji 導 appears in many important words such as 指導 (guidance) and 導入 (introduction). Teachers, coaches, and managers all provide 指導 to help others improve.",
 
@@ -16499,7 +16499,7 @@
     "strokes": 8,
 
     "onyomi": "",
-    "kunyomi": "とど (く), とど (ける)",
+    "kunyomi": "とど.く, とど.ける",
 
     "fact": "Japan's delivery services are famous for their speed and reliability. The word 届ける is commonly used when packages, letters, or meals are delivered to homes.",
 
@@ -16568,7 +16568,7 @@
     "strokes": 16,
 
     "onyomi": "ドン (don)",
-    "kunyomi": "くも (る), くも (り), くも (らす)",
+    "kunyomi": "くも.る, くも.り, くも.らす",
 
     "fact": "Japanese weather forecasts often use the symbol ☁ and the word 曇り (kumori) to indicate cloudy weather. During the rainy season (梅雨), this kanji appears frequently in forecasts.",
 
@@ -16637,7 +16637,7 @@
     "strokes": 12,
 
     "onyomi": "ドン (don)",
-    "kunyomi": "にぶ (い), にぶ (る), なま (る)",
+    "kunyomi": "にぶ.い, にぶ.る, なま.る",
 
     "fact": "The word 鈍感 (donkan), meaning 'insensitive' or 'oblivious,' is commonly used in manga, anime, and everyday conversation to describe someone who doesn't notice obvious things.",
 
@@ -16706,7 +16706,7 @@
     "strokes": 11,
 
     "onyomi": "ナン (nan)",
-    "kunyomi": "やわ (らかい)",
+    "kunyomi": "やわ.らかい",
 
     "fact": "The word 軟式 (nanshiki), meaning 'soft-style,' is used in Japanese sports such as baseball, where a softer rubber ball is used instead of a hard one.",
 
@@ -16844,7 +16844,7 @@
     "strokes": 16,
 
     "onyomi": "ネン (nen)",
-    "kunyomi": "も (える), も (やす), も (す)",
+    "kunyomi": "も.える, も.やす, も.す",
 
     "fact": "Japan has strict garbage-sorting rules. Burnable trash is labeled 燃えるごみ, while non-burnable trash is labeled 燃えないごみ.",
 
@@ -16913,7 +16913,7 @@
     "strokes": 10,
 
     "onyomi": "ノウ (nou)",
-    "kunyomi": "なや (む), なや (ます)",
+    "kunyomi": "なや.む, なや.ます",
 
     "fact": "The phrase 悩み相談 (nayami sōdan), meaning 'consultation about worries,' is commonly used in Japan for counseling services, advice columns, and radio programs where people discuss personal problems.",
 
@@ -16982,7 +16982,7 @@
     "strokes": 16,
 
     "onyomi": "ノウ (nou)",
-    "kunyomi": "こ (い)",
+    "kunyomi": "こ.い",
 
     "fact": "Japanese tea lovers often describe strong green tea as 濃いお茶 (koi ocha). The kanji 濃 is also widely used for concentrated flavors, dark colors, and dense fog.",
 
@@ -17189,7 +17189,7 @@
     "strokes": 8,
 
     "onyomi": "ハイ (hai)",
-    "kunyomi": "おが (む)",
+    "kunyomi": "おが.む",
 
     "fact": "When visiting a Shinto shrine, worshippers typically bow twice, clap twice, and bow once more. The kanji 拝 appears in words such as 参拝 (visiting a shrine) and 礼拝 (worship).",
 
@@ -17327,7 +17327,7 @@
     "strokes": 8,
 
     "onyomi": "ハク (haku)",
-    "kunyomi": "と (まる), と (める)",
+    "kunyomi": "と.まる, と.める",
 
     "fact": "Traditional Japanese inns are called 旅館 (ryokan). Reservations often indicate the number of nights using 泊, such as 一泊二日 ('one night, two days').",
 
@@ -17396,7 +17396,7 @@
     "strokes": 16,
 
     "onyomi": "ハク (haku)",
-    "kunyomi": "うす (い), うす (まる), うす (める)",
+    "kunyomi": "うす.い, うす.まる, うす.める",
 
     "fact": "Japanese people often describe light tea or weak coffee as 薄い. The kanji also describes thin objects, pale colors, and weak concentrations.",
 
@@ -17879,7 +17879,7 @@
     "strokes": 4,
 
     "onyomi": "ヒ (hi)",
-    "kunyomi": "くら (べる)",
+    "kunyomi": "くら.べる",
 
     "fact": "The kanji 比 appears frequently in mathematics, science, and statistics. Words like 比較 (comparison) and 比率 (ratio) are commonly used in business reports and research.",
 
@@ -17948,7 +17948,7 @@
     "strokes": 10,
 
     "onyomi": "ヒ (hi)",
-    "kunyomi": "こうむ (る), かぶ (る)",
+    "kunyomi": "こうむ.る, かぶ.る",
 
     "fact": "The kanji 被 is very common in news reports. Words like 被害 (damage), 被災 (disaster victim), and 被告 (defendant) frequently appear in newspapers and television broadcasts.",
 
@@ -18776,7 +18776,7 @@
     "strokes": 8,
 
     "onyomi": "ブ (bu), ム (mu)",
-    "kunyomi": "たけ (し)",
+    "kunyomi": "たけ.し",
 
     "fact": "The word 武士 (bushi), meaning 'samurai,' comes from this kanji. It also appears in 武道 (martial arts), which includes disciplines like judo, kendo, and karate.",
 
@@ -19190,7 +19190,7 @@
     "strokes": 8,
 
     "onyomi": "フツ (futsu)",
-    "kunyomi": "わ (く), わ (かす), わ (かる)",
+    "kunyomi": "わ.く, わ.かす, わ.かる",
 
     "fact": "Japanese electric kettles often have a 沸騰 (boiling) indicator that lights up when the water reaches 100°C. This kanji frequently appears on kitchen appliances.",
 
@@ -19466,7 +19466,7 @@
     "strokes": 8,
 
     "onyomi": "ヘイ (hei)",
-    "kunyomi": "なら (ぶ), なら (べる), なみ (nami)",
+    "kunyomi": "なら.ぶ, なら.べる, なみ",
 
     "fact": "Japanese people are famous for forming orderly queues. Whether boarding trains or buying popular products, people naturally 並ぶ without being told.",
 
@@ -19604,7 +19604,7 @@
     "strokes": 15,
 
     "onyomi": "ヘン (hen)",
-    "kunyomi": "あ (む)",
+    "kunyomi": "あ.む",
 
     "fact": "Books, TV dramas, and manga are often divided into 編 ('parts' or 'volumes'). The kanji is also used in 編集 (editing), an essential part of publishing and filmmaking.",
 
@@ -19673,7 +19673,7 @@
     "strokes": 5,
 
     "onyomi": "ヘン (hen)",
-    "kunyomi": "あた (り), べ (be)",
+    "kunyomi": "あた.り, べ",
 
     "fact": "The kanji 辺 appears in many place names and directions. Words like 周辺 (surroundings) and 海辺 (seaside) are commonly used in travel guides and everyday conversation.",
 
@@ -19742,7 +19742,7 @@
     "strokes": 12,
 
     "onyomi": "ホ (ho)",
-    "kunyomi": "おぎな (う)",
+    "kunyomi": "おぎな.う",
 
     "fact": "The kanji 補 appears frequently in healthcare, education, and business. Words like 補助 (assistance) and 補足 (supplementary explanation) are very common in formal Japanese.",
 
@@ -19811,7 +19811,7 @@
     "strokes": 12,
 
     "onyomi": "ボ (bo)",
-    "kunyomi": "つの (る)",
+    "kunyomi": "つの.る",
 
     "fact": "Job advertisements, volunteer programs, and contests throughout Japan often use the word 募集中 ('Now Recruiting'). This kanji is commonly seen on posters and websites.",
 
@@ -19880,7 +19880,7 @@
     "strokes": 5,
 
     "onyomi": "ホウ (hou)",
-    "kunyomi": "つつ (む), くる (む)",
+    "kunyomi": "つつ.む, くる.む",
 
     "fact": "Gift wrapping is an important part of Japanese culture. Beautifully wrapped presents are common, and the kanji 包 appears in words like 包装 (packaging).",
 
@@ -20018,7 +20018,7 @@
     "strokes": 13,
 
     "onyomi": "ホウ (hou)",
-    "kunyomi": "ゆた (か)",
+    "kunyomi": "ゆた.か",
 
     "fact": "Japan celebrates a good harvest every autumn with festivals that give thanks for 豊作 (abundant crops). Rice has long symbolized prosperity and abundance in Japanese culture.",
 
@@ -20087,7 +20087,7 @@
     "strokes": 15,
 
     "onyomi": "ボウ (bou), バク (baku)",
-    "kunyomi": "あば (れる), あば (く), あば (く)",
+    "kunyomi": "あば.れる, あば.く, あば.く",
 
     "fact": "The kanji 暴 appears in many news reports, such as 暴風 (violent wind) and 暴力 (violence). It often describes something intense or out of control.",
 
@@ -20363,7 +20363,7 @@
     "strokes": 12,
 
     "onyomi": "リョウ (ryou)",
-    "kunyomi": "はか (る)",
+    "kunyomi": "はか.る",
 
     "fact": "Japanese recipes carefully distinguish between 量 (amount) and 重さ (weight). Cooking guides often use 適量 (tekiryou), meaning 'an appropriate amount,' instead of giving an exact measurement.",
 
@@ -20777,7 +20777,7 @@
     "strokes": 13,
 
     "onyomi": "レイ (rei)",
-    "kunyomi": "ぜろ (zero), こぼ (れる)",
+    "kunyomi": "ぜろ, こぼ.れる",
 
     "fact": "Although Japanese usually writes the number 0 as 「0」 or ゼロ, the kanji 零 is commonly used in formal writing, mathematics, weather reports, and terms like 零下 ('below zero').",
 
@@ -20984,7 +20984,7 @@
     "strokes": 10,
 
     "onyomi": "レン (ren)",
-    "kunyomi": "こ (い), こい (する), こ (う)",
+    "kunyomi": "こ.い, こい.する, こ.う",
 
     "fact": "Japanese distinguishes between 恋 (romantic love or longing) and 愛 (deep love or affection). This difference appears frequently in songs, anime, novels, and poetry.",
 
@@ -21053,7 +21053,7 @@
     "strokes": 14,
 
     "onyomi": "レン (ren)",
-    "kunyomi": "ね (る)",
+    "kunyomi": "ね.る",
 
     "fact": "The word 練習 (renshū, practice) is one of the first words Japanese learners hear. In Japan, musicians, athletes, and students all emphasize daily 練習 as the key to improvement.",
 
@@ -21329,7 +21329,7 @@
     "strokes": 7,
 
     "onyomi": "ボウ (bou)",
-    "kunyomi": "ふせ (ぐ)",
+    "kunyomi": "ふせ.ぐ",
 
     "fact": "Japan frequently prepares for earthquakes, typhoons, and tsunamis. The word 防災 (disaster prevention) is seen on evacuation maps, schools, and public facilities throughout the country.",
 
@@ -21398,7 +21398,7 @@
     "strokes": 16,
 
     "onyomi": "マ (ma)",
-    "kunyomi": "みが (く)",
+    "kunyomi": "みが.く",
 
     "fact": "Japanese craftspeople often spend years polishing (磨く) their skills. The phrase 腕を磨く literally means 'to polish one's arm,' but actually means 'to improve one's skills.'",
 
@@ -21467,7 +21467,7 @@
     "strokes": 10,
 
     "onyomi": "マイ (mai)",
-    "kunyomi": "う (める), う (まる), うず (める)",
+    "kunyomi": "う.める, う.まる, うず.める",
 
     "fact": "Much of Tokyo Bay has been expanded using 埋め立て (land reclamation), where land is created by filling in shallow coastal waters.",
 
@@ -21674,7 +21674,7 @@
     "strokes": 9,
 
     "onyomi": "ユウ (yuu)",
-    "kunyomi": "いさ (む)",
+    "kunyomi": "いさ.む",
 
     "fact": "The spirit of courage is celebrated in many Japanese legends and samurai stories. The word 勇気 (courage) is one of the most common motivational words in Japanese.",
 
@@ -21812,7 +21812,7 @@
     "strokes": 13,
 
     "onyomi": "ヨ (yo)",
-    "kunyomi": "あず (ける), あず (かる)",
+    "kunyomi": "あず.ける, あず.かる",
 
     "fact": "Banks, hotels, and train stations in Japan often use 預かり所 (cloakrooms or baggage storage), where travelers can safely leave their belongings.",
 
@@ -21881,7 +21881,7 @@
     "strokes": 5,
 
     "onyomi": "ヨウ (you)",
-    "kunyomi": "おさな (い)",
+    "kunyomi": "おさな.い",
 
     "fact": "The kanji 幼 appears in words related to children, such as 幼稚園 (kindergarten). Japanese kindergartens place a strong emphasis on social development and independence.",
 
@@ -21950,7 +21950,7 @@
     "strokes": 13,
 
     "onyomi": "ヨウ (you)",
-    "kunyomi": "と (ける), と (かす), と (く)",
+    "kunyomi": "と.ける, と.かす, と.く",
 
     "fact": "Science classes in Japan frequently use the word 溶液 (solution) when learning about chemistry. The kanji 溶 is used whenever something melts or dissolves into a liquid.",
 
@@ -22019,7 +22019,7 @@
     "strokes": 14,
 
     "onyomi": "ヨウ (you)",
-    "kunyomi": "おど (る), おど (り)",
+    "kunyomi": "おど.る, おど.り",
 
     "fact": "During Japan's Obon festival, people gather to perform 盆踊り (Bon Odori), a traditional folk dance that has been celebrated for centuries across the country.",
 
@@ -22088,7 +22088,7 @@
     "strokes": 10,
 
     "onyomi": "ヨク (yoku)",
-    "kunyomi": "あ (びる), あ (びせる)",
+    "kunyomi": "あ.びる, あ.びせる",
 
     "fact": "Bathing is an important part of Japanese culture. Whether visiting an onsen (hot spring) or a sentō (public bath), people often use the word 入浴 (taking a bath).",
 
@@ -22226,7 +22226,7 @@
     "strokes": 12,
 
     "onyomi": "ラク (raku)",
-    "kunyomi": "から (む), から (まる), から (める)",
+    "kunyomi": "から.む, から.まる, から.める",
 
     "fact": "The word 連絡 (contact) is one of the most common business expressions in Japanese. Students and office workers hear 『後で連絡します』 ('I'll contact you later') almost every day.",
 
@@ -22295,7 +22295,7 @@
     "strokes": 7,
 
     "onyomi": "ラン (ran)",
-    "kunyomi": "みだ (れる), みだ (す)",
+    "kunyomi": "みだ.れる, みだ.す",
 
     "fact": "One of Japan's most famous historical periods is the 戦国時代 ('Warring States Period'), a time of political turmoil often described with the kanji 乱, as in 応仁の乱 (Ōnin War).",
 
@@ -22847,7 +22847,7 @@
     "strokes": 11,
 
     "onyomi": "リョウ (ryou)",
-    "kunyomi": "すず (しい), すず (む), すず (やか)",
+    "kunyomi": "すず.しい, すず.む, すず.やか",
 
     "fact": "During Japan's hot summers, people seek 涼 (coolness) by visiting rivers, mountains, and enjoying wind chimes (風鈴), which are believed to create a refreshing feeling.",
 
@@ -22916,7 +22916,7 @@
     "strokes": 6,
 
     "onyomi": "",
-    "kunyomi": "あつか (う)",
+    "kunyomi": "あつか.う",
 
     "fact": "The kanji 扱 is extremely common in shops and offices. Signs saying 『取扱中』 indicate that a store carries or deals with a particular product.",
 
@@ -23054,7 +23054,7 @@
     "strokes": 9,
 
     "onyomi": "イ (i)",
-    "kunyomi": "ため (tame), な (る), な (す)",
+    "kunyomi": "ため, な.る, な.す",
 
     "fact": "Although uncommon by itself, 為 appears in many important expressions such as 為替 (foreign exchange) and 人の為 (for the sake of others). In modern Japanese, it is often seen in formal writing.",
 
@@ -23123,7 +23123,7 @@
     "strokes": 11,
 
     "onyomi": "イ (i)",
-    "kunyomi": "こと (なる), こと (にする)",
+    "kunyomi": "こと.なる, こと.にする",
 
     "fact": "The kanji 異 appears in many academic and scientific words, such as 異文化 (different culture) and 異常 (abnormal). It is commonly used to compare things that are different from one another.",
 
@@ -23192,7 +23192,7 @@
     "strokes": 14,
 
     "onyomi": "イン (in)",
-    "kunyomi": "かく (す), かく (れる)",
+    "kunyomi": "かく.す, かく.れる",
 
     "fact": "Japan has many 'hidden gems' known as 隠れた名所. The kanji 隠 is often used for places, talents, or truths that remain hidden from most people.",
 
@@ -23399,7 +23399,7 @@
     "strokes": 7,
 
     "onyomi": "オウ (ou)",
-    "kunyomi": "こた (える)",
+    "kunyomi": "こた.える",
 
     "fact": "The kanji 応 appears in many everyday words such as 応募 (application), 応答 (response), and 対応 (dealing with). It is one of the most useful business kanji in Japanese.",
 
@@ -23537,7 +23537,7 @@
     "strokes": 16,
 
     "onyomi": "オン (on)",
-    "kunyomi": "おだ (やか)",
+    "kunyomi": "おだ.やか",
 
     "fact": "Weather forecasts in Japan often describe calm seas as 穏やかな海. The kanji is also used to describe gentle personalities and peaceful situations.",
 
@@ -23606,7 +23606,7 @@
     "strokes": 15,
 
     "onyomi": "カ (ka)",
-    "kunyomi": "かせ (ぐ)",
+    "kunyomi": "かせ.ぐ",
 
     "fact": "The verb 稼ぐ is widely used in business, sports, and online media. It can mean earning money, scoring points, or generating website traffic.",
 
@@ -23675,7 +23675,7 @@
     "strokes": 8,
 
     "onyomi": "カイ (kai)",
-    "kunyomi": "あや (しい), あや (しむ), あや (しむ)",
+    "kunyomi": "あや.しい, あや.しむ, あや.しむ",
 
     "fact": "Japan has a rich tradition of 妖怪 (yōkai), mysterious supernatural creatures found in folklore, anime, and games. The kanji 怪 often conveys something eerie or suspicious.",
 
@@ -23744,7 +23744,7 @@
     "strokes": 9,
 
     "onyomi": "カイ (kai)",
-    "kunyomi": "く (やむ), くや (しい), く (いる)",
+    "kunyomi": "く.やむ, くや.しい, く.いる",
 
     "fact": "The phrase 悔いのない人生 ('a life without regrets') is a popular expression in Japanese books, speeches, and motivational quotes.",
 
@@ -23813,7 +23813,7 @@
     "strokes": 16,
 
     "onyomi": "カイ (kai)",
-    "kunyomi": "なつ (かしい), なつ (かしむ), ふところ (futokoro), いだ (く), いだ (かれる)",
+    "kunyomi": "なつ.かしい, なつ.かしむ, ふところ, いだ.く, いだ.かれる",
 
     "fact": "The adjective 懐かしい is one of the most uniquely Japanese emotional expressions. It describes the warm feeling of remembering a cherished memory, not simply 'missing' something.",
 
@@ -23951,7 +23951,7 @@
     "strokes": 13,
 
     "onyomi": "カツ (katsu)",
-    "kunyomi": "すべ (る), なめ (らか)",
+    "kunyomi": "すべ.る, なめ.らか",
 
     "fact": "During winter, weather reports often warn about 路面が滑りやすい ('roads are slippery'). The kanji 滑 is used for both physical slipperiness and smooth movement.",
 
@@ -24089,7 +24089,7 @@
     "strokes": 13,
 
     "onyomi": "カン (kan)",
-    "kunyomi": "すす (める)",
+    "kunyomi": "すす.める",
 
     "fact": "The kanji 勧 appears in everyday words such as 勧める (to recommend) and 勧誘 (solicitation). Restaurants, shops, and friends often use お勧め to recommend popular items.",
 
@@ -24227,7 +24227,7 @@
     "strokes": 8,
 
     "onyomi": "カ (ka)",
-    "kunyomi": "あたい (atai)",
+    "kunyomi": "あたい",
 
     "fact": "The kanji 価 is used throughout Japan in shopping, economics, and investing. Words like 価格 (price) and 価値 (value) are among the most common business vocabulary.",
 
@@ -24296,7 +24296,7 @@
     "strokes": 15,
 
     "onyomi": "カン (kan)",
-    "kunyomi": "ゆる (い), ゆる (やか), ゆる (む), ゆる (める)",
+    "kunyomi": "ゆる.い, ゆる.やか, ゆる.む, ゆる.める",
 
     "fact": "Road signs in Japan often display the word 徐行 or ask drivers to speed down on 緩やかなカーブ ('gentle curves'). The kanji 緩 is also used to describe relaxed rules or gradual slopes.",
 
@@ -24365,7 +24365,7 @@
     "strokes": 15,
 
     "onyomi": "",
-    "kunyomi": "うれ (しい)",
+    "kunyomi": "うれ.しい",
 
     "fact": "The adjective 嬉しい is one of the most common words for expressing happiness in Japanese. Unlike 楽しい, which describes fun experiences, 嬉しい expresses joy about good news or kindness.",
 
@@ -24434,7 +24434,7 @@
     "strokes": 12,
 
     "onyomi": "キ (ki)",
-    "kunyomi": "たっと (い), とうと (い), たっと (ぶ), とうと (ぶ)",
+    "kunyomi": "たっと.い, とうと.い, たっと.ぶ, とうと.ぶ",
 
     "fact": "The kanji 貴 is often used in polite business Japanese. Expressions like 貴社 ('your company') and 貴重 ('valuable') are commonly seen in formal letters and emails.",
 
@@ -24572,7 +24572,7 @@
     "strokes": 15,
 
     "onyomi": "キ (ki)",
-    "kunyomi": "かがや (く), かがや (き)",
+    "kunyomi": "かがや.く, かがや.き",
 
     "fact": "The kanji 輝 is commonly found in names because it symbolizes brilliance, hope, and success. It also appears in phrases describing shining stars or bright futures.",
 
@@ -24710,7 +24710,7 @@
     "strokes": 3,
 
     "onyomi": "キュウ (kyuu)",
-    "kunyomi": "およ (ぶ), およ (び), およ (ぼす)",
+    "kunyomi": "およ.ぶ, およ.び, およ.ぼす",
 
     "fact": "The kanji 及 is frequently used in formal writing to describe effects or influence extending to something, such as 影響が及ぶ ('an effect reaches...').",
 
@@ -24779,7 +24779,7 @@
     "strokes": 11,
 
     "onyomi": "キュウ (kyuu)",
-    "kunyomi": "すく (う)",
+    "kunyomi": "すく.う",
 
     "fact": "Japan's emergency services use the word 救急 (emergency) every day. You'll see it on ambulances, hospitals, and emergency signs throughout the country.",
 
@@ -24848,7 +24848,7 @@
     "strokes": 8,
 
     "onyomi": "キュウ (kyuu)",
-    "kunyomi": "な (く)",
+    "kunyomi": "な.く",
 
     "fact": "The expression 泣き笑い ('crying and laughing at the same time') is commonly used in Japanese to describe overwhelming emotions. Japanese films and anime often describe touching stories as 泣ける ('it makes you cry').",
 
@@ -24917,7 +24917,7 @@
     "strokes": 9,
 
     "onyomi": "キョウ (kyou)",
-    "kunyomi": "せま (い), せば (める), せば (まる)",
+    "kunyomi": "せま.い, せば.める, せば.まる",
 
     "fact": "Many traditional Japanese streets and alleys are quite narrow. The expression 狭い道 ('narrow road') is commonly seen on road signs and maps.",
 
@@ -25055,7 +25055,7 @@
     "strokes": 10,
 
     "onyomi": "ケイ (kei), エ (e)",
-    "kunyomi": "めぐ (む), めぐ (み)",
+    "kunyomi": "めぐ.む, めぐ.み",
 
     "fact": "The kanji 恵 often appears in names because it symbolizes blessings and kindness. The common word 恵み refers to blessings from nature, such as rain or a good harvest.",
 
@@ -25124,7 +25124,7 @@
     "strokes": 16,
 
     "onyomi": "ゲキ (geki)",
-    "kunyomi": "はげ (しい)",
+    "kunyomi": "はげ.しい",
 
     "fact": "The kanji 激 appears in words describing strong emotions and powerful natural events. 激辛 ('extremely spicy') has even become a popular food challenge in Japan.",
 
@@ -25193,7 +25193,7 @@
     "strokes": 11,
 
     "onyomi": "ケン (ken)",
-    "kunyomi": "すこ (やか)",
+    "kunyomi": "すこ.やか",
 
     "fact": "The kanji 健 appears in many everyday words related to health, such as 健康 (health) and 保健 (public health). It's one of the most useful kanji for discussing fitness and well-being in Japanese.",
 

@@ -47,6 +47,20 @@ export default function Header() {
             </a>
 
             <a
+              href="/hiragana"
+              className="hover:text-orange-700"
+            >
+              <span className="font-bold text-lg">あ</span> Hiragana
+            </a>
+
+            <a
+              href="/katakana"
+              className="hover:text-orange-700"
+            >
+              <span className="font-bold text-lg">ア</span> Katakana
+            </a>
+
+            <a
               href="/jlpt/n5"
               className="hover:text-orange-700"
             >

@@ -4,9 +4,9 @@ export default function Footer() {
   return (
     <footer className="mt-12 md:mt-20 bg-white border-t">
 
-      <div className="max-w-7xl mx-auto px-4 py-8 md:py-10">
+      <div className="max-w-5xl mx-auto px-4 py-8 md:py-12">
 
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-6 md:gap-8">
+        <div className="grid grid-cols-2 md:grid-cols-6 gap-6 md:gap-8">
 
           {/* Brand */}
 
@@ -34,12 +34,44 @@ export default function Footer() {
 
           </div>
 
+          {/* Kana */}
+
+          <div>
+
+            <h4 className="font-bold mb-3 text-sm md:text-base">
+              Kana
+            </h4>
+
+            <ul className="space-y-2 text-sm">
+
+              <li>
+                <Link
+                  href="/hiragana"
+                  className="hover:text-green-700"
+                >
+                 <span className="font-bold text-lg">あ</span> Hiragana
+                </Link>
+              </li>
+
+              <li>
+                <Link
+                  href="/katakana"
+                  className="hover:text-green-700"
+                >
+                 <span className="font-bold text-lg">ア</span> Katakana
+                </Link>
+              </li>
+
+              </ul>
+
+          </div>
+
           {/* JLPT */}
 
           <div>
 
             <h4 className="font-bold mb-3 text-sm md:text-base">
-              JLPT
+              JLPT Kanji
             </h4>
 
             <ul className="space-y-2 text-sm">
