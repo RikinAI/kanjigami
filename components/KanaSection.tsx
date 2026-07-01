@@ -12,7 +12,7 @@ export default function KanaSection() {
           className="group bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-300 transition duration-300"
         >
           <div className="flex items-center gap-4">
-            <div className="text-4xl md:text-5xl font-bold text-blue-700">
+            <div className="text-4xl md:text-5xl font-bold text-green-700">
               あ
             </div>
 
@@ -39,7 +39,7 @@ export default function KanaSection() {
           className="group bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-300 transition duration-300"
         >
           <div className="flex items-center gap-4">
-            <div className="text-4xl md:text-5xl font-bold text-blue-700">
+            <div className="text-4xl md:text-5xl font-bold text-green-700">
               ア
             </div>
 
