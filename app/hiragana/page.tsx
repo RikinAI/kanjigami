@@ -39,6 +39,34 @@ export const metadata: Metadata = {
 };
 
 export default function HiraganaPage() {
+
+  const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: "Home",
+      item: "https://kanjigami.com",
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: "Hiragana",
+      item: "https://kanjigami.com/hiragana",
+    },
+  ],
+};
+
+const webpageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: "Learn Hiragana – Complete Japanese Hiragana Chart",
+  description:
+    "Learn all 46 basic Hiragana characters with Romaji, Dakuten, Handakuten, and combination sounds.",
+  url: "https://kanjigami.com/hiragana",
+};
   return (
     <>
       <Header />
@@ -83,6 +111,20 @@ export default function HiraganaPage() {
         description="Learn common Hiragana combination sounds."
         headers={["Ya", "", "Yu", "", "Yo"]}
         data={hiraganaYoon}
+        />
+
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(breadcrumbSchema),
+          }}
+        />
+
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(webpageSchema),
+          }}
         />
 
         </main>
@@ -146,6 +188,8 @@ export default function HiraganaPage() {
 
   </div>
 </section>
+
+
 
       <Footer />
     </>

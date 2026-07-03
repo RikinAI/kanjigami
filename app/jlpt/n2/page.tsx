@@ -18,45 +18,53 @@ export default function JLPTN2Page() {
   mainEntity: [
     {
       "@type": "Question",
-      name: "How many kanji are in JLPT N2?",
+      name: "How many Kanji are in the JLPT N2 Kanji list?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "JLPT N2 typically requires knowledge of around 650 kanji in total, including the kanji learned in JLPT N5 and N4."
-      }
+        text: "The JLPT N2 level contains approximately 367 commonly learned Kanji. Combined with the previous JLPT levels (N5, N4, and N3), learners will know nearly 1,000 essential Kanji used in everyday Japanese.",
+      },
     },
     {
       "@type": "Question",
-      name: "Is JLPT N2 harder than JLPT N4?",
+      name: "Is JLPT N2 difficult?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes. JLPT N2 marks the transition from beginner to intermediate Japanese and requires a much larger vocabulary, stronger reading ability, and more kanji."
-      }
+        text: "Yes. JLPT N2 is considered an upper-intermediate to advanced level. It requires a solid understanding of grammar, vocabulary, reading, listening, and around 1,000 commonly used Kanji.",
+      },
     },
     {
       "@type": "Question",
-      name: "How long does it take to learn JLPT N2 kanji?",
+      name: "How long does it take to learn JLPT N2 Kanji?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Most learners require several months of consistent study to master JLPT N2 kanji and become comfortable reading intermediate Japanese."
-      }
+        text: "The time depends on your study routine. Learning around five Kanji per day allows most learners to complete the N2 Kanji list in about 10 to 12 weeks while regularly reviewing previous JLPT levels.",
+      },
     },
     {
       "@type": "Question",
-      name: "Should I finish JLPT N4 before studying N2?",
+      name: "Are these official JLPT N2 Kanji?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes. A strong understanding of JLPT N4 kanji, grammar, and vocabulary provides the foundation needed to successfully study JLPT N2."
-      }
+        text: "The JLPT does not publish official Kanji lists. This collection is based on widely accepted educational resources and commonly used references for Japanese language learners.",
+      },
     },
     {
       "@type": "Question",
-      name: "What is the best way to remember JLPT N2 kanji?",
+      name: "What is the best way to memorize JLPT N2 Kanji?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Learning kanji through vocabulary, example sentences, memory tricks, regular reading practice, and spaced review is one of the most effective ways to retain JLPT N2 kanji."
-      }
-    }
-  ]
+        text: "The most effective method is to learn Kanji together with vocabulary, review them regularly, practice reading example sentences, and use memory tricks to improve long-term retention.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Can I pass JLPT N2 by only studying Kanji?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "No. Passing JLPT N2 requires proficiency in Kanji, vocabulary, grammar, reading comprehension, and listening. A balanced study plan covering all of these areas is recommended.",
+      },
+    },
+  ],
 };
 
 const breadcrumbSchema = {
@@ -367,61 +375,55 @@ const breadcrumbSchema = {
                 About JLPT N2 Kanji
               </h2>
 
-              <div className="space-y-4 text-gray-700 leading-7 text-sm md:text-base">
+              <div className="mt-6 space-y-5 text-slate-700 leading-8">
+                  <p>
+                    The <strong>JLPT N2 Kanji</strong> level bridges the gap between
+                    intermediate and advanced Japanese. At this stage, learners are expected
+                    to recognize approximately <strong>367 essential N2 Kanji</strong>,
+                    bringing the total number of commonly learned JLPT Kanji to nearly
+                    1,000 characters.
+                  </p>
 
-                <p>
-                  The JLPT N2 Kanji List marks the transition from beginner to
-                  intermediate Japanese. Building on the foundation established in
-                  JLPT N5 and N4, learners encounter significantly more kanji,
-                  vocabulary, and longer passages commonly found in everyday life,
-                  newspapers, websites, and simple novels.
-                </p>
+                  <p>
+                    If you're still building your foundation, we recommend mastering the{" "}
+                    <Link
+                      href="/jlpt/n3"
+                      className="text-green-700 font-medium hover:underline"
+                    >
+                      JLPT N3 Kanji List
+                    </Link>{" "}
+                    before moving on to N2. The N2 level introduces more abstract meanings,
+                    advanced vocabulary, and Kanji commonly found in newspapers, novels,
+                    business documents, and official Japanese writing.
+                  </p>
 
-                <p>
-                  JLPT N2 kanji frequently appear in topics related to business,
-                  education, technology, health, society, transportation, emotions,
-                  culture, and current events. Mastering these characters allows
-                  learners to understand more natural Japanese and communicate with
-                  greater confidence.
-                </p>
+                  <p>
+                    Every Kanji on KanjiGami includes its meaning, On'yomi, Kun'yomi,
+                    stroke order, example vocabulary, example sentences, memory tricks,
+                    and interesting cultural facts to make learning easier and more
+                    memorable.
+                  </p>
 
-                <p>
-                  Compared with JLPT N4, the focus at the N2 level shifts from
-                  recognizing individual kanji to reading complete sentences
-                  fluently. Learners are expected to understand how kanji combine
-                  into common vocabulary and interpret them within different
-                  contexts.
-                </p>
+                  <p>
+                    To strengthen your learning, explore our{" "}
+                    <Link
+                      href="/guides"
+                      className="text-green-700 font-medium hover:underline"
+                    >
+                      Japanese learning guides
+                    </Link>
+                    . You'll find study tips, Kanji memorization techniques, explanations
+                    of Hiragana and Katakana, and practical advice to prepare for the JLPT
+                    more effectively.
+                  </p>
 
-                <p>
-                  KanjiGami helps learners study JLPT N2 kanji through Onyomi
-                  readings, Kunyomi readings, example vocabulary, example
-                  sentences, memory tricks, and interesting cultural facts.
-                  Studying kanji in context makes them easier to remember and
-                  improves long-term retention.
-                </p>
-
-                <p>
-                  Consistent daily practice is the most effective way to master
-                  JLPT N2. Learning just a few new kanji every day while reviewing
-                  previous ones can steadily build the reading ability needed for
-                  intermediate Japanese.
-                </p>
-
-                <p>
-                  If you have not yet completed the previous level, you may wish to
-                  review the{" "}
-                  <Link
-                    href="/jlpt/n4"
-                    className="text-green-700 font-medium hover:text-green-800 underline"
-                  >
-                    JLPT N4 Kanji List
-                  </Link>
-                  . After mastering N2, you'll be well prepared to continue with
-                  the JLPT N2 level.
-                </p>
-
-              </div>
+                  <p>
+                    Whether your goal is passing the <strong>Japanese Language Proficiency
+                    Test (JLPT) N2</strong>, studying in Japan, or working in a Japanese
+                    company, mastering these Kanji is a major step toward reading authentic
+                    Japanese with confidence.
+                  </p>
+                </div>
             </div>
           </section>
 
@@ -433,69 +435,91 @@ const breadcrumbSchema = {
                 Frequently Asked Questions
               </h2>
 
-              <div className="space-y-6">
+              <div className="mt-8 space-y-6">
 
                 <div>
-                  <h3 className="font-semibold text-lg mb-2">
-                    How many kanji are in JLPT N2?
+                  <h3 className="font-semibold text-lg">
+                    How many Kanji are in JLPT N2?
                   </h3>
-                  <p className="text-gray-700">
-                    JLPT N2 typically requires knowledge of around 650 kanji in total,
-                    including the kanji learned in JLPT N5 and JLPT N4.
+                  <p className="mt-2 text-slate-700 leading-7">
+                    The JLPT N2 level contains approximately
+                    <strong> 367 commonly learned Kanji</strong>. Combined with the
+                    previous levels (N5, N4, and N3), learners will know nearly
+                    1,000 essential Kanji used in everyday Japanese.
                   </p>
                 </div>
 
                 <div>
-                  <h3 className="font-semibold text-lg mb-2">
-                    Should I finish JLPT N4 before studying N2?
+                  <h3 className="font-semibold text-lg">
+                    Is JLPT N2 difficult?
                   </h3>
-                  <p className="text-gray-700">
-                    Yes. A strong understanding of JLPT N4 kanji, grammar, and
-                    vocabulary provides the foundation needed to successfully study
-                    JLPT N2.
+                  <p className="mt-2 text-slate-700 leading-7">
+                    Yes. JLPT N2 is considered an upper-intermediate to advanced level.
+                    It requires a solid understanding of grammar, vocabulary, reading,
+                    listening, and around 1,000 commonly used Kanji.
                   </p>
                 </div>
 
                 <div>
-                  <h3 className="font-semibold text-lg mb-2">
-                    Is JLPT N2 much harder than JLPT N4?
+                  <h3 className="font-semibold text-lg">
+                    How long does it take to learn JLPT N2 Kanji?
                   </h3>
-                  <p className="text-gray-700">
-                    Yes. JLPT N2 is widely considered the biggest jump in the JLPT
-                    series because it introduces intermediate-level reading,
-                    significantly more vocabulary, and many new kanji. However,
-                    learners who build a strong N4 foundation and practice reading
-                    consistently often find the transition manageable.
+                  <p className="mt-2 text-slate-700 leading-7">
+                    The time varies depending on your study routine. Learning around
+                    5 Kanji per day allows most learners to complete the N2 Kanji list
+                    in about 10–12 weeks. Make sure to regularly review the{" "}
+                    <Link
+                      href="/jlpt/n3"
+                      className="text-green-700 font-medium hover:underline"
+                    >
+                      JLPT N3 Kanji
+                    </Link>{" "}
+                    to reinforce previously learned characters.
                   </p>
                 </div>
 
                 <div>
-                  <h3 className="font-semibold text-lg mb-2">
-                    How long does it take to learn JLPT N2 kanji?
+                  <h3 className="font-semibold text-lg">
+                    Are these official JLPT Kanji?
                   </h3>
-                  <p className="text-gray-700">
-                    With consistent daily study, many learners can master the JLPT
-                    N2 Kanji List in several months. Studying a few new kanji every
-                    day while reviewing previous ones helps build long-term
-                    retention and reading fluency.
+                  <p className="mt-2 text-slate-700 leading-7">
+                    The JLPT does not publish official Kanji lists. This collection is
+                    based on widely accepted references and educational resources used by
+                    Japanese learners worldwide.
                   </p>
                 </div>
 
                 <div>
-                  <h3 className="font-semibold text-lg mb-2">
-                    What is the best way to remember JLPT N2 kanji?
+                  <h3 className="font-semibold text-lg">
+                    What is the best way to memorize JLPT N2 Kanji?
                   </h3>
-                  <p className="text-gray-700">
-                    Learning kanji through vocabulary, example sentences, memory
-                    tricks, and regular reading practice is one of the most
-                    effective ways to retain JLPT N2 kanji and recognize them in
-                    real Japanese.
+                  <p className="mt-2 text-slate-700 leading-7">
+                    Learn Kanji together with vocabulary instead of studying individual
+                    characters. Review daily, read example sentences, and use memory tricks.
+                    You can also explore our{" "}
+                    <Link
+                      href="/guides"
+                      className="text-green-700 font-medium hover:underline"
+                    >
+                      Japanese study guides
+                    </Link>{" "}
+                    for proven learning strategies and JLPT preparation tips.
+                  </p>
+                </div>
+
+                <div>
+                  <h3 className="font-semibold text-lg">
+                    Can I pass JLPT N2 by only studying Kanji?
+                  </h3>
+                  <p className="mt-2 text-slate-700 leading-7">
+                    No. While Kanji are essential, the JLPT N2 also tests grammar,
+                    vocabulary, reading comprehension, and listening skills. A balanced
+                    study plan covering all areas gives you the best chance of success.
                   </p>
                 </div>
 
               </div>
-
-            </div>
+              </div>
           </section>
 
           <Script

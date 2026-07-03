@@ -31,6 +31,8 @@ export async function generateMetadata({
 }) {
   const { slug } = await params;
 
+
+
   const kanji = kanjiList.find(
     (item: any) => item.slug === slug
   );
@@ -41,10 +43,12 @@ export async function generateMetadata({
     };
   }
 
-  return {
-  title: `Kanji for ${kanji.meaning} – Meaning, Reading & Memory Trick`,
 
-  description: `Learn the Japanese Kanji for ${kanji.meaning}. Discover interesting fact, memory trick, its meaning, Onyomi and Kunyomi readings, example words, and example sentence on KanjiGami.`,
+
+  return {
+  title: `${kanji.kanji} Kanji Meaning (${kanji.meaning}) – Onyomi, Kunyomi & Memory Trick | KanjiGami`,
+
+  description: `Learn the Japanese Kanji ${kanji.kanji} (${kanji.meaning}). Discover its Onyomi and Kunyomi readings, stroke count, example words, example sentence, memory trick, and interesting fact. Perfect for JLPT ${kanji.jlpt} learners.`,
     alternates: {
     canonical: `/kanji/${kanji.slug}`,
   },
@@ -80,6 +84,33 @@ export default async function KanjiPage({
   if (!kanji) {
     return <div>Kanji not found</div>;
   }
+
+    const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: "Home",
+      item: "https://kanjigami.com",
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: `JLPT ${kanji.jlpt} Kanji`,
+      item: `https://kanjigami.com/jlpt/${kanji.jlpt.toLowerCase()}`,
+    },
+    {
+      "@type": "ListItem",
+      position: 3,
+      name: kanji.kanji,
+      item: `https://kanjigami.com/kanji/${kanji.slug}`,
+    },
+  ],
+};
+
+
 
 // Determine which JLPT list this kanji belongs to
 
@@ -339,6 +370,13 @@ const strokeCode = kanji.kanji
 </div>
 
         </div>
+
+      <script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(breadcrumbSchema),
+  }}
+/>
 
       </main>
 

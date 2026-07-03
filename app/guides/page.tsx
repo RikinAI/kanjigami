@@ -12,6 +12,25 @@ export const metadata = {
 export default function GuidesPage() {
   const guides = getAllGuides();
 
+    const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://kanjigami.com",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Guides",
+        item: "https://kanjigami.com/guides",
+      },
+    ],
+  };
+
   return (
     <>
       <Header />
@@ -62,6 +81,13 @@ export default function GuidesPage() {
             </Link>
           ))}
         </div>
+
+                <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(breadcrumbSchema),
+          }}
+        />
       </main>
 
       <Footer />

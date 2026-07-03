@@ -43,6 +43,8 @@ export async function generateMetadata({
 
   const { data } = matter(source);
 
+  
+
   return {
     title: data.title,
     description: data.description,
@@ -64,6 +66,7 @@ export default async function GuidePage({
 }) {
   const { slug } = await params;
 
+
   const filePath = path.join(
     guidesDirectory,
     `${slug}.mdx`
@@ -76,6 +79,31 @@ export default async function GuidePage({
   const source = fs.readFileSync(filePath, "utf8");
 
   const { content, data } = matter(source);
+
+    const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: "Home",
+      item: "https://kanjigami.com",
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: "Guides",
+      item: "https://kanjigami.com/guides",
+    },
+    {
+      "@type": "ListItem",
+      position: 3,
+      name: data.title,
+      item: `https://kanjigami.com/guides/${slug}`,
+    },
+  ],
+};
 
   return (
     <>
@@ -165,6 +193,14 @@ export default async function GuidePage({
           </div>
 
         </article>
+
+<script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(breadcrumbSchema),
+  }}
+/>
+
       </main>
 
       <Footer />
