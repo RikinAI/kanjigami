@@ -42,6 +42,33 @@ export const metadata: Metadata = {
 };
 
 export default function KatakanaPage() {
+  const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: "Home",
+      item: "https://kanjigami.com",
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: "Katakana",
+      item: "https://kanjigami.com/katakana",
+    },
+  ],
+};
+
+const webpageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: "Learn Katakana – Complete Japanese Katakana Chart",
+  description:
+    "Learn all 46 basic Katakana characters with Romaji, Dakuten, Handakuten, and combination sounds. Perfect for beginners learning Japanese.",
+  url: "https://kanjigami.com/katakana",
+};
   return (
     <>
       <Header />
@@ -87,6 +114,20 @@ export default function KatakanaPage() {
         headers={["Ya", "", "Yu", "", "Yo"]}
         data={katakanaYoon}
         />
+
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(breadcrumbSchema),
+          }}
+        />
+
+<script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(webpageSchema),
+  }}
+/>
 
         </main>
 

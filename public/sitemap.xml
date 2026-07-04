@@ -19,6 +19,24 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/jlpt/n3</loc>
 </url>
 <url>
+  <loc>https://kanjigami.com/jlpt/n2</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/hiragana</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/hiragana</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/hiragana-reading-1</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/katakana</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/katakana</loc>
+</url>
+<url>
   <loc>https://kanjigami.com/search</loc>
 </url>
 <url>
