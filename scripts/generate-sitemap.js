@@ -10,6 +10,7 @@ const urls = [
   "/jlpt/n4",
   "/jlpt/n3",
   "/jlpt/n2",
+  "/practice/",
   "/hiragana",
   "/practice/hiragana",
   "/practice/hiragana-reading-1",

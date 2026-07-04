@@ -131,14 +131,65 @@ const webpageSchema = {
 
 <section className="max-w-5xl mx-auto px-4 py-8 md:py-12">
   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+    {/* Hiragana Practice */}
+    <Link
+          href="/practice/hiragana"
+          className="group bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-300 transition duration-300"
+        >
+          <div className="flex items-center gap-4">
+            <div className="text-4xl md:text-5xl font-bold text-green-700">
+              習
+            </div>
+
+            <div>
+              <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+                Practice Hiragana
+              </h3>
+
+              <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+                Practice Hiragana with interactive excercise.
+              </p>
+
+              <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+                Start Learning →
+              </div>
+            </div>
+          </div>
+        </Link>
+
+    {/* Hiragana Reading Practice */}
+    <Link
+          href="/practice/hiragana-reading-1"
+          className="group bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-300 transition duration-300"
+        >
+          <div className="flex items-center gap-4">
+            <div className="text-4xl md:text-5xl font-bold text-green-700">
+              試
+            </div>
+
+            <div>
+              <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+                Hiragana Reading Practice 
+              </h3>
+
+              <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+                Practice Hiragana Reading with vocabulary words.
+              </p>
+
+              <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+                Start Learning →
+              </div>
+            </div>
+          </div>
+        </Link>
 
     {/* Katakana */}
     <Link
       href="/katakana"
-      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-orange-700 transition duration-300"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
     >
       <div className="flex items-center gap-4">
-        <div className="text-4xl md:text-5xl font-bold text-orange-700">
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
           ア
         </div>
 
@@ -152,7 +203,7 @@ const webpageSchema = {
             vocabulary.
           </p>
 
-          <div className="mt-4 font-semibold text-orange-700 group-hover:translate-x-1 transition-transform">
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
             Start Learning →
           </div>
         </div>
@@ -162,10 +213,10 @@ const webpageSchema = {
     {/* JLPT N5 */}
     <Link
       href="/jlpt/n5"
-      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-orange-700 transition duration-300"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
     >
       <div className="flex items-center gap-4">
-        <div className="text-4xl md:text-5xl font-bold text-orange-700">
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
           字
         </div>
 
@@ -179,7 +230,7 @@ const webpageSchema = {
             example words and memory tricks.
           </p>
 
-          <div className="mt-4 font-semibold text-orange-700 group-hover:translate-x-1 transition-transform">
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
             Start Learning →
           </div>
         </div>

@@ -193,25 +193,26 @@ const isCorrect =
 }}
   
   className="
-    fixed
-    bottom-6
-    left-4
-    md:left-auto
-    md:right-6
-    z-50
-    rounded-full
-    bg-green
-    px-4
-    py-2
-    text-sm
-    font-semibold
-    text-slate-800
-    shadow-lg
-    border
-    border-slate-200
-    hover:bg-slate-50
-    transition
-  "
+  fixed
+  bottom-20
+  left-3
+  md:bottom-6
+  md:left-auto
+  md:right-6
+  z-[9999]
+  rounded-full
+  bg-white
+  px-4
+  py-2
+  text-sm
+  font-semibold
+  text-slate-800
+  shadow-lg
+  border
+  border-slate-200
+  hover:bg-slate-50
+  transition
+"
 >
  ⬆️Score
 </button>

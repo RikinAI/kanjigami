@@ -35,71 +35,99 @@ export default function Header() {
 
           </div>
 
-          {/* Desktop Navigation */}
+{/* Desktop Navigation */}
 
-          <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
+<nav className="hidden md:flex items-center gap-6 text-sm font-medium">
 
-            <a
-              href="/"
-              className="hover:text-orange-700"
-            >
-              🏠 Home
-            </a>
+  <Link
+    href="/"
+    className="hover:text-orange-700"
+  >
+    🏠 Home
+  </Link>
 
-            <a
-              href="/hiragana"
-              className="hover:text-orange-700"
-            >
-              <span className="font-bold text-lg">あ</span> Hiragana
-            </a>
+  <Link
+    href="/hiragana"
+    className="hover:text-orange-700"
+  >
+    <span className="font-bold text-lg">あ</span> Hiragana
+  </Link>
 
-            <a
-              href="/katakana"
-              className="hover:text-orange-700"
-            >
-              <span className="font-bold text-lg">ア</span> Katakana
-            </a>
+  <Link
+    href="/katakana"
+    className="hover:text-orange-700"
+  >
+    <span className="font-bold text-lg">ア</span> Katakana
+  </Link>
 
-            <a
-              href="/jlpt/n5"
-              className="hover:text-orange-700"
-            >
-              🌸 JLPT N5 Kanji
-            </a>
+    <Link
+    href="/practice"
+    className="hover:text-orange-700"
+  >
+    💯 Practice
+  </Link>
 
-            <a
-              href="/jlpt/n4"
-              className="hover:text-orange-700"
-            >
-              🍃 JLPT N4 Kanji
-            </a>
+    <Link
+    href="/guides"
+    className="hover:text-orange-700"
+  >
+    📚 Guides
+  </Link>
 
-            <a
-              href="/jlpt/n3"
-              className="hover:text-orange-700"
-            >
-              ⛩️ JLPT N3 Kanji
-            </a>
+  <div className="relative">
+    <button
+      onClick={() => setMenuOpen(!menuOpen)}
+      className="hover:text-orange-700"
+    >
+      <strong>☰</strong> Kanji List
+    </button>
 
-            <a
-              href="/jlpt/n2"
-              className="hover:text-orange-700"
-            >
-              🌄 JLPT N2 Kanji
-            </a>
+    {menuOpen && (
+      <div className="absolute right-0 mt-2 w-52 rounded-xl border bg-white shadow-lg overflow-hidden z-50">
 
-            <Link
-              href="/guides"
-              className="hover:text-orange-700"
-            >
-              📚 Guides
-            </Link>
+        <Link
+          href="/jlpt/n5"
+          className="flex items-center px-4 py-3 hover:bg-slate-100 whitespace-nowrap"
+        >
+          🌸 JLPT N5 Kanji
+        </Link>
 
-            <a href="/search">
-              🔍 Search
-            </a>
+        <Link
+          href="/jlpt/n4"
+          className="flex items-center px-4 py-3 hover:bg-slate-100 whitespace-nowrap"
+        >
+          🍃 JLPT N4 Kanji
+        </Link>
 
-          </nav>
+        <Link
+          href="/jlpt/n3"
+          className="flex items-center px-4 py-3 hover:bg-slate-100 whitespace-nowrap"
+        >
+          ⛩️ JLPT N3 Kanji
+        </Link>
+
+        <Link
+          href="/jlpt/n2"
+          className="flex items-center px-4 py-3 hover:bg-slate-100 whitespace-nowrap"
+        >
+          🌄 JLPT N2 Kanji
+        </Link>
+
+          <Link
+    href="/search"
+    className="flex items-center px-4 py-3 hover:bg-slate-100 whitespace-nowrap"
+  >
+    🔍 Search Kanji
+  </Link>
+
+      </div>
+    )}
+
+
+
+  </div>
+
+</nav>
 
         </div>
 
@@ -119,8 +147,8 @@ export default function Header() {
             📚 Guides
           </Link>
 
-          <Link href="/search">
-            🔍 Search
+          <Link href="/practice">
+            💯 Practice
           </Link>
 
           <button
@@ -161,6 +189,10 @@ export default function Header() {
               className="px-4 py-3 border-b hover:bg-slate-100"
             >
               🌄 JLPT N2 Kanji
+            </Link>
+
+            <Link href="/search" className="px-4 py-3 border-b hover:bg-slate-100">
+            🔍 Search Kanji
             </Link>
 
           </div>

@@ -117,7 +117,7 @@ export default function RandomKanaPractice({
       <div className="mb-8 text-center">
         <button
           onClick={generateQuestions}
-          className="rounded-lg bg-red-600 px-5 py-2 font-medium text-Red hover:bg-red-700 transition"
+          className="rounded-lg bg-white-600 px-5 py-2 font-medium text-blue hover:bg-white-700 transition"
         >
           🔄 New Set
         </button>

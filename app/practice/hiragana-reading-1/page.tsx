@@ -2,6 +2,7 @@ import Script from "next/script";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import HiraganaReadingPractice from "./HiraganaReadingPractice";
+import Link from "next/link";
 
 export default function HiraganaReadingPracticePage() {
 
@@ -45,6 +46,7 @@ const breadcrumbSchema = {
         </div>
 
         <HiraganaReadingPractice />
+
 
         <Script
   id="breadcrumb-schema"

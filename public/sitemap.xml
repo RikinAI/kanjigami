@@ -22,6 +22,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/jlpt/n2</loc>
 </url>
 <url>
+  <loc>https://kanjigami.com/practice/</loc>
+</url>
+<url>
   <loc>https://kanjigami.com/hiragana</loc>
 </url>
 <url>

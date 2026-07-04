@@ -60,6 +60,33 @@ export default function KanaSection() {
           </div>
         </Link>
 
+        {/*practice*/}
+
+        <Link
+          href="/practice"
+          className="group bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-300 transition duration-300"
+        >
+          <div className="flex items-center gap-4">
+            <div className="text-4xl md:text-5xl font-bold text-green-700">
+              習
+            </div>
+
+            <div>
+              <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+                Practice
+              </h3>
+
+              <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+                Practice Hiragana, Katakana and Kanji with interactive excercises.
+              </p>
+
+              <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+                Start Learning →
+              </div>
+            </div>
+          </div>
+        </Link>
+
       </div>
     </section>
   );
