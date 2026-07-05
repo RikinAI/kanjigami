@@ -90,17 +90,25 @@ export default function KanjiReadingPractice({
 </div>
       
 <div className="mb-8">
+  <h2 className="text-lg font-bold text-slate-900">
+    Instructions
+  </h2>
 
-  <p className="text-base md:text-lg font-bold leading-relaxed tracking-wide text-slate-900">
-    <span className="font-bold text-red-700">あか</span>
-    の　ことばは　どう　よみますか。
+  <div className="mt-5 space-y-2">
+    <p className="text-lg md:text-xl font-bold leading-relaxed tracking-wide text-slate-900">
+      <span className="text-red-700">あか</span>
+      の　ことばは　どう　よみますか。
+    </p>
+
+    <p className="text-lg md:text-xl font-bold leading-relaxed tracking-wide text-slate-900">
+      １・２・３・４から　いちばん　いい　ものを　
+      ひとつ　えらんで　ください。
+    </p>
+
+      <p className="mt-2 text-base text-slate-600">
+    Read the <span className="font-semibold text-red-700">highlighted</span> JLPT N5 Kanji and choose the correct reading.
   </p>
-
-  <p className="mt-3 text-base md:text-lg font-bold leading-relaxed tracking-wide text-slate-900">
-    １・２・３・４から　いちばん　いい　ものを　
-    ひとつ　えらんで　ください。
-  </p>
-
+  </div>
 </div>
 
       {/* Questions */}

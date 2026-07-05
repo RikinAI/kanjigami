@@ -88,7 +88,7 @@ export default function HiraganaReadingPractice() {
     href="/hiragana"
     className="rounded-lg border border-green-600 px-5 py-2 font-medium text-green-700 hover:bg-green-50 transition"
   >
-    ← Review Hiragana<strong>あ</strong>
+    ← Review Hiragana <strong>あ</strong>
   </Link>
   <button
     onClick={resetPractice}

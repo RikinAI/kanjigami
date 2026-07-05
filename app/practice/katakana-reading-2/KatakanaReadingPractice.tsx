@@ -87,7 +87,7 @@ export default function KatakanaReadingPractice() {
 
         <Link
           href="/katakana"
-          className="rounded-lg border border-orange-600 px-5 py-2 font-medium text-orange-700 hover:bg-orange-50 transition"
+          className="rounded-lg border border-green-600 px-5 py-2 font-medium text-green-700 hover:bg-green-50 transition"
         >
           ← Review Katakana <strong>ア</strong>
         </Link>
