@@ -2,325 +2,301 @@
   {
     "kana": "あおい",
     "romaji": "aoi",
-    "meaning": "blue",
+    "meaning": "Blue",
     "level": 1
   },
   {
     "kana": "あかい",
     "romaji": "akai",
-    "meaning": "red",
+    "meaning": "Red",
     "level": 1
   },
   {
     "kana": "いえ",
     "romaji": "ie",
-    "meaning": "house",
+    "meaning": "House",
     "level": 1
   },
   {
     "kana": "きおい",
     "romaji": "kioi",
-    "meaning": "fighting spirit",
+    "meaning": "Fighting Spirit",
     "level": 1
   },
   {
     "kana": "おかし",
     "romaji": "okashi",
-    "meaning": "sweets",
+    "meaning": "Sweets",
     "level": 1
   },
   {
     "kana": "おさけ",
     "romaji": "osake",
-    "meaning": "alcohol",
+    "meaning": "Alcohol",
     "level": 1
   },
   {
     "kana": "あそこ",
     "romaji": "asoko",
-    "meaning": "overthere",
+    "meaning": "Overthere",
     "level": 1
   },
   {
     "kana": "きせつ",
     "romaji": "kisetsu",
-    "meaning": "season",
+    "meaning": "Season",
     "level": 1
   },
   {
     "kana": "くい",
     "romaji": "kui",
-    "meaning": "regret",
+    "meaning": "Regret",
     "level": 1
   },
   {
     "kana": "けいこ",
     "romaji": "keiko",
-    "meaning": "training",
+    "meaning": "Training",
     "level": 1
   },
   {
     "kana": "すき",
     "romaji": "suki",
-    "meaning": "to like",
+    "meaning": "To like",
     "level": 1
   },
   {
     "kana": "かい",
     "romaji": "kai",
-    "meaning": "shell",
+    "meaning": "Shell",
     "level": 1
   },
   {
     "kana": "さそう",
     "romaji": "sasou",
-    "meaning": "to invite",
+    "meaning": "To invite",
     "level": 1
   },
   {
     "kana": "かお",
     "romaji": "kao",
-    "meaning": "face",
+    "meaning": "Face",
     "level": 1
   },
   {
     "kana": "たかい",
     "romaji": "takai",
-    "meaning": "tall",
+    "meaning": "Tall",
     "level": 1
   },
   {
     "kana": "きおく",
     "romaji": "kioku",
-    "meaning": "memory",
+    "meaning": "Memory",
     "level": 1
   },
   {
     "kana": "くうき",
     "romaji": "kuuki",
-    "meaning": "air",
+    "meaning": "Air",
     "level": 1
   },
   {
     "kana": "くさい",
     "romaji": "kusai",
-    "meaning": "smelly",
+    "meaning": "Smelly",
     "level": 1
   },
   {
     "kana": "そして",
     "romaji": "Soshite",
-    "meaning": "and then",
+    "meaning": "And then",
     "level": 1
   },
-    {
+  {
     "kana": "すな",
     "romaji": "suna",
-    "meaning": "sand",
+    "meaning": "Sand",
     "level": 1
   },
-    {
+  {
     "kana": "せかい",
     "romaji": "Sekai",
     "meaning": "World",
     "level": 1
   },
-    {
+  {
     "kana": "さかな",
     "romaji": "sakana",
     "meaning": "Fish",
     "level": 1
   },
-    {
+  {
     "kana": "すし",
     "romaji": "sushi",
-    "meaning": "sushi",
+    "meaning": "Sushi",
     "level": 1
   },
-    {
+  {
     "kana": "せなか",
     "romaji": "senaka",
     "meaning": "Back",
     "level": 1
   },
-
-      {
+  {
     "kana": "として",
     "romaji": "toshite",
-    "meaning": "as",
+    "meaning": "As",
     "level": 1
   },
-    {
+  {
     "kana": "とおい",
     "romaji": "tooi",
-    "meaning": "far",
+    "meaning": "Far",
     "level": 1
   },
-
-    {
+  {
     "kana": "つち",
     "romaji": "tsuchi",
-    "meaning": "soil",
+    "meaning": "Soil",
     "level": 1
   },
-
-    {
+  {
     "kana": "ちから",
     "romaji": "chikara",
-    "meaning": "power",
+    "meaning": "Power",
     "level": 1
   },
-
-    {
+  {
     "kana": "てつ",
     "romaji": "tetsu",
-    "meaning": "iron",
+    "meaning": "Iron",
     "level": 1
   },
-
-    {
+  {
     "kana": "ねつい",
     "romaji": "netsui",
     "meaning": "Zeal",
     "level": 1
   },
-    {
+  {
     "kana": "になう",
-    "romaji": "senaka",
+    "romaji": "ninau",
     "meaning": "Back",
     "level": 1
   },
-
-    {
+  {
     "kana": "いぬ",
     "romaji": "inu",
-    "meaning": "dog",
+    "meaning": "Dog",
     "level": 1
   },
-
-      {
+  {
     "kana": "ねこ",
     "romaji": "neko",
-    "meaning": "cat",
+    "meaning": "Cat",
     "level": 1
   },
-
-    {
+  {
     "kana": "たぬき",
     "romaji": "tanuki",
-    "meaning": "raccoon",
+    "meaning": "Raccoon",
     "level": 1
   },
-
-      {
+  {
     "kana": "この",
     "romaji": "kono",
-    "meaning": "this",
+    "meaning": "This",
     "level": 1
   },
-    {
+  {
     "kana": "いのしし",
     "romaji": "inoshishi",
-    "meaning": "wild boar",
+    "meaning": "Wild boar",
     "level": 1
   },
-
-      {
+  {
     "kana": "ひと",
     "romaji": "hito",
-    "meaning": "person",
+    "meaning": "Person",
     "level": 1
   },
-
-    {
-    "kana": "ふきい",
+  {
+    "kana": "ふかい",
     "romaji": "fukai",
-    "meaning": "deep",
+    "meaning": "Deep",
     "level": 1
   },
-
-        {
-    "kana": "ふぬ",
+  {
+    "kana": "ふね",
     "romaji": "fune",
-    "meaning": "sheep",
+    "meaning": "Ship",
     "level": 1
   },
-
-    {
+  {
     "kana": "ひま",
-    "romaji": "hma",
-    "meaning": "free time",
+    "romaji": "hima",
+    "meaning": "Free time",
     "level": 1
   },
-
-    {
+  {
     "kana": "へた",
     "romaji": "heta",
-    "meaning": "unskillful",
+    "meaning": "Unskillful",
     "level": 1
   },
-
-      {
+  {
     "kana": "ほうせき",
     "romaji": "houseki",
-    "meaning": "gem",
+    "meaning": "Gem",
     "level": 1
   },
-
-    {
+  {
     "kana": "はし",
     "romaji": "hashi",
-    "meaning": "bridge",
+    "meaning": "Bridge",
     "level": 1
   },
-
-        {
+  {
     "kana": "まほう",
     "romaji": "mahou",
-    "meaning": "magic",
+    "meaning": "Magic",
     "level": 1
   },
-
-    {
+  {
     "kana": "みみ",
     "romaji": "mimi",
-    "meaning": "ear",
+    "meaning": "Ear",
     "level": 1
   },
-
-    {
+  {
     "kana": "ほね",
     "romaji": "hone",
-    "meaning": "bone",
+    "meaning": "Bone",
     "level": 1
   },
-
-      {
+  {
     "kana": "もつ",
-    "romaji": "hito",
-    "meaning": "to hold",
+    "romaji": "motsu",
+    "meaning": "To hold",
     "level": 1
   },
-
-    {
+  {
     "kana": "めまい",
     "romaji": "memai",
-    "meaning": "dizziness",
+    "meaning": "Dizziness",
     "level": 1
   },
-
-        {
+  {
     "kana": "もの",
     "romaji": "mono",
-    "meaning": "thing",
+    "meaning": "Thing",
     "level": 1
   },
-
-    {
+  {
     "kana": "やまい",
     "romaji": "yamai",
-    "meaning": "disease",
+    "meaning": "Disease",
     "level": 1
   }
-
 ]

@@ -169,7 +169,7 @@ const webpageSchema = {
 
             <div>
               <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-                Hiragana Reading Practice 
+                Hiragana Reading Practice 1
               </h3>
 
               <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">

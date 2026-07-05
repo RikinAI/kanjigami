@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "sentence": "わたしは あたらしい くるまを かいました。",
+    "question": "あたらしい",
+    "options": [
+      "新しい",
+      "親しい",
+      "古しい",
+      "近しい"
+    ],
+    "correct": "新しい",
+    "meaning": "New",
+    "translation": "I bought a new car.",
+    "kanjiSlug": "kanji-new"
+  },
+  {
+    "id": 2,
+    "sentence": "まいにち にほんごを べんきょうします。",
+    "question": "まいにち",
+    "options": [
+      "毎日",
+      "海日",
+      "母日",
+      "毎月"
+    ],
+    "correct": "毎日",
+    "meaning": "Every day",
+    "translation": "I study Japanese every day.",
+    "kanjiSlug": "kanji-every"
+  },
+  {
+    "id": 3,
+    "sentence": "ともだちと えいがを みます。",
+    "question": "みます",
+    "options": [
+      "見ます",
+      "聞ます",
+      "話ます",
+      "読ます"
+    ],
+    "correct": "見ます",
+    "meaning": "To see / To look",
+    "translation": "I watch a movie with my friend.",
+    "kanjiSlug": "kanji-see-look"
+  },
+  {
+    "id": 4,
+    "sentence": "ちちは かいしゃへ いきます。",
+    "question": "いきます",
+    "options": [
+      "行きます",
+      "来きます",
+      "帰きます",
+      "歩きます"
+    ],
+    "correct": "行きます",
+    "meaning": "To go",
+    "translation": "My father goes to the company.",
+    "kanjiSlug": "kanji-go"
+  },
+  {
+    "id": 5,
+    "sentence": "やまの うえに きれいな はなが あります。",
+    "question": "うえ",
+    "options": [
+      "上",
+      "下",
+      "中",
+      "外"
+    ],
+    "correct": "上",
+    "meaning": "Up / Above",
+    "translation": "There are beautiful flowers on the mountain.",
+    "kanjiSlug": "kanji-up-above"
+  }
+]

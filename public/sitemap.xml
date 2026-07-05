@@ -25,6 +25,12 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/practice/</loc>
 </url>
 <url>
+  <loc>https://kanjigami.com/practice/jlpt-n5-kanji-practice-1</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/jlpt-n5-kanji-practice-2</loc>
+</url>
+<url>
   <loc>https://kanjigami.com/hiragana</loc>
 </url>
 <url>
@@ -34,10 +40,25 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/practice/hiragana-reading-1</loc>
 </url>
 <url>
+  <loc>https://kanjigami.com/practice/hiragana-reading-2</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/hiragana-reading-3</loc>
+</url>
+<url>
   <loc>https://kanjigami.com/katakana</loc>
 </url>
 <url>
   <loc>https://kanjigami.com/practice/katakana</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/katakana-reading-1</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/katakana-reading-2</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/katakana-reading-3</loc>
 </url>
 <url>
   <loc>https://kanjigami.com/search</loc>

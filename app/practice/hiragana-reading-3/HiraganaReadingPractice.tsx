@@ -1,10 +1,8 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import words from "@/data/hiragana-practice-1.json";
+import words from "@/data/hiragana-practice-3.json";
 import Link from "next/link";
-
-
 
 export default function HiraganaReadingPractice() {
   const [answers, setAnswers] = useState<Record<string, string>>({});

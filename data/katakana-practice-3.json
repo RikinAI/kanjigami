@@ -1,0 +1,302 @@
+[
+  {
+    "kana": "キャベツ",
+    "romaji": "kyabetsu",
+    "meaning": "Cabbage",
+    "level": 3
+  },
+  {
+    "kana": "キャンプ",
+    "romaji": "kyanpu",
+    "meaning": "Camp",
+    "level": 3
+  },
+  {
+    "kana": "キュウリ",
+    "romaji": "kyuuri",
+    "meaning": "Cucumber",
+    "level": 3
+  },
+  {
+    "kana": "キャリア",
+    "romaji": "kyaria",
+    "meaning": "Career",
+    "level": 3
+  },
+  {
+    "kana": "シャツ",
+    "romaji": "shatsu",
+    "meaning": "Shirt",
+    "level": 3
+  },
+  {
+    "kana": "シャワー",
+    "romaji": "shawaa",
+    "meaning": "Shower",
+    "level": 3
+  },
+  {
+    "kana": "シュート",
+    "romaji": "shuuto",
+    "meaning": "Shot",
+    "level": 3
+  },
+  {
+    "kana": "ショック",
+    "romaji": "shokku",
+    "meaning": "Shock",
+    "level": 3
+  },
+  {
+    "kana": "チョコ",
+    "romaji": "choko",
+    "meaning": "Chocolate",
+    "level": 3
+  },
+  {
+    "kana": "チャンス",
+    "romaji": "chansu",
+    "meaning": "Chance",
+    "level": 3
+  },
+  {
+    "kana": "ニュース",
+    "romaji": "nyuusu",
+    "meaning": "News",
+    "level": 3
+  },
+  {
+    "kana": "ニュアンス",
+    "romaji": "nyuansu",
+    "meaning": "Nuance",
+    "level": 3
+  },
+  {
+    "kana": "ヒューマン",
+    "romaji": "hyuuman",
+    "meaning": "Human",
+    "level": 3
+  },
+  {
+    "kana": "ミュージック",
+    "romaji": "myuujikku",
+    "meaning": "Music",
+    "level": 3
+  },
+  {
+    "kana": "ミュージアム",
+    "romaji": "myuujiamu",
+    "meaning": "Museum",
+    "level": 3
+  },
+  {
+    "kana": "リュック",
+    "romaji": "ryukku",
+    "meaning": "Backpack",
+    "level": 3
+  },
+  {
+    "kana": "リョコウ",
+    "romaji": "ryokou",
+    "meaning": "Travel",
+    "level": 3
+  },
+  {
+    "kana": "ギョーザ",
+    "romaji": "gyouza",
+    "meaning": "Gyoza",
+    "level": 3
+  },
+  {
+    "kana": "ギャラリー",
+    "romaji": "gyararii",
+    "meaning": "Gallery",
+    "level": 3
+  },
+  {
+    "kana": "ジャム",
+    "romaji": "jamu",
+    "meaning": "Jam",
+    "level": 3
+  },
+  {
+    "kana": "ジャケット",
+    "romaji": "jaketto",
+    "meaning": "Jacket",
+    "level": 3
+  },
+  {
+    "kana": "ジュース",
+    "romaji": "juusu",
+    "meaning": "Juice",
+    "level": 3
+  },
+  {
+    "kana": "ジョギング",
+    "romaji": "jogingu",
+    "meaning": "Jogging",
+    "level": 3
+  },
+  {
+    "kana": "ビール",
+    "romaji": "biiru",
+    "meaning": "Beer",
+    "level": 3
+  },
+  {
+    "kana": "ビデオ",
+    "romaji": "bideo",
+    "meaning": "Video",
+    "level": 3
+  },
+  {
+    "kana": "ビジネス",
+    "romaji": "bijinesu",
+    "meaning": "Business",
+    "level": 3
+  },
+  {
+    "kana": "ビュー",
+    "romaji": "byuu",
+    "meaning": "View",
+    "level": 3
+  },
+  {
+    "kana": "ビョウイン",
+    "romaji": "byouin",
+    "meaning": "Hospital",
+    "level": 3
+  },
+  {
+    "kana": "ピアノ",
+    "romaji": "piano",
+    "meaning": "Piano",
+    "level": 3
+  },
+  {
+    "kana": "ピザ",
+    "romaji": "piza",
+    "meaning": "Pizza",
+    "level": 3
+  },
+  {
+    "kana": "ピュア",
+    "romaji": "pyua",
+    "meaning": "Pure",
+    "level": 3
+  },
+  {
+    "kana": "ピョンピョン",
+    "romaji": "pyonpyon",
+    "meaning": "Hop",
+    "level": 3
+  },
+  {
+    "kana": "バッグ",
+    "romaji": "baggu",
+    "meaning": "Bag",
+    "level": 3
+  },
+  {
+    "kana": "ベッド",
+    "romaji": "beddo",
+    "meaning": "Bed",
+    "level": 3
+  },
+  {
+    "kana": "バッテリー",
+    "romaji": "batterii",
+    "meaning": "Battery",
+    "level": 3
+  },
+  {
+    "kana": "コップ",
+    "romaji": "koppu",
+    "meaning": "Cup",
+    "level": 3
+  },
+  {
+    "kana": "チケット",
+    "romaji": "chiketto",
+    "meaning": "Ticket",
+    "level": 3
+  },
+  {
+    "kana": "ホテル",
+    "romaji": "hoteru",
+    "meaning": "Hotel",
+    "level": 3
+  },
+  {
+    "kana": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "Restaurant",
+    "level": 3
+  },
+  {
+    "kana": "レモネード",
+    "romaji": "remoneedo",
+    "meaning": "Lemonade",
+    "level": 3
+  },
+  {
+    "kana": "ゲーム",
+    "romaji": "geemu",
+    "meaning": "Game",
+    "level": 3
+  },
+  {
+    "kana": "メール",
+    "romaji": "meeru",
+    "meaning": "Email",
+    "level": 3
+  },
+  {
+    "kana": "テレビ",
+    "romaji": "terebi",
+    "meaning": "Television",
+    "level": 3
+  },
+  {
+    "kana": "スマホ",
+    "romaji": "sumaho",
+    "meaning": "Smartphone",
+    "level": 3
+  },
+  {
+    "kana": "パスポート",
+    "romaji": "pasupooto",
+    "meaning": "Passport",
+    "level": 3
+  },
+  {
+    "kana": "コンピューター",
+    "romaji": "konpyuutaa",
+    "meaning": "Computer",
+    "level": 3
+  },
+  {
+    "kana": "スーパー",
+    "romaji": "suupaa",
+    "meaning": "Supermarket",
+    "level": 3
+  },
+  {
+    "kana": "サンドイッチ",
+    "romaji": "sandoicchi",
+    "meaning": "Sandwich",
+    "level": 3
+  },
+  {
+    "kana": "カレンダー",
+    "romaji": "karendaa",
+    "meaning": "Calendar",
+    "level": 3
+  },
+  {
+    "kana": "アイスクリーム",
+    "romaji": "aisukuriimu",
+    "meaning": "Ice cream",
+    "level": 3
+  }
+]

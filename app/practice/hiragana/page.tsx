@@ -8,6 +8,7 @@ import RandomKanaPractice from "@/components/RandomKanaPractice";
 import { hiraganaData } from "./hiraganaData";
 import Link from "next/link";
 
+
 type KanaGroup =
   | "basic"
   | "dakuten"
@@ -139,23 +140,23 @@ const buttonClass = (active: boolean) =>
  <section className="max-w-5xl mx-auto px-4 py-8 md:py-12">
   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
 
-    {/* Katakana*/}
+        {/* Hiragana Reading Practice */}
     <Link
-          href="/hiragana"
+          href="/practice/hiragana-reading-1"
           className="group bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-300 transition duration-300"
         >
           <div className="flex items-center gap-4">
             <div className="text-4xl md:text-5xl font-bold text-green-700">
-              あ
+              試
             </div>
 
             <div>
               <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-                Review Hiragana
+                Hiragana Reading Practice 1
               </h3>
 
               <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
-                All Hiragana Characters with Romaji
+                Practice Hiragana Reading with vocabulary words.
               </p>
 
               <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
@@ -164,6 +165,7 @@ const buttonClass = (active: boolean) =>
             </div>
           </div>
         </Link>
+
 
   </div>
 </section>   

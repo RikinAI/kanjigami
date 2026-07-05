@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "sentence": "新しい くるま を かいました。",
+    "question": "新",
+    "options": [
+      "あたらしい",
+      "しん",
+      "あらたしい",
+      "にい"
+    ],
+    "correct": "あたらしい",
+    "meaning": "New",
+    "translation": "I bought a new car.",
+    "kanjiSlug": "kanji-new"
+  },
+  {
+    "id": 2,
+    "sentence": "父は 会社へ 行きます。",
+    "question": "行",
+    "options": [
+      "いきます",
+      "ゆきます",
+      "こう",
+      "いります"
+    ],
+    "correct": "いきます",
+    "meaning": "To go",
+    "translation": "My father goes to the company.",
+    "kanjiSlug": "kanji-go"
+  },
+  {
+    "id": 3,
+    "sentence": "山の 上に きれいな 花が あります。",
+    "question": "上",
+    "options": [
+      "うえ",
+      "じょう",
+      "した",
+      "なか"
+    ],
+    "correct": "うえ",
+    "meaning": "Up / Above",
+    "translation": "There are beautiful flowers on the mountain.",
+    "kanjiSlug": "kanji-up-above"
+  },
+  {
+    "id": 4,
+    "sentence": "毎日 日本語を 勉強します。",
+    "question": "毎",
+    "options": [
+      "まい",
+      "ごと",
+      "まえ",
+      "ひ"
+    ],
+    "correct": "まい",
+    "meaning": "Every",
+    "translation": "I study Japanese every day.",
+    "kanjiSlug": "kanji-every"
+  },
+  {
+    "id": 5,
+    "sentence": "友だちと 映画を 見ます。",
+    "question": "見",
+    "options": [
+      "みます",
+      "けん",
+      "ききます",
+      "よみます"
+    ],
+    "correct": "みます",
+    "meaning": "To see / To look",
+    "translation": "I watch a movie with my friend.",
+    "kanjiSlug": "kanji-see-look"
+  }
+]

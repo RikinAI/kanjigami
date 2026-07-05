@@ -1,0 +1,302 @@
+[
+  {
+    "kana": "よめ",
+    "romaji": "yome",
+    "meaning": "Bride",
+    "level": 2
+  },
+  {
+    "kana": "ゆうき",
+    "romaji": "yuuki",
+    "meaning": "Courage",
+    "level": 2
+  },
+  {
+    "kana": "やま",
+    "romaji": "yama",
+    "meaning": "Mountain",
+    "level": 2
+  },
+  {
+    "kana": "ゆめ",
+    "romaji": "yume",
+    "meaning": "Dream",
+    "level": 2
+  },
+  {
+    "kana": "やちん",
+    "romaji": "yachin",
+    "meaning": "Rent",
+    "level": 2
+  },
+  {
+    "kana": "ふるえる",
+    "romaji": "furueru",
+    "meaning": "To shiver",
+    "level": 2
+  },
+  {
+    "kana": "とる",
+    "romaji": "toru",
+    "meaning": "To Take",
+    "level": 2
+  },
+  {
+    "kana": "らめん",
+    "romaji": "ramen",
+    "meaning": "Ramen",
+    "level": 2
+  },
+  {
+    "kana": "らいねん",
+    "romaji": "rainen",
+    "meaning": "Next Year",
+    "level": 2
+  },
+  {
+    "kana": "りそう",
+    "romaji": "risou",
+    "meaning": "Ideal",
+    "level": 2
+  },
+  {
+    "kana": "りかい",
+    "romaji": "rikai",
+    "meaning": "Understanding",
+    "level": 2
+  },
+  {
+    "kana": "くすり",
+    "romaji": "kusuri",
+    "meaning": "Medicine",
+    "level": 2
+  },
+  {
+    "kana": "ふるい",
+    "romaji": "furui",
+    "meaning": "Old",
+    "level": 2
+  },
+  {
+    "kana": "ねる",
+    "romaji": "neru",
+    "meaning": "To sleep",
+    "level": 2
+  },
+  {
+    "kana": "あける",
+    "romaji": "akeru",
+    "meaning": "To open",
+    "level": 2
+  },
+  {
+    "kana": "れきし",
+    "romaji": "rekishi",
+    "meaning": "History",
+    "level": 2
+  },
+  {
+    "kana": "れんらく",
+    "romaji": "renraku",
+    "meaning": "Contact",
+    "level": 2
+  },
+  {
+    "kana": "きれい",
+    "romaji": "kirei",
+    "meaning": "Beautiful",
+    "level": 2
+  },
+  {
+    "kana": "われる",
+    "romaji": "wareru",
+    "meaning": "To break",
+    "level": 2
+  },
+  {
+    "kana": "わかい",
+    "romaji": "wakai",
+    "meaning": "Young",
+    "level": 2
+  },
+  {
+    "kana": "わすれる",
+    "romaji": "wasureru",
+    "meaning": "To forget",
+    "level": 2
+  },
+  {
+    "kana": "へいわ",
+    "romaji": "heiwa",
+    "meaning": "Peace",
+    "level": 2
+  },
+  {
+    "kana": "にわ",
+    "romaji": "niwa",
+    "meaning": "Garden",
+    "level": 2
+  },
+  {
+    "kana": "まわる",
+    "romaji": "mawaru",
+    "meaning": "To turn",
+    "level": 2
+  },
+  {
+    "kana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "Bank",
+    "level": 2
+  },
+  {
+    "kana": "がいこく",
+    "romaji": "gaikoku",
+    "meaning": "Foreign country",
+    "level": 2
+  },
+  {
+    "kana": "りんご",
+    "romaji": "ringo",
+    "meaning": "Apple",
+    "level": 2
+  },
+  {
+    "kana": "およぐ",
+    "romaji": "oyogu",
+    "meaning": "To swim",
+    "level": 2
+  },
+  {
+    "kana": "げんき",
+    "romaji": "genki",
+    "meaning": "Healthy",
+    "level": 2
+  },
+  {
+    "kana": "ごご",
+    "romaji": "gogo",
+    "meaning": "Afternoon",
+    "level": 2
+  },
+  {
+    "kana": "かげ",
+    "romaji": "kage",
+    "meaning": "Shadow",
+    "level": 2
+  },
+  {
+    "kana": "かがく",
+    "romaji": "kagaku",
+    "meaning": "Science",
+    "level": 2
+  },
+  {
+    "kana": "ぎむ",
+    "romaji": "gimu",
+    "meaning": "Duty",
+    "level": 2
+  },
+  {
+    "kana": "ざんねん",
+    "romaji": "zannen",
+    "meaning": "Regrettable",
+    "level": 2
+  },
+  {
+    "kana": "じかん",
+    "romaji": "jikan",
+    "meaning": "Time",
+    "level": 2
+  },
+  {
+    "kana": "みず",
+    "romaji": "mizu",
+    "meaning": "Water",
+    "level": 2
+  },
+  {
+    "kana": "ごぜん",
+    "romaji": "gozen",
+    "meaning": "Morning (A.M.)",
+    "level": 2
+  },
+  {
+    "kana": "ぜんぜん",
+    "romaji": "zenzen",
+    "meaning": "Not at all",
+    "level": 2
+  },
+  {
+    "kana": "かぞく",
+    "romaji": "kazoku",
+    "meaning": "Family",
+    "level": 2
+  },
+  {
+    "kana": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "University",
+    "level": 2
+  },
+  {
+    "kana": "だいどころ",
+    "romaji": "daidokoro",
+    "meaning": "Kitchen",
+    "level": 2
+  },
+  {
+    "kana": "つづく",
+    "romaji": "tsuzuku",
+    "meaning": "To continue",
+    "level": 2
+  },
+  {
+    "kana": "どうぶつ",
+    "romaji": "doubutsu",
+    "meaning": "Animal",
+    "level": 2
+  },
+  {
+    "kana": "でぐち",
+    "romaji": "deguchi",
+    "meaning": "Exit",
+    "level": 2
+  },
+  {
+    "kana": "ちぢむ",
+    "romaji": "chijimu",
+    "meaning": "To shrink",
+    "level": 2
+  },
+  {
+    "kana": "どこ",
+    "romaji": "doko",
+    "meaning": "Where",
+    "level": 2
+  },
+  {
+    "kana": "ばんごう",
+    "romaji": "bangou",
+    "meaning": "Number",
+    "level": 2
+  },
+  {
+    "kana": "えび",
+    "romaji": "ebi",
+    "meaning": "Shrimp",
+    "level": 2
+  },
+  {
+    "kana": "ぶんがく",
+    "romaji": "bungaku",
+    "meaning": "Literature",
+    "level": 2
+  },
+  {
+    "kana": "ぶどう",
+    "romaji": "budou",
+    "meaning": "Grapes",
+    "level": 2
+  }
+]

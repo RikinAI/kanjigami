@@ -1,0 +1,302 @@
+[
+  {
+    "kana": "ラーメン",
+    "romaji": "raamen",
+    "meaning": "Ramen",
+    "level": 2
+  },
+  {
+    "kana": "ラジオ",
+    "romaji": "rajio",
+    "meaning": "Radio",
+    "level": 2
+  },
+  {
+    "kana": "リスト",
+    "romaji": "risuto",
+    "meaning": "List",
+    "level": 2
+  },
+  {
+    "kana": "リボン",
+    "romaji": "ribon",
+    "meaning": "Ribbon",
+    "level": 2
+  },
+  {
+    "kana": "レモン",
+    "romaji": "remon",
+    "meaning": "Lemon",
+    "level": 2
+  },
+  {
+    "kana": "レベル",
+    "romaji": "reberu",
+    "meaning": "Level",
+    "level": 2
+  },
+  {
+    "kana": "ロボット",
+    "romaji": "robotto",
+    "meaning": "Robot",
+    "level": 2
+  },
+  {
+    "kana": "ワイン",
+    "romaji": "wain",
+    "meaning": "Wine",
+    "level": 2
+  },
+  {
+    "kana": "ワンピース",
+    "romaji": "wanpiisu",
+    "meaning": "Dress",
+    "level": 2
+  },
+  {
+    "kana": "ガラス",
+    "romaji": "garasu",
+    "meaning": "Glass",
+    "level": 2
+  },
+  {
+    "kana": "ガイド",
+    "romaji": "gaido",
+    "meaning": "Guide",
+    "level": 2
+  },
+  {
+    "kana": "ギター",
+    "romaji": "gitaa",
+    "meaning": "Guitar",
+    "level": 2
+  },
+  {
+    "kana": "ゲーム",
+    "romaji": "geemu",
+    "meaning": "Game",
+    "level": 2
+  },
+  {
+    "kana": "ゴルフ",
+    "romaji": "gorufu",
+    "meaning": "Golf",
+    "level": 2
+  },
+  {
+    "kana": "ゴミ",
+    "romaji": "gomi",
+    "meaning": "Trash",
+    "level": 2
+  },
+  {
+    "kana": "ザル",
+    "romaji": "zaru",
+    "meaning": "Colander",
+    "level": 2
+  },
+  {
+    "kana": "ジム",
+    "romaji": "jimu",
+    "meaning": "Gym",
+    "level": 2
+  },
+  {
+    "kana": "ズボン",
+    "romaji": "zubon",
+    "meaning": "Trousers",
+    "level": 2
+  },
+  {
+    "kana": "ゼリー",
+    "romaji": "zerii",
+    "meaning": "Jelly",
+    "level": 2
+  },
+  {
+    "kana": "ゾウ",
+    "romaji": "zou",
+    "meaning": "Elephant",
+    "level": 2
+  },
+  {
+    "kana": "ダイヤ",
+    "romaji": "daiya",
+    "meaning": "Diamond",
+    "level": 2
+  },
+  {
+    "kana": "ダンス",
+    "romaji": "dansu",
+    "meaning": "Dance",
+    "level": 2
+  },
+  {
+    "kana": "データ",
+    "romaji": "deeta",
+    "meaning": "Data",
+    "level": 2
+  },
+  {
+    "kana": "デモ",
+    "romaji": "demo",
+    "meaning": "Demonstration",
+    "level": 2
+  },
+  {
+    "kana": "ドア",
+    "romaji": "doa",
+    "meaning": "Door",
+    "level": 2
+  },
+  {
+    "kana": "ドレス",
+    "romaji": "doresu",
+    "meaning": "Dress",
+    "level": 2
+  },
+  {
+    "kana": "バス",
+    "romaji": "basu",
+    "meaning": "Bus",
+    "level": 2
+  },
+  {
+    "kana": "バナナ",
+    "romaji": "banana",
+    "meaning": "Banana",
+    "level": 2
+  },
+  {
+    "kana": "バッグ",
+    "romaji": "baggu",
+    "meaning": "Bag",
+    "level": 2
+  },
+  {
+    "kana": "バー",
+    "romaji": "baa",
+    "meaning": "Bar",
+    "level": 2
+  },
+  {
+    "kana": "ビール",
+    "romaji": "biiru",
+    "meaning": "Beer",
+    "level": 2
+  },
+  {
+    "kana": "ビデオ",
+    "romaji": "bideo",
+    "meaning": "Video",
+    "level": 2
+  },
+  {
+    "kana": "ブーツ",
+    "romaji": "buutsu",
+    "meaning": "Boots",
+    "level": 2
+  },
+  {
+    "kana": "ブラシ",
+    "romaji": "burashi",
+    "meaning": "Brush",
+    "level": 2
+  },
+  {
+    "kana": "ベッド",
+    "romaji": "beddo",
+    "meaning": "Bed",
+    "level": 2
+  },
+  {
+    "kana": "ベル",
+    "romaji": "beru",
+    "meaning": "Bell",
+    "level": 2
+  },
+  {
+    "kana": "ボール",
+    "romaji": "booru",
+    "meaning": "Ball",
+    "level": 2
+  },
+  {
+    "kana": "ボタン",
+    "romaji": "botan",
+    "meaning": "Button",
+    "level": 2
+  },
+  {
+    "kana": "パン",
+    "romaji": "pan",
+    "meaning": "Bread",
+    "level": 2
+  },
+  {
+    "kana": "パンダ",
+    "romaji": "panda",
+    "meaning": "Panda",
+    "level": 2
+  },
+  {
+    "kana": "ピアノ",
+    "romaji": "piano",
+    "meaning": "Piano",
+    "level": 2
+  },
+  {
+    "kana": "ピン",
+    "romaji": "pin",
+    "meaning": "Pin",
+    "level": 2
+  },
+  {
+    "kana": "プール",
+    "romaji": "puuru",
+    "meaning": "Swimming pool",
+    "level": 2
+  },
+  {
+    "kana": "プリン",
+    "romaji": "purin",
+    "meaning": "Pudding",
+    "level": 2
+  },
+  {
+    "kana": "ペン",
+    "romaji": "pen",
+    "meaning": "Pen",
+    "level": 2
+  },
+  {
+    "kana": "ページ",
+    "romaji": "peeji",
+    "meaning": "Page",
+    "level": 2
+  },
+  {
+    "kana": "ポスト",
+    "romaji": "posuto",
+    "meaning": "Postbox",
+    "level": 2
+  },
+  {
+    "kana": "ポテト",
+    "romaji": "poteto",
+    "meaning": "Potato",
+    "level": 2
+  },
+  {
+    "kana": "メロン",
+    "romaji": "meron",
+    "meaning": "Melon",
+    "level": 2
+  },
+  {
+    "kana": "ヨット",
+    "romaji": "yotto",
+    "meaning": "Yacht",
+    "level": 2
+  }
+]

@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { KanaCharacter } from "@/types/kana";
+import Link from "next/link";
 
 type KanaGroup =
   | "basic"
@@ -20,6 +21,7 @@ export default function RandomKanaPractice({
 }: Props) {
   const [questions, setQuestions] = useState<KanaCharacter[]>([]);
   const [answers, setAnswers] = useState<Record<string, string>>({});
+  
 
   const inputRefs = useRef<(HTMLInputElement | null)[]>([]);
 
@@ -114,14 +116,32 @@ export default function RandomKanaPractice({
       </div>
 
       {/* New Random Set */}
-      <div className="mb-8 text-center">
-        <button
-          onClick={generateQuestions}
-          className="rounded-lg bg-white-600 px-5 py-2 font-medium text-blue hover:bg-white-700 transition"
-        >
-          🔄 New Set
-        </button>
-      </div>
+<div className="mb-8 flex flex-wrap justify-center items-center gap-4">
+
+    <Link
+    href="/hiragana"
+    className="rounded-lg border border-green-600 px-5 py-2 font-medium text-green-700 hover:bg-green-50 transition"
+  >
+    ← Review Hiragana <strong>あ</strong>
+  </Link>
+
+    <Link
+    href="/katkana"
+    className="rounded-lg border border-green-600 px-5 py-2 font-medium text-green-700 hover:bg-green-50 transition"
+  >
+    ← Review Katakana <strong>ア</strong>
+  </Link>
+
+  <button
+    onClick={generateQuestions}
+    className="rounded-lg border border-blue-600 px-5 py-2 font-medium text-blue-700 hover:bg-green-50 transition"
+  >
+    🔄 New Set
+  </button>
+
+
+
+</div>
 
       {/* Practice Grid */}
       <div className="grid grid-cols-2 gap-4 md:grid-cols-4 lg:grid-cols-5">

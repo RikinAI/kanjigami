@@ -7,36 +7,36 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title:
-    "Hiragana Reading Practice 1 – Japanese Vocabulary Quiz | KanjiGami",
+    "Hiragana Reading Practice 3 – Japanese Vocabulary Quiz | KanjiGami",
 
   description:
-    "Practice reading Hiragana words with interactive multiple-choice questions. Improve your Japanese reading skills, build vocabulary, and get instant feedback.",
+    "Master Hiragana reading with advanced beginner vocabulary practice. Read Hiragana words, enter the correct romaji, and strengthen your Japanese reading skills.",
 
   keywords: [
     "Hiragana Reading Practice",
-    "Hiragana Practice",
     "Japanese Reading Practice",
     "Hiragana Vocabulary",
     "Hiragana Quiz",
     "Learn Hiragana",
-    "Japanese Language Practice",
-    "Japanese Vocabulary Quiz",
+    "Japanese Vocabulary Practice",
     "Hiragana Test",
+    "Japanese Language Quiz",
+    "Reading Japanese",
     "KanjiGami",
   ],
 
   alternates: {
     canonical:
-      "https://kanjigami.com/practice/hiragana-reading-1",
+      "https://kanjigami.com/practice/hiragana-reading-3",
   },
 
   openGraph: {
     title:
-      "Hiragana Reading Practice 1 | KanjiGami",
+      "Hiragana Reading Practice 3 | KanjiGami",
     description:
-      "Practice reading common Hiragana words and improve your Japanese vocabulary.",
+      "Master Hiragana reading through interactive Japanese vocabulary practice.",
     url:
-      "https://kanjigami.com/practice/hiragana-reading-1",
+      "https://kanjigami.com/practice/hiragana-reading-3",
     siteName: "KanjiGami",
     type: "website",
   },
@@ -44,9 +44,9 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Hiragana Reading Practice 1",
+      "Hiragana Reading Practice 3",
     description:
-      "Practice Hiragana reading with common Japanese vocabulary.",
+      "Strengthen your Hiragana reading skills with interactive vocabulary practice.",
   },
 
   robots: {
@@ -56,31 +56,31 @@ export const metadata: Metadata = {
 };
 
 export default function HiraganaReadingPracticePage() {
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://kanjigami.com/",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Practice",
+        item: "https://kanjigami.com/practice",
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: "Hiragana Reading Practice 3",
+        item: "https://kanjigami.com/practice/hiragana-reading-3",
+      },
+    ],
+  };
 
-const breadcrumbSchema = {
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  itemListElement: [
-    {
-      "@type": "ListItem",
-      position: 1,
-      name: "Home",
-      item: "https://kanjigami.com/",
-    },
-    {
-      "@type": "ListItem",
-      position: 2,
-      name: "Practice",
-      item: "https://kanjigami.com/practice",
-    },
-    {
-      "@type": "ListItem",
-      position: 3,
-      name: "Hiragana Reading Practice 1",
-      item: "https://kanjigami.com/practice/hiragana-reading-1",
-    },
-  ],
-};
   return (
     <>
       <Header />
@@ -88,31 +88,30 @@ const breadcrumbSchema = {
       <main className="max-w-4xl mx-auto px-4 py-8">
         <div className="text-center mb-14 md:mb-15">
           <h1 className="text-2xl md:text-3xl font-bold text-slate-900">
-            Hiragana Reading Practice 1
+            Hiragana Reading Practice 3
           </h1>
 
-          <p className="mt-3 text-base md:text-sg text-slate-600">
+          <p className="mt-3 text-base md:text-lg text-slate-600">
             Read the Hiragana word and type the correct romaji.
           </p>
         </div>
 
         <HiraganaReadingPractice />
 
-
         <Script
-  id="breadcrumb-schema"
-  type="application/ld+json"
-  dangerouslySetInnerHTML={{
-    __html: JSON.stringify(breadcrumbSchema),
-  }}
-/>
+          id="breadcrumb-schema"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(breadcrumbSchema),
+          }}
+        />
       </main>
 
 <section className="max-w-5xl mx-auto px-4 py-8 md:py-12">
   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
     {/* Hiragana Reading Practice */}
     <Link
-          href="/practice/hiragana-reading-2"
+          href="/practice/hiragana-reading-1"
           className="group bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-300 transition duration-300"
         >
           <div className="flex items-center gap-4">
@@ -122,7 +121,7 @@ const breadcrumbSchema = {
 
             <div>
               <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-                Hiragana Reading Practice 2
+                Hiragana Reading Practice 1
               </h3>
 
               <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
