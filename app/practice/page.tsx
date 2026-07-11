@@ -2,6 +2,73 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import Script from "next/script";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title:
+    "Free Japanese Practice | Hiragana, Katakana & JLPT Kanji Quizzes",
+
+  description:
+    "Practice Japanese for free with interactive Hiragana, Katakana, and JLPT Kanji quizzes. Improve your reading skills, build vocabulary, and prepare for the JLPT with beginner-friendly exercises and instant feedback.",
+
+  keywords: [
+    "Japanese Practice",
+    "Japanese Practice Quiz",
+    "Learn Japanese",
+    "Japanese Quiz",
+    "Hiragana Quiz",
+    "Practice Hiragana",
+    "Hiragana Practice",
+    "Katakana Quiz",
+    "Katakana Practice",
+    "Kanji Quiz",
+    "Kanji Test",
+    "JLPT Kanji Quiz",
+    "JLPT N5 Kanji Quiz",
+    "JLPT N4 Kanji Quiz",
+    "Japanese Reading Practice",
+    "Free Japanese Practice",
+    "Learn Kanji",
+    "KanjiGami",
+  ],
+
+  alternates: {
+    canonical: "https://kanjigami.com/practice",
+  },
+
+  openGraph: {
+    title:
+      "Japanese Practice | Free Hiragana, Katakana & JLPT Kanji Quizzes",
+    description:
+      "Practice Japanese online with free Hiragana, Katakana, and JLPT Kanji quizzes. Improve your reading skills through interactive exercises and instant feedback.",
+    url: "https://kanjigami.com/practice",
+    siteName: "KanjiGami",
+    type: "website",
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title:
+      "Japanese Practice | Free Hiragana, Katakana & JLPT Kanji Quizzes",
+    description:
+      "Practice Hiragana, Katakana, and JLPT Kanji with free interactive quizzes on KanjiGami.",
+  },
+
+  robots: {
+    index: true,
+    follow: true,
+  },
+
+  category: "Education",
+
+  applicationName: "KanjiGami",
+
+  authors: [
+    {
+      name: "KanjiGami",
+    },
+  ],
+};
 
 export default function PracticePage() {
 
@@ -32,12 +99,12 @@ const breadcrumbSchema = {
 
         <div className="text-center mb-12">
           <h1 className="text-3xl md:text-5xl font-bold text-slate-900">
-            Japanese Practice
+            Japanese Practice Quizzes
           </h1>
 
-          <p className="mt-4 text-base md:text-lg text-slate-600">
-            Practice Hiragana, Katakana and Kanji with interactive exercises.
-          </p>
+          <p className="max-w-3xl mx-auto mt-6 text-slate-700 leading-8">
+Practice Japanese for free with interactive Hiragana, Katakana, and JLPT Kanji quizzes. Build your reading skills through carefully designed exercises, improve vocabulary, and prepare for the JLPT with instant feedback and detailed explanations.
+</p>
         </div>
 
         {/* Kana Practice */}
@@ -290,10 +357,10 @@ const breadcrumbSchema = {
 </section>
 
 {/* JLPT N5 Kanji Practice */}
-<section>
+<section className="mb-12">
 
   <h2 className="mb-6 text-2xl font-bold text-slate-900">
-    🈶 N5 Kanji Practice
+    🈶 N5 Kanji Quiz
   </h2>
 
   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -313,7 +380,7 @@ const breadcrumbSchema = {
         <div>
 
           <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-            JLPT N5 Kanji Practice 1
+            JLPT N5 Kanji Quiz 1
           </h3>
 
           <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
@@ -321,7 +388,7 @@ const breadcrumbSchema = {
           </p>
 
           <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
-            Start Practice →
+            Start Test →
           </div>
 
         </div>
@@ -344,7 +411,7 @@ const breadcrumbSchema = {
         <div>
 
           <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-            JLPT N5 Kanji Practice 2
+            JLPT N5 Kanji Quiz 2
           </h3>
 
           <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
@@ -352,7 +419,7 @@ const breadcrumbSchema = {
           </p>
 
           <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
-            Start Practice →
+            Start Test →
           </div>
 
         </div>
@@ -375,7 +442,7 @@ const breadcrumbSchema = {
         <div>
 
           <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-            JLPT N5 Kanji Practice 3
+            JLPT N5 Kanji Quiz 3
           </h3>
 
           <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
@@ -383,7 +450,7 @@ const breadcrumbSchema = {
           </p>
 
           <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
-            Start Practice →
+            Start Test →
           </div>
 
         </div>
@@ -406,7 +473,7 @@ const breadcrumbSchema = {
         <div>
 
           <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-            JLPT N5 Kanji Practice 4
+            JLPT N5 Kanji Quiz 4
           </h3>
 
           <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
@@ -414,7 +481,7 @@ const breadcrumbSchema = {
           </p>
 
           <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
-            Start Practice →
+            Start Test →
           </div>
 
         </div>
@@ -437,7 +504,7 @@ const breadcrumbSchema = {
         <div>
 
           <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-            JLPT N5 Kanji Practice 5
+            JLPT N5 Kanji Quiz 5
           </h3>
 
           <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
@@ -445,7 +512,7 @@ const breadcrumbSchema = {
           </p>
 
           <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
-            Start Practice →
+            Start Test →
           </div>
 
         </div>
@@ -468,7 +535,7 @@ const breadcrumbSchema = {
         <div>
 
           <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-            JLPT N5 Kanji Practice 6
+            JLPT N5 Kanji Quiz 6
           </h3>
 
           <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
@@ -476,7 +543,206 @@ const breadcrumbSchema = {
           </p>
 
           <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
-            Start Practice →
+            Start Test →
+          </div>
+
+        </div>
+
+      </div>
+    </Link>
+
+  </div>
+
+</section>
+
+{/* JLPT N4 Kanji Practice */}
+<section className="mb-12">
+
+  <h2 className="mb-6 text-2xl font-bold text-slate-900">
+    🉐️ N4 Kanji Quiz
+  </h2>
+
+  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+    {/* Practice 1 */}
+
+    <Link
+      href="/practice/jlpt-n4-kanji-practice-1"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N4 Kanji Quiz 1
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Read the highlighted JLPT N4 Kanji and choose the correct reading.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Test →
+          </div>
+
+        </div>
+
+      </div>
+    </Link>
+
+    {/* Practice 2 */}
+
+    <Link
+      href="/practice/jlpt-n4-kanji-practice-2"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N4 Kanji Quiz 2
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Read the Hiragana word and choose the correct Kanji.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Test →
+          </div>
+
+        </div>
+
+      </div>
+    </Link>
+
+    {/* Practice 3 */}
+
+    <Link
+      href="/practice/jlpt-n4-kanji-practice-3"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N4 Kanji Quiz 3
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Read the highlighted JLPT N4 Kanji and choose the correct reading.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Test →
+          </div>
+
+        </div>
+
+      </div>
+    </Link>
+
+    {/* Practice 4 */}
+
+    <Link
+      href="/practice/jlpt-n4-kanji-practice-4"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N4 Kanji Quiz 4
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Read the Hiragana word and choose the correct Kanji.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Test →
+          </div>
+
+        </div>
+
+      </div>
+    </Link>
+
+    {/* Practice 5 */}
+
+    <Link
+      href="/practice/jlpt-n4-kanji-practice-5"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N4 Kanji Quiz 5
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Read the highlighted JLPT N4 Kanji and choose the correct reading.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Test →
+          </div>
+
+        </div>
+
+      </div>
+    </Link>
+
+    {/* Practice 6 */}
+
+    <Link
+      href="/practice/jlpt-n4-kanji-practice-6"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N4 Kanji Quiz 6
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Read the Hiragana word and choose the correct Kanji.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Test →
           </div>
 
         </div>

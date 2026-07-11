@@ -106,7 +106,7 @@ export default function KanjiReadingPractice({
     </p>
 
       <p className="mt-2 text-base text-slate-600">
-    Read the <span className="text-red-700">highlighted</span> JLPT N5 Kanji and choose the correct reading.
+    Read the <span className="text-red-700">highlighted</span>Kanji and choose the correct reading.
   </p>
   </div>
 </div>

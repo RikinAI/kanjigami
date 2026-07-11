@@ -7,24 +7,25 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title:
-    "JLPT N4 Kanji Practice 2 – Choose the Correct Kanji | KanjiGami",
+title:
+    "JLPT N4 Kanji Quiz #2 | Free Reading Test (25 Questions)",
 
   description:
-    "Practice JLPT N4 Kanji by choosing the correct Kanji for Hiragana words. Improve your Japanese reading and writing skills with interactive multiple-choice questions, instant feedback, and detailed Kanji review.",
-
-  keywords: [
-    "JLPT n4 Kanji Practice",
-    "JLPT n4 Kanji Quiz",
-    "JLPT n4 Kanji Test",
-    "Choose the Correct Kanji",
-    "JLPT n4 Writing Practice",
-    "Japanese Kanji Practice",
-    "n4 Kanji Quiz",
-    "Japanese Reading Practice",
-    "Learn JLPT n4 Kanji",
-    "KanjiGami",
-  ],
+"Take this free JLPT N4 Kanji Quiz with 25 multiple-choice reading questions. Practice real Japanese sentences, improve your kanji reading, check your score instantly, and review every kanji with explanations.",
+  
+keywords: [
+"JLPT N4 Kanji Quiz",
+"JLPT N4 Kanji Test",
+"JLPT N4 Reading Quiz",
+"Kanji Quiz",
+"Kanji Test",
+"Japanese Kanji Quiz",
+"Free JLPT N4 Quiz",
+"JLPT N4 Practice",
+"JLPT N4 Reading Practice",
+"Japanese Reading Practice",
+"Learn JLPT N4 Kanji"
+],
 
   alternates: {
     canonical:
@@ -90,8 +91,22 @@ export default function JLPTn4KanjiPractice2Page() {
 
         <div className="text-center mb-16 md:mb-20">
           <h1 className="text-2xl md:text-3xl font-bold text-slate-900">
-            JLPT N4 Kanji Practice 2
+            JLPT N4 Kanji Quiz 2
           </h1>
+        </div>
+
+                <div className="max-w-3xl mx-auto mt-6 text-center">
+
+        <p className="text-slate-700 leading-8">
+
+        Practice your JLPT N4 Kanji with 25 carefully designed multiple-choice questions based on real Japanese sentences.
+
+        This free Kanji quiz helps you improve reading skills, recognize common vocabulary, and prepare for the JLPT N4 exam.
+
+        After finishing the quiz, review every answer and revisit each Kanji page with detailed meanings, readings, vocabulary, memory tricks, and example sentences.
+
+        </p>
+
         </div>
 
         <KanjiSelectionPractice
@@ -126,16 +141,16 @@ export default function JLPTn4KanjiPractice2Page() {
               <div>
 
                 <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-                  JLPT N4 Kanji Practice 1
+                  JLPT N4 Kanji Quiz 1
                 </h3>
 
                 <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
-                  Practice reading common JLPT n4 Kanji in real Japanese
+                  Test reading common JLPT n4 Kanji in real Japanese
                   sentences.
                 </p>
 
                 <div className="mt-4 font-semibold text-green-700 group-hover:-translate-x-1 transition-transform">
-                  ← Previous Practice
+                  ← Previous Quiz
                 </div>
 
               </div>
@@ -158,16 +173,16 @@ export default function JLPTn4KanjiPractice2Page() {
               <div>
 
                 <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-                  JLPT N4 Kanji Practice 3
+                  JLPT N4 Kanji Quiz 3
                 </h3>
 
                 <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
                   Continue improving your JLPT n4 Kanji reading skills with
-                  more practice questions.
+                  more test questions.
                 </p>
 
                 <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
-                  Next Practice →
+                  Next Quiz →
                 </div>
 
               </div>
