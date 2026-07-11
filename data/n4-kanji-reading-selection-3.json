@@ -1,0 +1,378 @@
+[
+  {
+    "id": 51,
+    "sentence": "さいきん たいじゅうが ふえました。",
+    "question": "たいじゅう",
+    "options": [
+      "体力",
+      "身体",
+      "体重",
+      "重力"
+    ],
+    "correct": "体重",
+    "meaning": "Body weight",
+    "translation": "I've gained weight recently.",
+    "kanjiSlug": "kanji-heavy-omoi"
+  },
+  {
+    "id": 52,
+    "sentence": "あなたの いけんを きかせてください。",
+    "question": "いけん",
+    "options": [
+      "意見",
+      "考え",
+      "理由",
+      "説明"
+    ],
+    "correct": "意見",
+    "meaning": "Opinion",
+    "translation": "Please tell me your opinion.",
+    "kanjiSlug": "kanji-intention-idea"
+  },
+  {
+    "id": 53,
+    "sentence": "ちちは まいにち くるまを うんてんします。",
+    "question": "うんてん",
+    "options": [
+      "運転",
+      "運動",
+      "発車",
+      "出発"
+    ],
+    "correct": "運転",
+    "meaning": "To drive",
+    "translation": "My father drives a car every day.",
+    "kanjiSlug": "kanji-luck-transport"
+  },
+  {
+    "id": 54,
+    "sentence": "きょうは きぶんが いいです。",
+    "question": "きぶん",
+    "options": [
+      "気持ち",
+      "空気",
+      "元気",
+      "気分"
+    ],
+    "correct": "気分",
+    "meaning": "Mood / Feeling",
+    "translation": "I feel good today.",
+    "kanjiSlug": "kanji-fee-ingredient"
+  },
+  {
+    "id": 55,
+    "sentence": "おくじょうから まちが よく みえます。",
+    "question": "おくじょう",
+    "options": [
+      "屋根",
+      "店内",
+      "入口",
+      "屋上"
+    ],
+    "correct": "屋上",
+    "meaning": "Rooftop",
+    "translation": "You can see the town clearly from the rooftop.",
+    "kanjiSlug": "kanji-shop-roof"
+  },
+  {
+    "id": 56,
+    "sentence": "せんせいと にほんごで かいわしました。",
+    "question": "かいわ",
+    "options": [
+      "会議",
+      "会話",
+      "会社",
+      "会場"
+    ],
+    "correct": "会話",
+    "meaning": "Conversation",
+    "translation": "I had a conversation in Japanese with my teacher.",
+    "kanjiSlug": "kanji-meeting"
+  },
+  {
+    "id": 57,
+    "sentence": "わたしは バスで かよっています。",
+    "question": "かよっています",
+    "options": [
+      "通っています",
+      "送っています",
+      "歩っています",
+      "帰っています"
+    ],
+    "correct": "通っています",
+    "meaning": "To commute / Go regularly",
+    "translation": "I commute by bus.",
+    "kanjiSlug": "kanji-commute-pass"
+  },
+  {
+    "id": 58,
+    "sentence": "きんじょに スーパーが あります。",
+    "question": "きんじょ",
+    "options": [
+      "近道",
+      "住所",
+      "近所",
+      "近駅"
+    ],
+    "correct": "近所",
+    "meaning": "Neighborhood",
+    "translation": "There is a supermarket in the neighborhood.",
+    "kanjiSlug": "kanji-near-chikai"
+  },
+  {
+    "id": 59,
+    "sentence": "あさから ことりの こえが きこえます。",
+    "question": "ことり",
+    "options": [
+      "小鳥",
+      "大鳥",
+      "青鳥",
+      "白鳥"
+    ],
+    "correct": "小鳥",
+    "meaning": "Small bird",
+    "translation": "I can hear little birds singing since this morning.",
+    "kanjiSlug": "kanji-bird-tori"
+  },
+  {
+    "id": 60,
+    "sentence": "さらいしゅう ともだちに あいます。",
+    "question": "らいしゅう",
+    "options": [
+      "来年",
+      "来月",
+      "来週",
+      "先月"
+    ],
+    "correct": "来週",
+    "meaning": "The week after next",
+    "translation": "I'll meet my friend the week after next.",
+    "kanjiSlug": "kanji-again"
+  },
+  {
+    "id": 61,
+    "sentence": "あした イベントを おこないます。",
+    "question": "おこないます",
+    "options": [
+      "進います",
+      "始います",
+      "行います",
+      "開います"
+    ],
+    "correct": "行います",
+    "meaning": "To hold / To carry out",
+    "translation": "We will hold an event tomorrow.",
+    "kanjiSlug": "kanji-go"
+  },
+  {
+    "id": 62,
+    "sentence": "きょうは サッカーの しあいが あります。",
+    "question": "しあい",
+    "options": [
+      "試験",
+      "大会",
+      "競争",
+      "試合"
+    ],
+    "correct": "試合",
+    "meaning": "Match / Game",
+    "translation": "There is a soccer match today.",
+    "kanjiSlug": "kanji-fit-match"
+  },
+  {
+    "id": 63,
+    "sentence": "しゃちょうは かいぎに でています。",
+    "question": "しゃちょう",
+    "options": [
+      "社員",
+      "社長",
+      "会社",
+      "社内"
+    ],
+    "correct": "社長",
+    "meaning": "Company president",
+    "translation": "The company president is attending a meeting.",
+    "kanjiSlug": "kanji-company-society"
+  },
+  {
+    "id": 64,
+    "sentence": "おとうとは しょうがっこうに かよっています。",
+    "question": "しょうがっこう",
+    "options": [
+      "小学校",
+      "中学校",
+      "高校",
+      "大学"
+    ],
+    "correct": "小学校",
+    "meaning": "Elementary school",
+    "translation": "My younger brother goes to elementary school.",
+    "kanjiSlug": "kanji-school"
+  },
+  {
+    "id": 65,
+    "sentence": "この まちは じんこうが おおいです。",
+    "question": "じんこう",
+    "options": [
+      "人工",
+      "人口",
+      "人生",
+      "人間"
+    ],
+    "correct": "人口",
+    "meaning": "Population",
+    "translation": "This city has a large population.",
+    "kanjiSlug": "kanji-mouth"
+  },
+  {
+    "id": 66,
+    "sentence": "おっとは ぎんこうで はたらいています。",
+    "question": "おっと",
+    "options": [
+      "大",
+      "夫",
+      "父",
+      "兄"
+    ],
+    "correct": "夫",
+    "meaning": "Husband",
+    "translation": "My husband works at a bank.",
+    "kanjiSlug": "kanji-husband"
+  },
+  {
+    "id": 67,
+    "sentence": "おやに プレゼントを おくりました。",
+    "question": "おや",
+    "options": [
+      "親",
+      "子",
+      "家",
+      "族"
+    ],
+    "correct": "親",
+    "meaning": "Parent",
+    "translation": "I sent a present to my parents.",
+    "kanjiSlug": "kanji-parent"
+  },
+{
+  "id": 68,
+  "sentence": "わたしは かがくが すきです。",
+  "question": "かがく",
+  "options": [
+    "科学",
+    "化学",
+    "数学",
+    "文学"
+  ],
+  "correct": "科学",
+  "meaning": "Science",
+  "translation": "I like science.",
+  "kanjiSlug": "kanji-study-ben"
+},
+  {
+    "id": 69,
+    "sentence": "きのうは なかなか ねむれませんでした。",
+    "question": "なかなか",
+    "options": [
+      "半々",
+      "少々",
+      "中々",
+      "時々"
+    ],
+    "correct": "中々",
+    "meaning": "Not easily / Quite",
+    "translation": "I couldn't fall asleep easily yesterday.",
+    "kanjiSlug": "kanji-middle-center"
+  },
+  {
+    "id": 70,
+    "sentence": "にもつを はこんで ください。",
+    "question": "はこんで",
+    "options": [
+      "持んで",
+      "運んで",
+      "送んで",
+      "歩んで"
+    ],
+    "correct": "運んで",
+    "meaning": "Carry / Transport",
+    "translation": "Please carry the luggage.",
+    "kanjiSlug": "kanji-luck-transport"
+  },
+
+  {
+    "id": 71,
+    "sentence": "いそげば でんしゃに まにあいます。",
+    "question": "まにあいます",
+    "options": [
+      "間違います",
+      "合います",
+      "会います",
+      "間に合います"
+    ],
+    "correct": "間に合います",
+    "meaning": "To be in time",
+    "translation": "If we hurry, we'll make the train.",
+    "kanjiSlug": "kanji-fit-match"
+  },
+  {
+    "id": 72,
+    "sentence": "テーブルの まんなかに はなを おきました。",
+    "question": "まんなか",
+    "options": [
+      "真中",
+      "真上",
+      "真下",
+      "真横"
+    ],
+    "correct": "真中",
+    "meaning": "Middle / Center",
+    "translation": "I put the flowers in the middle of the table.",
+    "kanjiSlug": "kanji-truth-real"
+  },
+  {
+    "id": 73,
+    "sentence": "けんこうのために たばこを やめました。",
+    "question": "やめました",
+    "options": [
+      "止めました",
+      "辞めました",
+      "終めました",
+      "休めました"
+    ],
+    "correct": "止めました",
+    "meaning": "Stopped / Quit",
+    "translation": "I quit smoking for my health.",
+    "kanjiSlug": "kanji-stop-tomeru"
+  },
+{
+  "id": 74,
+  "sentence": "しゅっぱつの よういは できました。",
+  "question": "ようい",
+  "options": [
+    "用事",
+    "注意",
+    "用意",
+    "意味"
+  ],
+  "correct": "用意",
+  "meaning": "Preparation",
+  "translation": "I'm ready to leave.",
+  "kanjiSlug": "kanji-use-purpose"
+},
+  {
+    "id": 75,
+    "sentence": "こんやは りょかんに とまります。",
+    "question": "りょかん",
+    "options": [
+      "旅行",
+      "旅店",
+      "旅場",
+      "旅館"
+    ],
+    "correct": "旅館",
+    "meaning": "Japanese inn",
+    "translation": "We're staying at a Japanese inn tonight.",
+    "kanjiSlug": "kanji-building-hall"
+  }
+]

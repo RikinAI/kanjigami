@@ -289,11 +289,11 @@ const breadcrumbSchema = {
   </div>
 </section>
 
-{/* Kanji Practice */}
+{/* JLPT N5 Kanji Practice */}
 <section>
 
   <h2 className="mb-6 text-2xl font-bold text-slate-900">
-    🈶 Kanji Practice
+    🈶 N5 Kanji Practice
   </h2>
 
   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -345,6 +345,130 @@ const breadcrumbSchema = {
 
           <h3 className="text-xl md:text-2xl font-bold text-slate-900">
             JLPT N5 Kanji Practice 2
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Read the Hiragana word and choose the correct Kanji.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Practice →
+          </div>
+
+        </div>
+
+      </div>
+    </Link>
+
+    {/* Practice 3 */}
+
+    <Link
+      href="/practice/jlpt-n5-kanji-practice-3"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N5 Kanji Practice 3
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Read the highlighted JLPT N5 Kanji and choose the correct reading.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Practice →
+          </div>
+
+        </div>
+
+      </div>
+    </Link>
+
+    {/* Practice 4 */}
+
+    <Link
+      href="/practice/jlpt-n5-kanji-practice-4"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N5 Kanji Practice 4
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Read the Hiragana word and choose the correct Kanji.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Practice →
+          </div>
+
+        </div>
+
+      </div>
+    </Link>
+
+    {/* Practice 5 */}
+
+    <Link
+      href="/practice/jlpt-n5-kanji-practice-5"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N5 Kanji Practice 5
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Read the highlighted JLPT N5 Kanji and choose the correct reading.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Practice →
+          </div>
+
+        </div>
+
+      </div>
+    </Link>
+
+    {/* Practice 6 */}
+
+    <Link
+      href="/practice/jlpt-n5-kanji-practice-6"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N5 Kanji Practice 6
           </h3>
 
           <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">

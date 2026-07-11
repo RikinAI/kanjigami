@@ -1,43 +1,58 @@
 [
   {
-    "id": 1,
-    "sentence": "新しい くるま を かいました。",
-    "question": "新",
+    "id": 24,
+    "sentence": "えきまで 車で いきます。",
+    "question": "車",
     "options": [
-      "あたらしい",
-      "しん",
-      "あらたしい",
-      "にい"
+      "くるま",
+      "しゃ",
+      "しゃりん",
+      "くる"
     ],
-    "correct": "あたらしい",
-    "meaning": "New",
-    "translation": "I bought a new car.",
-    "kanjiSlug": "kanji-new"
+    "correct": "くるま",
+    "meaning": "Car",
+    "translation": "I go to the station by car.",
+    "kanjiSlug": "kanji-car"
   },
   {
-    "id": 2,
-    "sentence": "父は 会社へ 行きます。",
-    "question": "行",
+    "id": 7,
+    "sentence": "みずを 飲みます。",
+    "question": "飲みます",
     "options": [
-      "いきます",
-      "ゆきます",
-      "こう",
-      "いります"
+      "たべます",
+      "きます",
+      "のみます",
+      "いきます"
     ],
-    "correct": "いきます",
-    "meaning": "To go",
-    "translation": "My father goes to the company.",
-    "kanjiSlug": "kanji-go"
+    "correct": "のみます",
+    "meaning": "To drink",
+    "translation": "I drink water.",
+    "kanjiSlug": "kanji-drink"
+  },
+  {
+    "id": 18,
+    "sentence": "日ようびは やすみです。",
+    "question": "日",
+    "options": [
+      "ひ",
+      "にち",
+      "か",
+      "じつ"
+    ],
+    "correct": "にち",
+    "meaning": "Day / Sun",
+    "translation": "Sunday is a holiday.",
+    "kanjiSlug": "kanji-day-sun"
   },
   {
     "id": 3,
-    "sentence": "山の 上に きれいな 花が あります。",
+    "sentence": "やまの 上に きれいな はなが あります。",
     "question": "上",
     "options": [
-      "うえ",
       "じょう",
-      "した",
-      "なか"
+      "なか",
+      "うえ",
+      "した"
     ],
     "correct": "うえ",
     "meaning": "Up / Above",
@@ -45,33 +60,320 @@
     "kanjiSlug": "kanji-up-above"
   },
   {
+    "id": 11,
+    "sentence": "ともだちと 話します。",
+    "question": "話します",
+    "options": [
+      "わ",
+      "きます",
+      "ご",
+      "はなします"
+    ],
+    "correct": "はなします",
+    "meaning": "To speak",
+    "translation": "I talk with my friend.",
+    "kanjiSlug": "kanji-speak-talk"
+  },
+  {
+    "id": 1,
+    "sentence": "新しい くるま を かいました。",
+    "question": "新しい",
+    "options": [
+      "しん",
+      "にい",
+      "あらたしい",
+      "あたらしい"
+    ],
+    "correct": "あたらしい",
+    "meaning": "New",
+    "translation": "I bought a new car.",
+    "kanjiSlug": "kanji-new"
+  },
+  {
+    "id": 22,
+    "sentence": "これは わたしの 本です。",
+    "question": "本",
+    "options": [
+      "ほん",
+      "ぽん",
+      "ぼん",
+      "もと"
+    ],
+    "correct": "ほん",
+    "meaning": "Book",
+    "translation": "This is my book.",
+    "kanjiSlug": "kanji-book"
+  },
+  {
+    "id": 5,
+    "sentence": "ともだちと えいがを 見ます。",
+    "question": "見ます",
+    "options": [
+      "けん",
+      "みます",
+      "よみます",
+      "ききます"
+    ],
+    "correct": "みます",
+    "meaning": "To see / To look",
+    "translation": "I watch a movie with my friend.",
+    "kanjiSlug": "kanji-see-look"
+  },
+  {
+    "id": 21,
+    "sentence": "きょうは 金ようびです。",
+    "question": "金ようび",
+    "options": [
+      "げつようび",
+      "きんようび",
+      "もくようび",
+      "かようび"
+    ],
+    "correct": "きんようび",
+    "meaning": "Friday",
+    "translation": "Today is Friday.",
+    "kanjiSlug": "kanji-gold-money"
+  },
+  {
+    "id": 13,
+    "sentence": "あした ともだちが 来ます。",
+    "question": "来ます",
+    "options": [
+      "いきます",
+      "らい",
+      "きます",
+      "きまする"
+    ],
+    "correct": "きます",
+    "meaning": "To come",
+    "translation": "My friend will come tomorrow.",
+    "kanjiSlug": "kanji-come"
+  },
+  {
+    "id": 9,
+    "sentence": "なまえを 書きます。",
+    "question": "書きます",
+    "options": [
+      "はなします",
+      "かきます",
+      "いいます",
+      "よみます"
+    ],
+    "correct": "かきます",
+    "meaning": "To write",
+    "translation": "I write my name.",
+    "kanjiSlug": "kanji-write"
+  },
+  {
+    "id": 15,
+    "sentence": "へやに 入ります。",
+    "question": "入ります",
+    "options": [
+      "はいります",
+      "でます",
+      "いれます",
+      "にゅう"
+    ],
+    "correct": "はいります",
+    "meaning": "To enter",
+    "translation": "I enter the room.",
+    "kanjiSlug": "kanji-enter"
+  },
+  {
     "id": 4,
-    "sentence": "毎日 日本語を 勉強します。",
+    "sentence": "毎日 にほんご を べんきょうします。",
     "question": "毎",
     "options": [
+      "ひ",
       "まい",
-      "ごと",
       "まえ",
-      "ひ"
+      "ごと"
     ],
     "correct": "まい",
     "meaning": "Every",
     "translation": "I study Japanese every day.",
     "kanjiSlug": "kanji-every"
   },
+
+
   {
-    "id": 5,
-    "sentence": "友だちと 映画を 見ます。",
-    "question": "見",
+    "id": 20,
+    "sentence": "いま いち時半です。",
+    "question": "半",
+    "options": [
+      "ばん",
+      "は",
+      "はん",
+      "なか"
+    ],
+    "correct": "はん",
+    "meaning": "Half",
+    "translation": "It is half past one now.",
+    "kanjiSlug": "kanji-half"
+  },
+  {
+    "id": 6,
+    "sentence": "あさ ごはんを 食べます。",
+    "question": "食べます",
+    "options": [
+      "たべる",
+      "しょく",
+      "のみます",
+      "たべます"
+    ],
+    "correct": "たべます",
+    "meaning": "To eat",
+    "translation": "I eat breakfast.",
+    "kanjiSlug": "kanji-eat"
+  },
+  {
+    "id": 16,
+    "sentence": "うちを 出ます。",
+    "question": "出ます",
+    "options": [
+      "はいります",
+      "しゅつ",
+      "だします",
+      "でます"
+    ],
+    "correct": "でます",
+    "meaning": "To leave",
+    "translation": "I leave the house.",
+    "kanjiSlug": "kanji-exit-leave"
+  },
+  {
+    "id": 25,
+    "sentence": "おとうさんは 会社で はたらいています。",
+    "question": "会社",
+    "options": [
+      "しゃかい",
+      "かいしゃ",
+      "えいしゃ",
+      "あいしゃ"
+    ],
+    "correct": "かいしゃ",
+    "meaning": "Company",
+    "translation": "My father works at a company.",
+    "kanjiSlug": "kanji-meeting"
+  },
+  {
+    "id": 14,
+    "sentence": "みせで ほんを 買います。",
+    "question": "買います",
+    "options": [
+      "うります",
+      "かえます",
+      "かいます",
+      "ばいます"
+    ],
+    "correct": "かいます",
+    "meaning": "To buy",
+    "translation": "I buy a book at the store.",
+    "kanjiSlug": "kanji-buy"
+  },
+  {
+    "id": 2,
+    "sentence": "ちち は かいしゃ へ 行きます。",
+    "question": "行きます",
+    "options": [
+      "こう",
+      "いります",
+      "いきます",
+      "ゆきます"
+    ],
+    "correct": "いきます",
+    "meaning": "To go",
+    "translation": "My father goes to the company.",
+    "kanjiSlug": "kanji-go"
+  },
+  {
+    "id": 10,
+    "sentence": "せんせいの はなしを 聞きます。",
+    "question": "聞きます",
     "options": [
       "みます",
-      "けん",
       "ききます",
+      "はなします",
       "よみます"
     ],
-    "correct": "みます",
-    "meaning": "To see / To look",
-    "translation": "I watch a movie with my friend.",
-    "kanjiSlug": "kanji-see-look"
+    "correct": "ききます",
+    "meaning": "To listen / To hear",
+    "translation": "I listen to the teacher.",
+    "kanjiSlug": "kanji-listen-hear"
+  },
+  {
+    "id": 19,
+    "sentence": "いま なん時 ですか。",
+    "question": "時",
+    "options": [
+      "じ",
+      "し",
+      "じかん",
+      "とき"
+    ],
+    "correct": "じ",
+    "meaning": "Time / Hour",
+    "translation": "What time is it now?",
+    "kanjiSlug": "kanji-time-hour"
+  },
+  {
+    "id": 12,
+    "sentence": "せんせいに 言います。",
+    "question": "言います",
+    "options": [
+      "かきます",
+      "いいます",
+      "はなします",
+      "かえます"
+    ],
+    "correct": "いいます",
+    "meaning": "To say",
+    "translation": "I say it to the teacher.",
+    "kanjiSlug": "kanji-say"
+  },
+  {
+    "id": 8,
+    "sentence": "ほんを 読みます。",
+    "question": "読みます",
+    "options": [
+      "ききます",
+      "よみます",
+      "かきます",
+      "みます"
+    ],
+    "correct": "よみます",
+    "meaning": "To read",
+    "translation": "I read a book.",
+    "kanjiSlug": "kanji-read"
+  },
+  {
+    "id": 17,
+    "sentence": "きょうは 月ようびです。",
+    "question": "月",
+    "options": [
+      "つき",
+      "がつ",
+      "にち",
+      "げつ"
+    ],
+    "correct": "げつ",
+    "meaning": "Moon / Monday",
+    "translation": "Today is Monday.",
+    "kanjiSlug": "kanji-moon-month"
+  },
+  {
+    "id": 23,
+    "sentence": "きょうは 雨です。かさを もって いきます。",
+    "question": "雨",
+    "options": [
+      "あま",
+      "あめ",
+      "う",
+      "ゆき"
+    ],
+    "correct": "あめ",
+    "meaning": "Rain",
+    "translation": "It's raining today. I'll take an umbrella.",
+    "kanjiSlug": "kanji-rain"
   }
 ]

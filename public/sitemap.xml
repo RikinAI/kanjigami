@@ -31,6 +31,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/practice/jlpt-n5-kanji-practice-2</loc>
 </url>
 <url>
+  <loc>https://kanjigami.com/practice/jlpt-n5-kanji-practice-3</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/jlpt-n5-kanji-practice-4</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/jlpt-n5-kanji-practice-5</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/jlpt-n5-kanji-practice-6</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/jlpt-n4-kanji-practice-1</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/jlpt-n4-kanji-practice-2</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/jlpt-n4-kanji-practice-3</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/jlpt-n4-kanji-practice-4</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/jlpt-n4-kanji-practice-5</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/practice/jlpt-n4-kanji-practice-6</loc>
+</url>
+<url>
   <loc>https://kanjigami.com/hiragana</loc>
 </url>
 <url>
@@ -443,6 +473,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-blue-ao</loc>
+</url>
+<url>
+  <loc>https://kanjigami.com/kanji/kanji-white</loc>
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-black-kuro</loc>
@@ -3101,9 +3134,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-reach-extend</loc>
-</url>
-<url>
-  <loc>https://kanjigami.com/kanji/kanji-save-rescue</loc>
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-cry-weep</loc>

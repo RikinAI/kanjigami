@@ -1,0 +1,378 @@
+[
+  {
+    "id": 51,
+    "sentence": "らいねん にほんへ いきたいです。",
+    "question": "ねん",
+    "options": [
+      "時",
+      "年",
+      "月",
+      "日"
+    ],
+    "correct": "年",
+    "meaning": "Year",
+    "translation": "I want to go to Japan next year.",
+    "kanjiSlug": "kanji-year"
+  },
+  {
+    "id": 52,
+    "sentence": "この えいがは ながいですね。",
+    "question": "ながい",
+    "options": [
+      "高い",
+      "古い",
+      "長い",
+      "多い"
+    ],
+    "correct": "長い",
+    "meaning": "Long",
+    "translation": "This movie is long, isn't it?",
+    "kanjiSlug": "kanji-long"
+  },
+  {
+    "id": 53,
+    "sentence": "きょうは ひとが すくないですね。",
+    "question": "すくない",
+    "options": [
+      "多い",
+      "少ない",
+      "古い",
+      "安い"
+    ],
+    "correct": "少ない",
+    "meaning": "Few",
+    "translation": "There aren't many people today.",
+    "kanjiSlug": "kanji-few"
+  },
+  {
+    "id": 54,
+    "sentence": "えきの まえで まちあわせを します。",
+    "question": "まえ",
+    "options": [
+      "後",
+      "前",
+      "中",
+      "外"
+    ],
+    "correct": "前",
+    "meaning": "Front / Before",
+    "translation": "Let's meet in front of the station.",
+    "kanjiSlug": "kanji-before-front"
+  },
+  {
+    "id": 55,
+    "sentence": "しごとの あとで ともだちに あいます。",
+    "question": "あと",
+    "options": [
+      "前",
+      "後",
+      "外",
+      "中"
+    ],
+    "correct": "後",
+    "meaning": "After",
+    "translation": "I'll meet my friend after work.",
+    "kanjiSlug": "kanji-after"
+  },
+  {
+    "id": 56,
+    "sentence": "バッグの なかに さいふが あります。",
+    "question": "なか",
+    "options": [
+      "外",
+      "中",
+      "上",
+      "下"
+    ],
+    "correct": "中",
+    "meaning": "Inside",
+    "translation": "My wallet is inside the bag.",
+    "kanjiSlug": "kanji-middle-inside"
+  },
+  {
+    "id": 57,
+    "sentence": "つくえの したに ねこが います。",
+    "question": "した",
+    "options": [
+      "上",
+      "中",
+      "下",
+      "左"
+    ],
+    "correct": "下",
+    "meaning": "Below",
+    "translation": "There is a cat under the desk.",
+    "kanjiSlug": "kanji-down-below"
+  },
+  {
+    "id": 58,
+    "sentence": "みずを のんでください。",
+    "question": "みず",
+    "options": [
+      "火",
+      "木",
+      "水",
+      "金"
+    ],
+    "correct": "水",
+    "meaning": "Water",
+    "translation": "Please drink some water.",
+    "kanjiSlug": "kanji-water"
+  },
+  {
+    "id": 59,
+    "sentence": "きょうは もくようびです。あしたは かようびでは ありません。",
+    "question": "かようび",
+    "options": [
+      "水ようび",
+      "火ようび",
+      "木ようび",
+      "金ようび"
+    ],
+    "correct": "火ようび",
+    "meaning": "Tuesday",
+    "translation": "Today is Thursday. Tomorrow isn't Tuesday.",
+    "kanjiSlug": "kanji-fire"
+  },
+  {
+    "id": 60,
+    "sentence": "どようびは うちで ゆっくりします。",
+    "question": "どようび",
+    "options": [
+      "木ようび",
+      "土ようび",
+      "日ようび",
+      "月ようび"
+    ],
+    "correct": "土ようび",
+    "meaning": "Saturday",
+    "translation": "I'll relax at home on Saturday.",
+    "kanjiSlug": "kanji-earth-soil"
+  },
+  {
+    "id": 61,
+    "sentence": "この くるまは いちまんえんでした。",
+    "question": "まん",
+    "options": [
+      "千",
+      "百",
+      "万",
+      "円"
+    ],
+    "correct": "万",
+    "meaning": "Ten thousand",
+    "translation": "This car cost 10,000 yen.",
+    "kanjiSlug": "kanji-ten-thousand"
+  },
+  {
+    "id": 62,
+    "sentence": "この じてんしゃは さんぜんえんです。",
+    "question": "せん",
+    "options": [
+      "百",
+      "千",
+      "万",
+      "円"
+    ],
+    "correct": "千",
+    "meaning": "Thousand",
+    "translation": "This bicycle costs 3,000 yen.",
+    "kanjiSlug": "kanji-thousand"
+  },
+
+  {
+    "id": 63,
+    "sentence": "こんばん つきが とても きれいです。",
+    "question": "つき",
+    "options": [
+      "日",
+      "月",
+      "火",
+      "水"
+    ],
+    "correct": "月",
+    "meaning": "Moon",
+    "translation": "The moon is very beautiful tonight.",
+    "kanjiSlug": "kanji-moon-month"
+  },
+  {
+    "id": 64,
+    "sentence": "きんようびの よるは ともだちと あいます。",
+    "question": "きんようび",
+    "options": [
+      "木ようび",
+      "金ようび",
+      "土ようび",
+      "水ようび"
+    ],
+    "correct": "金ようび",
+    "meaning": "Friday",
+    "translation": "I meet my friends on Friday night.",
+    "kanjiSlug": "kanji-gold-money"
+  },
+  {
+    "id": 65,
+    "sentence": "みぎへ まがると コンビニが あります。",
+    "question": "みぎ",
+    "options": [
+      "左",
+      "上",
+      "下",
+      "右"
+    ],
+    "correct": "右",
+    "meaning": "Right",
+    "translation": "Turn right and you'll see a convenience store.",
+    "kanjiSlug": "kanji-right"
+  },
+  {
+    "id": 66,
+    "sentence": "きょうは ぎんこうへ いきます。",
+    "question": "いきます",
+    "options": [
+      "来きます",
+      "行きます",
+      "帰きます",
+      "歩きます"
+    ],
+    "correct": "行きます",
+    "meaning": "To go",
+    "translation": "I'm going to the bank today.",
+    "kanjiSlug": "kanji-go"
+  },
+  {
+    "id": 67,
+    "sentence": "まどから やまが みえます。",
+    "question": "みえます",
+    "options": [
+      "読えます",
+      "聞えます",
+      "見えます",
+      "話えます"
+    ],
+    "correct": "見えます",
+    "meaning": "Can see",
+    "translation": "I can see the mountain from the window.",
+    "kanjiSlug": "kanji-see-look"
+  },
+  {
+    "id": 68,
+    "sentence": "おひるに うどんを たべました。",
+    "question": "たべました",
+    "options": [
+      "飲べました",
+      "買べました",
+      "食べました",
+      "読べました"
+    ],
+    "correct": "食べました",
+    "meaning": "Ate",
+    "translation": "I ate udon for lunch.",
+    "kanjiSlug": "kanji-eat"
+  },
+  {
+    "id": 69,
+    "sentence": "この ふくは あたらしいです。",
+    "question": "あたらしい",
+    "options": [
+      "古しい",
+      "新しい",
+      "長しい",
+      "高しい"
+    ],
+    "correct": "新しい",
+    "meaning": "New",
+    "translation": "These clothes are new.",
+    "kanjiSlug": "kanji-new"
+  },
+  {
+    "id": 70,
+    "sentence": "あしたは ははの たんじょうびです。",
+    "question": "はは",
+    "options": [
+      "父",
+      "友",
+      "母",
+      "女"
+    ],
+    "correct": "母",
+    "meaning": "Mother",
+    "translation": "Tomorrow is my mother's birthday.",
+    "kanjiSlug": "kanji-mother"
+  },
+  {
+    "id": 71,
+    "sentence": "この ほんを よんでください。",
+    "question": "よんでください",
+    "options": [
+      "書んでください",
+      "読んでください",
+      "見んでください",
+      "聞んでください"
+    ],
+    "correct": "読んでください",
+    "meaning": "Please read",
+    "translation": "Please read this book.",
+    "kanjiSlug": "kanji-read"
+  },
+  {
+    "id": 72,
+    "sentence": "きょうは しずかな みせで ごはんを たべました。",
+    "question": "みせ",
+    "options": [
+      "駅",
+      "学校",
+      "会社",
+      "店"
+    ],
+    "correct": "店",
+    "meaning": "Shop / Restaurant",
+    "translation": "I ate at a quiet restaurant today.",
+    "kanjiSlug": "kanji-shop"
+  },
+  {
+    "id": 73,
+    "sentence": "でんしゃに のる まえに きっぷを かいます。",
+    "question": "まえ",
+    "options": [
+      "後",
+      "中",
+      "前",
+      "外"
+    ],
+    "correct": "前",
+    "meaning": "Before",
+    "translation": "I buy a ticket before getting on the train.",
+    "kanjiSlug": "kanji-before-front"
+  },
+  {
+    "id": 74,
+    "sentence": "へやの なかは あたたかいです。",
+    "question": "なか",
+    "options": [
+      "外",
+      "前",
+      "中",
+      "下"
+    ],
+    "correct": "中",
+    "meaning": "Inside",
+    "translation": "It's warm inside the room.",
+    "kanjiSlug": "kanji-middle-inside"
+  },
+  {
+    "id": 75,
+    "sentence": "まいあさ はちじに おきます。",
+    "question": "はち",
+    "options": [
+      "七",
+      "八",
+      "九",
+      "六"
+    ],
+    "correct": "八",
+    "meaning": "Eight",
+    "translation": "I wake up at eight every morning.",
+    "kanjiSlug": "kanji-eight"
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "id": 26,
+    "sentence": "ゆうびんきょくは ひだりです。",
+    "question": "ひだり",
+    "options": [
+      "右",
+      "左",
+      "上",
+      "下"
+    ],
+    "correct": "左",
+    "meaning": "Left",
+    "translation": "The post office is on the left.",
+    "kanjiSlug": "kanji-left"
+  },
+  {
+    "id": 27,
+    "sentence": "ゆうひは にしに しずみます。",
+    "question": "にし",
+    "options": [
+      "東",
+      "南",
+      "西",
+      "北"
+    ],
+    "correct": "西",
+    "meaning": "West",
+    "translation": "The sun sets in the west.",
+    "kanjiSlug": "kanji-west"
+  },
+  {
+    "id": 28,
+    "sentence": "あさ たいようは ひがしから のぼります。",
+    "question": "ひがし",
+    "options": [
+      "西",
+      "南",
+      "北",
+      "東"
+    ],
+    "correct": "東",
+    "meaning": "East",
+    "translation": "The sun rises in the east.",
+    "kanjiSlug": "kanji-east"
+  },
+  {
+    "id": 29,
+    "sentence": "ほっかいどうは にほんの きたに あります。",
+    "question": "きた",
+    "options": [
+      "北",
+      "南",
+      "西",
+      "東"
+    ],
+    "correct": "北",
+    "meaning": "North",
+    "translation": "Hokkaido is in northern Japan.",
+    "kanjiSlug": "kanji-north"
+  },
+  {
+    "id": 30,
+    "sentence": "きょうは そらが とても あおいです。",
+    "question": "そら",
+    "options": [
+      "海",
+      "空",
+      "山",
+      "川"
+    ],
+    "correct": "空",
+    "meaning": "Sky",
+    "translation": "The sky is very blue today.",
+    "kanjiSlug": "kanji-sky"
+  },
+  {
+    "id": 31,
+    "sentence": "まいあさ ぎゅうにゅうを のみます。",
+    "question": "ぎゅう",
+    "options": [
+      "魚",
+      "馬",
+      "牛",
+      "鳥"
+    ],
+    "correct": "牛",
+    "meaning": "Cow",
+    "translation": "I drink milk every morning.",
+    "kanjiSlug": "kanji-cow"
+  },
+  {
+    "id": 32,
+    "sentence": "どうぶつえんで うまを みました。",
+    "question": "うま",
+    "options": [
+      "魚",
+      "牛",
+      "馬",
+      "犬"
+    ],
+    "correct": "馬",
+    "meaning": "Horse",
+    "translation": "I saw a horse at the zoo.",
+    "kanjiSlug": "kanji-horse"
+  },
+  {
+    "id": 33,
+    "sentence": "この ケーキは ごひゃくえんです。",
+    "question": "えん",
+    "options": [
+      "万",
+      "円",
+      "百",
+      "千"
+    ],
+    "correct": "円",
+    "meaning": "Yen",
+    "translation": "This cake costs 500 yen.",
+    "kanjiSlug": "kanji-yen"
+  },
+  {
+    "id": 34,
+    "sentence": "この にもつは おもいです。ちからが ひつようです。",
+    "question": "ちから",
+    "options": [
+      "手",
+      "足",
+      "力",
+      "目"
+    ],
+    "correct": "力",
+    "meaning": "Strength",
+    "translation": "This luggage is heavy. You need strength.",
+    "kanjiSlug": "kanji-power"
+  },
+  {
+    "id": 35,
+    "sentence": "てを あらってから ごはんを たべます。",
+    "question": "て",
+    "options": [
+      "耳",
+      "口",
+      "手",
+      "足"
+    ],
+    "correct": "手",
+    "meaning": "Hand",
+    "translation": "I wash my hands before eating.",
+    "kanjiSlug": "kanji-hand"
+  },
+  {
+    "id": 36,
+    "sentence": "あしが いたいので きょうは はしりません。",
+    "question": "あし",
+    "options": [
+      "手",
+      "耳",
+      "目",
+      "足"
+    ],
+    "correct": "足",
+    "meaning": "Foot / Leg",
+    "translation": "My leg hurts, so I won't run today.",
+    "kanjiSlug": "kanji-foot"
+  },
+  {
+    "id": 37,
+    "sentence": "さんじ さんぷんです。",
+    "question": "ぷん",
+    "options": [
+      "時",
+      "年",
+      "分",
+      "半"
+    ],
+    "correct": "分",
+    "meaning": "Minute",
+    "translation": "It's 3:03.",
+    "kanjiSlug": "kanji-minute"
+  },
+  {
+    "id": 38,
+    "sentence": "この きは とても おおきいです。",
+    "question": "き",
+    "options": [
+      "花",
+      "草",
+      "木",
+      "山"
+    ],
+    "correct": "木",
+    "meaning": "Tree",
+    "translation": "This tree is very big.",
+    "kanjiSlug": "kanji-tree"
+  },
+
+  {
+    "id": 39,
+    "sentence": "いなかには たんぼが たくさん あります。",
+    "question": "た",
+    "options": [
+      "山",
+      "川",
+      "田",
+      "花"
+    ],
+    "correct": "田",
+    "meaning": "Rice field",
+    "translation": "There are many rice fields in the countryside.",
+    "kanjiSlug": "kanji-rice-field"
+  },
+  {
+    "id": 40,
+    "sentence": "おおきく くちを あけてください。",
+    "question": "くち",
+    "options": [
+      "耳",
+      "目",
+      "口",
+      "手"
+    ],
+    "correct": "口",
+    "meaning": "Mouth",
+    "translation": "Please open your mouth wide.",
+    "kanjiSlug": "kanji-mouth"
+  },
+  {
+    "id": 41,
+    "sentence": "テレビを みすぎて めが つかれました。",
+    "question": "め",
+    "options": [
+      "耳",
+      "目",
+      "口",
+      "手"
+    ],
+    "correct": "目",
+    "meaning": "Eye",
+    "translation": "My eyes are tired from watching too much TV.",
+    "kanjiSlug": "kanji-eye"
+  },
+  {
+    "id": 42,
+    "sentence": "みみが いたいので びょういんへ いきます。",
+    "question": "みみ",
+    "options": [
+      "鼻",
+      "目",
+      "耳",
+      "口"
+    ],
+    "correct": "耳",
+    "meaning": "Ear",
+    "translation": "My ear hurts, so I'm going to the hospital.",
+    "kanjiSlug": "kanji-ear"
+  },
+  {
+    "id": 43,
+    "sentence": "あの おとこの ひとは わたしの おじです。",
+    "question": "おとこ",
+    "options": [
+      "男",
+      "女",
+      "子",
+      "人"
+    ],
+    "correct": "男",
+    "meaning": "Man",
+    "translation": "That man is my uncle.",
+    "kanjiSlug": "kanji-man"
+  },
+  {
+    "id": 44,
+    "sentence": "あの おんなの ひとは せんせいです。",
+    "question": "おんな",
+    "options": [
+      "男",
+      "子",
+      "女",
+      "母"
+    ],
+    "correct": "女",
+    "meaning": "Woman",
+    "translation": "That woman is a teacher.",
+    "kanjiSlug": "kanji-woman"
+  },
+  {
+    "id": 45,
+    "sentence": "こうえんで こどもが あそんでいます。",
+    "question": "こ",
+    "options": [
+      "母",
+      "友",
+      "子",
+      "父"
+    ],
+    "correct": "子",
+    "meaning": "Child",
+    "translation": "Children are playing in the park.",
+    "kanjiSlug": "kanji-child"
+  },
+  {
+    "id": 46,
+    "sentence": "でんわの でんちが ありません。",
+    "question": "でん",
+    "options": [
+      "車",
+      "電",
+      "気",
+      "天"
+    ],
+    "correct": "電",
+    "meaning": "Electric",
+    "translation": "My phone battery is dead.",
+    "kanjiSlug": "kanji-electric"
+  },
+  {
+    "id": 47,
+    "sentence": "にほんは うつくしい くにです。",
+    "question": "くに",
+    "options": [
+      "町",
+      "国",
+      "村",
+      "県"
+    ],
+    "correct": "国",
+    "meaning": "Country",
+    "translation": "Japan is a beautiful country.",
+    "kanjiSlug": "kanji-country"
+  },
+  {
+    "id": 48,
+    "sentence": "ともだちが あした きます。",
+    "question": "きます",
+    "options": [
+      "来ます",
+      "帰ります",
+      "行きます",
+      "入ります"
+    ],
+    "correct": "来ます",
+    "meaning": "To come",
+    "translation": "My friend will come tomorrow.",
+    "kanjiSlug": "kanji-come"
+  },
+  {
+    "id": 49,
+    "sentence": "あした かいぎが あります。",
+    "question": "かい",
+    "options": [
+      "社",
+      "店",
+      "駅",
+      "会"
+    ],
+    "correct": "会",
+    "meaning": "Meeting",
+    "translation": "There is a meeting tomorrow.",
+    "kanjiSlug": "kanji-meeting"
+  },
+  {
+    "id": 50,
+    "sentence": "この みせには ほんが おおいです。",
+    "question": "おおい",
+    "options": [
+      "少い",
+      "古い",
+      "多い",
+      "長い"
+    ],
+    "correct": "多い",
+    "meaning": "Many",
+    "translation": "This shop has many books.",
+    "kanjiSlug": "kanji-many"
+  }
+]

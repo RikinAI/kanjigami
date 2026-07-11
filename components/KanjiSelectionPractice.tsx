@@ -106,19 +106,19 @@ export default function KanjiSelectionPractice({
   </h2>
 
   <p className="mt-2 text-base text-slate-600">
-    Read the <span className="font-semibold text-red-700">highlighted</span> word and choose the correct Kanji.
+    Read the <span className="text-red-700">highlighted</span> word and choose the correct Kanji.
   </p>
 
   <div className="mt-5 space-y-2">
 
-    <p className="text-base md:text-lg font-bold leading-relaxed tracking-wide text-slate-900">
-      <span className="font-bold text-red-700">
+    <p className="text-base md:text-lg leading-relaxed tracking-wide text-slate-900">
+      <span className="text-red-700">
         あか
       </span>
       の　ことばは　どう　かきますか。
     </p>
 
-    <p className="text-base md:text-lg font-bold leading-relaxed tracking-wide text-slate-900">
+    <p className="text-base md:text-lg leading-relaxed tracking-wide text-slate-900">
       １・２・３・４から　いちばん　いい　ものを　
       ひとつ　えらんで　ください。
     </p>
@@ -145,11 +145,11 @@ export default function KanjiSelectionPractice({
               className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm"
             >
 
-              <p className="mb-2 text-sm font-semibold text-green-700">
+              <p className="mb-2 text-sm text-green-700">
                 Question {index + 1}
               </p>
 
-              <p className="mb-6 text-xl md:text-2xl font-medium leading-relaxed text-slate-900">
+              <p className="mb-6 text-xl md:text-xl leading-relaxed text-slate-900">
 
                 {q.sentence
                   .split(q.question)
@@ -161,7 +161,7 @@ export default function KanjiSelectionPractice({
 
                       {index < array.length - 1 && (
 
-                        <span className="rounded px-1 font-bold text-red-700">
+                        <span className="rounded px-1 text-red-700">
                           {q.question}
                         </span>
 

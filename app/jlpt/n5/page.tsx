@@ -495,10 +495,10 @@ export default function JLPTN5Page() {
     {/* Hiragana */}
     <Link
       href="/hiragana"
-      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-orange-700 transition duration-300"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
     >
       <div className="flex items-center gap-4">
-        <div className="text-4xl md:text-5xl font-bold text-orange-700">
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
           あ
         </div>
 
@@ -512,7 +512,7 @@ export default function JLPTN5Page() {
                 Handakuten and Combination Sounds.
           </p>
 
-          <div className="mt-4 font-semibold text-orange-700 group-hover:translate-x-1 transition-transform">
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
             Start Learning →
           </div>
         </div>
@@ -522,10 +522,10 @@ export default function JLPTN5Page() {
     {/* JLPT N4 */}
     <Link
       href="/jlpt/n4"
-      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-orange-700 transition duration-300"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
     >
       <div className="flex items-center gap-4">
-        <div className="text-4xl md:text-5xl font-bold text-orange-700">
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
           字
         </div>
 
@@ -539,7 +539,7 @@ export default function JLPTN5Page() {
             example words and memory tricks.
           </p>
 
-          <div className="mt-4 font-semibold text-orange-700 group-hover:translate-x-1 transition-transform">
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
             Start Learning →
           </div>
         </div>

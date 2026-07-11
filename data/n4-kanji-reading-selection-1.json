@@ -1,0 +1,378 @@
+[
+  {
+    "id": 1,
+    "sentence": "父は びょういんで はたらいています。",
+    "question": "びょういん",
+    "options": [
+      "学校",
+      "銀行",
+      "病院",
+      "会社"
+    ],
+    "correct": "病院",
+    "meaning": "Hospital",
+    "translation": "My father works at a hospital.",
+    "kanjiSlug": "kanji-disease-illness"
+  },
+  {
+    "id": 2,
+    "sentence": "この りょうりは あじが いいです。",
+    "question": "あじ",
+    "options": [
+      "音",
+      "味",
+      "声",
+      "色"
+    ],
+    "correct": "味",
+    "meaning": "Taste",
+    "translation": "This dish tastes good.",
+    "kanjiSlug": "kanji-taste-flavor"
+  },
+  {
+    "id": 3,
+    "sentence": "この にもつは かるいです。",
+    "question": "かるい",
+    "options": [
+      "軽い",
+      "重い",
+      "広い",
+      "長い"
+    ],
+    "correct": "軽い",
+    "meaning": "Light (not heavy)",
+    "translation": "This luggage is light.",
+    "kanjiSlug": "kanji-light-karui"
+  },
+  {
+    "id": 4,
+    "sentence": "えきで ともだちを まちます。",
+    "question": "まちます",
+    "options": [     
+      "持ちます",
+      "立ちます",
+      "歩きます",
+      "待ちます"
+    ],
+    "correct": "待ちます",
+    "meaning": "To wait",
+    "translation": "I will wait for my friend at the station.",
+    "kanjiSlug": "kanji-wait-matsu"
+  },
+  {
+    "id": 5,
+    "sentence": "あした ともだちと うみへ いきます。",
+    "question": "うみ",
+    "options": [
+      "海",
+      "池",
+      "川",
+      "空"
+    ],
+    "correct": "海",
+    "meaning": "Sea",
+    "translation": "I'm going to the sea with my friend tomorrow.",
+    "kanjiSlug": "kanji-sea-ocean"
+  },
+  {
+    "id": 6,
+    "sentence": "この へやは ひろいです。",
+    "question": "ひろい",
+    "options": [
+      "広い",
+      "狭い",
+      "長い",
+      "高い"
+    ],
+    "correct": "広い",
+    "meaning": "Wide",
+    "translation": "This room is spacious.",
+    "kanjiSlug": "kanji-wide-spacious"
+  },
+  {
+    "id": 7,
+    "sentence": "しゅくだいは じぶんで やります。",
+    "question": "じぶん",
+    "options": [
+      "先生",
+      "自分",
+      "友達",
+      "家族"
+    ],
+    "correct": "自分",
+    "meaning": "Oneself",
+    "translation": "I'll do my homework by myself.",
+    "kanjiSlug": "kanji-self-oneself"
+  },
+  {
+    "id": 8,
+    "sentence": "この くすりを のむと げんきに なります。",
+    "question": "げんき",
+    "options": [   
+      "人気",
+      "元気",
+      "本気",
+      "天気"
+    ],
+    "correct": "元気",
+    "meaning": "Healthy / Energetic",
+    "translation": "Taking this medicine will make you feel better.",
+    "kanjiSlug": "kanji-origin-source"
+  },
+  {
+    "id": 9,
+    "sentence": "きょうは あついですね。",
+    "question": "あつい",
+    "options": [
+      "暑い",
+      "寒い",
+      "暗い",
+      "熱い"
+    ],
+    "correct": "暑い",
+    "meaning": "Hot (weather)",
+    "translation": "It's hot today, isn't it?",
+    "kanjiSlug": "kanji-hot-atsui"
+  },
+  {
+    "id": 10,
+    "sentence": "この もんだいの こたえが わかりますか。",
+    "question": "こたえ",
+    "options": [
+      "質問",
+      "答え",
+      "理由",
+      "意味"
+    ],
+    "correct": "答え",
+    "meaning": "Answer",
+    "translation": "Do you know the answer to this question?",
+    "kanjiSlug": "kanji-answer-kotae"
+  },
+  {
+    "id": 11,
+    "sentence": "この メニューは えいごでも かいてあります。",
+    "question": "えいご",
+    "options": [
+      "英語",
+      "日本語",
+      "中国語",
+      "韓国語"
+    ],
+    "correct": "英語",
+    "meaning": "English",
+    "translation": "This menu is also written in English.",
+    "kanjiSlug": "kanji-english-ei"
+  },
+  {
+    "id": 12,
+    "sentence": "しけんは 九時に はじまります。",
+    "question": "はじまります",
+    "options": [  
+      "終わります",
+      "止まります",
+      "帰ります",
+      "始まります"
+    ],
+    "correct": "始まります",
+    "meaning": "To begin",
+    "translation": "The exam starts at nine o'clock.",
+    "kanjiSlug": "kanji-begin-start"
+  },
+  {
+    "id": 13,
+    "sentence": "この うたは とても ゆうめいです。",
+    "question": "うた",
+    "options": [
+      "音",
+      "声",
+      "話",
+      "歌"
+    ],
+    "correct": "歌",
+    "meaning": "Song",
+    "translation": "This song is very famous.",
+    "kanjiSlug": "kanji-song-uta"
+  },
+
+  {
+    "id": 14,
+    "sentence": "ここは わたしの いえです。",
+    "question": "いえ",
+    "options": [
+      "店",
+      "家",
+      "室",
+      "館"
+    ],
+    "correct": "家",
+    "meaning": "House / Home",
+    "translation": "This is my house.",
+    "kanjiSlug": "kanji-house-home-family"
+  },
+  {
+    "id": 15,
+    "sentence": "えきの 前に 新しい みせが できました。",
+    "question": "みせ",
+    "options": [
+      "場",
+      "家",
+      "店",
+      "町"
+    ],
+    "correct": "店",
+    "meaning": "Shop / Store",
+    "translation": "A new shop has opened in front of the station.",
+    "kanjiSlug": "kanji-shop-roof"
+  },
+  {
+    "id": 16,
+    "sentence": "来年 新しい いえを たてる よていです。",
+    "question": "たてる",
+    "options": [
+      "建",
+      "住",
+      "作",
+      "使"
+    ],
+    "correct": "建",
+    "meaning": "To build",
+    "translation": "We're planning to build a new house next year.",
+    "kanjiSlug": "kanji-build-tateru"
+  },
+  {
+    "id": 17,
+    "sentence": "東京に すんでいます。",
+    "question": "すんでいます",
+    "options": [
+      "帰んでいます",
+      "住んでいます",
+      "歩んでいます",
+      "集んでいます"
+    ],
+    "correct": "住んでいます",
+    "meaning": "To live",
+    "translation": "I live in Tokyo.",
+    "kanjiSlug": "kanji-live-reside"
+  },
+  {
+    "id": 18,
+    "sentence": "ちずを みて いきましょう。",
+    "question": "ちず",
+    "options": [
+      "地図",
+      "地理",
+      "住所",
+      "場所"
+    ],
+    "correct": "地図",
+    "meaning": "Map",
+    "translation": "Let's look at the map.",
+    "kanjiSlug": "kanji-map-diagram"
+  },
+  {
+    "id": 19,
+    "sentence": "この ペンを つかってください。",
+    "question": "つかって",
+    "options": [
+      "持って",
+      "借って",
+      "使って",
+      "作って"
+    ],
+    "correct": "使って",
+    "meaning": "Use",
+    "translation": "Please use this pen.",
+    "kanjiSlug": "kanji-use-tsukau"
+  },
+  {
+    "id": 20,
+    "sentence": "ともだちに じしょを かりました。",
+    "question": "かりました",
+    "options": [
+      "貸りました",
+      "借りました",
+      "買りました",
+      "持りました"
+    ],
+    "correct": "借りました",
+    "meaning": "Borrowed",
+    "translation": "I borrowed a dictionary from my friend.",
+    "kanjiSlug": "kanji-borrow-kariru"
+  },
+  {
+    "id": 21,
+    "sentence": "この かみを きってください。",
+    "question": "きって",
+    "options": [
+      "作って",
+      "着って",
+      "切って",
+      "洗って"
+    ],
+    "correct": "切って",
+    "meaning": "Cut",
+    "translation": "Please cut this paper.",
+    "kanjiSlug": "kanji-cut-kiru"
+  },
+  {
+    "id": 22,
+    "sentence": "あしたは べつの バスで いきます。",
+    "question": "べつ",
+    "options": [
+      "同",
+      "別",
+      "新",
+      "古"
+    ],
+    "correct": "別",
+    "meaning": "Different / Another",
+    "translation": "I'll take another bus tomorrow.",
+    "kanjiSlug": "kanji-different-separate"
+  },
+  {
+    "id": 23,
+    "sentence": "この ほんは おもしろいと おもいます。",
+    "question": "おもいます",
+    "options": [
+      "考います",
+      "知います",
+      "習います",
+      "思います"
+    ],
+    "correct": "思います",
+    "meaning": "Think",
+    "translation": "I think this book is interesting.",
+    "kanjiSlug": "kanji-think-feel"
+  },
+  {
+    "id": 24,
+    "sentence": "その ひとの なまえを しっています。",
+    "question": "しっています",
+    "options": [
+      "思っています",
+      "知っています",
+      "習っています",
+      "教っています"
+    ],
+    "correct": "知っています",
+    "meaning": "Know",
+    "translation": "I know that person's name.",
+    "kanjiSlug": "kanji-know-shiru"
+  },
+  {
+    "id": 25,
+    "sentence": "けさ えきまで あるきました。",
+    "question": "あるきました",
+    "options": [
+      "走きました",
+      "通きました",
+      "歩きました",
+      "帰きました"
+    ],
+    "correct": "歩きました",
+    "meaning": "To walk",
+    "translation": "I walked to the station this morning.",
+    "kanjiSlug": "kanji-walk-aruku"
+  }
+]

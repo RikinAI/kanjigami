@@ -1,77 +1,377 @@
 [
   {
     "id": 1,
-    "sentence": "わたしは あたらしい くるまを かいました。",
-    "question": "あたらしい",
+    "sentence": "あさ ごはんを たべます。",
+    "question": "たべ",
     "options": [
-      "新しい",
-      "親しい",
-      "古しい",
-      "近しい"
+      "飲べ",
+      "食べ",
+      "読べ",
+      "買べ"
     ],
-    "correct": "新しい",
-    "meaning": "New",
-    "translation": "I bought a new car.",
-    "kanjiSlug": "kanji-new"
+    "correct": "食べ",
+    "meaning": "To eat",
+    "translation": "I eat breakfast.",
+    "kanjiSlug": "kanji-eat"
   },
   {
     "id": 2,
-    "sentence": "まいにち にほんごを べんきょうします。",
-    "question": "まいにち",
+    "sentence": "ほんを よみました。",
+    "question": "よみ",
     "options": [
-      "毎日",
-      "海日",
-      "母日",
-      "毎月"
+      "見み",
+      "書み",
+      "読み",
+      "話み"
     ],
-    "correct": "毎日",
-    "meaning": "Every day",
-    "translation": "I study Japanese every day.",
-    "kanjiSlug": "kanji-every"
+    "correct": "読み",
+    "meaning": "To read",
+    "translation": "I read a book.",
+    "kanjiSlug": "kanji-read"
   },
   {
     "id": 3,
-    "sentence": "ともだちと えいがを みます。",
-    "question": "みます",
+    "sentence": "あめの ひは くるまで いきます。",
+    "question": "くるま",
     "options": [
-      "見ます",
-      "聞ます",
-      "話ます",
-      "読ます"
+      "駅",
+      "車",
+      "道",
+      "電"
     ],
-    "correct": "見ます",
-    "meaning": "To see / To look",
-    "translation": "I watch a movie with my friend.",
-    "kanjiSlug": "kanji-see-look"
+    "correct": "車",
+    "meaning": "Car",
+    "translation": "On rainy days, I go by car.",
+    "kanjiSlug": "kanji-car"
   },
   {
     "id": 4,
-    "sentence": "ちちは かいしゃへ いきます。",
-    "question": "いきます",
+    "sentence": "おとうとは がっこうへ いきました。",
+    "question": "がっこう",
     "options": [
-      "行きます",
-      "来きます",
-      "帰きます",
-      "歩きます"
+      "学校",
+      "会社",
+      "病院",
+      "駅前"
     ],
-    "correct": "行きます",
-    "meaning": "To go",
-    "translation": "My father goes to the company.",
-    "kanjiSlug": "kanji-go"
+    "correct": "学校",
+    "meaning": "School",
+    "translation": "My younger brother went to school.",
+    "kanjiSlug": "kanji-school"
   },
   {
     "id": 5,
-    "sentence": "やまの うえに きれいな はなが あります。",
-    "question": "うえ",
+    "sentence": "きょうは はやく かえります。",
+    "question": "はやく",
     "options": [
-      "上",
-      "下",
-      "中",
-      "外"
+      "古く",
+      "長く",
+      "高く",
+      "早く"
     ],
-    "correct": "上",
-    "meaning": "Up / Above",
-    "translation": "There are beautiful flowers on the mountain.",
-    "kanjiSlug": "kanji-up-above"
+    "correct": "早く",
+    "meaning": "Early",
+    "translation": "I'm going home early today.",
+    "kanjiSlug": "kanji-early"
+  },
+  {
+    "id": 6,
+    "sentence": "えきで ともだちに あいました。",
+    "question": "ともだち",
+    "options": [
+      "父",
+      "友だち",
+      "母だち",
+      "先生"
+    ],
+    "correct": "友だち",
+    "meaning": "Friend",
+    "translation": "I met my friend at the station.",
+    "kanjiSlug": "kanji-friend"
+  },
+  {
+    "id": 7,
+    "sentence": "あには たかい せが あります。",
+    "question": "たかい",
+    "options": [
+      "安い",
+      "高い",
+      "古い",
+      "多い"
+    ],
+    "correct": "高い",
+    "meaning": "Tall / High",
+    "translation": "My older brother is tall.",
+    "kanjiSlug": "kanji-high"
+  },
+  {
+    "id": 8,
+    "sentence": "わたしの いえは えきの ちかくです。",
+    "question": "えき",
+    "options": [
+      "店",
+      "道",
+      "駅",
+      "校"
+    ],
+    "correct": "駅",
+    "meaning": "Station",
+    "translation": "My house is near the station.",
+    "kanjiSlug": "kanji-station"
+  },
+  {
+    "id": 9,
+    "sentence": "おちゃを のみませんか。",
+    "question": "のみ",
+    "options": [
+      "食み",
+      "飲み",
+      "読み",
+      "見み"
+    ],
+    "correct": "飲み",
+    "meaning": "To drink",
+    "translation": "Would you like to drink some tea?",
+    "kanjiSlug": "kanji-drink"
+  },
+  {
+    "id": 10,
+    "sentence": "きょうは しごとが やすみです。",
+    "question": "やすみ",
+    "options": [
+      "新み",
+      "休み",
+      "古み",
+      "立み"
+    ],
+    "correct": "休み",
+    "meaning": "Day off",
+    "translation": "I have the day off today.",
+    "kanjiSlug": "kanji-rest"
+  },
+  {
+    "id": 11,
+    "sentence": "ここで なまえを かいてください。",
+    "question": "かいて",
+    "options": [
+      "読いて",
+      "書いて",
+      "話いて",
+      "見いて"
+    ],
+    "correct": "書いて",
+    "meaning": "Please write",
+    "translation": "Please write your name here.",
+    "kanjiSlug": "kanji-write"
+  },
+  {
+    "id": 12,
+    "sentence": "いま なんじですか。",
+    "question": "なんじ",
+    "options": [
+      "何時",
+      "何分",
+      "毎時",
+      "午時"
+    ],
+    "correct": "何時",
+    "meaning": "What time",
+    "translation": "What time is it now?",
+    "kanjiSlug": "kanji-time-hour"
+  },
+  {
+    "id": 13,
+    "sentence": "きょうは かようびです。",
+    "question": "にちようび",
+    "options": [
+      "土ようび",
+      "月ようび",
+      "日ようび",
+      "火ようび"
+    ],
+    "correct": "火ようび",
+    "meaning": "Tuesday",
+    "translation": "Today is Tuesday.",
+    "kanjiSlug": "kanji-fire"
+  },
+  {
+    "id": 14,
+    "sentence": "おとうさんは かいしゃで はたらいています。",
+    "question": "かいしゃ",
+    "options": [
+      "会社",
+      "学校",
+      "店",
+      "駅"
+    ],
+    "correct": "会社",
+    "meaning": "Company",
+    "translation": "My father works at a company.",
+    "kanjiSlug": "kanji-company"
+  },
+  {
+    "id": 15,
+    "sentence": "いま ごご さんじです。",
+    "question": "ごご",
+    "options": [
+      "午前",
+      "午後",
+      "毎日",
+      "半分"
+    ],
+    "correct": "午後",
+    "meaning": "Afternoon / PM",
+    "translation": "It is 3 p.m. now.",
+    "kanjiSlug": "kanji-pm"
+  },
+  {
+    "id": 16,
+    "sentence": "おみせで りんごを かいました。",
+    "question": "みせ",
+    "options": [
+      "会社",
+      "学校",
+      "店",
+      "駅"
+    ],
+    "correct": "店",
+    "meaning": "Shop",
+    "translation": "I bought apples at the shop.",
+    "kanjiSlug": "kanji-shop"
+  },
+  {
+    "id": 17,
+    "sentence": "わたしの いえは みなみです。",
+    "question": "みなみ",
+    "options": [
+      "北",
+      "東",
+      "西",
+      "南"
+    ],
+    "correct": "南",
+    "meaning": "South",
+    "translation": "My house is in the south.",
+    "kanjiSlug": "kanji-south"
+  },
+  {
+    "id": 18,
+    "sentence": "この はなは とても きれいです。",
+    "question": "はな",
+    "options": [
+      "草",
+      "木",
+      "花",
+      "山"
+    ],
+    "correct": "花",
+    "meaning": "Flower",
+    "translation": "This flower is very beautiful.",
+    "kanjiSlug": "kanji-flower"
+  },
+  {
+    "id": 19,
+    "sentence": "きょうは てんきが いいですね。",
+    "question": "てんき",
+    "options": [
+      "天気",
+      "空気",
+      "雨",
+      "風"
+    ],
+    "correct": "天気",
+    "meaning": "Weather",
+    "translation": "The weather is nice today.",
+    "kanjiSlug": "kanji-weather"
+  },
+  {
+    "id": 20,
+    "sentence": "この みちは ひろいです。",
+    "question": "みち",
+    "options": [
+      "川",
+      "道",
+      "橋",
+      "駅"
+    ],
+    "correct": "道",
+    "meaning": "Road",
+    "translation": "This road is wide.",
+    "kanjiSlug": "kanji-road"
+  },
+  {
+    "id": 21,
+    "sentence": "そとは とても さむいです。",
+    "question": "そと",
+    "options": [
+      "中",
+      "外",
+      "前",
+      "後"
+    ],
+    "correct": "外",
+    "meaning": "Outside",
+    "translation": "It's very cold outside.",
+    "kanjiSlug": "kanji-outside"
+  },
+  {
+    "id": 22,
+    "sentence": "おとうさんは くるまを あらっています。",
+    "question": "おとうさん",
+    "options": [
+      "父さん",
+      "母さん",
+      "先生",
+      "友だち"
+    ],
+    "correct": "父さん",
+    "meaning": "Father",
+    "translation": "My father is washing the car.",
+    "kanjiSlug": "kanji-father"
+  },
+  {
+    "id": 23,
+    "sentence": "おかあさんが ゆうごはんを つくっています。",
+    "question": "おかあさん",
+    "options": [
+      "父さん",
+      "母さん",
+      "女",
+      "先生"
+    ],
+    "correct": "母さん",
+    "meaning": "Mother",
+    "translation": "My mother is cooking dinner.",
+    "kanjiSlug": "kanji-mother"
+  },
+  {
+    "id": 24,
+    "sentence": "あしたは やまへ いきます。",
+    "question": "やま",
+    "options": [
+      "山",
+      "川",
+      "田",
+      "空"
+    ],
+    "correct": "山",
+    "meaning": "Mountain",
+    "translation": "I'm going to the mountains tomorrow.",
+    "kanjiSlug": "kanji-mountain"
+  },
+  {
+    "id": 25,
+    "sentence": "この さかなは おいしいです。",
+    "question": "さかな",
+    "options": [
+      "牛",
+      "魚",
+      "馬",
+      "鳥"
+    ],
+    "correct": "魚",
+    "meaning": "Fish",
+    "translation": "This fish is delicious.",
+    "kanjiSlug": "kanji-fish"
   }
 ]

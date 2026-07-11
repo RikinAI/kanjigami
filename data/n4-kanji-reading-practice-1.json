@@ -1,0 +1,378 @@
+[
+  {
+    "id": 1,
+    "sentence": "毎朝 コーヒーを のみます。",
+    "question": "朝",
+    "options": [
+      "よる",
+      "ひる",
+      "あさ",
+      "ゆう"
+    ],
+    "correct": "あさ",
+    "meaning": "Morning",
+    "translation": "I drink coffee every morning.",
+    "kanjiSlug": "kanji-morning-asa"
+  },
+  {
+    "id": 2,
+    "sentence": "あかい 色が すきです。",
+    "question": "色",
+    "options": [
+      "くろ",
+      "いろ",
+      "あお",
+      "しろ"
+    ],
+    "correct": "いろ",
+    "meaning": "Color",
+    "translation": "I like the color red.",
+    "kanjiSlug": "kanji-color-iro"
+  },
+  {
+    "id": 3,
+    "sentence": "冬は ゆきが ふります。",
+    "question": "冬",
+    "options": [
+      "なつ",
+      "ふゆ",
+      "あき",
+      "はる"
+    ],
+    "correct": "ふゆ",
+    "meaning": "Winter",
+    "translation": "It snows in winter.",
+    "kanjiSlug": "kanji-winter-fuyu"
+  },
+  {
+    "id": 4,
+    "sentence": "去年 にほんへ 行きました。",
+    "question": "去",
+    "options": [
+      "こ",
+      "きょ",
+      "きゅう",
+      "さく"
+    ],
+    "correct": "きょ",
+    "meaning": "Last (as in last year)",
+    "translation": "I went to Japan last year.",
+    "kanjiSlug": "kanji-leave-past"
+  },
+  {
+    "id": 5,
+    "sentence": "あさは お茶を 飲ます。",
+    "question": "茶",
+    "options": [
+      "みず",
+      "さけ",
+      "ちゃ",
+      "ゆ"
+    ],
+    "correct": "ちゃ",
+    "meaning": "Tea",
+    "translation": "I drink tea in the morning.",
+    "kanjiSlug": "kanji-tea-brown"
+  },
+  {
+    "id": 6,
+    "sentence": "夏は うみへ いきます。",
+    "question": "夏",
+    "options": [
+      "あき",
+      "なつ",
+      "はる",
+      "ふゆ"
+    ],
+    "correct": "なつ",
+    "meaning": "Summer",
+    "translation": "I go to the beach in summer.",
+    "kanjiSlug": "kanji-summer-natsu"
+  },
+  {
+    "id": 7,
+    "sentence": "しんごうが 赤に なりました。",
+    "question": "赤",
+    "options": [
+      "あお",
+      "あか",
+      "しろ",
+      "くろ"
+    ],
+    "correct": "あか",
+    "meaning": "Red",
+    "translation": "The traffic light turned red.",
+    "kanjiSlug": "kanji-red-aka"
+  },
+  {
+    "id": 8,
+    "sentence": "夜は はやく ねます。",
+    "question": "夜",
+    "options": [
+      "ひる",
+      "よる",
+      "ゆう",
+      "あさ"
+    ],
+    "correct": "よる",
+    "meaning": "Night",
+    "translation": "I go to bed early at night.",
+    "kanjiSlug": "kanji-night-yoru"
+  },
+  {
+    "id": 9,
+    "sentence": "秋は すずしくて すきです。",
+    "question": "秋",
+    "options": [
+      "なつ",
+      "ふゆ",
+      "あき",
+      "はる"
+    ],
+    "correct": "あき",
+    "meaning": "Autumn",
+    "translation": "I like autumn because it's cool.",
+    "kanjiSlug": "kanji-autumn-fall"
+  },
+  {
+    "id": 10,
+    "sentence": "きょうは 月曜日です。",
+    "question": "曜",
+    "options": [
+      "じ",
+      "しゅう",
+      "よう",
+      "にち"
+    ],
+    "correct": "よう",
+    "meaning": "Weekday",
+    "translation": "Today is Monday.",
+    "kanjiSlug": "kanji-weekday"
+  },
+  {
+    "id": 11,
+    "sentence": "昼は ラーメンを たべました。",
+    "question": "昼",
+    "options": [
+      "よる",
+      "あさ",
+      "ゆう",
+      "ひる"
+    ],
+    "correct": "ひる",
+    "meaning": "Noon",
+    "translation": "I ate ramen for lunch.",
+    "kanjiSlug": "kanji-noon-daytime"
+  },
+  {
+    "id": 12,
+    "sentence": "春に さくらが さきます。",
+    "question": "春",
+    "options": [
+      "ふゆ",
+      "はる",
+      "あき",
+      "なつ"
+    ],
+    "correct": "はる",
+    "meaning": "Spring",
+    "translation": "Cherry blossoms bloom in spring.",
+    "kanjiSlug": "kanji-spring-haru"
+  },
+  {
+    "id": 13,
+    "sentence": "夕飯は カレーでした。",
+    "question": "夕飯",
+    "options": [
+      "ひるごはん",
+      "あさごはん",
+      "ゆうごはん",
+      "よるごはん"
+    ],
+    "correct": "ゆうごはん",
+    "meaning": "Evening",
+    "translation": "Dinner was curry.",
+    "kanjiSlug": "kanji-evening-yuu"
+  },
+
+{
+  "id": 14,
+  "sentence": "この みちは 近いです。",
+  "question": "近い",
+  "options": [
+    "ちかい",
+    "とおい",
+    "ひろい",
+    "ながい"
+  ],
+  "correct": "ちかい",
+  "meaning": "Near",
+  "translation": "This road is nearby.",
+  "kanjiSlug": "kanji-near-chikai"
+},
+  {
+    "id": 15,
+    "sentence": "わたしの 趣味は りょうりです。",
+    "question": "趣味",
+    "options": [
+      "しゅび",
+      "しゅみ",
+      "きょうみ",
+      "しゅうみ"
+    ],
+    "correct": "しゅみ",
+    "meaning": "Hobby",
+    "translation": "My hobby is cooking.",
+    "kanjiSlug": "kanji-taste-flavor"
+  },
+{
+  "id": 16,
+  "sentence": "あしたは 都会へ あそびに いきます。",
+  "question": "都会",
+  "options": [
+    "とかい",
+    "とかえ",
+    "つかい",
+    "とか"
+  ],
+  "correct": "とかい",
+  "meaning": "City",
+  "translation": "I'm going to the city tomorrow.",
+  "kanjiSlug": "kanji-metropolis-capital"
+},
+  {
+    "id": 17,
+    "sentence": "きょうは 黒い シャツを きています。",
+    "question": "黒い",
+    "options": [
+      "あおい",
+      "くろい",
+      "しろい",
+      "あかい"
+    ],
+    "correct": "くろい",
+    "meaning": "Black",
+    "translation": "I'm wearing a black shirt today.",
+    "kanjiSlug": "kanji-black-kuro"
+  },
+  {
+    "id": 18,
+    "sentence": "あねは 銀行で はたらいています。",
+    "question": "銀行",
+    "options": [
+      "ぎんこう",
+      "ぎんぎょう",
+      "ぎょうこう",
+      "きんこう"
+    ],
+    "correct": "ぎんこう",
+    "meaning": "Bank",
+    "translation": "My older sister works at a bank.",
+    "kanjiSlug": "kanji-silver-gin"
+  },
+  {
+    "id": 19,
+    "sentence": "しゅくだいは もう 終わりました。",
+    "question": "終わりました",
+    "options": [
+      "おわりました",
+      "しまいました",
+      "はじまりました",
+      "おりました"
+    ],
+    "correct": "おわりました",
+    "meaning": "Finished",
+    "translation": "I've already finished my homework.",
+    "kanjiSlug": "kanji-end-finish"
+  },
+{
+  "id": 20,
+  "sentence": "この くるまは 白いです。",
+  "question": "白い",
+  "options": [
+    "あおい",
+    "しろい",
+    "くろい",
+    "あかい"
+  ],
+  "correct": "しろい",
+  "meaning": "White",
+  "translation": "This car is white.",
+  "kanjiSlug": "kanji-white"
+},
+  {
+    "id": 21,
+    "sentence": "この じしょは とても 便利です。",
+    "question": "便利",
+    "options": [
+      "へんり",
+      "べんり",
+      "べんれい",
+      "へんれい"
+    ],
+    "correct": "べんり",
+    "meaning": "Convenient",
+    "translation": "This dictionary is very convenient.",
+    "kanjiSlug": "kanji-convenient"
+  },
+  {
+    "id": 22,
+    "sentence": "その えいがは 有名です。",
+    "question": "有名",
+    "options": [
+      "ゆめい",
+      "ゆうめい",
+      "ゆうみょう",
+      "ゆめ"
+    ],
+    "correct": "ゆうめい",
+    "meaning": "Famous",
+    "translation": "That movie is famous.",
+    "kanjiSlug": "kanji-exist-aru"
+  },
+  {
+    "id": 23,
+    "sentence": "きょうは 特に いそがしいです。",
+    "question": "特に",
+    "options": [
+      "ときに",
+      "とくに",
+      "とっくに",
+      "とけに"
+    ],
+    "correct": "とくに",
+    "meaning": "Especially",
+    "translation": "I'm especially busy today.",
+    "kanjiSlug": "kanji-special-toku"
+  },
+  {
+    "id": 24,
+    "sentence": "でんしゃは 急に とまりました。",
+    "question": "急に",
+    "options": [
+      "いそぎに",
+      "きゅうに",
+      "きゅに",
+      "いそに"
+    ],
+    "correct": "きゅうに",
+    "meaning": "Suddenly",
+    "translation": "The train stopped suddenly.",
+    "kanjiSlug": "kanji-hurry-urgent"
+  },
+{
+  "id": 25,
+  "sentence": "きょうは つよい 風が ふいています。",
+  "question": "風",
+  "options": [
+    "くも",
+    "あめ",
+    "かぜ",
+    "ゆき"
+  ],
+  "correct": "かぜ",
+  "meaning": "Wind",
+  "translation": "A strong wind is blowing today.",
+  "kanjiSlug": "kanji-wind-kaze"
+}
+]

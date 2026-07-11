@@ -21,7 +21,7 @@ export default function JLPTN2Page() {
       name: "How many Kanji are in the JLPT N2 Kanji list?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The JLPT N2 level contains approximately 367 commonly learned Kanji. Combined with the previous JLPT levels (N5, N4, and N3), learners will know nearly 1,000 essential Kanji used in everyday Japanese.",
+        text: "The JLPT N2 level contains approximately 366 commonly learned Kanji. Combined with the previous JLPT levels (N5, N4, and N3), learners will know nearly 1,000 essential Kanji used in everyday Japanese.",
       },
     },
     {
@@ -129,7 +129,7 @@ const breadcrumbSchema = {
           </h1>
 
           <p className="text-sm md:text-base text-gray-600 mb-4">
-            Master all 367 essential JLPT N2 Kanji with meanings,
+            Master all 366 essential JLPT N2 Kanji with meanings,
             Onyomi and Kunyomi readings, example vocabulary,
             example sentences, memory tricks, and interesting facts.
             Perfect for intermediate Japanese learners preparing for the JLPT N2 exam.
@@ -379,7 +379,7 @@ const breadcrumbSchema = {
                   <p>
                     The <strong>JLPT N2 Kanji</strong> level bridges the gap between
                     intermediate and advanced Japanese. At this stage, learners are expected
-                    to recognize approximately <strong>367 essential N2 Kanji</strong>,
+                    to recognize approximately <strong>366 essential N2 Kanji</strong>,
                     bringing the total number of commonly learned JLPT Kanji to nearly
                     1,000 characters.
                   </p>
@@ -443,7 +443,7 @@ const breadcrumbSchema = {
                   </h3>
                   <p className="mt-2 text-slate-700 leading-7">
                     The JLPT N2 level contains approximately
-                    <strong> 367 commonly learned Kanji</strong>. Combined with the
+                    <strong> 366 commonly learned Kanji</strong>. Combined with the
                     previous levels (N5, N4, and N3), learners will know nearly
                     1,000 essential Kanji used in everyday Japanese.
                   </p>
@@ -521,6 +521,66 @@ const breadcrumbSchema = {
               </div>
               </div>
           </section>
+
+                  <section className="max-w-5xl mx-auto px-4 py-8 md:py-12">
+  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+    {/* JLPT N4 */}
+    <Link
+      href="/jlpt/n4"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N4 Kanji
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Master all essential JLPT N4 Kanji with meanings, readings,
+            example words and memory tricks.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Learning →
+          </div>
+        </div>
+      </div>
+    </Link>
+
+    {/* JLPT N3 */}
+    <Link
+      href="/jlpt/n3"
+      className="group block bg-white border rounded-2xl p-4 md:p-5 shadow-sm hover:shadow-md hover:border-green-700 transition duration-300"
+    >
+      <div className="flex items-center gap-4">
+        <div className="text-4xl md:text-5xl font-bold text-green-700">
+          字
+        </div>
+
+        <div>
+          <h3 className="text-xl md:text-2xl font-bold text-slate-900">
+            JLPT N3 Kanji
+          </h3>
+
+          <p className="mt-1 text-sm md:text-base text-slate-600 leading-6">
+            Master all essential JLPT N3 Kanji with meanings, readings,
+            example words and memory tricks.
+          </p>
+
+          <div className="mt-4 font-semibold text-green-700 group-hover:translate-x-1 transition-transform">
+            Start Learning →
+          </div>
+        </div>
+      </div>
+    </Link>
+
+  </div>
+</section>
 
           <Script
             id="faq-schema"

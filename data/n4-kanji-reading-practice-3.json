@@ -1,0 +1,378 @@
+[
+  {
+    "id": 51,
+    "sentence": "その かばんは 肉や やさいを いれるのに べんりです。",
+    "question": "肉",
+    "options": [
+      "さかな",
+      "にく",
+      "こめ",
+      "やさい"
+    ],
+    "correct": "にく",
+    "meaning": "Meat",
+    "translation": "That bag is convenient for carrying meat and vegetables.",
+    "kanjiSlug": "kanji-meat-niku"
+  },
+  {
+    "id": 52,
+    "sentence": "野菜を たくさん 食べましょう。",
+    "question": "野菜",
+    "options": [
+      "のさい",
+      "やざい",
+      "やさい",
+      "のや"
+    ],
+    "correct": "やさい",
+    "meaning": "Vegetables",
+    "translation": "Let's eat plenty of vegetables.",
+    "kanjiSlug": "kanji-vegetable"
+  },
+{  
+    "id": 53,
+  "sentence": "へんな 音が きこえます。",
+  "question": "音",
+  "options": [
+    "こえ",
+    "おと",
+    "ね",
+    "おん"
+  ],
+  "correct": "おと",
+  "meaning": "Sound",
+  "translation": "I hear a strange sound.",
+  "kanjiSlug": "kanji-sound-oto"
+},
+  {
+    "id": 54,
+    "sentence": "まいあさ 楽しい おんがくを ききます。",
+    "question": "楽しい",
+    "options": [
+      "たのしい",
+      "らくしい",
+      "がくしい",
+      "たのし"
+    ],
+    "correct": "たのしい",
+    "meaning": "Enjoyable",
+    "translation": "I listen to enjoyable music every morning.",
+    "kanjiSlug": "kanji-fun-comfort"
+  },
+  {
+    "id": 55,
+    "sentence": "この こたえは 正しいです。",
+    "question": "正しい",
+    "options": [
+      "ただしい",
+      "まさしい",
+      "しょうしい",
+      "ただし"
+    ],
+    "correct": "ただしい",
+    "meaning": "Correct",
+    "translation": "This answer is correct.",
+    "kanjiSlug": "kanji-correct-right"
+  },
+  {
+    "id": 56,
+    "sentence": "今日は とても 寒いですね。",
+    "question": "寒い",
+    "options": [
+      "あつい",
+      "つめたい",
+      "くらい",
+      "さむい"
+    ],
+    "correct": "さむい",
+    "meaning": "Cold",
+    "translation": "It's very cold today.",
+    "kanjiSlug": "kanji-cold-samui"
+  },
+{
+  "id": 57,
+  "sentence": "妹と いっしょに かいものへ いきました。",
+  "question": "妹",
+  "options": [
+    "いもうと",
+    "あね",
+    "おとうと",
+    "あに"
+  ],
+  "correct": "いもうと",
+  "meaning": "Younger sister",
+  "translation": "I went shopping with my younger sister.",
+  "kanjiSlug": "kanji-younger-sister"
+},
+{
+  "id": 58,
+  "sentence": "心を こめて てがみを かきました。",
+  "question": "心",
+  "options": [
+    "しん",
+    "きもち",
+    "ここ",
+    "こころ"
+  ],
+  "correct": "こころ",
+  "meaning": "Heart",
+  "translation": "I wrote the letter with all my heart.",
+  "kanjiSlug": "kanji-heart"
+},
+  {
+    "id": 59,
+    "sentence": "えきは まだ 遠いです。",
+    "question": "遠い",
+    "options": [
+      "ちかい",
+      "ながい",
+      "とおい",
+      "ひろい"
+    ],
+    "correct": "とおい",
+    "meaning": "Far",
+    "translation": "The station is still far away.",
+    "kanjiSlug": "kanji-far-tooi"
+  },
+{
+  "id": 60,
+  "sentence": "せんせいは もう 教室に います。",
+  "question": "教室",
+  "options": [
+    "きょしつ",
+    "きょうじつ",
+    "きょうしつ",
+    "きょうせつ"
+  ],
+  "correct": "きょうしつ",
+  "meaning": "Classroom",
+  "translation": "The teacher is already in the classroom.",
+  "kanjiSlug": "kanji-room-shitsu"
+},
+{
+  "id": 61,
+  "sentence": "しゅうまつは 図書館で べんきょうします。",
+  "question": "図書館",
+  "options": [
+    "としょうかん",
+    "ずしょかん",
+    "としょかん",
+    "とじょかん"
+  ],
+  "correct": "としょかん",
+  "meaning": "Library",
+  "translation": "I study at the library on weekends.",
+  "kanjiSlug": "kanji-building-hall"
+},
+{
+  "id": 62,
+  "sentence": "かぜなので 薬を のみました。",
+  "question": "薬",
+  "options": [
+    "くすり",
+    "やく",
+    "くす",
+    "やっく"
+  ],
+  "correct": "くすり",
+  "meaning": "Medicine",
+  "translation": "I took medicine because I have a cold.",
+  "kanjiSlug": "kanji-medicine-kusuri"
+},
+  {
+    "id": 63,
+    "sentence": "世界には いろいろな 国が あります。",
+    "question": "世界",
+    "options": [
+      "せがい",
+      "せかい",
+      "せけい",
+      "せこう"
+    ],
+    "correct": "せかい",
+    "meaning": "World",
+    "translation": "There are many different countries in the world.",
+    "kanjiSlug": "kanji-world-boundary"
+  },
+
+  {
+    "id": 64,
+    "sentence": "この 世では いろいろな ことが おこります。",
+    "question": "世",
+    "options": [
+      "せ",
+      "よ",
+      "せい",
+      "よう"
+    ],
+    "correct": "よ",
+    "meaning": "World / Society",
+    "translation": "Various things happen in this world.",
+    "kanjiSlug": "kanji-world-generation"
+  },
+  {
+    "id": 65,
+    "sentence": "まどから 光が はいってきます。",
+    "question": "光",
+    "options": [
+      "ひかる",
+      "こう",
+      "みつ",
+    "ひかり"
+    ],
+    "correct": "ひかり",
+    "meaning": "Light",
+    "translation": "Light comes in through the window.",
+    "kanjiSlug": "kanji-light-hikari"
+  },
+{
+  "id": 66,
+  "sentence": "こどもたちは 動物が だいすきです。",
+  "question": "動物",
+  "options": [
+    "どうもつ",
+    "どうぶつ",
+    "とうぶつ",
+    "どうぶ"
+  ],
+  "correct": "どうぶつ",
+  "meaning": "Animal",
+  "translation": "Children love animals.",
+  "kanjiSlug": "kanji-thing-object"
+},
+  {
+    "id": 67,
+    "sentence": "しゅうまつは 森を さんぽします。",
+    "question": "森",
+    "options": [
+      "もり",
+      "はやし",
+      "やま",
+      "き"
+    ],
+    "correct": "もり",
+    "meaning": "Forest",
+    "translation": "I take a walk through the forest on weekends.",
+    "kanjiSlug": "kanji-forest-mori"
+  },
+  {
+    "id": 68,
+    "sentence": "この まちは 海が ちかいです。",
+    "question": "海",
+    "options": [
+      "かわ",
+      "うみ",
+      "いけ",
+      "みず"
+    ],
+    "correct": "うみ",
+    "meaning": "Sea",
+    "translation": "This town is close to the sea.",
+    "kanjiSlug": "kanji-sea-ocean"
+  },
+{
+  "id": 69,
+  "sentence": "この ちいきでは おちゃを 生産しています。",
+  "question": "生産",
+  "options": [
+    "せいざん",
+    "せいさん",
+    "しょうさん",
+    "しょうざん"
+  ],
+  "correct": "せいさん",
+  "meaning": "Production",
+  "translation": "Tea is produced in this region.",
+  "kanjiSlug": "kanji-produce-san"
+},
+  {
+    "id": 70,
+    "sentence": "この 町は とても しずかです。",
+    "question": "町",
+    "options": [
+      "むら",
+      "まち",
+      "し",
+      "ちょう"
+    ],
+    "correct": "まち",
+    "meaning": "Town",
+    "translation": "This town is very quiet.",
+    "kanjiSlug": "kanji-town-machi"
+  },
+  {
+    "id": 71,
+    "sentence": "この 問題は むずかしいですね。",
+    "question": "問題",
+    "options": [
+      "もんだい",
+      "もんたい",
+      "ぶんだい",
+      "もだい"
+    ],
+    "correct": "もんだい",
+    "meaning": "Problem / Question",
+    "translation": "This question is difficult.",
+    "kanjiSlug": "kanji-topic-title"
+  },
+  {
+    "id": 72,
+    "sentence": "質問が あったら きいてください。",
+    "question": "質問",
+    "options": [
+      "しちもん",
+      "しつもん",
+      "しつとい",
+      "しつぶん"
+    ],
+    "correct": "しつもん",
+    "meaning": "Question",
+    "translation": "If you have any questions, please ask.",
+    "kanjiSlug": "kanji-quality-nature"
+  },
+  {
+    "id": 73,
+    "sentence": "この 漢字は よみやすいです。",
+    "question": "漢字",
+    "options": [
+      "かんじ",
+      "かんし",
+      "かなじ",
+      "かんち"
+    ],
+    "correct": "かんじ",
+    "meaning": "Kanji",
+    "translation": "This kanji is easy to read.",
+    "kanjiSlug": "kanji-chinese-kan"
+  },
+  {
+    "id": 74,
+    "sentence": "えいごの 文を よんでください。",
+    "question": "文",
+    "options": [
+      "もん",
+      "ぶん",
+      "ふみ",
+      "ぶ"
+    ],
+    "correct": "ぶん",
+    "meaning": "Sentence",
+    "translation": "Please read the English sentence.",
+    "kanjiSlug": "kanji-sentence-writing"
+  },
+  {
+    "id": 75,
+    "sentence": "この 研究は おもしろいですね。",
+    "question": "研究",
+    "options": [
+      "けんきゅう",
+      "けんきょう",
+      "けいきゅう",
+      "けんぎゅう"
+    ],
+    "correct": "けんきゅう",
+    "meaning": "Research",
+    "translation": "This research is interesting.",
+    "kanjiSlug": "kanji-investigate-kyuu"
+  }
+]

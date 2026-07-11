@@ -95,18 +95,18 @@ export default function KanjiReadingPractice({
   </h2>
 
   <div className="mt-5 space-y-2">
-    <p className="text-lg md:text-xl font-bold leading-relaxed tracking-wide text-slate-900">
+    <p className="text-lg md:text-xl leading-relaxed tracking-wide text-slate-900">
       <span className="text-red-700">あか</span>
       の　ことばは　どう　よみますか。
     </p>
 
-    <p className="text-lg md:text-xl font-bold leading-relaxed tracking-wide text-slate-900">
+    <p className="text-lg md:text-xl leading-relaxed tracking-wide text-slate-900">
       １・２・３・４から　いちばん　いい　ものを　
       ひとつ　えらんで　ください。
     </p>
 
       <p className="mt-2 text-base text-slate-600">
-    Read the <span className="font-semibold text-red-700">highlighted</span> JLPT N5 Kanji and choose the correct reading.
+    Read the <span className="text-red-700">highlighted</span> JLPT N5 Kanji and choose the correct reading.
   </p>
   </div>
 </div>
@@ -127,16 +127,16 @@ export default function KanjiReadingPractice({
               key={q.id}
               className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm"
             >
-              <p className="mb-2 text-sm font-semibold text-green-700">
-                Question {index + 1}
+              <p className="mb-2 text-sm text-green-700">
+                Q {index + 1}
               </p>
 
-              <p className="mb-6 text-xl md:text-2xl font-medium leading-relaxed text-slate-900">
+              <p className="mb-6 text-xl md:text-xl leading-relaxed text-slate-900">
                 {q.sentence.split(q.question).map((part, index, array) => (
                     <span key={index}>
                     {part}
                     {index < array.length - 1 && (
-                        <span className="rounded px-1 font-bold text-red-700">
+                        <span className="rounded px-1 text-red-700">
                         {q.question}
                         </span>
                     )}

@@ -1,0 +1,380 @@
+[
+  {
+    "id": 26,
+    "sentence": "友と えいがを みに いきます。",
+    "question": "友",
+    "options": [
+      "ゆう",
+      "とも",
+      "ともだち",
+      "ゆ"
+    ],
+    "correct": "とも",
+    "meaning": "Friend",
+    "translation": "I'm going to watch a movie with my friend.",
+    "kanjiSlug": "kanji-friend"
+  },
+  {
+    "id": 27,
+    "sentence": "きょうは 父の たんじょうびです。",
+    "question": "父",
+    "options": [
+      "ちち",
+      "はは",
+      "あに",
+      "おとうと"
+    ],
+    "correct": "ちち",
+    "meaning": "Father",
+    "translation": "Today is my father's birthday.",
+    "kanjiSlug": "kanji-father"
+  },
+
+  {
+    "id": 29,
+    "sentence": "この 山は とても きれいです。",
+    "question": "山",
+    "options": [
+      "かわ",
+      "さん",
+      "やま",
+      "たに"
+    ],
+    "correct": "やま",
+    "meaning": "Mountain",
+    "translation": "This mountain is very beautiful.",
+    "kanjiSlug": "kanji-mountain"
+  },
+    {
+    "id": 48,
+    "sentence": "まいあさ 牛に くさを あげます。",
+    "question": "牛",
+    "options": [
+      "うま",
+      "いぬ",
+      "うし",
+      "さかな"
+    ],
+    "correct": "うし",
+    "meaning": "Cow",
+    "translation": "Every morning I feed grass to the cow.",
+    "kanjiSlug": "kanji-cow"
+  },
+    {
+    "id": 34,
+    "sentence": "口を あけて ください。",
+    "question": "口",
+    "options": [
+      "みみ",
+      "くち",
+      "こう",
+      "め"
+    ],
+    "correct": "くち",
+    "meaning": "Mouth",
+    "translation": "Please open your mouth.",
+    "kanjiSlug": "kanji-mouth"
+  },
+  {
+    "id": 30,
+    "sentence": "この 川で およぎます。",
+    "question": "川",
+    "options": [
+      "がわ",
+      "うみ",
+      "やま",
+      "かわ"
+    ],
+    "correct": "かわ",
+    "meaning": "River",
+    "translation": "I swim in this river.",
+    "kanjiSlug": "kanji-river"
+  },
+    {
+    "id": 28,
+    "sentence": "母は りょうりが じょうずです。",
+    "question": "母",
+    "options": [
+      "ちち",
+      "あね",
+      "いもうと",
+      "はは"
+    ],
+    "correct": "はは",
+    "meaning": "Mother",
+    "translation": "My mother is good at cooking.",
+    "kanjiSlug": "kanji-mother"
+  },
+  {
+    "id": 31,
+    "sentence": "すみません、これは 何ですか。",
+    "question": "何",
+    "options": [
+      "どれ",
+      "なん",
+      "なに",
+      "どこ"
+    ],
+    "correct": "なん",
+    "meaning": "What",
+    "translation": "Excuse me, what is this?",
+    "kanjiSlug": "kanji-what"
+  },
+  {
+    "id": 32,
+    "sentence": "目が つかれました。",
+    "question": "目",
+    "options": [
+      "め",
+      "もく",
+      "くち",
+      "みみ"
+    ],
+    "correct": "め",
+    "meaning": "Eye",
+    "translation": "My eyes are tired.",
+    "kanjiSlug": "kanji-eye"
+  },
+  {
+    "id": 35,
+    "sentence": "この ほんは 百えんでした。",
+    "question": "百",
+    "options": [
+      "まん",
+      "せん",
+      "ひゃく",
+      "じゅう"
+    ],
+    "correct": "ひゃく",
+    "meaning": "Hundred",
+    "translation": "This book was 100 yen.",
+    "kanjiSlug": "kanji-hundred"
+  },
+    {
+    "id": 33,
+    "sentence": "耳が いたいです。",
+    "question": "耳",
+    "options": [
+      "め",
+      "じ",
+      "みみ",
+      "はな"
+    ],
+    "correct": "みみ",
+    "meaning": "Ear",
+    "translation": "My ear hurts.",
+    "kanjiSlug": "kanji-ear"
+  },
+
+  {
+    "id": 36,
+    "sentence": "トイレは 左です。",
+    "question": "左",
+    "options": [
+      "みぎ",
+      "ひだり",
+      "うえ",
+      "した"
+    ],
+    "correct": "ひだり",
+    "meaning": "Left",
+    "translation": "The restroom is on the left.",
+    "kanjiSlug": "kanji-left"
+  },
+  {
+    "id": 37,
+    "sentence": "駅まで あるいて いきます。",
+    "question": "駅",
+    "options": [
+      "えき",
+      "みち",
+      "てら",
+      "みせ"
+    ],
+    "correct": "えき",
+    "meaning": "Station",
+    "translation": "I walk to the station.",
+    "kanjiSlug": "kanji-station"
+  },
+  {
+    "id": 38,
+    "sentence": "あには せが 高いです。",
+    "question": "高い",
+    "options": [
+      "ながい",
+      "やすい",
+      "たかい",
+      "おおきい"
+    ],
+    "correct": "たかい",
+    "meaning": "High / Tall / Expensive",
+    "translation": "My older brother is tall.",
+    "kanjiSlug": "kanji-high-expensive"
+  },
+  {
+    "id": 39,
+    "sentence": "この シャツは 安いです。",
+    "question": "安い",
+    "options": [
+      "やすい",
+      "たかい",
+      "ちいさい",
+      "ふるい"
+    ],
+    "correct": "やすい",
+    "meaning": "Cheap",
+    "translation": "This shirt is cheap.",
+    "kanjiSlug": "kanji-cheap"
+  },
+  {
+    "id": 40,
+    "sentence": "学校は あした やすみです。",
+    "question": "学校",
+    "options": [
+      "がくせい",
+      "こうえん",
+      "がっこう",
+      "びょういん"
+    ],
+    "correct": "がっこう",
+    "meaning": "School",
+    "translation": "School is closed tomorrow.",
+    "kanjiSlug": "kanji-school"
+  },
+  {
+    "id": 41,
+    "sentence": "きょうは 早く ねます。",
+    "question": "早く",
+    "options": [
+      "おそく",
+      "はやく",
+      "はやい",
+      "あさく"
+    ],
+    "correct": "はやく",
+    "meaning": "Early",
+    "translation": "I'll go to bed early today.",
+    "kanjiSlug": "kanji-early"
+  },
+  {
+    "id": 42,
+    "sentence": "きょうは 仕事が 休みです。",
+    "question": "休み",
+    "options": [
+      "やすみ",
+      "やすい",
+      "きゅう",
+      "はたらき"
+    ],
+    "correct": "やすみ",
+    "meaning": "Holiday / Day off",
+    "translation": "I have the day off from work today.",
+    "kanjiSlug": "kanji-rest"
+  },
+  {
+    "id": 43,
+    "sentence": "いすから 立ちます。",
+    "question": "立ちます",
+    "options": [
+      "すわります",
+      "あるきます",
+      "とまります",
+      "たちます"
+    ],
+    "correct": "たちます",
+    "meaning": "To stand",
+    "translation": "I stand up from the chair.",
+    "kanjiSlug": "kanji-stand"
+  },
+  {
+    "id": 44,
+    "sentence": "あしたは 午前 くじに でかけます。",
+    "question": "午前",
+    "options": [
+      "ごぜん",
+      "ごご",
+      "まいにち",
+      "よる"
+    ],
+    "correct": "ごぜん",
+    "meaning": "A.M. / Morning",
+    "translation": "I'll leave at 9 a.m. tomorrow.",
+    "kanjiSlug": "kanji-am"
+  },
+  {
+    "id": 45,
+    "sentence": "しごとは 午後 いちじからです。",
+    "question": "午後",
+    "options": [
+      "ごぜん",
+      "ごご",
+      "ひる",
+      "あした"
+    ],
+    "correct": "ごご",
+    "meaning": "P.M. / Afternoon",
+    "translation": "Work starts at 1 p.m.",
+    "kanjiSlug": "kanji-pm"
+  },
+  {
+    "id": 46,
+    "sentence": "きょうは とても 天気が いいです。",
+    "question": "天気",
+    "options": [
+      "てんき",
+      "くうき",
+      "そら",
+      "あめ"
+    ],
+    "correct": "てんき",
+    "meaning": "Weather",
+    "translation": "The weather is very nice today.",
+    "kanjiSlug": "kanji-weather"
+  },
+  {
+    "id": 47,
+    "sentence": "きれいな 花を もらいました。",
+    "question": "花",
+    "options": [
+      "き",
+      "くさ",
+      "はな",
+      "は"
+    ],
+    "correct": "はな",
+    "meaning": "Flower",
+    "translation": "I received beautiful flowers.",
+    "kanjiSlug": "kanji-flower"
+  },
+
+  {
+    "id": 49,
+    "sentence": "どうぶつえんで 馬を みました。",
+    "question": "馬",
+    "options": [
+      "うま",
+      "うし",
+      "とり",
+      "さる"
+    ],
+    "correct": "うま",
+    "meaning": "Horse",
+    "translation": "I saw a horse at the zoo.",
+    "kanjiSlug": "kanji-horse"
+  },
+  {
+    "id": 50,
+    "sentence": "ばんごはんは 魚を たべました。",
+    "question": "魚",
+    "options": [
+      "にく",
+      "えび",
+      "とり",
+      "さかな"
+    ],
+    "correct": "さかな",
+    "meaning": "Fish",
+    "translation": "I ate fish for dinner.",
+    "kanjiSlug": "kanji-fish"
+  }
+]

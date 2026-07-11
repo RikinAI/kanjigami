@@ -1,0 +1,378 @@
+[
+{
+  "id": 26,
+  "sentence": "これは わたしの かばんです。",
+  "question": "わたし",
+  "options": [
+    "自",
+    "私",
+    "彼",
+    "友"
+  ],
+  "correct": "私",
+  "meaning": "I / Me",
+  "translation": "This is my bag.",
+  "kanjiSlug": "kanji-i-me-watashi"
+},
+{
+  "id": 27,
+  "sentence": "もっと たいりょくを つけたいです。",
+  "question": "たいりょく",
+  "options": [
+    "休力",
+    "体育",
+    "休験",
+    "体力"
+  ],
+  "correct": "体力",
+  "meaning": "Physical strength / Stamina",
+  "translation": "I want to build more physical strength.",
+  "kanjiSlug": "kanji-body-karada"
+},
+{
+  "id": 28,
+  "sentence": "わたしの あねは ぎんこうで はたらいています。",
+  "question": "あね",
+  "options": [
+    "妹",
+    "姉",
+    "兄",
+    "弟"
+  ],
+  "correct": "姉",
+  "meaning": "Older sister",
+  "translation": "My older sister works at a bank.",
+  "kanjiSlug": "kanji-older-sister"
+},
+{
+  "id": 29,
+  "sentence": "かおを あらってから ごはんを 食べます。",
+  "question": "かお",
+  "options": [
+    "頭",
+    "首",
+    "顔",
+    "目"
+  ],
+  "correct": "顔",
+  "meaning": "Face",
+  "translation": "I wash my face before eating.",
+  "kanjiSlug": "kanji-face-kao"
+},
+{
+  "id": 30,
+  "sentence": "きのう ともだちと えいがを みました。",
+  "question": "えいが",
+  "options": [
+    "映画",
+    "映写",
+    "写真",
+    "動画"
+  ],
+  "correct": "映画",
+  "meaning": "Movie",
+  "translation": "I watched a movie with my friend yesterday.",
+  "kanjiSlug": "kanji-reflect-project"
+},
+{
+  "id": 31,
+  "sentence": "しょうがつは かぞくと すごします。",
+  "question": "しょうがつ",
+  "options": [
+    "正月",
+    "新年",
+    "休日",
+    "元日"
+  ],
+  "correct": "正月",
+  "meaning": "New Year",
+  "translation": "I spend New Year's with my family.",
+  "kanjiSlug": "kanji-correct-right"
+},
+{
+  "id": 32,
+  "sentence": "でんきが きえて へやが まっくらに なりました。",
+  "question": "まっくら",
+  "options": [
+    "真っ白",
+    "真っ黒",
+    "真っ暗",
+    "真っ青"
+  ],
+  "correct": "真っ暗",
+  "meaning": "Pitch dark",
+  "translation": "The lights went out, and the room became completely dark.",
+  "kanjiSlug": "kanji-dark-kurai"
+},
+{
+  "id": 33,
+  "sentence": "しょうらいは いしゃに なりたいです。",
+  "question": "いしゃ",
+  "options": [
+    "医者",
+    "病院",
+    "先生",
+    "看護師"
+  ],
+  "correct": "医者",
+  "meaning": "Doctor",
+  "translation": "I want to become a doctor in the future.",
+  "kanjiSlug": "kanji-doctor"
+},
+{
+  "id": 34,
+  "sentence": "ふたりが どうじに はなしはじめました。",
+  "question": "どうじ",
+  "options": [
+    "同時",
+    "同日",
+    "同室",
+    "同校"
+  ],
+  "correct": "同時",
+  "meaning": "At the same time",
+  "translation": "The two people started talking at the same time.",
+  "kanjiSlug": "kanji-same-onaji"
+},
+{
+  "id": 35,
+  "sentence": "しゅうまつに あたらしい ようふくを かいました。",
+  "question": "ようふく",
+  "options": [
+    "和服",
+    "制服",
+    "着物",
+    "洋服"
+  ],
+  "correct": "洋服",
+  "meaning": "Western-style clothes",
+  "translation": "I bought new clothes over the weekend.",
+  "kanjiSlug": "kanji-clothes-fuku"
+},
+{
+  "id": 36,
+  "sentence": "ここは しずかな ばしょですね。",
+  "question": "ばしょ",
+  "options": [
+    "住所",
+    "地図",
+    "場所",
+    "公園"
+  ],
+  "correct": "場所",
+  "meaning": "Place",
+  "translation": "This is a quiet place, isn't it?",
+  "kanjiSlug": "kanji-place-location"
+},
+  {
+    "id": 37,
+    "sentence": "あしたは とくべつな ひ です。",
+    "question": "とくべつ",
+    "options": [
+      "有名",
+      "特別",
+      "大切",
+      "便利"
+    ],
+    "correct": "特別",
+    "meaning": "Special",
+    "translation": "Tomorrow is a special day.",
+    "kanjiSlug": "kanji-special"
+  },
+{
+  "id": 38,
+  "sentence": "この ほんを かして ください。",
+  "question": "かして",
+  "options": [
+    "借して",
+    "返して",
+    "貸して",
+    "送して"
+  ],
+  "correct": "貸して",
+  "meaning": "Lend",
+  "translation": "Please lend me this book.",
+  "kanjiSlug": "kanji-lend-kasu"
+},
+  {
+    "id": 39,
+    "sentence": "この かばんは おもいです。",
+    "question": "おもい",
+    "options": [
+      "軽い",
+      "重い",
+      "長い",
+      "広い"
+    ],
+    "correct": "重い",
+    "meaning": "Heavy",
+    "translation": "This bag is heavy.",
+    "kanjiSlug": "kanji-heavy"
+  },
+{
+  "id": 40,
+  "sentence": "コンサートは ごご 7じに かいしします。",
+  "question": "かいし",
+  "options": [
+    "開会",
+    "始発",
+    "開始",
+    "開店"
+  ],
+  "correct": "開始",
+  "meaning": "Start / Begin",
+  "translation": "The concert starts at 7:00 p.m.",
+  "kanjiSlug": "kanji-begin-start"
+},
+  {
+    "id": 41,
+    "sentence": "この くすりは からだに いいです。",
+    "question": "からだ",
+    "options": [
+      "頭",
+      "体",
+      "心",
+      "顔"
+    ],
+    "correct": "体",
+    "meaning": "Body",
+    "translation": "This medicine is good for your body.",
+    "kanjiSlug": "kanji-body"
+  },
+
+  {
+    "id": 42,
+    "sentence": "あたらしい じゅうしょを おしえてください。",
+    "question": "じゅうしょ",
+    "options": [
+      "場所",
+      "地図",
+      "町",
+      "住所"
+    ],
+    "correct": "住所",
+    "meaning": "Address",
+    "translation": "Please tell me your new address.",
+    "kanjiSlug": "kanji-place-location"
+  },
+{
+  "id": 43,
+  "sentence": "えきの まえに あつまりましょう。",
+  "question": "あつまりましょう",
+  "options": [
+    "止まりましょう",
+    "集まりましょう",
+    "帰りましょう",
+    "歩きましょう"
+  ],
+  "correct": "集まりましょう",
+  "meaning": "Let's gather",
+  "translation": "Let's meet in front of the station.",
+  "kanjiSlug": "kanji-gather-atsumaru"
+},
+  {
+    "id": 44,
+    "sentence": "すべての こくみんには とうひょうする けんりが あります。",
+    "question": "こくみん",
+    "options": [
+      "国民",
+      "国会",
+      "外国",
+      "国立"
+    ],
+    "correct": "国民",
+    "meaning": "Citizen / People of a country",
+    "translation": "All citizens have the right to vote.",
+    "kanjiSlug": "kanji-people-citizens"
+  },
+  {
+    "id": 45,
+    "sentence": "ひるは しょくどうで たべました。",
+    "question": "しょくどう",
+    "options": [
+      "食事",
+      "食店",
+      "食堂",
+      "食屋"
+    ],
+    "correct": "食堂",
+    "meaning": "Cafeteria / Dining hall",
+    "translation": "I ate lunch at the cafeteria.",
+    "kanjiSlug": "kanji-hall-dou"
+  },
+  {
+    "id": 46,
+    "sentence": "らいしゅう しけんが あります。",
+    "question": "しけん",
+    "options": [
+      "実験",
+      "経験",
+      "受験",
+      "試験"
+    ],
+    "correct": "試験",
+    "meaning": "Examination",
+    "translation": "There is an exam next week.",
+    "kanjiSlug": "kanji-test-try"
+  },
+  {
+    "id": 47,
+    "sentence": "その パンは もう うりきれです。",
+    "question": "うりきれ",
+    "options": [
+      "売り場",
+      "買い物",
+      "売り切れ",
+      "切手"
+    ],
+    "correct": "売り切れ",
+    "meaning": "Sold out",
+    "translation": "That bread is already sold out.",
+    "kanjiSlug": "kanji-sell-uru"
+  },
+  {
+    "id": 48,
+    "sentence": "あのかたは わたしの せんせいです。",
+    "question": "かた",
+    "options": [
+      "方",
+      "人",
+      "者",
+      "親"
+    ],
+    "correct": "方",
+    "meaning": "Person (polite)",
+    "translation": "That person is my teacher.",
+    "kanjiSlug": "kanji-direction-way"
+  },
+  {
+    "id": 49,
+    "sentence": "きょうは わたしが かわりに いきます。",
+    "question": "かわり",
+    "options": [
+      "代わり",
+      "変わり",
+      "代金",
+      "交わり"
+    ],
+    "correct": "代わり",
+    "meaning": "Instead / In place of",
+    "translation": "I'll go instead today.",
+    "kanjiSlug": "kanji-generation-dai"
+  },
+{
+  "id": 50,
+  "sentence": "らいねん だいがくを そつぎょうします。",
+  "question": "そつぎょう",
+  "options": [
+    "授業",
+    "卒業",
+    "開業",
+    "営業"
+  ],
+  "correct": "卒業",
+  "meaning": "Graduation",
+  "translation": "I will graduate from university next year.",
+  "kanjiSlug": "kanji-graduate"
+}
+]

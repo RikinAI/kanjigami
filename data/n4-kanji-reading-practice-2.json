@@ -1,0 +1,378 @@
+[
+ {
+  "id": 26,
+  "sentence": "この へやの おんどは とても 低いです。",
+  "question": "低い",
+  "options": [
+    "ひくい",
+    "たかい",
+    "ひく",
+    "てい"
+  ],
+  "correct": "ひくい",
+  "meaning": "Low",
+  "translation": "The temperature in this room is very low.",
+  "kanjiSlug": "kanji-low-hikui"
+},
+  {
+    "id": 27,
+    "sentence": "その シャツは 青いですね。",
+    "question": "青い",
+    "options": [
+      "しろい",
+      "あかい",
+      "あおい",
+      "くろい"
+    ],
+    "correct": "あおい",
+    "meaning": "Blue",
+    "translation": "That shirt is blue.",
+    "kanjiSlug": "kanji-blue-ao"
+  },
+  {
+    "id": 28,
+    "sentence": "きっぷは 自動はんばいきで かえます。",
+    "question": "自動",
+    "options": [
+      "じどう", 
+      "しどう",
+      "じど",
+      "じとう"
+    ],
+    "correct": "じどう",
+    "meaning": "Automatic",
+    "translation": "You can buy tickets from the ticket machine.",
+    "kanjiSlug": "kanji-self-oneself"
+  },
+  {
+    "id": 29,
+    "sentence": "この どうぐは とても 便利です。",
+    "question": "便利",
+    "options": [
+      "べんれい",
+      "べんり",
+      "へんり",
+      "へんれい"
+    ],
+    "correct": "べんり",
+    "meaning": "Convenient",
+    "translation": "This tool is very convenient.",
+    "kanjiSlug": "kanji-convenient"
+  },
+  {
+    "id": 30,
+    "sentence": "まどを 開けてください。",
+    "question": "開けて",
+    "options": [
+      "あけて",
+      "しめて",
+      "ひらけて",
+      "あいて"
+    ],
+    "correct": "あけて",
+    "meaning": "Open",
+    "translation": "Please open the window.",
+    "kanjiSlug": "kanji-open-hiraku"
+  },
+  {
+    "id": 31,
+    "sentence": "この へやは 明るいです。",
+    "question": "明るい",
+    "options": [
+      "くらい",
+      "あかるい",
+      "あつい",
+      "ひろい"
+    ],
+    "correct": "あかるい",
+    "meaning": "Bright",
+    "translation": "This room is bright.",
+    "kanjiSlug": "kanji-bright-akarui"
+  },
+{
+  "id": 32,
+  "sentence": "りゆうを 説明してください。",
+  "question": "説明",
+  "options": [
+    "せつめい",
+    "せっめい",
+    "せいめい",
+    "せつみょう"
+  ],
+  "correct": "せつめい",
+  "meaning": "Explanation",
+  "translation": "Please explain the reason.",
+  "kanjiSlug": "kanji-explain-theory"
+},
+  {
+    "id": 33,
+    "sentence": "この ほんは 有名です。",
+    "question": "有名",
+    "options": [
+      "ゆめい",
+      "ゆうみょう",
+      "ゆうめい",
+      "ゆめ"
+    ],
+    "correct": "ゆうめい",
+    "meaning": "Famous",
+    "translation": "This book is famous.",
+    "kanjiSlug": "kanji-exist-aru"
+  },
+  {
+    "id": 34,
+    "sentence": "わたしも しゃしんに 写っています。",
+    "question": "写っています",
+    "options": [
+    "なおっています",
+    "うつっています",
+    "もどっています",
+    "はいっています"
+    ],
+    "correct": "うつっています",
+    "meaning": "To copy / To photograph",
+    "translation": "I'm in the picture too.",
+    "kanjiSlug": "kanji-copy-photograph"
+  },
+  {
+    "id": 35,
+    "sentence": "しごとは 午後から はじまります。",
+    "question": "午後",
+    "options": [
+      "ごぜん",
+      "ごご",
+      "よる",
+      "ひる"
+    ],
+    "correct": "ごご",
+    "meaning": "Afternoon",
+    "translation": "Work starts in the afternoon.",
+    "kanjiSlug": "kanji-noon"
+  },
+{
+  "id": 36,
+  "sentence": "あしたの しけんが 不安です。",
+  "question": "不安",
+  "options": [
+    "のえん",
+    "みおん",
+    "ふあん",
+    "ふなん"
+  ],
+  "correct": "ふあん",
+  "meaning": "Anxious / Worried",
+  "translation": "I'm worried about tomorrow's exam.",
+  "kanjiSlug": "kanji-not-non"
+},
+  {
+    "id": 37,
+    "sentence": "この にもつは 軽いです。",
+    "question": "軽い",
+    "options": [
+      "おもい",
+      "かるい",
+      "ながい",
+      "ひろい"
+    ],
+    "correct": "かるい",
+    "meaning": "Light (not heavy)",
+    "translation": "This luggage is light.",
+    "kanjiSlug": "kanji-light-weight"
+  },
+
+  {
+    "id": 38,
+    "sentence": "この へやは 広いですね。",
+    "question": "広い",
+    "options": [
+      "せまい",
+      "おおきい",
+      "ながい",
+      "ひろい"
+    ],
+    "correct": "ひろい",
+    "meaning": "Wide / Spacious",
+    "translation": "This room is spacious, isn't it?",
+    "kanjiSlug": "kanji-wide-spacious"
+  },
+{
+  "id": 39,
+  "sentence": "今度 いっしょに えいがを みませんか。",
+  "question": "今度",
+  "options": [
+    "こんど",
+    "こんと",
+    "こんどう",
+    "いまど"
+  ],
+  "correct": "こんど",
+  "meaning": "Next time",
+  "translation": "Would you like to watch a movie together next time?",
+  "kanjiSlug": "kanji-degree-do"
+},
+  {
+    "id": 40,
+    "sentence": "この じは 小さいので よみにくいです。",
+    "question": "小さい",
+    "options": [
+      "ちいさい",
+      "おおきい",
+      "ながい",
+      "やすい"
+    ],
+    "correct": "ちいさい",
+    "meaning": "Small",
+    "translation": "These letters are small, so they're hard to read.",
+    "kanjiSlug": "kanji-small"
+  },
+  {
+    "id": 41,
+    "sentence": "わたしは 写真を とるのが すきです。",
+    "question": "写真",
+    "options": [
+      "しゃじん",
+      "しゃほん",
+      "しゃしん",
+      "しゃせん"
+    ],
+    "correct": "しゃしん",
+    "meaning": "Photograph",
+    "translation": "I like taking photographs.",
+    "kanjiSlug": "kanji-copy-photograph"
+  },
+{
+  "id": 42,
+  "sentence": "もう いちど 教えてください。",
+  "question": "教えて",
+  "options": [
+    "おしえて",
+    "いって",
+    "きいて",
+    "みせて"
+  ],
+  "correct": "おしえて",
+  "meaning": "Teach / Tell",
+  "translation": "Please explain it one more time.",
+  "kanjiSlug": "kanji-teach-oshieru"
+},
+{
+  "id": 43,
+  "sentence": "あしたは 社員と かいぎが あります。",
+  "question": "社員",
+  "options": [
+    "しゃにん",
+    "しゃじん",
+    "しゃえん",
+    "しゃいん"
+  ],
+  "correct": "しゃいん",
+  "meaning": "Employee",
+  "translation": "I have a meeting with the employees tomorrow.",
+  "kanjiSlug": "kanji-employee-member"
+},
+{
+  "id": 44,
+  "sentence": "この 工場では くるまを つくっています。",
+  "question": "工場",
+  "options": [
+    "こうじょ",
+    "こうじょう",
+    "こうしょう",
+    "こうじゅう"
+  ],
+  "correct": "こうじょう",
+  "meaning": "Factory",
+  "translation": "Cars are made at this factory.",
+  "kanjiSlug": "kanji-work-construction"
+},
+  {
+    "id": 45,
+    "sentence": "この かんじは 意味が むずかしいです。",
+    "question": "意味",
+    "options": [
+      "いけ",
+      "いみ",
+      "いあじ",
+      "いも"
+    ],
+    "correct": "いみ",
+    "meaning": "Meaning",
+    "translation": "The meaning of this kanji is difficult.",
+    "kanjiSlug": "kanji-intention-idea"
+  },
+  {
+    "id": 46,
+    "sentence": "きょうは 用事が あります。",
+    "question": "用事",
+    "options": [
+      "ようごと",
+      "ようじ",
+      "ようこと",
+      "ようし"
+    ],
+    "correct": "ようじ",
+    "meaning": "Errand / Something to do",
+    "translation": "I have something to do today.",
+    "kanjiSlug": "kanji-use-purpose"
+  },
+{
+  "id": 47,
+  "sentence": "理由は よく わかりました。",
+  "question": "理由",
+  "options": [
+    "りゆ",
+    "りゅう",
+    "りよう",
+    "りゆう"
+  ],
+  "correct": "りゆう",
+  "meaning": "Reason",
+  "translation": "I understood the reason well.",
+  "kanjiSlug": "kanji-reason-logic"
+},
+  {
+    "id": 48,
+    "sentence": "かぜで 声が でません。",
+    "question": "声",
+    "options": [
+      "こえ",
+      "おと",
+      "こい",
+      "せい"
+    ],
+    "correct": "こえ",
+    "meaning": "Voice",
+    "translation": "I can't speak because of a cold.",
+    "kanjiSlug": "kanji-voice-koe"
+  },
+  {
+    "id": 49,
+    "sentence": "この くすりは 体に いいです。",
+    "question": "体",
+    "options": [
+      "からだ",
+      "たい",
+      "てい",
+      "かた"
+    ],
+    "correct": "からだ",
+    "meaning": "Body",
+    "translation": "This medicine is good for your body.",
+    "kanjiSlug": "kanji-body-karada"
+  },
+  {
+    "id": 50,
+    "sentence": "かれは 親切な ひとです。",
+    "question": "親切",
+    "options": [     
+      "おやきり",
+      "しんきり",
+      "しんせつ",
+      "おやせつ"
+    ],
+    "correct": "しんせつ",
+    "meaning": "Kind",
+    "translation": "He is a kind person.",
+    "kanjiSlug": "kanji-parent"
+  }
+]

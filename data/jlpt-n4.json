@@ -1031,6 +1031,75 @@
   },
 
   {
+  "slug": "kanji-white",
+  "kanji": "白",
+  "meaning": "White",
+  "jlpt": "N5",
+  "strokes": 5,
+
+  "onyomi": "ハク (haku), ビャク (byaku)",
+  "kunyomi": "しろ (shiro), しろい (shiroi)",
+
+  "fact": "🤍 In Japan, white symbolizes purity, honesty, and new beginnings. Shinto shrines often use white paper streamers (shide) and white clothing during ceremonies because the color is believed to ward off impurities and represent a pure heart.",
+
+  "memory": "The kanji 白 looks like a bright ray of light shining onto a blank sheet of paper. Imagine a clean white page glowing in the sunlight—everything is pure white.",
+
+  "words": [
+    {
+      "word": "白い",
+      "reading": "しろい",
+      "romaji": "shiroi",
+      "meaning": "White"
+    },
+    {
+      "word": "白紙",
+      "reading": "はくし",
+      "romaji": "hakushi",
+      "meaning": "Blank paper"
+    },
+    {
+      "word": "面白い",
+      "reading": "おもしろい",
+      "romaji": "omoshiroi",
+      "meaning": "Interesting"
+    },
+    {
+      "word": "白鳥",
+      "reading": "はくちょう",
+      "romaji": "hakuchou",
+      "meaning": "Swan"
+    }
+  ],
+
+  "sentence": {
+    "japanese": "白い いぬが こうえんで あそんでいます。",
+    "reading": "しろい いぬが こうえんで あそんでいます。",
+    "romaji": "Shiroi inu ga kouen de asonde imasu.",
+    "english": "A white dog is playing in the park."
+  },
+
+  "seo": [
+    "white kanji meaning",
+    "how to read 白",
+    "JLPT N5 white kanji",
+    "Japanese kanji for white",
+    "shiro kanji meaning"
+  ],
+
+  "tags": [
+    "color",
+    "nature",
+    "daily-life"
+  ],
+
+  "relatedKanji": [
+    "黒",
+    "赤",
+    "青"
+  ]
+},
+
+  {
     "slug": "kanji-black-kuro",
     "kanji": "黒",
     "meaning": "Black",

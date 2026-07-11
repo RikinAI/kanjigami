@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title:
-    "JLPT N2 Kanji List (367 Kanji) | Meanings, Onyomi, Kunyomi, Interesting Facts, Memory Trick and Examples",
+    "JLPT N2 Kanji List (366 Kanji) | Meanings, Onyomi, Kunyomi, Interesting Facts, Memory Trick and Examples",
 
   description:
-    "Master all 367 JLPT N2 Kanji with meanings, Onyomi, Kunyomi, example words, example sentences, memory tricks, and study tips. Perfect for JLPT N3 preparation.",
+    "Master all 366 JLPT N2 Kanji with meanings, Onyomi, Kunyomi, example words, example sentences, memory tricks, and study tips. Perfect for JLPT N3 preparation.",
 
   alternates: {
     canonical: "/jlpt/n2",

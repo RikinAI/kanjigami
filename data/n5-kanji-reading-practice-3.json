@@ -1,0 +1,380 @@
+[
+  {
+    "id": 51,
+    "sentence": "この みちは 人が おおいですね。",
+    "question": "人",
+    "options": [
+      "おとこ",
+      "ひと",
+      "じん",
+      "こ"
+    ],
+    "correct": "ひと",
+    "meaning": "Person",
+    "translation": "There are a lot of people on this street.",
+    "kanjiSlug": "kanji-person"
+  },
+  {
+    "id": 52,
+    "sentence": "この にもつは 二人で もちます。",
+    "question": "二人",
+    "options": [
+      "ふたり",
+      "にん",
+      "にたり",
+      "ふたつ"
+    ],
+    "correct": "ふたり",
+    "meaning": "Two people",
+    "translation": "This luggage is heavy, so two people will carry it.",
+    "kanjiSlug": "kanji-two"
+  },
+{
+    "id": 53,
+    "sentence": "つぎの かどを 右に まがってください。",
+    "question": "右",
+    "options": [
+      "した",
+      "みぎ",
+      "うえ",
+      "ひだり"
+    ],
+    "correct": "みぎ",
+    "meaning": "Right",
+    "translation": "Please turn right at the next corner.",
+    "kanjiSlug": "kanji-right"
+  },
+  {
+    "id": 54,
+    "sentence": "あの 男は わたしの せんせいです。",
+    "question": "男",
+    "options": [
+      "ひと",
+      "おんな",
+      "こ",
+      "おとこ"
+    ],
+    "correct": "おとこ",
+    "meaning": "Man",
+    "translation": "That man is my teacher.",
+    "kanjiSlug": "kanji-man"
+  },
+  {
+    "id": 55,
+    "sentence": "あの 女は かんごしです。",
+    "question": "女",
+    "options": [
+      "おとこ",
+      "ひと",
+      "おんな",
+      "こ"
+    ],
+    "correct": "おんな",
+    "meaning": "Woman",
+    "translation": "That woman is a nurse.",
+    "kanjiSlug": "kanji-woman"
+  },
+  {
+    "id": 56,
+    "sentence": "子どもが こうえんで あそんでいます。",
+    "question": "子",
+    "options": [
+      "し",
+      "おや",
+      "ひと",
+      "こ"
+    ],
+    "correct": "こ",
+    "meaning": "Child",
+    "translation": "Children are playing in the park.",
+    "kanjiSlug": "kanji-child"
+  },
+  {
+    "id": 57,
+    "sentence": "わたしは にほんごを 学びます。",
+    "question": "学びます",
+    "options": [
+      "まなびます",
+      "ならびます",
+      "おぼえます",
+      "よみます"
+    ],
+    "correct": "まなびます",
+    "meaning": "To learn",
+    "translation": "I learn Japanese.",
+    "kanjiSlug": "kanji-study-learn"
+  },
+  {
+    "id": 58,
+    "sentence": "先に どうぞ。",
+    "question": "先",
+    "options": [
+      "あと",
+      "せん",
+      "さき",
+      "まえ"
+    ],
+    "correct": "さき",
+    "meaning": "Ahead / First",
+    "translation": "Please go ahead.",
+    "kanjiSlug": "kanji-ahead"
+  },
+  {
+    "id": 59,
+    "sentence": "あの ひとは 先生です。",
+    "question": "先生",
+    "options": [
+      "せいせい",
+      "がくせい",
+      "せんしょう",
+      "せんせい"
+    ],
+    "correct": "せんせい",
+    "meaning": "Teacher",
+    "translation": "That person is a teacher.",
+    "kanjiSlug": "kanji-teacher"
+  },
+  {
+    "id": 60,
+    "sentence": "らい年 にほんへ いきたいです。",
+    "question": "年",
+    "options": [
+      "ねん",
+      "とし",
+      "どし",
+      "とき"
+    ],
+    "correct": "ねん",
+    "meaning": "Year",
+    "translation": "I want to go to Japan next year.",
+    "kanjiSlug": "kanji-year"
+  },
+  {
+    "id": 61,
+    "sentence": "この ケーキを 三つ ください。",
+    "question": "三つ",
+    "options": [
+      "みっつ",
+      "ひとつ",
+      "よっつ",
+      "ふたつ"
+    ],
+    "correct": "みっつ",
+    "meaning": "Three (things)",
+    "translation": "Please give me three of these cakes.",
+    "kanjiSlug": "kanji-three"
+  },
+  {
+    "id": 62,
+    "sentence": "おつりは 五百えんです。",
+    "question": "五百",
+    "options": [
+      "ごせん",
+      "ごひゃく",
+      "ごじゅう",
+      "ごまん"
+    ],
+    "correct": "ごひゃく",
+    "meaning": "Five hundred",
+    "translation": "Your change is 500 yen.",
+    "kanjiSlug": "kanji-five"
+  },
+
+  {
+    "id": 63,
+    "sentence": "この りんごを 一つ ください。",
+    "question": "一つ",
+    "options": [
+      "ふたつ",
+      "ひとつ",
+      "みっつ",
+      "よっつ"
+    ],
+    "correct": "ひとつ",
+    "meaning": "One (thing)",
+    "translation": "Please give me one of these apples.",
+    "kanjiSlug": "kanji-one"
+  },
+  {
+    "id": 64,
+    "sentence": "ここに なまえを 書いてください。",
+    "question": "書いて",
+    "options": [
+      "よんで",
+      "きいて",
+      "はなして",
+      "かいて"
+    ],
+    "correct": "かいて",
+    "meaning": "Please write",
+    "translation": "Please write your name here.",
+    "kanjiSlug": "kanji-write"
+  },
+  {
+    "id": 65,
+    "sentence": "でんしゃは 二時に でます。",
+    "question": "二時",
+    "options": [
+      "にじ",
+      "いちじ",
+      "さんじ",
+      "よじ"
+    ],
+    "correct": "にじ",
+    "meaning": "Two o'clock",
+    "translation": "The train leaves at two o'clock.",
+    "kanjiSlug": "kanji-two"
+  },
+  {
+    "id": 66,
+    "sentence": "この へやは 少し さむいです。",
+    "question": "少し",
+    "options": [
+      "おおく",
+      "たくさん",
+      "すこし",
+      "ちょっとも"
+    ],
+    "correct": "すこし",
+    "meaning": "A little",
+    "translation": "This room is a little cold.",
+    "kanjiSlug": "kanji-few-little"
+  },
+  {
+    "id": 67,
+    "sentence": "みちの むこうに 大きい スーパーが あります。",
+    "question": "大きい",
+    "options": [
+      "おおきい",
+      "ちいさい",
+      "ながい",
+      "たかい"
+    ],
+    "correct": "おおきい",
+    "meaning": "Big",
+    "translation": "There is a big supermarket across the street.",
+    "kanjiSlug": "kanji-big"
+  },
+  {
+    "id": 68,
+    "sentence": "この へやは 小さいですが、きれいです。",
+    "question": "小さい",
+    "options": [
+      "おおきい",
+      "ふるい",
+      "ちいさい",
+      "やすい"
+    ],
+    "correct": "ちいさい",
+    "meaning": "Small",
+    "translation": "This room is small, but it's clean.",
+    "kanjiSlug": "kanji-small"
+  },
+
+  {
+    "id": 70,
+    "sentence": "あには とうきょうの 北に すんでいます。",
+    "question": "北",
+    "options": [
+      "みなみ",
+      "にし",
+      "きた",
+      "ひがし"
+    ],
+    "correct": "きた",
+    "meaning": "North",
+    "translation": "My older brother lives north of Tokyo.",
+    "kanjiSlug": "kanji-north"
+  },
+  {
+    "id": 72,
+    "sentence": "まどから 青い そらが みえます。",
+    "question": "青い",
+    "options": [
+      "あおい",
+      "あかい",
+      "くろい",
+      "しろい"
+    ],
+    "correct": "あおい",
+    "meaning": "Blue",
+    "translation": "I can see the blue sky from the window.",
+    "kanjiSlug": "kanji-blue"
+  },
+  {
+    "id": 73,
+    "sentence": "きょうは 空が とても きれいです。",
+    "question": "空",
+    "options": [
+      "くも",
+      "そら",
+      "うみ",
+      "やま"
+    ],
+    "correct": "そら",
+    "meaning": "Sky",
+    "translation": "The sky is very beautiful today.",
+    "kanjiSlug": "kanji-sky"
+  },
+  {
+    "id": 74,
+    "sentence": "あしたは 東へ しゅっちょうです。",
+    "question": "東",
+    "options": [
+      "にし",
+      "きた",
+      "ひがし",
+      "みなみ"
+    ],
+    "correct": "ひがし",
+    "meaning": "East",
+    "translation": "I'm going east on a business trip tomorrow.",
+    "kanjiSlug": "kanji-east"
+  },
+  {
+    "id": 75,
+    "sentence": "この みせは 古いですが、にんきが あります。",
+    "question": "古い",
+    "options": [
+      "ふるい",
+      "あたらしい",
+      "やすい",
+      "たかい"
+    ],
+    "correct": "ふるい",
+    "meaning": "Old",
+    "translation": "This shop is old, but it's popular.",
+    "kanjiSlug": "kanji-old"
+  },
+
+  {
+  "id": 69,
+  "sentence": "きょうは かぜが 強いですね。",
+  "question": "強い",
+  "options": [
+    "よわい",
+    "つよい",
+    "ながい",
+    "おもい"
+  ],
+  "correct": "つよい",
+  "meaning": "Strong",
+  "translation": "The wind is strong today.",
+  "kanjiSlug": "kanji-strong"
+},
+{
+  "id": 71,
+  "sentence": "この にもつは 重いです。",
+  "question": "重い",
+  "options": [
+    "かるい",
+    "ながい",
+    "おもい",
+    "たかい"
+  ],
+  "correct": "おもい",
+  "meaning": "Heavy",
+  "translation": "This luggage is heavy.",
+  "kanjiSlug": "kanji-heavy"
+}
+]
