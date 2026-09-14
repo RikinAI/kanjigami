@@ -1339,7 +1339,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/kanji/kanji-resemble-similar</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-next-following</loc>
+  <loc>https://kanjigami.com/kanji/kanji-next-tsugi</loc>
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-govern-heal</loc>
@@ -2455,7 +2455,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <loc>https://kanjigami.com/kanji/kanji-magazine-record</loc>
 </url>
 <url>
-  <loc>https://kanjigami.com/kanji/kanji-child</loc>
+  <loc>https://kanjigami.com/kanji/kanji-newborn</loc>
 </url>
 <url>
   <loc>https://kanjigami.com/kanji/kanji-moist-humid</loc>
