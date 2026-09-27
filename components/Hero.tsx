@@ -1,10 +1,11 @@
 import Link from "next/link";
 
 import n5 from "../data/jlpt-n5.json";
+import n4 from "../data/jlpt-n4.json";
+import n3 from "../data/jlpt-n3.json";
+import n2 from "../data/jlpt-n2.json";
 
-
-
-const allKanji = [...n5];
+const allKanji = [...n5,...n4,...n3,...n2];
 
 export default function Hero() {
   // India time
